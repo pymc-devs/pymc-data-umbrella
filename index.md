@@ -1,4 +1,7 @@
-# PyMC - Data Umbrella Events
+# PyMC - Data Umbrella Sprint
+
+
+### Pre-Sprint Events
 
 Welcome! Here's a list of the tentative events happening to help you contribute to PyMC!
 
@@ -10,9 +13,10 @@ Welcome! Here's a list of the tentative events happening to help you contribute 
   (10pm UTC, 22 November, 2021)
 - Probabilistic programming with PyMC - TBD
 - Contributing to PyMC documentation with Sphinx - TBD
-- PyMC Sprint (48 hour)
 
 ### Sprint
+
+Total Time: 48 hours
 
 We want to accommodate people from all over the globe, and we know time zones are a pain, so this won’t be a timed sprint, you don’t have to sit at one place and immediately smash your keyboard for 4 hours, we don’t need you to do that, take it easy!!
 
