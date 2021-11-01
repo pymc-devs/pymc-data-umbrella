@@ -16,7 +16,7 @@ Welcome! Here's a list of the tentative events happening to help you contribute 
 
 ### Sprint
 
-Total Time: 48 hours
+Total Time: 24 hours
 
 We want to accommodate people from all over the globe, and we know time zones are a pain, so this won’t be a timed sprint, you don’t have to sit at one place and immediately smash your keyboard for 4 hours, we don’t need you to do that, take it easy!!
 
