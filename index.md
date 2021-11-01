@@ -3,11 +3,11 @@
 Welcome! Here's a list of the tentative events happening to help you contribute to PyMC!
 
 - Getting Started with Python for Data Science - Meenal Jhajharia
-  10pm UTC, 11 November, 2021
+  (10pm UTC, 11 November, 2021)
 - Introduction to Open Source: skills and ethics - Meenal Jhajharia
-  10pm UTC, 16 November, 2021
+  (10pm UTC, 16 November, 2021)
 - Probabilistic programming with PyMC - Austin Rochford
-  10pm UTC, 22 November, 2021
+  (10pm UTC, 22 November, 2021)
 - Probabilistic programming with PyMC - TBD
 - Contributing to PyMC documentation with Sphinx - TBD
 
