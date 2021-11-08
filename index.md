@@ -63,5 +63,6 @@ Goals
 Code of Conduct
 ---------------
 
-[code of conduct](CODE_OF_CONDUCT.md)
+:::{include}   ::: CODE_OF_CONDUCT.md
+
 
