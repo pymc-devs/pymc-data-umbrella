@@ -1,4 +1,5 @@
-# Contributing guide
+Contributing guide
+------------------
 
 To build the website locally, install the requirements
 
