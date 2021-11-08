@@ -1,6 +1,7 @@
 # Sphinx configuration build
 # -- General configuration ------------------------------------------------
 extensions = [
+    "sphinx.ext.napoleon",
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
     "myst_nb",
