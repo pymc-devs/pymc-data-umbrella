@@ -65,9 +65,3 @@ Code of Conduct
 
 [code of conduct](CODE_OF_CONDUCT.md)
 
-Contributing
-------------
-
-[contributing](CONTRIBUTING.md)
-
-
