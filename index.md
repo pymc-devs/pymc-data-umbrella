@@ -63,9 +63,9 @@ Goals
 Code of Conduct
 ---------------
 
-.. include:: CODE_OF_CONDUCT.md
+[code of conduct](CODE_OF_CONDUCT.md)
 
 Contributing
 ------------
 
-.. include:: CONTRIBUTING.md
+[code of conduct](CONTRIBUTING.md)
