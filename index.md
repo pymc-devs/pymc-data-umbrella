@@ -37,7 +37,7 @@ If you merged a few PRs, congratulations!! You deserve a pat!
 It’s okay if you didn’t merge a PR, we’re so excited you took interest in open source. 
 
 
-REQUIREMENTS
+Requirements
 ------------
 
 - working knowledge of some programming language (preferably python, if not, no worries! you can attend a pre main event session to get some familiarity with python, it will be accessible as long as you know at least one language)
@@ -59,3 +59,13 @@ Goals
 
 - Involve more of the community in contributing to PyMC
 - Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
+
+Code of Conduct
+---------------
+
+.. include:: CODE_OF_CONDUCT.md
+
+Contributing
+------------
+
+.. include:: CONTRIBUTING.md
