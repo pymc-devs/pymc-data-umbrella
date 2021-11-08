@@ -60,14 +60,10 @@ Goals
 - Involve more of the community in contributing to PyMC
 - Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
 
-Code of Conduct
----------------
 
 ```{include} CODE_OF_CONDUCT.md
 ```
 
-Contributing
-------------
 
 ```{include} CONTRIBUTING.md
 ```
