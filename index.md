@@ -6,21 +6,6 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 **Note**: [Getting Started with Python for Data Science](getting-started-with-python-for-data-science.md) is happening at 5pm UTC, 11th November.
 
 
-Target Audience
----------------
-
-Current working professionals in data science/software engineering
-People with a statistical background
-Someone who has already contributed to open source
-Students or anyone in the community who is completely new to open source but wants to try!
-
-Goals
------
-
-- Involve more of the community in contributing to PyMC
-- Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
-
-
 Table of events
 --------------
 | Name of Event                                  | Date of Event       | Time of Event | Duration      | Speaker          |
@@ -61,3 +46,16 @@ REQUIREMENTS
 
 - familiarity with basic statistics (i.e. high school / sophomore undergrad level stats courses, you don’t need to know a lot, we’ll explain the basics real quick!)
 
+Target Audience
+---------------
+
+Current working professionals in data science/software engineering
+People with a statistical background
+Someone who has already contributed to open source
+Students or anyone in the community who is completely new to open source but wants to try!
+
+Goals
+-----
+
+- Involve more of the community in contributing to PyMC
+- Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
