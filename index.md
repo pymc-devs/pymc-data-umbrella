@@ -68,4 +68,4 @@ Code of Conduct
 Contributing
 ------------
 
-[code of conduct](CONTRIBUTING.md)
+[contributing](CONTRIBUTING.md)
