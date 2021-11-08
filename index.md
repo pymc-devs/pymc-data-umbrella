@@ -3,10 +3,7 @@ PyMC - Data Umbrella Events
 
 Welcome! Data Umbrella is organizing a couple of workshops/events followed by a sprint to help you contribute to PyMC and OSS in general. You can find all the relevant details here, in case of doubts reach out over [email](mailto:meenal@mjhajharia.com)
 
-Notes
------
-
-[Getting Started with Python for Data Science](getting-started-with-python-for-data-science.md) is happening at 5pm UTC, 11th November.
+**Note**: [Getting Started with Python for Data Science](getting-started-with-python-for-data-science.md) is happening at 5pm UTC, 11th November.
 
 
 Target Audience
