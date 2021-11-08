@@ -15,8 +15,8 @@ Details
 - **Time** 9am PT / 12pm ET / 8pm EAT / 10:30pm IST
 - Talk Level: Beginner
 - Pre-requisites: Working knowledge of any object-oriented programming language would be helpful but not necessary.
-- Preparation: Have latest version of Python installed in Anaconda -> https://docs.anaconda.com/anaconda/install/
-- [Github Repo](https://github.com/mjhajharia/pymc-data-umbrella) - This link will be made public 24 hours before the event begins
+- Preparation: Have latest version of Python installed in [Anaconda](https://docs.anaconda.com/anaconda/install/)
+- [Github Repo](https://github.com/mjhajharia/pymc-data-umbrella) will be made public 24 hours before the event begins
 - Discord Office Hours [link](https://discord.gg/mEzEbYT)
 
 Event
