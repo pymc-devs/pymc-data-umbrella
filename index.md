@@ -1,26 +1,26 @@
-PyMC - Data Umbrella Events
----------------------------
+# PyMC - Data Umbrella Events
 
 Welcome! Data Umbrella is organizing a couple of workshops/events followed by a sprint to help you contribute to PyMC and OSS in general. You can find all the relevant details here, in case of doubts reach out over [email](mailto:meenal@mjhajharia.com)
 
-**Note**: [Getting Started with Python for Data Science](getting-started-with-python-for-data-science.md) is happening at 5pm UTC, 11th November.
+:::{important}
+{ref}`getting_started_ds` is happening at 5pm UTC, 11th November.
+:::
 
 
-Table of events
---------------
-| Name of Event                                  | Date of Event       | Time of Event | Duration      | Speaker          |
-|------------------------------------------------|---------------------|---------------|---------------|------------------|
-| Getting Started with Python for Data Science**  | November 11, 2021   |  5pm UTC      | 60+30 minutes | Meenal Jhajharia |
-| Getting Started with PyMC                      | [TBD] January 2022  | [TBD]         | 45 minutes    | Thomas Wiecki    |
-| Probabilistic programming with PyMC            | [TBD] January 2022  | [TBD]         | 45 minutes    | Austin Rochford  |
-| Contributing to PyMC documentation with Sphinx | [TBD] February 2022 | [TBD]         | 45 minutes    | Oriol Abril      |
-| PyMC Sprint                                    | [TBD] February 2022 | [TBD]         | 24 hours      | PyMC team        |
+## Table of events
+
+| Name of Event                  | Date of Event       | Time of Event | Duration      | Speaker          |
+|--------------------------------|---------------------|---------------|---------------|------------------|
+| {ref}`getting_started_ds` **   | November 11, 2021   |  5pm UTC      | 60+30 minutes | {{ meenal }}     |
+| {ref}`getting_started_pymc`    | [TBD] January 2022  | [TBD]         | 45 minutes    | Thomas Wiecki    |
+| {ref}`probprog_pymc`           | [TBD] January 2022  | [TBD]         | 45 minutes    | Austin Rochford  |
+| {ref}`contributing_docs`       | [TBD] February 2022 | [TBD]         | 45 minutes    | Oriol Abril      |
+| {ref}`sprint`                  | [TBD] February 2022 | [TBD]         | 24 hours      | PyMC team        |
 
  ** Only for people who need additional help with python, but are already familiar with at least one programming language
 
 
-Sprint
-------
+## Sprint
 
 We want to accommodate people from all over the globe, and we know time zones are a pain, so this won’t be a timed sprint, you don’t have to sit at one place and immediately smash your keyboard for 4 hours, we don’t need you to do that, take it easy!!
 
@@ -34,11 +34,10 @@ Once you have some idea of what to do, make a Pull Request, it doesn’t have to
 If you’ve reached till here, go back to step 1, find another issue.
 
 If you merged a few PRs, congratulations!! You deserve a pat!
-It’s okay if you didn’t merge a PR, we’re so excited you took interest in open source. 
+It’s okay if you didn’t merge a PR, we’re so excited you took interest in open source.
 
 
-Requirements
-------------
+### Requirements
 
 - working knowledge of some programming language (preferably python, if not, no worries! you can attend a pre main event session to get some familiarity with python, it will be accessible as long as you know at least one language)
 
@@ -46,16 +45,14 @@ Requirements
 
 - familiarity with basic statistics (i.e. high school / sophomore undergrad level stats courses, you don’t need to know a lot, we’ll explain the basics real quick!)
 
-Target Audience
----------------
+### Target Audience
 
-Current working professionals in data science/software engineering
-People with a statistical background
-Someone who has already contributed to open source
-Students or anyone in the community who is completely new to open source but wants to try!
+* Current working professionals in data science/software engineering
+* People with a statistical background
+* Someone who has already contributed to open source
+* Students or anyone in the community who is completely new to open source but wants to try!
 
-Goals
------
+### Goals
 
 - Involve more of the community in contributing to PyMC
 - Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
@@ -67,3 +64,17 @@ Goals
 
 ```{include} CONTRIBUTING.md
 ```
+
+:::{toctree}
+:maxdepth: 1
+:hidden: true
+
+Python for DS <getting_started_python_for_ds/index>
+PyMC intro <getting_started_pymc/index>
+ProbProg with PyMC <probabilistic_programming_with_pymc/index>
+Contribute to docs <contributing_to_documentation/index>
+sprint/index
+about/index
+contributing/index
+
+:::
