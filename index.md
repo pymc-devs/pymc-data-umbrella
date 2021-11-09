@@ -61,10 +61,6 @@ It’s okay if you didn’t merge a PR, we’re so excited you took interest in 
 ```{include} CODE_OF_CONDUCT.md
 ```
 
-
-```{include} CONTRIBUTING.md
-```
-
 :::{toctree}
 :maxdepth: 1
 :hidden: true
