@@ -91,7 +91,7 @@ html_theme_options = {
         },
     ],
     "use_edit_page_button": True,
-    "search_bar_text": "Search presentation...",
+    "search_bar_text": "Search...",
     "navbar_align": "left",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
 }
