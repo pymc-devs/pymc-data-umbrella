@@ -10,8 +10,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-# templates_path = ["_templates"]
-#
+templates_path = ["_templates"]
 
 # MyST related params
 jupyter_execute_notebooks = "auto"
@@ -20,8 +19,12 @@ myst_enable_extensions = [
     "colon_fence",
     "deflist",
     "dollarmath",
-    "amsmath"
+    "amsmath",
+    "substitution"
 ]
+myst_substitutions = {
+  "meenal": "Meenal Jhajharia"
+}
 
 # use numbered figures
 numfig = True
@@ -88,7 +91,9 @@ html_theme_options = {
         },
     ],
     "use_edit_page_button": True,
-    "search_bar_text": "Search presentation..."
+    "search_bar_text": "Search...",
+    "navbar_align": "left",
+    "footer_items": ["coc_notice", "copyright", "sphinx-version"],
 }
 html_context = {
     "github_user": "pymc-devs",
