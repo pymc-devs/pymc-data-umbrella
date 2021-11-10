@@ -6,7 +6,7 @@
     {{ super() }}
     <script>
     $(document).ready(function () {
-    const content = $('<a href="https://pymc-data-umbrella.xyz/en/wip/banner.html"><img src="https://raw.githubusercontent.com/pymc-devs/sprint-pymc-data-umbrella/wip/banner_cover.png"><\a>')
+    const content = $('<a href="https://pymc-data-umbrella.xyz/en/latest/banner.html"><img src="https://raw.githubusercontent.com/pymc-devs/sprint-pymc-data-umbrella/latest/banner.png" class="responsive"><\a>')
     $('#banner').append(content);
     })
     </script>
@@ -14,3 +14,4 @@
         {{ super() }}
     {% endif %}
 {%- endblock %}
+
