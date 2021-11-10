@@ -78,7 +78,7 @@ html_theme_options = {
         "name": "PyMC", "url": "https://docs.pymc.io/en/v3/"
     },
     {
-            "name": "Data-Umbrella", "url": "https://www.dataumbrella.org"
+        "name": "Data-Umbrella", "url": "https://www.dataumbrella.org"
     },
     ],
     "show_toc_level": 2,
