@@ -1,3 +1,4 @@
+
 # PyMC - Data Umbrella Events
 
 Welcome! Data Umbrella is organizing a couple of workshops/events followed by a sprint to help you contribute to PyMC and OSS in general. You can find all the relevant details here, in case of doubts reach out over [email](mailto:meenal@mjhajharia.com)
@@ -57,20 +58,16 @@ It’s okay if you didn’t merge a PR, we’re so excited you took interest in 
 - Involve more of the community in contributing to PyMC
 - Additionally, letting people know that documentation contributions are part of open source and thereby involving more people in PyMC Documentation work.
 
-
 ```{include} CODE_OF_CONDUCT.md
 ```
 
 :::{toctree}
-:maxdepth: 1
-:hidden: true
+:maxdepth: 2
+:hidden:
 
-Python for DS <getting_started_python_for_ds/index>
-PyMC intro <getting_started_pymc/index>
-ProbProg with PyMC <probabilistic_programming_with_pymc/index>
-Contribute to docs <contributing_to_documentation/index>
-sprint/index
 about/index
+tutorials/index
+sprint/index
 contributing/index
-
+Banner <banner.md>
 :::

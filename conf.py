@@ -73,6 +73,15 @@ html_theme = "pydata_sphinx_theme"
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
+    "external_links": [
+    {
+        "name": "PyMC", "url": "https://docs.pymc.io/en/v3/"
+    },
+    {
+            "name": "Data-Umbrella", "url": "https://www.dataumbrella.org"
+    },
+    ],
+    "show_toc_level": 2,
     "icon_links": [
         {
             "name": "GitHub",
@@ -81,16 +90,18 @@ html_theme_options = {
         },
         {
             "name": "Twitter",
-            "url": "https://twitter.com/pymc-devs",
+            "url": "https://twitter.com/pymc_devs",
             "icon": "fab fa-twitter-square",
         },
         {
             "name": "Discourse",
             "url": "https://discourse.pymc.io",
             "icon": "fab fa-discourse",
-        },
+        }
     ],
     "use_edit_page_button": True,
+    "navbar_start": ["navbar-logo"],
+    "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
     "navbar_align": "left",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
