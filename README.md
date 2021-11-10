@@ -1,2 +1,3 @@
-# sprint-pymc-data-umbrella
-Website and materials for the upcoming pymc sprint 
+# website for upcoming pymc-data-umbrella-events
+
+https://pymc-data-umbrella.xyz/en/latest/
