@@ -2,11 +2,15 @@
 
 <!-- Add banner to all pages! -->
 {%- block scripts_end %}
-{{ super() }}
-<script>
-  $(document).ready(function () {
-    const content = $('<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="eager" style="position: absolute; width: 80%; height: 70%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://github.com/pymc-devs/sprint-pymc-data-umbrella/blob/wip/banner.pdf"</iframe></div>')
+  {% if pagename == 'index' %}
+    {{ super() }}
+    <script>
+    $(document).ready(function () {
+    const content = $('<a href="https://pymc-data-umbrella.xyz/en/wip/banner.html"><img src="https://raw.githubusercontent.com/pymc-devs/sprint-pymc-data-umbrella/wip/banner_cover.png"><\a>')
     $('#banner').append(content);
-  })
-</script>
+    })
+    </script>
+    {% else %}
+        {{ super() }}
+    {% endif %}
 {%- endblock %}

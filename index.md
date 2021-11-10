@@ -69,5 +69,5 @@ about/index
 tutorials/index
 sprint/index
 contributing/index
-
+Banner <banner.md>
 :::
