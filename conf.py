@@ -105,6 +105,7 @@ html_theme_options = {
     "search_bar_text": "Search...",
     "navbar_align": "left",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
+    "google_analytics_id": "G-8YL5S5CGYD"
 }
 html_context = {
     "github_user": "pymc-devs",
