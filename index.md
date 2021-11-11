@@ -65,9 +65,8 @@ It’s okay if you didn’t merge a PR, we’re so excited you took interest in 
 :maxdepth: 2
 :hidden:
 
-about/index
-tutorials/index
+webinars/index
 sprint/index
+about/index
 contributing/index
-Banner <banner.md>
 :::

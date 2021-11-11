@@ -1,3 +1,3 @@
 # Contributing guide
 
-Take a look at https://sprint-pymc-data-umbrella.readthedocs.io/en/latest/
+Take a look at https://pymc-data-umbrella.xyz/en/latest/contributing/index.html
