@@ -15,7 +15,7 @@ This event is a part of a larger series of PyMC - Data Umbrella events, which ar
 - Talk Level: Beginner
 - Pre-requisites: Working knowledge of any object-oriented programming language would be helpful but not necessary.
 - Preparation: Have latest version of Python installed in [Anaconda](https://docs.anaconda.com/anaconda/install/)
-- [Github Repo](https://github.com/mjhajharia/pymc-data-umbrella) will be made public 24 hours before the event begins
+- [Github Repo](https://github.com/pymc-devs/pymc-data-umbrella/tree/main/webinars/getting_started_python_for_ds) will be made public 24 hours before the event begins
 - Discord Office Hours [link](https://discord.gg/mEzEbYT)
 
 ## Event
