@@ -22,7 +22,7 @@ Some outreach related advise:
   domains.
 * Use "events" to refer indisctintively to any event in the series, be it one of the webinars or the
   sprint session.
-* Use "webinars" too refer to the webinars we are hosting in preparation of the sprint. Try
+* Use "webinars" to refer to the webinars we are hosting in preparation of the sprint. Try
   to avoid "tutorials" as it can be confusing with the content of the documentation webinar.
   If you need some alternative to "webinar" consider using "event" or "workshop" before for example.
 
