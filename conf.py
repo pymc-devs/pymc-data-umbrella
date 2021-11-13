@@ -36,6 +36,7 @@ master_doc = "index"
 project = "PyMC-Data Umbrella Sprint"
 copyright = "2021, Sprint contributors"
 author = "Sprint Contributors"
+pymc_url = "https://docs.pymc.io/en/latest/"
 
 version = "0.1"
 # The full version, including alpha/beta/rc tags.
@@ -75,23 +76,18 @@ html_theme = "pydata_sphinx_theme"
 html_theme_options = {
     "external_links": [
     {
-        "name": "PyMC", "url": "https://docs.pymc.io/en/v3/"
+        "name": "PyMC", "url": pymc_url
     },
     {
-        "name": "Data-Umbrella", "url": "https://www.dataumbrella.org"
+        "name": "Data Umbrella", "url": "https://www.dataumbrella.org"
     },
     ],
     "show_toc_level": 2,
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/pymc-devs/sprint-pymc-data-umbrella",
+            "url": "https://github.com/pymc-devs/pymc-data-umbrella",
             "icon": "fab fa-github-square",
-        },
-        {
-            "name": "Twitter",
-            "url": "https://twitter.com/pymc_devs",
-            "icon": "fab fa-twitter-square",
         },
         {
             "name": "Discourse",
@@ -103,13 +99,12 @@ html_theme_options = {
     "navbar_start": ["navbar-logo"],
     "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
-    "navbar_align": "left",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
     "google_analytics_id": "G-8YL5S5CGYD"
 }
 html_context = {
     "github_user": "pymc-devs",
-    "github_repo": "sprint-pymc-data-umbrella",
+    "github_repo": "pymc-data-umbrella",
     "github_version": "main",
     "doc_path": ".",
 }
@@ -135,6 +130,6 @@ html_favicon = "_static/favicon.ico"
 # Example configuration for intersphinx
 intersphinx_mapping = {
     "numpy": ("https://numpy.org/doc/stable/", None),
-    "pymc": ("https://docs.pymc.io/en/latest/", None),
+    "pymc": (pymc_url, None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
