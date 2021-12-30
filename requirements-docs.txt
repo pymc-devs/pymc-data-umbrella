@@ -5,3 +5,5 @@ myst-nb
 sphinx>=3
 sphinx-copybutton
 sphinx-design
+pre-commit
+jupyter-book
