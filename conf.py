@@ -7,6 +7,7 @@ extensions = [
     "myst_nb",
     "sphinx_copybutton",
     "sphinx_design",
+    "sphinx_thebe",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -100,8 +101,17 @@ html_theme_options = {
     "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
-    "google_analytics_id": "G-8YL5S5CGYD"
+    "google_analytics_id": "G-8YL5S5CGYD",
+    "launch_buttons": {
+        "thebe": True,
+        'notebook_interface': 'classic',
+        'binderhub_url': 'https://mybinder.org'
+    },
+    "repository_url": "https://github.com/pymc-devs/pymc-data-umbrella",
+    "repository_branch": "main",
+    "path_to_docs": "",
 }
+
 html_context = {
     "github_user": "pymc-devs",
     "github_repo": "pymc-data-umbrella",

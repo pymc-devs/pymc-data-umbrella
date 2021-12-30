@@ -6,4 +6,4 @@ sphinx>=3
 sphinx-copybutton
 sphinx-design
 pre-commit
-jupyter-book
+sphinx_thebe
