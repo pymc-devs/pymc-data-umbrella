@@ -102,14 +102,6 @@ html_theme_options = {
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
     "google_analytics_id": "G-8YL5S5CGYD",
-    "launch_buttons": {
-        "thebe": True,
-        'notebook_interface': 'classic',
-        'binderhub_url': 'https://mybinder.org'
-    },
-    "repository_url": "https://github.com/pymc-devs/pymc-data-umbrella",
-    "repository_branch": "main",
-    "path_to_docs": "",
 }
 
 html_context = {
