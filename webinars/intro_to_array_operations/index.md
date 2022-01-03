@@ -56,11 +56,7 @@ Here's what you need to begin
 - Working installation of Python3, terminal (Windows or Unix) [Recommended but not necessary because you can execute cells from the website itself]
 - Knowledge of an OOP would be nice to have
 
-<figure style="display: table; margin: 0 auto">
-  <center>
-    <img src="data_types.png" width="850vmin" style="padding: 4vmin 0 0 0">
-  </center>
-</figure>
+![flowchart-describing-python-data-types](data_types.png)
 
 #### Numbers
 
