@@ -3,16 +3,12 @@
 
 Welcome! Data Umbrella is organizing a couple of workshops/events followed by a sprint to help you contribute to PyMC and OSS in general. You can find all the relevant details here, in case of doubts reach out over [email](mailto:meenal@mjhajharia.com)
 
-:::{important}
-{ref}`getting_started_ds` is happening at 5pm UTC, 11th November.
-:::
-
 
 ## Table of events
 
 | Name of Event                  | Date of Event       | Time of Event | Duration      | Speaker          |
 |--------------------------------|---------------------|---------------|---------------|------------------|
-| {ref}`getting_started_ds` **   | November 11, 2021   |  5pm UTC      | 60+30 minutes | {{ meenal }}     |
+| {ref}`array_ops` **   | November 11, 2021   |  5pm UTC      | 60+30 minutes | {{ meenal }}     |
 | {ref}`getting_started_pymc`    | [TBD] January 2022  | [TBD]         | 45 minutes    | Thomas Wiecki    |
 | {ref}`probprog_pymc`           | [TBD] January 2022  | [TBD]         | 45 minutes    | Austin Rochford  |
 | {ref}`contributing_docs`       | [TBD] February 2022 | [TBD]         | 45 minutes    | Oriol Abril      |
