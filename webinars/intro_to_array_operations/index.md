@@ -1,3 +1,4 @@
+(array_ops)=
 # Introduction to array operations in Python
 
 This is a ~40 minute session to introduce you to array manipulation and basics of Python, which will be useful to contribute to computational open source libraries in Python. We have some specific aims in mind:
