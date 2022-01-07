@@ -6,15 +6,8 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 
 ## Table of events
 
-| Name of Event                  | Date of Event       | Time of Event | Duration      | Speaker          |
-|--------------------------------|---------------------|---------------|---------------|------------------|
-| {ref}`array_ops` **   | November 11, 2021   |  5pm UTC      | 60+30 minutes | {{ meenal }}     |
-| {ref}`getting_started_pymc`    | [TBD] January 2022  | [TBD]         | 45 minutes    | Thomas Wiecki    |
-| {ref}`probprog_pymc`           | [TBD] January 2022  | [TBD]         | 45 minutes    | Austin Rochford  |
-| {ref}`contributing_docs`       | [TBD] February 2022 | [TBD]         | 45 minutes    | Oriol Abril      |
-| {ref}`sprint`                  | [TBD] February 2022 | [TBD]         | 24 hours      | PyMC team        |
-
- ** Only for people who need additional help with python, but are already familiar with at least one programming language
+:::{include} webinars/table_of_events.md
+:::
 
 
 ## Sprint
@@ -58,7 +51,7 @@ It’s okay if you didn’t merge a PR, we’re so excited you took interest in 
 ```
 
 :::{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :hidden:
 
 webinars/index

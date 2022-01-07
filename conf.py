@@ -8,6 +8,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_thebe",
+    "sphinxcontrib.youtube"
 ]
 
 thebe_config = {
@@ -58,7 +59,7 @@ language = None
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
 exclude_patterns = [
-    "build", "Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "CONTRIBUTING.md"
+    "build", "Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "CONTRIBUTING.md", "jupyter_execute"
 ]
 
 # The name of the Pygments (syntax highlighting) style to use.
