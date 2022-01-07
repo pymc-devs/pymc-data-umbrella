@@ -10,6 +10,10 @@ extensions = [
     "sphinx_thebe",
 ]
 
+thebe_config = {
+   "selector": "div.highlight-ipython3"
+}
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 
