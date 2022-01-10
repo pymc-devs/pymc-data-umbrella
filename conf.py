@@ -144,5 +144,6 @@ intersphinx_mapping = {
 thebe_config = {
     "always_load": True,
     "repository_url": "https://github.com/pymc-devs/pymc-sandbox",
-    "repository_branch": "sprint"
+    "repository_branch": "sprint",
+    "selector": "div.highlight"
 }
