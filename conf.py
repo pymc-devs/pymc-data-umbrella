@@ -140,3 +140,9 @@ intersphinx_mapping = {
     "pymc": (pymc_url, None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
+
+thebe_config = {
+    "always_load": True,
+    "repository_url": "https://github.com/pymc-devs/pymc-sandbox",
+    "repository_branch": "sprint"
+}
