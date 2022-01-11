@@ -102,6 +102,7 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
+    "page_sidebar_items": ["page-toc", "edit-this-page", "cheatsheet"],
     "navbar_start": ["navbar-logo"],
     "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
@@ -121,6 +122,9 @@ html_context = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_static_path = ["_static"]
+html_css_files = [
+    'custom.css',
+]
 
 # -- Options for HTMLHelp output ------------------------------------------
 

@@ -1,0 +1,9 @@
+.pymc-right-border {
+  border-right: gray;
+  border-right-style: solid;
+  border-right-width: thin;
+}
+
+.supportbutton a {
+ color: var(--pst-color-sidebar-link-active);
+}
