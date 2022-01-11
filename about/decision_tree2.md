@@ -37,7 +37,7 @@ or descriptions of distributions and their parametrizations.
 The bulk of our documentation is written in markdown and Jupyter notebooks,
 so most of the skills you'll use: git/github, stats, technical writing and markdown
 transfer to any other stats related open source project
-{bdg-ref-warning-line}`I understand, jump <stats_join>`
+{bdg-ref-warning-line}`I understand, jump <stats_join2>`
 :::
 
 ::::{dropdown} Do you know what Bayesian statistics is?
@@ -78,7 +78,7 @@ the whole PyMC community (core contributors included) will do their best to help
 
 ---
 
-(stats_join)=
+(stats_join2)=
 * **Interested in contributing to code, to documentation or a bit of both?** {octicon}`heart-filled`
 
 Now you should have all the context necessary to start contributing.

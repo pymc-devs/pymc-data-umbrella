@@ -37,9 +37,7 @@ transfer to any other stats related open source project
 {bdg-ref-warning-line}`I understand, jump <stats_join>`
 :::
 
-* **Do you know what Bayesian statistics is?
-What about probabilistic programming languages?
-And PyMC?**
+## Do you know what Bayesian statistics is? What about probabilistic programming languages? And PyMC?
 
 If you know _about_ this (no need to be an expert) move to the next question,
 otherwise we recommend you open the dropdown and watch the embedded video.
@@ -57,11 +55,11 @@ One of the webinars of the series is about using PyMC which goes in much more de
 :::
 :::::
 
-* **Are you comfortable working with Python and NumPy arrays?**
+## Are you comfortable working with Python and NumPy arrays?
 
 In case you aren't yet, we recommend the first webinar of the series: {ref}`array_ops`.
 
-* **Are you familiar with PyMC?**
+## Are you familiar with PyMC?
 
 In case you aren't yet, we recommend the second webinar of the series: {ref}`probprog_pymc`.
 
@@ -69,7 +67,7 @@ In case you aren't yet, we recommend the second webinar of the series: {ref}`pro
 the whole PyMC community (core contributors included) will do their best to help you out.
 
 (stats_join)=
-* **Interested in contributing to code, to documentation or a bit of both?** {octicon}`heart-filled`
+## Interested in contributing to code, to documentation or a bit of both? {octicon}`heart-filled`
 
 Now you should have all the context necessary to start contributing.
 Let's go watch the webinars preparing you to contribute.
@@ -94,7 +92,7 @@ Watch the webinar {ref}`contributing_to_pymc
   * github account
   * raw text editor
 
-* **Are you familiar with Git and GitHub?**
+## Are you familiar with Git and GitHub?
 
 Git and GitHub (plus {abbr}`CI (Continuous Integration)`)
 often poses a challenge to newcomers to open source.
@@ -107,7 +105,7 @@ with git branches or github PRs.
 
 (optional) Submit getting started PR. TODO: add links
 
-* **Planning to participate from the sprint?**
+## Planning to participate from the sprint?
 
 Join Discord, watch [Discord intro video by DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)
 
