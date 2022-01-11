@@ -65,7 +65,8 @@ In case you aren't yet, we recommend the first webinar of the series: {ref}`arra
 
 In case you aren't yet, we recommend the second webinar of the series: {ref}`probprog_pymc`.
 
-{bdg-danger}`STOP`: Any questions about PyMC so far? Ask them on [PyMC Discourse](https://discourse.pymc.io/)
+{bdg-danger}`STOP`: Any questions about PyMC so far? We encourage you to ask them on [PyMC Discourse](https://discourse.pymc.io/)
+the whole PyMC community (core contributors included) will do their best to help you out.
 
 (stats_join)=
 * **Interested in contributing to code, to documentation or a bit of both?** {octicon}`heart-filled`
@@ -79,6 +80,7 @@ columns, left for docs specific, right for code specific.
 
 ::::{grid} 2
 :::{grid-item}
+:margin: 0 0 0 3
 Watch the webinar {ref}`contributing_docs`
 :::
 :::{grid-item}
@@ -86,7 +88,7 @@ Watch the webinar {ref}`contributing_to_pymc
 :::
 ::::
 
-Set up your contributing environment. TODO: add links
+* Set up your contributing environment. TODO: add links
   * local python (recommended, but optional if you only want to contribute to documentation content)
   * local git (or github desktop)
   * github account
