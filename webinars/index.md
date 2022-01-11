@@ -9,8 +9,8 @@ We will be hosting a series of webinars to help you prepare for the sprint.
 :hidden:
 
 intro_to_array_operations/index
-getting_started_pymc/index
 probabilistic_programming_with_pymc/index
+contributing_to_pymc/index
 contributing_to_documentation/index
 :::
 
@@ -19,8 +19,8 @@ to contributing to PyMC. You should start with the event that best suits
 yourself:
 
 * Non-Python nor PyMC users {fas}`hand-point-right` {ref}`array_ops`
-* Python but not PyMC users {fas}`hand-point-right` {ref}`getting_started_pymc`
-* PyMC users {fas}`hand-point-right` {ref}`probprog_pymc` and/or {ref}`contributing_docs`
+* Python but not PyMC users {fas}`hand-point-right` {ref}`probprog_pymc`
+* PyMC users {fas}`hand-point-right` {ref}`contributing_to_pymc` and/or {ref}`contributing_docs`
 
 And not only that, are you wondering what is PyMC? What is it used for? to decide
 if you'd be interested in learning and contributing to PyMC?

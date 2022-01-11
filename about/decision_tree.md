@@ -37,7 +37,7 @@ transfer to any other stats related open source project
 {bdg-ref-warning-line}`I understand, jump <stats_join>`
 :::
 
-## Do you know what Bayesian statistics is? What about probabilistic programming languages? And PyMC?
+## Do you know what Bayesian statistics is? What about {abbr}`PPLs (Probabilistic Programming Languages)`? And PyMC?
 
 If you know _about_ this (no need to be an expert) move to the next question,
 otherwise we recommend you open the dropdown and watch the embedded video.
@@ -67,7 +67,8 @@ In case you aren't yet, we recommend the second webinar of the series: {ref}`pro
 the whole PyMC community (core contributors included) will do their best to help you out.
 
 (stats_join)=
-## Interested in contributing to code, to documentation or a bit of both? {octicon}`heart-filled`
+## Interested in contributing to code, to documentation or a bit of both?
+Before anything, thanks {octicon}`heart`
 
 Now you should have all the context necessary to start contributing.
 Let's go watch the webinars preparing you to contribute.
@@ -78,11 +79,11 @@ columns, left for docs specific, right for code specific.
 
 ::::{grid} 2
 :::{grid-item}
-:margin: 0 0 0 3
+:class: pymc-right-border
 Watch the webinar {ref}`contributing_docs`
 :::
 :::{grid-item}
-Watch the webinar {ref}`contributing_to_pymc
+Watch the webinar {ref}`contributing_to_pymc`
 :::
 ::::
 

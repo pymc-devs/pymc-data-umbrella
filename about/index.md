@@ -10,7 +10,6 @@ Check out the {ref}`decision_tree`
 :hidden:
 
 decision_tree
-decision_tree2
 :::
 
 ### Banner code and credit
