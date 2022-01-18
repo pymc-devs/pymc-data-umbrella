@@ -40,7 +40,7 @@ Instructions with installation commands for most Linux distributions
 can be found on the [Git project website](https://git-scm.com/download/linux)
 :::
 :::{tab-item} macosx
-:sync: mac
+:sync: macos
 Instructions with installation commands for macosx
 can be found on the [Git project
 website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#_installing_on_macos)
@@ -61,7 +61,7 @@ the libraries you'll need.
 Miniconda installation instructions for linux are available on the [conda website](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 :::
 :::{tab-item} macosx
-:sync: mac
+:sync: macos
 Miniconda installation instructions for macosx are available on the [conda website](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html)
 :::
 :::{tab-item} Windows
@@ -204,6 +204,7 @@ conda env create -f conda-envs/environment-dev-py38.yml
 ```
 :::
 :::{tab-item} Windows
+:sync: windows
 ```
 conda env create -f conda-envs/windows-environment-dev-py38.yml
 ```
