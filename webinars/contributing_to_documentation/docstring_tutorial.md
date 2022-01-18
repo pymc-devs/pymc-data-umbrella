@@ -19,8 +19,9 @@ Here are some things to take into account:
   This will allow you to separate the contribution workflow from the contribution content.
   We will be able to help you out along the process much better if you follow these steps,
   as we'll have a clear idea of where you stand at all times. We believe this will help you
-  get comfortable with the tooling and infrastructure (git, virtual environments, GitHub PRs and {abbr}`CI (Continuous
-  Integration)`) as quickly as possible so you can then focus on the content of your next PRs.
+  get comfortable with the tooling and infrastructure (git, virtual environments, GitHub PRs and
+  {abbr}`CI (Continuous Integration)`) as quickly as possible
+  so you can then focus on the content of your next PRs.
 * **Will I understand the reasons for each step?** No, the goal of this tutorial is to
   teach you to do and through doing.
 :::
