@@ -510,4 +510,6 @@ now see that the PR on GitHub has been updated.
 Your PR will be merged as soon as possible after that and you can now properly
 celebrate your merged PR to PyMC! Thanks for contributing!
 
+:::{div} sd-text-center sd-fs-1
 {fas}`heart;sd-fs-1 sd-text-danger`
+:::
