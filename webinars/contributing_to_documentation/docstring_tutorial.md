@@ -171,7 +171,7 @@ work on `main`.
 :::
 
 :::{admonition} Getting ready for the 2nd PR?
-:class: dropdown, important
+:class: dropdown, attention
 
 If you haven't changed to a different branch, you'll still be in the `docstring_update` one,
 but you don't want to work there! Remember, one branch per PR.
@@ -427,8 +427,8 @@ If some checks fail, there are two options:
   pymc/sampling.py:89:from .aesaraf import change_rv_size, compile_pymc, inputvars, walk_model
   ```
 
-  If some fail has this message then it needs manual input. If the check name
-  you can ask on Discourse sharing this piece copied from your terminal.
+  If some fail has this message then it needs manual input.
+  Ask on Discourse sharing this piece copied from your terminal.
   It needs to include the check name and all fail messages.
 
 ## Upload (push) the changes to GitHub
@@ -508,4 +508,6 @@ The remote and branch name are only needed the first time. After pushing you sho
 now see that the PR on GitHub has been updated.
 
 Your PR will be merged as soon as possible after that and you can now properly
-celebrate your merged PR to PyMC! Thanks for contributing! :fas:`heart`
+celebrate your merged PR to PyMC! Thanks for contributing!
+
+{fas}`heart;sd-fs-1 sd-text-danger`
