@@ -138,16 +138,16 @@ Go to the [PyMC API documentation](https://docs.pymc.io/en/latest/api.html),
 click on the module (and submodule if needed) that calls you the most
 and choose a docstring on which to work.
 
-:::{important}
+:::{note}
 This tutorial follows the process of updating `pymc.Uniform` and pairs
 general comments about updating docstrings with specific comments
 about applying those changes to `pymc.Uniform`.
 
-The docstring is available at the {ref}`sample docstring` page, I updated
+The docstring is available at the {ref}`sample_docstring` page, I updated
 the docstring in PyMC while writing this guide.
 :::
 
-Once you have chosen, go to our [issue tracker (TODO: create issue)](),
+Once you have chosen, go to our [issue tracker (TODO: create issue)](https://github.com/pymc-devs/pymc/issues),
 check nobody is already working on it and comment that you are going to update it.
 
 :::{important}
@@ -184,7 +184,6 @@ git fetch upstream
 git rebase upstream/main
 git checkout -b branch_for_2nd_pr
 ```
-
 :::
 
 
@@ -208,6 +207,7 @@ conda env create -f conda-envs/environment-dev-py38.yml
 conda env create -f conda-envs/windows-environment-dev-py38.yml
 ```
 :::
+::::
 
 This command can also take a while, but should start writing output
 immediately. If it finishes successfully, the last lines printed will
@@ -291,7 +291,8 @@ following [numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html#secti
 convention. We have some extra conventions on top of that, which I have explained here but they are
 only relevant for some sections, most of the time you'll follow numpydoc directly.
 
-Open the [numpydoc style guide]() side by side or in a different window.
+Open the [numpydoc style guide](https://numpydoc.readthedocs.io/en/latest/format.html#sections)
+side by side or in a different window.
 I am updating the docstring of {ref}`pymc.Uniform <sample_docstring>` as an example.
 
 Here is what I see having both side by side, using the Atom editor:
@@ -400,33 +401,33 @@ No relative imports......................................................Passed
 
 If some checks fail, there are two options:
 
-  * pre-commit is able to fix the file
-    ```none
-    isort....................................................................Failed
-    - hook id: isort
-    - files were modified by this hook
+* pre-commit is able to fix the file
+  ```none
+  isort....................................................................Failed
+  - hook id: isort
+  - files were modified by this hook
 
-    Fixing /home/oriol/Documents/pymc/pymc/sampling.py
-    ```
+  Fixing /home/oriol/Documents/pymc/pymc/sampling.py
+  ```
 
-    If this is the case for all fails, you only need to run the same command
-    again, and now checks will pass:
+  If this is the case for all fails, you only need to run the same command
+  again, and now checks will pass:
 
-    ```bash
-    git commit -a -m "Updated pymc.Uniform docstring"
-    ```
-  * pre-commit is not able to fix the file
-    ```none
-    No relative imports......................................................Failed
-    - hook id: no-relative-imports
-    - exit code: 1
+  ```bash
+  git commit -a -m "Updated pymc.Uniform docstring"
+  ```
+* pre-commit is not able to fix the file
+  ```none
+  No relative imports......................................................Failed
+  - hook id: no-relative-imports
+  - exit code: 1
 
-    pymc/sampling.py:89:from .aesaraf import change_rv_size, compile_pymc, inputvars, walk_model
+  pymc/sampling.py:89:from .aesaraf import change_rv_size, compile_pymc, inputvars, walk_model
+  ```
 
-    ```
-    If some fail has this message then it needs manual input. If the check name
-    you can ask on Discourse sharing this piece copied from your terminal.
-    It needs to include the check name and all fail messages.
+  If some fail has this message then it needs manual input. If the check name
+  you can ask on Discourse sharing this piece copied from your terminal.
+  It needs to include the check name and all fail messages.
 
 ## Upload (push) the changes to GitHub
 Then push the changes to your GitHub account with:
