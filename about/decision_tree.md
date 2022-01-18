@@ -87,24 +87,13 @@ Watch the webinar {ref}`contributing_to_pymc`
 :::
 ::::
 
-* Set up your contributing environment. TODO: add links
-  * local python (recommended, but optional if you only want to contribute to documentation content)
-  * local git (or github desktop)
-  * github account
-  * raw text editor
-
-## Are you familiar with Git and GitHub?
-
-Git and GitHub (plus {abbr}`CI (Continuous Integration)`)
-often poses a challenge to newcomers to open source.
-To avoid Git and GitHub to pile up and get in the way of contributing
-to PyMC, we recommend to start with a getting started PR following
-the step by step we provide. We believe by doing this you'll
-quickly become comfortable with git and github and will be
-able to focus on actual PyMC contributions instead of strugging
-with git branches or github PRs.
-
-(optional) Submit getting started PR. TODO: add links
+## Have you already contributed to PyMC?
+If you haven't, we recommend reading this tutorial: {ref}`docstring_tutorial`.
+It covers all the steps from zero to submitting a pull request improving
+a docstring. We belive this will help you become familiar with
+Git, GitHub, and the whole contributing process quickly so you can then
+focus on the content of your contributions, not struggle with the
+tooling.
 
 ## Planning to participate from the sprint?
 
