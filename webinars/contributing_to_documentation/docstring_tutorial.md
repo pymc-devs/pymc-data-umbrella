@@ -279,7 +279,7 @@ of the call signature.
 
 Now take a look at the url. Here is what it shows for {class}`pymc.Uniform`:
 
-```
+```none
 https://docs.pymc.io/en/latest/_modules/pymc/distributions/continuous.html#Uniform
 ```
 
@@ -470,6 +470,7 @@ Before clicking on the "Create pull request" button, check a couple things.
   already be as it defaults to the commit message.
 * Edit the description. You can remove all the points in the checklist except the
   one about the release notes. Then add a link to the issue you commented on.
+* If you have taken any notes while updating the docstring add them to the PR description.
 * Make sure the "Allow edits and access to secrets by maintainers" button is checked
   (it generally is checked by default)
 
