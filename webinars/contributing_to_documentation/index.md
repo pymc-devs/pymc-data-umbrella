@@ -11,5 +11,5 @@ We have already started creating the material. If you want a to get started alre
 see
 
 :::{toctree}
-docstring_tutorial.md
+docstring_tutorial
 :::
