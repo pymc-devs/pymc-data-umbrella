@@ -7,9 +7,11 @@
 ## Sprint Schedule
 
 - 19:00 - 21:00 UTC, 18th February
+
   Mentors: Meenal, Sayam, Thomas
   
 - 10:00 - 12:00 UTC, 19th February
+
   Mentors: Meenal, Oriol, Ricardo
 
 
