@@ -1,9 +1,6 @@
 (sprint)=
 # Sprint
 
-:::{caution} Page in construction
-:::
-
 ## Sprint Schedule
 
 - 19:00 - 21:00 UTC, 18th February
@@ -15,5 +12,15 @@
   Mentors: Meenal, Oriol, Ricardo
 
 
-This page will contain the description, schedule and material for the upcoming sprint event. Take a
-look at the other sections of this website (see navbar above) to get ready for it!
+## Sprint material
+Below you
+can already see the guide to your first contribution.
+You should make sure to have all the programs in the prereqs section available on your computer
+_before the sprint_. Ask on Discord if you have any doubt or issue setting the prereqs up.
+
+
+:::{toctree}
+:maxdepth: 1
+
+docstring_tutorial
+:::

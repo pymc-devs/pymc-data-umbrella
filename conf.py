@@ -142,7 +142,10 @@ html_favicon = "_static/favicon.ico"
 intersphinx_mapping = {
     "numpy": ("https://numpy.org/doc/stable/", None),
     "pymc": (pymc_url, None),
+    "nb": ("https://docs.pymc.io/projects/examples/en/latest/", None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
+    "myst": ("https://myst-parser.readthedocs.io/en/latest", None),
+    "myst-nb": ("https://myst-nb.readthedocs.io/en/latest", None),
 }
 
 thebe_config = {
