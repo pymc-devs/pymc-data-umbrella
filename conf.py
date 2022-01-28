@@ -125,6 +125,9 @@ html_static_path = ["_static"]
 html_css_files = [
     'custom.css',
 ]
+html_additional_pages = {
+    "webinars/contributing_to_pymc/slides": "slides.html"
+}
 
 # -- Options for HTMLHelp output ------------------------------------------
 
