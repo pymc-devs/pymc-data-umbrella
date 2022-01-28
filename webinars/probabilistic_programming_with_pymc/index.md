@@ -27,7 +27,8 @@ Austin Rochford is the Chief Data Scientist at Kibo Commerce. He is a recovering
 
 ## Video
 
-[to be uploaded]
+:::{youtube} Qu6-_AnRCs8
+:::
 
 :::{toctree}
 :hidden:
