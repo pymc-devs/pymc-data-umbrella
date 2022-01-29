@@ -9,11 +9,6 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 :::{include} webinars/table_of_events.md
 :::
 
-## Updates
-
-.. raw:: html
-   :file: form.html
-
 ## Sprint
 
 We want to accommodate people from all over the globe, and we know time zones are a pain, so this won’t be a timed sprint, you don’t have to sit at one place and immediately smash your keyboard for 4 hours, we don’t need you to do that, take it easy!!
