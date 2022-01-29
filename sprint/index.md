@@ -9,10 +9,9 @@
   
   Mentors: Meenal, Sayam, Thomas
   
-- 2-4pm (UTC +4), 19th February
+- 11-1pm (CET) | 3:30-5:30pm (IST) | 1-3pm (EAT), 19th February
   
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
-  The time on this meetup event will be updated soon don't worry about that, the correct time is 11-1pm (CET) | 3:30-5:30pm (IST) | 1-3pm (EAT)
 
   Mentors: Meenal, Oriol, Ricardo
 
