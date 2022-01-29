@@ -8,7 +8,7 @@ From first time contributor to project maintainer. What is it like? In this test
 
 - Audience: People who are interested in contributing to Open source
 - [Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)
-- All the content is available on this website. {download}`Download the slides <slides.pdf>`
+- You can find the slides for the talk [here](https://pymc-data-umbrella.xyz/contributing_to_pymc_slides.pdf)
 
 
 ## Speaker
