@@ -5,9 +5,13 @@
 
 - 19:00 - 21:00 UTC, 18th February
 
+  [Register here](https://www.meetup.com/data-umbrella/events/283178769/)
+  
   Mentors: Meenal, Sayam, Thomas
   
 - 10:00 - 12:00 UTC, 19th February
+  
+  [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
 
   Mentors: Meenal, Oriol, Ricardo
 
