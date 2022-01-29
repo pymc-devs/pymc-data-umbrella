@@ -16,4 +16,5 @@ Ricardo is a PyMC developer and data scientist at PyMC-Labs. He spent several ye
 
 ## Video
 
-[will be posted soon]
+:::{youtube} Iq0dY5hU4D4
+:::
