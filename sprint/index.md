@@ -12,7 +12,7 @@
 - 2-4pm (UTC +4), 19th February
   
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
-  The time on this meetup event will be updated soon, the correct time is 3:30-5:30pm IST | 1-3pm EAT
+  The time on this meetup event will be updated soon, the correct time is 11-1pm (CET) | 3:30-5:30pm (IST) | 1-3pm (EAT)
 
   Mentors: Meenal, Oriol, Ricardo
 
