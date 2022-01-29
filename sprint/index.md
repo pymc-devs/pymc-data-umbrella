@@ -3,15 +3,16 @@
 
 ## Sprint Schedule
 
-- 19:00 - 21:00 UTC, 18th February
+- 2-4pm (ET), 18th February
 
   [Register here](https://www.meetup.com/data-umbrella/events/283178769/)
   
   Mentors: Meenal, Sayam, Thomas
   
-- 10:00 - 12:00 UTC, 19th February
+- 2-4pm (UTC +4), 19th February
   
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
+  The time on this meetup event will be updated soon, the correct time is 3:30-5:30pm IST | 1-3pm EAT
 
   Mentors: Meenal, Oriol, Ricardo
 
