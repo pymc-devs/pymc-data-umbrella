@@ -9,6 +9,9 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 :::{include} webinars/table_of_events.md
 :::
 
+## Updates
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeo1Hlbd55IZCPCloPPn6qJWt3sDm25vcWXMptHgFDNjB6UvA/viewform?embedded=true" width="640" height="502" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Sprint
 
