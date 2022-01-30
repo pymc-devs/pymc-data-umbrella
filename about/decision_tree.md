@@ -1,5 +1,5 @@
 (decision_tree)=
-### Your sprint cheat sheet
+# Your sprint cheat sheet
 Welcome to this PyMC & Data Umbrella sprint to help you get
 started contributing to PyMC.
 
