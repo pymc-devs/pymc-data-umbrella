@@ -7,7 +7,5 @@ This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/mai
 ## About PyMC and Data Umbrella
 See [PyMC about page](https://docs.pymc.io/en/latest/about.html) and [Data Umbrella website](https://www.dataumbrella.org/)
 
-## About this series of events
-
 ```{include} decision_tree.md
 ```
