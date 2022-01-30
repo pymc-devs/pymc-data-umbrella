@@ -2,12 +2,9 @@
 # Contributing to PyMC Documentation
 
 ## Event
-The best library of the world is completely useless if it is not properly documented
-as therefore nobody can really use it. PyMC has an extensive documentation corpus
-with examples of all kinds which has been build since its initial release
-_back in 2015!_ In this webinar we'll explain how to contribute to PyMC documentation
-to update it to our new infrastructure built during the last 8 months
-thanks to Outreachy and GSoD.
+The best software libraries of the world are severely restrictive and inaccessible if they are not properly documented, resulting in few or no users. PyMC has an extensive documentation corpus with examples of all kinds which has been built since its initial release back in 2015! In this webinar we’ll explain how to contribute to PyMC documentation to update it to our new infrastructure built during the last 8 months thanks to Outreachy and GSoD (Google Season of Docs).
+
+You'll learn how to use MyST (a superset of Markdown) to write technical documentation, using multiple types of cross-references, adding beautiful styling elements, figures with captions... all while using executable Jupyter notebooks!
 
 ## Details
 
@@ -27,8 +24,15 @@ Go to the webinar notebook!
 :::
 ::::
 
+## Pre-reqs
+Being comfortable writing and formatting with markdown is necessary, being familiar with Jupyter is strongly recommended.
+
 ## Speaker
-Martina Cantaro is a PyMC contributor leading the documentation team.
+Oriol is a Bayesian statistics and open source software enthusiast currently pursuing a PhD in Computer Science at Helsinki University. He is also a member of the ArviZ and PyMC teams.
+
+LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/
+Twitter: https://twitter.com/OriolAbril
+GitHub: https://github.com/OriolAbril
 
 ## Video
 [to be uploaded]
