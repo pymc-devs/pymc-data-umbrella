@@ -9,28 +9,28 @@ This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/mai
 <table><tr>
 <td> 
   <p align="center" style="padding: 20px">
-    <img alt="Forwarding" src="../_static/reshama.JPG" width="515">
+    <img alt="Reshama Shaikh" src="../_static/reshama.jpg" width="515">
     <br>
     <em style="color: grey"> <a href="https://reshamas.github.io">Reshama Shaikh</a></em>
   </p> 
 </td>
 <td> 
   <p align="center" style="padding: 20px">
-    <img alt="Routing" src="../_static/beryl.JPG" width="515">
+    <img alt="Beryl Kanali" src="../_static/beryl.JPG" width="515">
     <br>
     <em style="color: grey"><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fberyl-kanali-260567185%2F&sa=D&sntz=1&usg=AFQjCNFmvt_tUl9z7j_ArBuTgG0yyd_1qA">Beryl Kanali</a></em>
   </p> 
 </td>
 <td> 
   <p align="center" style="padding: 20px">
-    <img alt="Routing" src="../_static/oriol.JPG" width="515">
+    <img alt="Oriol Abril Pla" src="../_static/oriol.jpg" width="515">
     <br>
     <em style="color: grey"><a href="https://oriolabril.github.io/oriol_unraveled/">Oriol Abril Pla</a></em>
   </p> 
 </td>
 <td> 
   <p align="center" style="padding: 20px">
-    <img alt="Routing" src="../_static/meenal.JPG" width="515">
+    <img alt="Meenal Jhajharia" src="../_static/meenal.jpg" width="515">
     <br>
     <em style="color: grey"><a href="https://mjhajharia.com">Meenal Jhajharia</a></em>
   </p> 
