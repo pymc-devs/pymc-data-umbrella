@@ -26,7 +26,8 @@ myst_enable_extensions = [
     "deflist",
     "dollarmath",
     "amsmath",
-    "substitution"
+    "substitution",
+    "html_image"
 ]
 myst_substitutions = {
   "meenal": "Meenal Jhajharia"
