@@ -154,3 +154,4 @@ thebe_config = {
     "repository_branch": "sprint",
     "selector": "div.highlight"
 }
+html_extra_path = ["_html"]
