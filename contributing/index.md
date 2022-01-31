@@ -13,6 +13,10 @@ and then run sphinx:
 ## ...with outreach
 Share the announcements on social networks, within your personal networks...
 
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=https://pymc-data-umbrella.xyz">
+Create Tweet</a>
+
 Some outreach related advise:
 * Always use [https://pymc-data-umbrella.xyz](https://pymc-data-umbrella.xyz) when linking
   to the general series of events, use links within this domain for specific links to single
