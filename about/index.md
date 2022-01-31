@@ -1,9 +1,14 @@
 (about)=
 # About
 
+:::{tip}
+Wondering if the sprint is for you? We have got just the page: {ref}`decision_tree`
+:::
+
 ## Banner code and credit
 This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/banner.png) is generated from [this code](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/banner.py), the code in this link is a trivial customization of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-pages/assets/make_trajectories.py) by [Colin Caroll](https://colindcarroll.com) who designed a [similar banner for pymcon'20](https://pymcon.com/), Colin is amazing at visualization stuff and even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) about it!!
 
+(organizers)=
 ## Organizers
 
 ::::{grid} 2 2 4 4

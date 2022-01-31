@@ -77,14 +77,29 @@ Our wishlist:
   - The 2 last sections with license info and citation are generated from a centralized source,
     with only 2 lines needed per notebook
 
-A sample pymc-examples page: {ref}`nb:GLM-model-selection`.
+To sum up, thanks to the work of several amazing people and the funds we raised
+during [PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and {abbr}`GSoD (Google Season of Docs)`
+we have changed most of our documentation infrastructure in the last 9 months.
+
+You can see a huge change already:
+
+::::{grid} 1 2 2 2
+
+:::{grid-item-card}
+:img-background: new.png
+:link: https://docs.pymc.io/projects/examples/en/2022.01.0/generalized_linear_models/GLM-model-selection.html
+:::
+
+:::{grid-item-card}
+:img-background: old.png
+:link: https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-model-selection.html
+:::
+::::
 
 ## The problem: too much docs?
 Our **infrastructure** supports all of the points above, but only a handful of notebooks
 have been updated to take advantage of them. So while we _could_ have all that, we
 are still far from there!
-
-
 
 ## MyST: Markedly Structured Text
 As we have just said, we have already configured the infrastructure for all the points above,
@@ -121,7 +136,7 @@ Like Jupyter notebooks, MyST supports using `$` for inline latex math expression
 and `$$` for block expressions. Moreover, block mathematical expressions
 can be given ids in order to reference them elsewhere using roles. Thus:
 
-```
+```markdown
 $$
 P(\theta|y) \propto P(y|\theta) P(\theta)
 $$ (eq:bayes)
@@ -203,7 +218,7 @@ safely for links to python objects, and we have done. The import path is already
 Directives provide a way to specify arbitrary **block/paragraph** features.
 They are much more diverse and flexible than roles. Their base syntax is:
 
-```
+```markdown
 :::{directivename} main-argument
 :kwarg1: value
 :kwarg2: value
@@ -221,7 +236,7 @@ MyST provides a `figure-md` directive where we can add images with an id and a c
 that gets rendered both in pure markdown (unrendered notebook) and in the website
 (where it looks nicer).
 
-```
+```markdown
 :::{figure-md} imposter
 
 ![imposter syndrome](imposter.jpg)
@@ -252,14 +267,14 @@ time contributors and progressively ended up covering more and more, just like t
 yellow circles in the right diagram.
 
 It is also a wink to [Melissa's talk about sphinx](https://www.youtube.com/watch?v=tXWscUSYdBs)
-which you should look if you are interested in _setting sphinx up for your project_.
+which you should look if you are interested in setting sphinx up for your project.
 
 #### Admonitions
 Admonitions provide a way to highlight a block of content with special relevance.
 You can use it for warnings, tips or notes. The complete list
 of admonition styles are available at the [jupyterbook website](https://jupyterbook.org/reference/cheatsheet.html#admonitions)
 
-```
+```markdown
 :::{tip}
 Here is an awesome tip if you use this example
 :::

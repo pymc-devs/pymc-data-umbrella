@@ -4,9 +4,13 @@
 
 The team at PyMC is organizing an open source sprint in collaboration with Data Umbrella, an organization for underrepresented persons in data science. This sprint will take place in two slots of two hours each to accommodate as many time zones as we can. If you’re a prospective participant do know that there will be at least two members of the PyMC team present throughout the sprint on discord and zoom to help you out. Additionally, there’s a ton of resources to help you get started and prepare beforehand other than the webinars we're conducting, you can find them here:
 
+:::{tip}
+Wondering if the sprint is for you? We have got just the page: {ref}`decision_tree`
+:::
+
 ## Sprint - Resources
 
-- [PyMC - Data Umbrella series content and videos](https://pymc-data-umbrella.xyz/en/latest/webinars/index.html)
+- [PyMC - Data Umbrella series content and videos](https://pymc-data-umbrella.xyz/en/latest/webinars/index.html) (all webinar materials have been uploaded to this website, videos are embedded too so you have everything just a click away)
 
 - [Sprint Cheat Sheet](https://pymc-data-umbrella.xyz/en/latest/about/decision_tree.html#your-sprint-cheat-sheet)
 
@@ -34,30 +38,54 @@ Here’s the fun part, we’ll be giving away stickers, mugs and the Bayesian Co
   - Note: [Check the sprint cheat sheet](https://pymc-data-umbrella.xyz/en/latest/about/decision_tree.html#your-sprint-cheat-sheet) to know a suitable area of contribution and some resources to prepare you for it
 
 ## Sprint - Target Audience
+The following table answers the question **"This sprint is for someone who is/has ..."**
 
-- Current working professionals in data science/software engineering
-- People with a statistical background
-- Someone who has already contributed to open source
-- Students or anyone in the community who is completely new to open source but wants to try!
+:::{list-table}
+:header-rows: 1
+:stub-columns: 1
+:widths: 7 1 1
+
+* -
+  - Yes
+  - No
+* - New to Open source
+  - {fas}`check;sd-text-success`
+  - {fas}`check;sd-text-success`
+* - Statistical background
+  - {fas}`check;sd-text-success`
+  - {fas}`check;sd-text-success`
+* - Currently working in data science/software
+  - {fas}`check;sd-text-success`
+  - {fas}`check;sd-text-success`
+* - Knows/uses PyMC
+  - {fas}`check;sd-text-success`
+  - {fas}`check;sd-text-success`
+* - Member of the PyMC team
+  - {fas}`times;sd-text-danger`
+  - {fas}`check;sd-text-success`
+:::
+
+Read the {ref}`decision_tree` for more detailed answers and to see
+what types of contributions can you make depending on your interests and
+background.
 
 ## Sprint Schedule
 
 - 2-4pm (ET), 18th February
 
   [Register here](https://www.meetup.com/data-umbrella/events/283178769/)
-  
+
   Mentors: Meenal, Sayam, Thomas
-  
+
 - 11-1pm (CET) | 3:30-5:30pm (IST) | 1-3pm (EAT), 19th February
-  
+
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
 
   Mentors: Meenal, Oriol, Ricardo
 
 ## Sprint Guide
 
-Below you
-can already see the guide to your first contribution.
+Below you can already see the guide to your first contribution.
 You should make sure to have all the programs in the prereqs section available on your computer
 _before the sprint_. Ask on Discord if you have any doubt or issue setting the prereqs up.
 

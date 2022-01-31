@@ -26,10 +26,23 @@ Here are some things to take into account:
   teach you to do and through doing.
 :::
 
+If you prefer video to written content you can watch {ref}`Reshama <organizers>`
+go over this guide and submit a PR to PyMC in the following video:
+
+:::{youtube} 4rK8Le9LEAY
+:::
+
 ## Pre-requisites
 
 ### GitHub account
 To contribute you'll need a GitHub account. You can create one from [this link](https://github.com/join)
+
+::::{sidebar} New to Git and GitHub?
+We have tried to cover all the steps and include both input and output, to make
+sure you can follow this tutorial without knowing Git.
+However, if you want to learn about Git and understand what is going on,
+we recommend [this dataschool tutorial](https://www.dataschool.io/how-to-contribute-on-github/)
+::::
 
 ### Install Git
 
@@ -261,6 +274,7 @@ Then activate `pre-commit`. It will help auto formatting the code for you.
 
 ```bash
 pip install pre-commit
+pre-commit install
 ```
 on success will show
 ```none
@@ -474,6 +488,13 @@ Before clicking on the "Create pull request" button, check a couple things.
 * Make sure the "Allow edits and access to secrets by maintainers" button is checked
   (it generally is checked by default)
 
+You might also see a link to the `CONTRIBUTING.md` file. You don't need to read it yet,
+this guide includes everything in the contributing guide that is relevant to this
+type of contribution. If your second PR is also on the pymc repo, they you
+should read the `CONTRIBUTING.md` guide there. However, if your second PR is
+to the pymc-examples repo instead, you have to read its (slightly different)
+`CONTRIBUTING.md`.
+
 Click on "Create pull request" and celebrate for a bit 🎉, but the work is not finished.
 
 ## Get ready for reviews
@@ -487,15 +508,12 @@ a bad sign. We don't expect you to know everything on the first try, and
 also, there might be further improvements like adding some `See Also` references
 that require a lot of familiarity with the code base.
 
-In fact, even if you don't get any further reviews, you'll still need to add
-a 2nd commit to the PR. After addressing the comments (or lack of them but having
-a comment from a maintainer on the PR), go back to your local copy of the
-repo and modify the files that need to be updated (at least `RELEASE-NOTES.md`).
-
-Then commit again (same command but different message):
+If you need to address some comments, you will have to modify your local copy of
+the files (still on the same branch).
+Once you are finished, commit again (same command but different message):
 
 ```bash
-git commit -a -m "update release notes"
+git commit -a -m "address review comments"
 ```
 
 Now you can push with:
@@ -505,7 +523,7 @@ git push
 ```
 
 The remote and branch name are only needed the first time. After pushing you should
-now see that the PR on GitHub has been updated.
+see that the PR on GitHub has been updated.
 
 Your PR will be merged as soon as possible after that and you can now properly
 celebrate your merged PR to PyMC! Thanks for contributing!

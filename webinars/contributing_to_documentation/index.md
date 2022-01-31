@@ -20,7 +20,7 @@ You'll learn how to use MyST (a superset of Markdown) to write technical documen
 :ref-type: ref
 :class: sd-fs-5
 
-Go to the webinar notebook!
+Go to the webinar material!
 :::
 ::::
 
