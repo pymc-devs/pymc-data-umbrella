@@ -1,9 +1,9 @@
 | Name of Event                 | Date of Event        | Time of Event | Duration      | Speaker           |  Registration form  |
 |-------------------------------|----------------------|---------------|---------------|-------------------|---------------------|
-| {ref}`array_ops` **           | November 11, 2021    |  5pm UTC      | 60+30 minutes | {{ meenal }}      |          -          |
-| {ref}`probprog_pymc`          | January 11, 2022     |  5pm UTC      | 45 minutes    | Austin Rochford   |          -          |
-| {ref}`contributing_to_pymc`   | January 28, 2022     |  5pm UTC      | 45 minutes    | Ricardo Vieira    |          -          |
-| {ref}`contributing_docs`      | February 8, 2022     |  5pm UTC      | 45 minutes    | Oriol Abril       | [meetup event](https://www.meetup.com/data-umbrella-africa2/events/283566487/) |
+| {ref}`array_ops` **           | November 11, 2021    |  5pm UTC      | 60+30 minutes | [Meenal Jhajharia](https://mjhajharia.com)  |          -          |
+| {ref}`probprog_pymc`          | January 11, 2022     |  5pm UTC      | 45 minutes    | [Austin Rochford](https://austinrochford.com)   |          -          |
+| {ref}`contributing_to_pymc`   | January 28, 2022     |  5pm UTC      | 45 minutes    | [Ricardo Vieira](https://github.com/ricardoV94)    |          -          |
+| {ref}`contributing_docs`      | February 8, 2022     |  5pm UTC      | 45 minutes    | [Oriol Abril](https://oriolabril.github.io)       | [meetup event](https://www.meetup.com/data-umbrella-africa2/events/283566487/) |
 | {ref}`sprint` slot 1          | February 18, 2022    |  19pm UTC     | 2 hours       | PyMC Team         | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
 | {ref}`sprint` slot 2          | February 19, 2022    |  10am UTC     | 2 hours       | PyMC Team         | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
 
