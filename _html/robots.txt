@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /
+
+Allow: /en/latest
+
+Sitemap: https://pymc-data-umbrella.xyz/en/latest/sitemap-index.xml
