@@ -6,36 +6,50 @@ This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/mai
 
 ## Organizers
 
-<table><tr>
-<td> 
-  <p align="center" style="padding: 20px">
-    <img alt="Reshama Shaikh" src="../_static/reshama.jpg" style='border-radius: 50%' width="515">
-    <br>
-    <em style="color: grey"> <a href="https://reshamas.github.io">Reshama Shaikh</a></em>
-  </p> 
-</td>
-<td> 
-  <p align="center" style="padding: 20px">
-    <img alt="Beryl Kanali" src="../_static/beryl.JPG" style='border-radius: 50%' width="515" >
-    <br>
-    <em style="color: grey"><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fberyl-kanali-260567185%2F&sa=D&sntz=1&usg=AFQjCNFmvt_tUl9z7j_ArBuTgG0yyd_1qA">Beryl Kanali</a></em>
-  </p> 
-</td>
-<td> 
-  <p align="center" style="padding: 20px">
-    <img alt="Oriol Abril Pla" src="../_static/oriol.jpg" style='border-radius: 50%'  width="515">
-    <br>
-    <em style="color: grey"><a href="https://oriolabril.github.io/oriol_unraveled/">Oriol Abril Pla</a></em>
-  </p> 
-</td>
-<td> 
-  <p align="center" style="padding: 20px">
-    <img alt="Meenal Jhajharia" src="../_static/meenal.jpg" style='border-radius: 50%' width="515">
-    <br>
-    <em style="color: grey"><a href="https://mjhajharia.com">Meenal Jhajharia</a></em>
-  </p> 
-</td>
-</tr></table>
+::::{grid} 2 2 4 4
+:gutter: 3
+
+:::{grid-item-card}
+:link: https://mjhajharia.com
+:shadow: none
+:class-body: sd-text-center
+:class-card: border-0
+
+<img alt="Meenal Jhajharia" class="rounded-circle" src="../_static/meenal.jpg">
+
+Meenal  Jhajharia
+:::
+:::{grid-item-card}
+:link: https://reshamas.github.io
+:shadow: none
+:class-body: sd-text-center
+:class-card: border-0
+
+<img alt="Reshama Shaikh" src="../_static/reshama.jpg" class="rounded-circle">
+
+Reshama Shaikh
+:::
+:::{grid-item-card}
+:link: https://mjhajharia.com
+:shadow: none
+:class-body: sd-text-center
+:class-card: border-0
+
+<img alt="Beryl Kanali" src="../_static/beryl.JPG" class="rounded-circle">
+
+Beryl Kanali
+:::
+:::{grid-item-card}
+:link: https://oriolabril.github.io/oriol_unraveled/
+:shadow: none
+:class-body: sd-text-center
+:class-card: border-0
+
+<img alt="Oriol Abril Pla" src="../_static/oriol.jpg" class="rounded-circle">
+
+Oriol Abril Pla
+:::
+::::
 
 Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam Kumar](https://github.com/Sayam753)(Volunteer) and [Thomas Wiecki](https://twiecki.io)(Volunteer) and [NUMFOCUS](https://numfocus.org) for their support.
 
@@ -45,5 +59,8 @@ Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin
 
 [PyMC](https://docs.pymc.io/en/latest/about.html) is a probabilistic programming package for Python that allows users to fit Bayesian models using a variety of numerical methods, most notably Markov chain Monte Carlo (MCMC) and variational inference (VI). Its flexibility and extensibility make it applicable to a large suite of problems. PyMC is a non-profit project under NumFOCUS.
 
-```{include} decision_tree.md
+```{toctree}
+:hidden:
+
+decision_tree
 ```
