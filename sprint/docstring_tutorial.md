@@ -490,7 +490,7 @@ Before clicking on the "Create pull request" button, check a couple things.
 
 You might also see a link to the `CONTRIBUTING.md` file. You don't need to read it yet,
 this guide includes everything in the contributing guide that is relevant to this
-type of contribution. If your second PR is also on the pymc repo, they you
+type of contribution. If your second PR is also on the pymc repo, then you
 should read the `CONTRIBUTING.md` guide there. However, if your second PR is
 to the pymc-examples repo instead, you have to read its (slightly different)
 `CONTRIBUTING.md`.
