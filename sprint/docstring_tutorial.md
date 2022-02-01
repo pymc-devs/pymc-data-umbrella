@@ -29,7 +29,7 @@ Here are some things to take into account:
 If you prefer video to written content you can watch {ref}`Reshama <organizers>`
 go over this guide and submit a PR to PyMC in the following video:
 
-:::{youtube} 4rK8Le9LEAY
+:::{youtube} NbmdFJsnuuo
 :::
 
 ## Pre-requisites
