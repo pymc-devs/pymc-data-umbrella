@@ -14,7 +14,7 @@ Wondering if the sprint is for you? We have got just the page: {ref}`decision_tr
 
 - [Sprint Cheat Sheet](https://pymc-data-umbrella.xyz/en/latest/about/decision_tree.html#your-sprint-cheat-sheet)
 
-- [Reshama Shaikh: Example of Submitting a Pull Request to PyMC Documentation](https://youtu.be/4rK8Le9LEAY)
+- [Reshama Shaikh: Example of Submitting a Pull Request to PyMC Documentation](https://www.youtube.com/watch?v=NbmdFJsnuuo)
 
 - [Using Discord for sprint](https://youtu.be/w2A8SknM-68)
 
