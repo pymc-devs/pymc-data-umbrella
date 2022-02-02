@@ -97,4 +97,5 @@ tooling.
 
 ## Planning to participate from the sprint?
 
-Join Discord, watch [Discord intro video by DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)
+Register as attendee on the [Meetup event](https://www.meetup.com/data-umbrella/events/283178769/),
+join Discord, watch [Discord intro video by DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)

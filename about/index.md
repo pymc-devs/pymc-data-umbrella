@@ -11,7 +11,7 @@ This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/mai
 (organizers)=
 ## Organizers
 
-::::{grid} 2 2 4 4
+::::{grid} 2 2 3 5
 :gutter: 3
 
 :::{grid-item-card}
@@ -43,6 +43,16 @@ Reshama Shaikh
 <img alt="Beryl Kanali" src="../_static/beryl.JPG" class="rounded-circle">
 
 Beryl Kanali
+:::
+:::{grid-item-card}
+:link: https://www.linkedin.com/in/sandy-weng-a0959762/
+:shadow: none
+:class-body: sd-text-center
+:class-card: border-0
+
+<img alt="Sandy Weng" src="../_static/sandy.jpg" class="rounded-circle">
+
+Sandy Weng
 :::
 :::{grid-item-card}
 :link: https://oriolabril.github.io/oriol_unraveled/

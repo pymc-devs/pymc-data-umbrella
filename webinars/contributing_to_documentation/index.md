@@ -28,8 +28,11 @@ Go to the webinar material!
 Being comfortable writing and formatting with markdown is necessary, being familiar with Jupyter is strongly recommended.
 
 ## Speaker
-Oriol is a Bayesian statistics and open source software enthusiast currently pursuing a PhD in Computer Science at Helsinki University. He is also a member of the ArviZ and PyMC teams.
+Oriol is a Bayesian statistics and open source software enthusiast currently pursuing a PhD in Computer Science at Helsinki University.
+He is also a member of the ArviZ and PyMC teams, where he dedicates most of his efforts
+to documentation and community management.
 
+Personal website: https://oriolabril.github.io/oriol_unraveled/
 LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/
 Twitter: https://twitter.com/OriolAbril
 GitHub: https://github.com/OriolAbril
