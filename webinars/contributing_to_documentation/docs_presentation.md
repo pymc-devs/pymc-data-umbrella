@@ -28,8 +28,8 @@ pretty and well referenced technical documentation.
 We won't explain how to set up a similar website, this would take another whole talk.
 
 We will give an overview of the features available and about why we chose those
-to then dive into our main goal for the talk. How do you as a contributor
-to PyMC documentation take advantage of them.
+to then dive into our main goal for the talk: _How do you as a contributor
+to PyMC documentation take advantage of them_
 :::
 
 Our wishlist:
@@ -77,8 +77,9 @@ Our wishlist:
   - The 2 last sections with license info and citation are generated from a centralized source,
     with only 2 lines needed per notebook
 
-To sum up, thanks to the work of several amazing people and the funds we raised
-during [PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and {abbr}`GSoD (Google Season of Docs)`
+To sum up, thanks to the work of several amazing people (both seasoned PyMC contributors and
+new members working with us via Outreachy and {abbr}`GSoD (Google Season of Docs)`) and the funds we raised
+during [PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and GSoD
 we have changed most of our documentation infrastructure in the last 9 months.
 
 You can see a huge change already:
@@ -204,7 +205,7 @@ it should point to the PyMC docs.
 
 If the target doesn't exist in the current website nor it is repeated among the external
 websites we have configured we can skip this prefix. We can therefore skip the prefix
-safely for links to python objects, and we have done. The import path is already unique.
+safely for links to python objects, and we have, the import path is already unique.
 :::
 
 #### Formatting roles
@@ -223,12 +224,12 @@ They are much more diverse and flexible than roles. Their base syntax is:
 :kwarg1: value
 :kwarg2: value
 
-Main content of the directive, generally prose but not necessarly.
+Main content of the directive, generally prose but not necessarily.
 :::
 ```
 
 Out of the 4 blocks (name, argument, keyword arguments and content), only the name
-is always required, but each directive has its own rules and
+is always required. Each directive has its own rules and
 required (or even forbidden sometimes) blocks.
 
 #### Figure
@@ -287,7 +288,7 @@ chances are they will stop at the admonition blocks.
 
 #### And more!
 There are still more directives, most of which you don't need to contribute to pymc examples.
-In the next section we'll go over our "jupyter style guide" and cover 3 more directive that
+In the next section we'll go over our "jupyter style guide" and cover 3 more directives that
 are important for pymc-examples.
 
 ### Our conventions
