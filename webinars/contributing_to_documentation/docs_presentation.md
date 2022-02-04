@@ -66,7 +66,6 @@ Our wishlist:
 * Automatic table of contents
   - supported via sphinx+pydata-sphinx-theme
 * Accessible
-  - sphinx+myst-parser support captions for figures
   - pydata-sphinx-theme is working on the accessibility of the theme and will continue to do so
 * DRY: do not repeat yourself. Things shared between several notebooks should be done
   once when possible.
@@ -248,17 +247,16 @@ This is a caption in **Markdown**! Captions must be single paragraph.
 
 :::{figure-md} imposter
 
-![imposter syndrome](imposter.jpg)
-
-The image shows two venn diagrams. The left side describes the imposter syndrome.
+![The image shows two venn diagrams. The left side describes the imposter syndrome.
 There is a big yellow circle labeled
 "what I think others know", inside it has a small blue circle labeled "What I know".
 The right side describes the reality. The blue circle stays the same, but now,
 it is instead surrounded by many yellow circles of the same size that combined
 cover the same area as the big yellow circle in the previous diagram. Now each
 yellow circle represents what someone else knows, with no circle being smaller than
-the other. [Image by David Whittaker](https://twitter.com/rundavidrun/status/587671657193455616)
+the other.](imposter.jpg)
 
+[Image by David Whittaker](https://twitter.com/rundavidrun/status/587671657193455616)
 :::
 
 We really like the image in {numref}`imposter` and decided to use it here because we think that pymc-examples
