@@ -73,6 +73,9 @@ background.
 
 ## Sprint Schedule
 
+- Pre-sprint Office Hours, Feb 11:
+  [Register here](https://www.meetup.com/data-umbrella/events/283765923/)
+
 - 2-4pm (ET), 18th February
 
   [Register here](https://www.meetup.com/data-umbrella/events/283178769/)
@@ -84,6 +87,9 @@ background.
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
 
   Mentors: Meenal, Oriol, Ricardo
+  
+- Post-sprint Office Hours, Feb 25:
+  [Register here](https://www.meetup.com/data-umbrella/events/283766699/)
 
 ## Sprint Guide
 
