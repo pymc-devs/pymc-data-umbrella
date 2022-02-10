@@ -38,7 +38,8 @@ Twitter: https://twitter.com/OriolAbril
 GitHub: https://github.com/OriolAbril
 
 ## Video
-[to be uploaded]
+:::{youtube} fzpmLWQNj4A
+:::
 
 :::{toctree}
 :hidden:

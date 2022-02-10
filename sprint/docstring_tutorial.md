@@ -32,6 +32,7 @@ go over this guide and submit a PR to PyMC in the following video:
 :::{youtube} NbmdFJsnuuo
 :::
 
+(prereqs)=
 ## Pre-requisites
 
 ### GitHub account
@@ -161,7 +162,7 @@ The docstring is available at the {ref}`sample_docstring` page, I updated
 the docstring in PyMC while writing this guide.
 :::
 
-Once you have chosen, go to our [issue tracker (TODO: create issue)](https://github.com/pymc-devs/pymc/issues),
+Once you have chosen, go to our [issue tracker](https://github.com/pymc-devs/pymc/issues/5459),
 check nobody is already working on it and comment that you are going to update it.
 
 :::{important}
@@ -311,16 +312,12 @@ Open the [numpydoc style guide](https://numpydoc.readthedocs.io/en/latest/format
 side by side or in a different window.
 I am updating the docstring of {ref}`pymc.Uniform <sample_docstring>` as an example.
 
-Here is what I see having both side by side, using the Atom editor:
-
-![atom_numpydoc](images/atom_numpydoc.png)
-
 You have to review section by section to make sure everything is well documented.
 If you have chosen a class (like I did with `pymc.Uniform`),
-you should review the docstrings of all the methods (if they already exist, no need
-to write missing docstrings yet).
+you should review the docstrings of all the methods (only if they already exist though, no need
+to write missing docstrings). I am therefore ignoring the `dist` and `get_moment` methods.
 
-**Section independent comments**
+### Section independent comments
 * Only the short summary section is required. The rest should be used when
   relevant. As a rule, if a section is missing, ignore it for now.
   If you think it should be added, take a note and let us know when you
@@ -362,16 +359,30 @@ to write missing docstrings yet).
   - The colon between an argument name and it's type must be both **preceded and followed**
     by a space.
   - Type hints should go in the call signature, not in the docstring. `Optional[Union[str, int]]`
-    is not adequate for a docstring, it should be `str or int, optional`
+    is not adequate for a docstring, it should be `str or int, optional`. Type
+    hints target machines, docstrings target humans.
   - Optional parameters must be indicated with `, optional` (no variations on this) and
-    must indicate the default parameters in the description unless they are clearly
-    visible in the call signature.
-  - In type descriptions:
-    - Change `tensor`, `aesara tensor` (including combinations with different capitalization,
+    should indicate the default parameters in the description.
+  - In type descriptions. We have several aliases available to keep raw docstrings
+    short and clear while generating still a nice html page with all the correct links:
+    - **`TensorVariable`:** Change `tensor`, `aesara tensor` (including combinations with different capitalization,
       dot or hyphen in between) to `TensorVariable`, without extra quotes or backticks
-    - Change `var`, `random var`, `aesara var` and similar concepts should be `RandomVariable`
-    - Change `array like` or `array-like` to `array_like` with an underscore.
-    - Change `np.ndarray` or `numpy.ndarray` to `ndarray`
+    - **`RandomVariable`:** Change `var`, `random var`, `aesara var` and similar concepts should be `RandomVariable`
+    - **`array_like`:** Change `array like` or `array-like` to `array_like` with an underscore.
+      If you encounter this in a returned parameter, note it in the PR description.
+    - **`ndarray`:** Change `np.ndarray` or `numpy.ndarray` to `ndarray`. However,
+      if you encounter this in an input argument, note it in the PR description.
+    - **`Covariance`** and **`Mean`**: _within the gp module only_ `covariance`,
+      `covariance objects`, `Covariance instances` and the like should be modified
+      to this. Same for `Mean`
+    - **`InferenceData`**: change things like `arviz.InferenceData` or `inference data` to this.
+    - **`MultiTrace`** and **`BaseTrace`**: change anything containing this in
+      the type to them. The most probable thing to find is `pymc.backends.base.MultiTrace`
+    - **`Point`**: change `pymc.Point`, `point` and similars to this
+    - **`SMC_kernel`**: _within the smc module_ change references to kernel, smc kernel and the like
+      to this. Note the underscore and capitalization!
+    - **`Aesara_Op`**: change `Aesara Op`, `Op` and variations to `Aesara_Op`, note
+      the underscore and capitalization!
 * _pymc.Uniform case:_
   - There is no space between argument name and colon
   - Both arguments are actually optional. In Distributions, this can't be seen
