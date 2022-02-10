@@ -71,10 +71,13 @@ Read the {ref}`decision_tree` for more detailed answers and to see
 what types of contributions can you make depending on your interests and
 background.
 
+(sprint/schedule)=
 ## Sprint Schedule
 
-- Pre-sprint Office Hours, Feb 11:
+- Pre-sprint Office Hours, 3-4pm UTC, Feb 11:
   [Register here](https://www.meetup.com/data-umbrella/events/283765923/)
+  * Get answers to your questions about the sprint and support setting up
+    the sprint {ref}`prereqs`
 
 - 2-4pm (ET), 18th February
 
@@ -87,9 +90,11 @@ background.
   [Register here](https://www.meetup.com/data-umbrella-africa2/events/283260732)
 
   Mentors: Meenal, Oriol, Ricardo
-  
-- Post-sprint Office Hours, Feb 25:
+
+- Post-sprint Office Hours, 3-4pm UTC, Feb 25:
   [Register here](https://www.meetup.com/data-umbrella/events/283766699/)
+  * Get extra live feedback on the PRs you opened but didn't manage to merge during the
+    sprint, and advise on how to continue contributing to PyMC!
 
 ## Sprint Guide
 
