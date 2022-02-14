@@ -95,8 +95,8 @@ background.
   [Register here](https://www.meetup.com/data-umbrella/events/283766699/)
   * Get extra live feedback on the PRs you opened but didn't manage to merge during the
     sprint, and advise on how to continue contributing to PyMC!
-
-## Sprint Guide
+    
+## Guide to your first contribution
 
 Below you can already see the guide to your first contribution.
 You should make sure to have all the programs in the prereqs section available on your computer

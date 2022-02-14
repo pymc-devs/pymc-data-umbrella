@@ -22,6 +22,8 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 
 webinars/index
 sprint/index
+sprint/sprint-guide
 about/index
 contributing/index
+
 :::
