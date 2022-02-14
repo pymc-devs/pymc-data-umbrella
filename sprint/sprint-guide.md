@@ -43,6 +43,7 @@ These breakout rooms aren't rigid, you can choose which one you wish to be in, t
 - Participants can either wait for someone to come to their breakout room, or text on the discord channel or Zoom chat
 
 Cheers, have fun folks!
+
 [Sprint Organizers](https://github.com/pymc-devs/pymc/projects/4)
 
 
