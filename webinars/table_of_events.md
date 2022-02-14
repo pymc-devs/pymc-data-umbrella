@@ -1,14 +1,16 @@
 
 | Name of Event                 | Date of Event        | Time of Event | Duration      | Speaker           |  Registration form  |
 |-------------------------------|----------------------|---------------|---------------|-------------------|---------------------|
-| {ref}`array_ops` **           | November 11, 2021    |  5pm UTC      | 60+30 minutes | [Meenal Jhajharia](https://mjhajharia.com)  |          -          |
+| {ref}`array_ops`[^1]         | November 11, 2021    |  5pm UTC      | 60+30 minutes | [Meenal Jhajharia](https://mjhajharia.com)  |          -          |
 | {ref}`probprog_pymc`          | January 11, 2022     |  5pm UTC      | 45 minutes    | [Austin Rochford](https://austinrochford.com)   |          -          |
 | {ref}`contributing_to_pymc`   | January 28, 2022     |  5pm UTC      | 45 minutes    | [Ricardo Vieira](https://github.com/ricardoV94)    |          -          |
 | {ref}`contributing_docs`      | February 8, 2022     |  5pm UTC      | 45 minutes    | [Oriol Abril](https://oriolabril.github.io)       |   -  |
-| [Bayesian Modeling with PyMC](https://www.youtube.com/watch?v=6dc7JgR8eI0) | - | - |  45 minutes | [Oriol Abril](https://oriolabril.github.io) | - |
 | [Example PR to PyMC](https://www.youtube.com/watch?v=NbmdFJsnuuo) | - | - | 20 minutes | [Reshama Shaikh](https://reshamas.github.io) | - |
+| [Bayesian Modeling with PyMC3](https://www.youtube.com/watch?v=6dc7JgR8eI0)[^2] | - | - |  45 minutes | [Oriol Abril](https://oriolabril.github.io) | - |
 
-** Only for people who need additional help with python, but are already familiar with at least one programming language
+[^1]: Only for people who need additional help with python, but are already familiar with at least one programming language
+
+[^2]: This is an old (but useful) resource, it uses PyMC3, check {ref}`contributing_to_pymc` for an introduction to PyMC 4.0 
 
 
 # Sprint 
