@@ -1,5 +1,5 @@
 # Webinars
-We will be hosting a series of webinars to help you prepare for the sprint.
+We will be hosting a series of webinars to help you prepare for the sprint. You can find them in this Youtube Playlist for [PyMC Series](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir99uTvN0315hIVLuyj4Q1Gt)
 
 :::{include} table_of_events.md
 :::
