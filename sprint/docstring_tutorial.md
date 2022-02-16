@@ -361,8 +361,12 @@ to write missing docstrings). I am therefore ignoring the `dist` and `get_moment
   - Type hints should go in the call signature, not in the docstring. `Optional[Union[str, int]]`
     is not adequate for a docstring, it should be `str or int, optional`. Type
     hints target machines, docstrings target humans.
-  - Optional parameters must be indicated with `, optional` (no variations on this) and
-    should indicate the default parameters in the description.
+  - Optional parameters must be indicated with `, optional` or `, default <value>`.
+    If the default value is of the documented type and used directly, using default
+    instead of optional is preferred. However, if the default value depends on
+    other parameters or is a placeholder (i.e. it is very common to use `None`
+    for kwarg type arguments) then optional should be used, explaining the default in
+    the description.
   - In type descriptions. We have several aliases available to keep raw docstrings
     short and clear while generating still a nice html page with all the correct links:
     - **`TensorVariable`:** Change `tensor`, `aesara tensor` (including combinations with different capitalization,
