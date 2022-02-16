@@ -63,7 +63,7 @@ Oriol Abril Pla
 :::
 ::::
 
-Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam Kumar](https://github.com/Sayam753)(Volunteer), [Thomas Wiecki](https://twiecki.io)(Volunteer) and [NUMFOCUS](https://numfocus.org) for their support.
+Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam Kumar](https://github.com/Sayam753)(Volunteer), [Thomas Wiecki](https://twiecki.io)(Volunteer), [Christian Luhmann](http://cluhmann.github.io/)(Volunteer) and [NUMFOCUS](https://numfocus.org) for their support.
 
 ## About PyMC and Data Umbrella
 
