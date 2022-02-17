@@ -274,7 +274,6 @@ Successfully installed pymc-4.0.0b2
 Then activate `pre-commit`. It will help auto formatting the code for you.
 
 ```bash
-pip install pre-commit
 pre-commit install
 ```
 on success will show
