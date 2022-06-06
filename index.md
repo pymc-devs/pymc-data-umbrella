@@ -20,10 +20,9 @@ Welcome! Data Umbrella is organizing a couple of workshops/events followed by a 
 :maxdepth: 1
 :hidden:
 
-webinars/index
-sprint/index
+2022-02_sprint/webinars/index
+Sprint <2022-07_sprint/schedule>
 sprint/sprint-guide
-about/index
-contributing/index
-
+2022-07_sprint/sprint_parties/index
+Sprint events <sprint_dates>
 :::
