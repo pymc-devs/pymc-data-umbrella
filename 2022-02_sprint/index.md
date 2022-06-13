@@ -1,3 +1,9 @@
-# Feb 2022 sprint website
+# Feb 2022 sprint
 
 TODO: add toctree
+
+:::{toctree}
+
+schedule
+organizers/index
+:::

@@ -19,7 +19,7 @@ thebe_config = {
 templates_path = ["_templates"]
 
 # MyST related params
-jupyter_execute_notebooks = "auto"
+jupyter_execute_notebooks = "auto"  # TODO: these two arguments are deprecated in latest myst-nb
 execution_excludepatterns = ["*.ipynb"]
 myst_enable_extensions = [
     "colon_fence",
@@ -43,7 +43,7 @@ master_doc = "index"
 project = "PyMC-Data Umbrella Sprint"
 copyright = "2021, Sprint contributors"
 author = "Sprint Contributors"
-pymc_url = "https://docs.pymc.io/en/latest/"
+pymc_url = "https://www.pymc.io/projects/docs/en/latest/"
 
 version = "0.1"
 # The full version, including alpha/beta/rc tags.
@@ -104,8 +104,8 @@ html_theme_options = {
     ],
     "use_edit_page_button": True,
     "page_sidebar_items": ["page-toc", "edit-this-page", "cheatsheet"],
+    # "navbar_align": "left",
     "navbar_start": ["navbar-logo"],
-    "navbar_end": ["search-field.html", "navbar-icon-links.html"],
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
     "google_analytics_id": "G-8YL5S5CGYD",
@@ -122,10 +122,8 @@ html_context = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-html_static_path = ["_static", "2022-02_sprint/_static"]
-html_css_files = [
-    'custom.css',
-]
+html_static_path = ["_static"]
+html_css_files = ['custom.css']
 
 # -- Options for HTMLHelp output ------------------------------------------
 
@@ -143,7 +141,7 @@ html_favicon = "_static/favicon.ico"
 intersphinx_mapping = {
     "numpy": ("https://numpy.org/doc/stable/", None),
     "pymc": (pymc_url, None),
-    "nb": ("https://docs.pymc.io/projects/examples/en/latest/", None),
+    "nb": ("https://www.pymc.io/projects/examples/en/latest/", None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
     "myst": ("https://myst-parser.readthedocs.io/en/latest", None),
     "myst-nb": ("https://myst-nb.readthedocs.io/en/latest", None),

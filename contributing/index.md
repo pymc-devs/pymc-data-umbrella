@@ -1,5 +1,7 @@
 (sprint_help)=
-# Help with the Sprint
+# Contribute
+
+% TODO: make nicer and add missing pages/sections
 
 ## ...with the website
 To build the website locally, install the requirements
