@@ -5,6 +5,7 @@
 :::{toctree}
 :maxdept: 1
 
+about
 sprint-guide
 sprint-cheatsheet
 :::
