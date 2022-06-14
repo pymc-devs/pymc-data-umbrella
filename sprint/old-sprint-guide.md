@@ -5,7 +5,7 @@
 :::
 ::::
 
-(sprint)=
+(old_sprint)=
 # Sprint
 
 The team at PyMC is organizing an open source sprint in collaboration with Data Umbrella, an organization for underrepresented persons in data science. This sprint will take place in two slots of two hours each to accommodate as many time zones as we can. If you’re a prospective participant do know that there will be at least two members of the PyMC team present throughout the sprint on discord and zoom to help you out. Additionally, there’s a ton of resources to help you get started and prepare beforehand other than the webinars we're conducting, you can find them here:
