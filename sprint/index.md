@@ -6,4 +6,6 @@
 about
 sprint-guide
 sprint-cheatsheet
+faq
+resources
 :::
