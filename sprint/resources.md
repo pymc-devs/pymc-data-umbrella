@@ -1,3 +1,4 @@
+(resources)=
 # Resources
 
 - {ref}`PyMC - Data Umbrella series content and videos <about_pymc>` (all webinar materials have been uploaded to this website, videos are embedded too so you have everything just a click away)
