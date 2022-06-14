@@ -23,11 +23,11 @@ These breakout rooms aren't rigid, you can choose which one you wish to be in, t
 
 ## Volunteer Guide
 
-1. Breakout rooms will be created at the begining of the meeting, but do join 15 minutes before the sprint so you can get the hang of Zoom and these rooms to make things smoother.
+1. Breakout rooms will be created at the beginning of the meeting, but do join 15 minutes before the sprint so you can get the hang of Zoom and these rooms to make things smoother.
 2. Feel free to create new breakout rooms, if needed.
 3. Be patient and kind to sprint participants, if you feel unable to help someone with a doubt or issue, redirect it to another volunteer or PyMC team member if someone is available. If that does not work, consider suggesting a new issue to the participant.
 4. Encourage people to introduce themselves and ask questions. 
-5. Do flag any(really ANY) inappropriate behaviour. Warn the participant or remove them from the Zoom meeting in these cases:
+5. Do flag any (really ANY) inappropriate behaviour. Warn the participant or remove them from the Zoom meeting in these cases:
 
     - They make a discriminatory remark
     - They are being persistently rude
@@ -45,6 +45,3 @@ These breakout rooms aren't rigid, you can choose which one you wish to be in, t
 Cheers, have fun folks!
 
 [Sprint Organizers](https://github.com/pymc-devs/pymc/projects/4)
-
-
-
