@@ -9,4 +9,6 @@
 
 - [Using Discord for sprint](https://youtu.be/w2A8SknM-68)
 
+- [Live Share with Visual Studio Code](https://youtu.be/WHOiljOYGVw)
+
 - [Git Notes](https://www.dataschool.io/how-to-contribute-on-github/)
