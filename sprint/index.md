@@ -19,7 +19,7 @@ resources
 ::::
 
 (sprint)=
-# Sprint
+# Open Source Working Sessions
 
 Data Umbrella is organizing a series of open source working sessions to contribute to the PyMC project. For more information, see {ref}`Resources <resources>` section.
 
