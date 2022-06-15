@@ -8,7 +8,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_thebe",
-    "sphinxcontrib.youtube"
+    "sphinxcontrib.youtube",
     "notfound.extension",
 ]
 
