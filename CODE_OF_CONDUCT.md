@@ -1,3 +1,8 @@
+---
+orphan: true
+---
+
+(code_of_conduct)=
 # Code of Conduct
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyMC - Data Umbrella events being held.
@@ -16,4 +21,4 @@ Code of conduct violations reduce the value of the community for everyone and we
 
 An anonymous report form is available at [https://numfocus.typeform.com/to/ynjGdT](https://numfocus.typeform.com/to/ynjGdT)
 
-You can also make a personal report by email to organizers at meenal@mjhajharia.com, they will respond promptly.
+You can also make a personal report by email to organizers at , they will respond promptly.
