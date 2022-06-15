@@ -9,11 +9,15 @@ extensions = [
     "sphinx_design",
     "sphinx_thebe",
     "sphinxcontrib.youtube"
+    "notfound.extension",
 ]
 
 thebe_config = {
    "selector": "div.highlight-ipython3"
 }
+
+# configure notfound extension to not add any prefix to the urls
+notfound_urls_prefix = "/en/latest/"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
