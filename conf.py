@@ -8,12 +8,16 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_thebe",
-    "sphinxcontrib.youtube"
+    "sphinxcontrib.youtube",
+    "notfound.extension",
 ]
 
 thebe_config = {
    "selector": "div.highlight-ipython3"
 }
+
+# configure notfound extension to not add any prefix to the urls
+notfound_urls_prefix = "/en/latest/"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -104,8 +108,8 @@ html_theme_options = {
     ],
     "use_edit_page_button": True,
     "page_sidebar_items": ["page-toc", "edit-this-page", "cheatsheet"],
-    # "navbar_align": "left",
     "navbar_start": ["navbar-logo"],
+    "navbar_end": ["navbar-icon-links"],
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
     "google_analytics_id": "G-8YL5S5CGYD",
@@ -116,6 +120,7 @@ html_context = {
     "github_repo": "pymc-data-umbrella",
     "github_version": "main",
     "doc_path": ".",
+    "default_mode": "light",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

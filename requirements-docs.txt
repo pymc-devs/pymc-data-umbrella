@@ -8,3 +8,4 @@ sphinx-design
 pre-commit
 sphinx_thebe
 sphinxcontrib-youtube
+sphinx-notfound-page
