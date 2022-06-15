@@ -38,7 +38,7 @@ Here’s the fun part, we’ll be giving away stickers, mugs and the Bayesian Co
   - You can contribute to documentation with knowledge of markdown and maybe some basic statistics
   - You can contribute to CI/CD issues or Python issues with basic knowledge of programming
   - You can contribute to core codebase with knowledge of Python + Bayesian Statistics
-  - Note: [Check the sprint cheat sheet](https://pymc-data-umbrella.xyz/en/latest/about/decision_tree.html#your-sprint-cheat-sheet) to know a suitable area of contribution and some resources to prepare you for it
+  - Note: {ref}`Check the sprint cheat sheet <decision_tree>` to know a suitable area of contribution and some resources to prepare you for it
 
 ## Sprint - Target Audience
 The following table answers the question **"This sprint is for someone who is/has ..."**
