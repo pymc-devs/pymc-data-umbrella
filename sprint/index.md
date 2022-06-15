@@ -28,7 +28,6 @@ Data Umbrella is organizing a series of open source working sessions to contribu
 
 In this sprint we’re focusing on bringing in new contributors, we sincerely hope this will be a welcoming, inclusive experience for you into the world of open source software. We hope to help you to the best of our abilities and learn from you as well!
 The sprint will consist of small resolvable issues and contributing to the PyMC documentation, so if you aren’t experienced in software development no worries at all, you can contribute to documentation with knowledge of markdown or statistics.
-Here’s the fun part, we’ll be giving away stickers, mugs and the Bayesian Computation book by PyMC Developers Ravin, Junpeng and Osvaldo!!! Find the schedule and all other details {ref}`here <current_sprint>`.
 
 ## Requirements
 
