@@ -21,4 +21,4 @@ Code of conduct violations reduce the value of the community for everyone and we
 
 An anonymous report form is available at [https://numfocus.typeform.com/to/ynjGdT](https://numfocus.typeform.com/to/ynjGdT)
 
-You can also make a personal report by email to organizers at , they will respond promptly.
+You can also make a personal report by email to organizers at [info@dataumbrella.org](mailto:info@dataumbrella.org), they will respond promptly.
