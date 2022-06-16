@@ -2,15 +2,20 @@
 # PyMC - Data Umbrella Events
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PyMC - Data Umbrella Series">
-<meta name="twitter:description" content=" ">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/sprint-pymc-data-umbrella/main/_static/share_banner.png">
+<meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Sessions">
+<meta name="twitter:description" content="More info at pymc-data-umbrella.xyz">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2020_07/2020_07_banner.png">
 
 ## Banner
 
 ## Intro
 
 ## Schedule
+
+:::{include} 2022-07_sprint/schedule_table.md
+:::
+
+For more details about the schedule go to {ref}`2022_07/schedule` page.
 
 % Use include directive to avoid duplicating the schedule table/list
 
