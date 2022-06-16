@@ -130,32 +130,34 @@ Thomas Wiecki
 ## Community partners
 
 ::::{grid} 1 1 2 2
-:::{grid-item}
-![Python Ghana logo](https://www.pythonghana.org/static/assets/img/ug/about.png)
-:::
-:::{grid-item}
-**Python Ghana**
+:::{grid-item-card}
+:link: TODO
+:shadow: none
+:class-card: border-0
 
-TODO: Add short description
-:::
-:::{grid-item}
-![PyLadies Ghana logo](https://ghana.pyladies.com/static/assets/images/pyladies.png)
-:::
-:::{grid-item}
-**PyLadies Ghana**
+![Python Ghana](../../_static/community_partners/python_ghana.png)
 
-TODO: Add short description
+TODO: Add short description: Python Ghana
+:::
+:::{grid-item-card}
+:link: TODO
+:shadow: none
+:class-card: border-0
+
+![PyLadies Ghana](../../_static/community_partners/pyladies_ghana.png)
+
+TODO: Add short description: PyLadies Ghana
 :::
 ::::
 
-## Sponsors
+## Data Umbrella Sponsors
 ::::{grid} 1 1 2 2
 :::{grid-item-card}
 :link: TODO
 :shadow: none
 :class-card: border-0
 
-![Google](https://raw.githubusercontent.com/pymc-devs/brand/main/logos/2-pymcdevs.jpg)
+![Google](../../_static/sponsors/google_color.png)
 
 TODO: Add short description: Google
 :::
@@ -164,7 +166,7 @@ TODO: Add short description: Google
 :shadow: none
 :class-card: border-0
 
-![CZI](https://raw.githubusercontent.com/pymc-devs/brand/main/logos/2-pymcdevs.jpg)
+![CZI](../../_static/sponsors/czi-logo.jpg)
 
 TODO: Add short description: CZI
 :::
@@ -173,7 +175,7 @@ TODO: Add short description: CZI
 :shadow: none
 :class-card: border-0
 
-![PyMC Labs](https://raw.githubusercontent.com/pymc-devs/brand/main/logos/2-pymcdevs.jpg)
+![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)
 
 TODO: Add short description: PyMC Labs
 :::
