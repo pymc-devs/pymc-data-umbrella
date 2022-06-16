@@ -17,7 +17,7 @@ Wondering if the sprint is for you? We have got just the page: {ref}`decision_tr
 :class-body: sd-text-center
 :class-card: border-0
 
-<img alt="Meenal Jhajharia" class="rounded-circle" src="../_static/meenal.jpg">
+<img alt="Meenal Jhajharia" class="rounded-circle" src="../../_static/people/meenal.jpg">
 
 Meenal  Jhajharia
 :::
@@ -27,7 +27,7 @@ Meenal  Jhajharia
 :class-body: sd-text-center
 :class-card: border-0
 
-<img alt="Reshama Shaikh" src="../_static/reshama.jpg" class="rounded-circle">
+<img alt="Reshama Shaikh" src="../../_static/people/reshama.jpg" class="rounded-circle">
 
 Reshama Shaikh
 :::
@@ -37,7 +37,7 @@ Reshama Shaikh
 :class-body: sd-text-center
 :class-card: border-0
 
-<img alt="Beryl Kanali" src="../_static/beryl.JPG" class="rounded-circle">
+<img alt="Beryl Kanali" src="../../_static/people/beryl.JPG" class="rounded-circle">
 
 Beryl Kanali
 :::
@@ -47,7 +47,7 @@ Beryl Kanali
 :class-body: sd-text-center
 :class-card: border-0
 
-<img alt="Sandy Weng" src="../_static/sandy.jpg" class="rounded-circle">
+<img alt="Sandy Weng" src="../../_static/people/sandy.jpg" class="rounded-circle">
 
 Sandy Weng
 :::
@@ -57,7 +57,7 @@ Sandy Weng
 :class-body: sd-text-center
 :class-card: border-0
 
-<img alt="Oriol Abril Pla" src="../_static/oriol.jpg" class="rounded-circle">
+<img alt="Oriol Abril Pla" src="../../_static/people/oriol.jpg" class="rounded-circle">
 
 Oriol Abril Pla
 :::
