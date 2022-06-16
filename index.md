@@ -12,6 +12,11 @@
 
 ## Schedule
 
+:::{include} 2022-07_sprint/schedule_table.md
+:::
+
+For more details about the schedule go to {ref}`2022_07/schedule` page.
+
 % Use include directive to avoid duplicating the schedule table/list
 
 :::{toctree}

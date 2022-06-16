@@ -1,8 +1,10 @@
 # Sprint parties
-## Organizers
 
-## Community partners
+:::{toctree}
+:maxdepth: 2
 
-## Sponsors
-
-## Contributors
+organizers
+community_partners
+sponsors
+contributors
+:::
