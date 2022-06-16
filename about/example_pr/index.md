@@ -7,6 +7,16 @@ In this video, Reshama does a step-by-step example of how to set up a virtual en
 
 - Audience: People who are interested in contributing to PyMC and who would like to see an example of a contribution.
 
+::::{div} sd-d-flex-row sd-align-major-center
+:::{button-ref} docstring_tutorial
+:color: primary
+:ref-type: ref
+:class: sd-fs-5
+
+Go to the webinar material!
+:::
+::::
+
 ## Speaker
 
 [Reshama Shaikh](https://reshamas.github.io) is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
