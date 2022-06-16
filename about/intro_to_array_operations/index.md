@@ -1,5 +1,5 @@
 (array_ops)=
-# Introduction to array operations in Python
+# Introduction to Array Operations in Python
 
 This is a ~40 minute session to introduce you to array manipulation and basics of Python, which will be useful to contribute to computational open source libraries in Python. We have some specific aims in mind:
 
@@ -29,7 +29,7 @@ Go to the webinar notebook!
 
 ## Speaker
 
-[Meenal](https://mjhajharia.com) is a computer science and mathematics undergraduate in junior year. She has been working on Bayesian time series estimation models with PyMC, this project started when she was a Google Summer of Code’21 student . Generally she is interested in Probabilistic Programming, NLP, and algorithms.
+[Meenal Jhajharia](https://mjhajharia.com) is a computer science and mathematics undergraduate in junior year. She has been working on Bayesian time series estimation models with PyMC, this project started when she was a Google Summer of Code’21 student . Generally she is interested in Probabilistic Programming, NLP, and algorithms.
 
 ## Video
 
