@@ -29,7 +29,12 @@ To communicate during the sprint, we will be using Discord. The [Using the Disco
 
 ### Pair programming
 
-Live Share is an extension from Visual Studio Code that allows you to collaboratively edit and debug with others in real-time. It allows you to instantly share your current project, edit snippets of code at the same time or follow someone’s cursor while they program. To learn more about Live Share, visit [Live Share with Visual Studio Code](https://youtu.be/WHOiljOYGVw).
+#### Live Share
+
+Live Share is an extension from Visual Studio Code that allows you to collaboratively edit and debug with others in real-time. It allows you to instantly share your current project, edit snippets of code at the same time or follow someone’s cursor while they program. The following video (18 minutes) shows how to use this extension:
+
+:::{youtube} WHOiljOYGVw
+:::
 
 
 ### Environment setup
