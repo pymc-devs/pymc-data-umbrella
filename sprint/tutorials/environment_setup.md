@@ -71,39 +71,6 @@ by clicking on the 'Fork' button near the top right of the main repository page.
 This creates a copy of the code under your GitHub user account.
 You should now see that `https://github.com/<your GitHub handle>/pymc/` exists
 
-## Create a feature branch
-
-```bash
-git checkout -b docstring_update
-```
-and check git indicates you the branch change was successful:
-```none
-S'ha canviat a la branca nova «docstring_update»
-```
-
-:::{tip}
-Keep your branch names informative, use one branch per PR and **never**
-work on `main`.
-:::
-
-:::{admonition} Getting ready for the 2nd PR?
-:class: dropdown, attention
-
-If you haven't changed to a different branch, you'll still be in the `docstring_update` one,
-but you don't want to work there! Remember, one branch per PR.
-
-_Before_ starting to work on the new changes, move back to main,
-update your local copy and then create the new branch.
-
-```
-git checkout main
-git fetch upstream
-git rebase upstream/main
-git checkout -b branch_for_2nd_pr
-```
-:::
-
-
 ## Install PyMC
 
 ::::{tab-set}

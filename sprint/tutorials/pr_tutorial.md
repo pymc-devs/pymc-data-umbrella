@@ -3,6 +3,22 @@
 
 In this guide we will be creating a pull request for the PyMC project.
 
+
+## Create a feature branch
+
+```bash
+git checkout -b docstring_update
+```
+and check git indicates you the branch change was successful:
+```none
+S'ha canviat a la branca nova «docstring_update»
+```
+
+:::{tip}
+Keep your branch names informative, use one branch per PR and **never**
+work on `main`.
+:::
+
 ## Commit the changes to git
 
 Add the changes to your local copy and give a name to the changes.
