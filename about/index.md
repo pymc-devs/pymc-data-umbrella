@@ -1,3 +1,4 @@
+(about_pymc)=
 # About PyMC
 
 % TODO: add nice text

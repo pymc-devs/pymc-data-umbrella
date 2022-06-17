@@ -1,3 +1,4 @@
+(current_sprint)=
 # July 2022 sprint
 
 :::{toctree}
