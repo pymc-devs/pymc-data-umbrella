@@ -8,7 +8,7 @@ To follow this tutorial you will need to have your environment set up
 **and** have an idea of the changes you are planning to do.
 
 * To set up your environment you can follow the {ref}`environment_setup` tutorial.
-* If you haven't yet chosen an issue to work on, we recommend following the {ref}`docstring_guide` tutorial.
+* If you haven't yet chosen an issue to work on, we recommend following the {ref}`docstring_tutorial` tutorial.
 :::
 
 ## Create a feature branch

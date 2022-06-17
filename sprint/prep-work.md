@@ -5,8 +5,8 @@
 :hidden:
 
 tutorials/environment_setup
-tutorials/pr_tutorial
 tutorials/docstring_tutorial
+tutorials/pr_tutorial
 :::
 
 ## Checklist
@@ -23,19 +23,19 @@ tutorials/docstring_tutorial
 * - 1
   - Do I have a GitHub account?
   - {fas}`check;sd-text-success`
-  - 
+  -
 * - 2
   - Did I Install Git?
   - {fas}`check;sd-text-success`
-  - 
+  -
 * - 3
   - Did I Install Conda?
   - {fas}`check;sd-text-success`
-  - 
+  -
 * - 4
   - Do I have a Text Editor?
   - {fas}`check;sd-text-success`
-  - 
+  -
 * - 5
   - Did I fork the PyMC repo?
   - {fas}`check;sd-text-success`
