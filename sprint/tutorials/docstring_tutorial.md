@@ -34,10 +34,10 @@ go over this guide and submit a PR to PyMC in the following video:
 
 ## Prepare your environment
 
-If you don't have your system configured yet, you can follow the instructions in the {ref}`Environment Setup <environment_setup>` tutorial.
+If you don't have your system configured yet, you can follow the instructions in the {ref}`environment_setup` tutorial.
 
 ## Choose a docstring
-Go to the [PyMC API documentation](https://docs.pymc.io/en/latest/api.html),
+Go to the [PyMC API documentation](https://www.pymc.io/projects/docs/en/latest/api.html),
 click on the module (and submodule if needed) that calls you the most
 and choose a docstring on which to work.
 
@@ -70,7 +70,7 @@ of the call signature.
 Now take a look at the url. Here is what it shows for {class}`pymc.Uniform`:
 
 ```none
-https://docs.pymc.io/en/latest/_modules/pymc/distributions/continuous.html#Uniform
+https://www.pymc.io/projects/docs/en/latest/_modules/pymc/distributions/continuous.html#Uniform
 ```
 
 The file with the definition of the `Uniform` class and its docstring is
@@ -88,9 +88,11 @@ side by side or in a different window.
 I am updating the docstring of {ref}`pymc.Uniform <sample_docstring>` as an example.
 
 You have to review section by section to make sure everything is well documented.
-If you have chosen a class (like I did with `pymc.Uniform`),
+If you have chosen a class that is not a distribution
+(unlike this example where we are working on the `pymc.Uniform` distribution),
 you should review the docstrings of all the methods (only if they already exist though, no need
-to write missing docstrings). I am therefore ignoring the `dist` and `get_moment` methods.
+to write missing docstrings). Otherwise, you should work only on the function or class
+docstring. We will therefore ignore the docstrings of the `logcdf`, `get_moment` and `dist` methods.
 
 ### Section independent comments
 * Only the short summary section is required. The rest should be used when
@@ -112,21 +114,18 @@ to write missing docstrings). I am therefore ignoring the `dist` and `get_moment
 * _General comments:_ Make sure there is a (preferably single line) short description of the
   object. In most cases you'll need to ignore the "not use variable names or the function name"
   rule.
-* _pymc.Uniform case:_ {fas}`check`
-* _logcdf method:_ A bit long but acceptable.
+* _pymc.Uniform class docstring:_ {fas}`check`
 
 ### Deprecation warning
 * _General comments:_ There should be no deprecation warnings, we use a decorator for that.
   If you find a docstring with one, take a note, do not modify it and let us know when
   you open the PR.
-* _pymc.Uniform case:_ {fas}`check`
-* _logcdf method:_ {fas}`check`
+* _pymc.Uniform class docstring:_ {fas}`check`
 
 ### Extended summary
 * _General comments:_ This section is quite free and will probably need no modifications
   other than maybe directive updates or moving some code to the notes section.
-* _pymc.Uniform case:_ Missing close figs in the plot directive.
-* _logcdf method:_ {fas}`check`
+* _pymc.Uniform class docstring:_ Missing close figs in the plot directive.
 
 ### Parameters
 * _General comments:_ This is the section that will most probably need more work. Points
@@ -144,8 +143,15 @@ to write missing docstrings). I am therefore ignoring the `dist` and `get_moment
     the description.
   - In type descriptions. We have several aliases available to keep raw docstrings
     short and clear while generating still a nice html page with all the correct links:
-    - **`TensorVariable`:** Change `tensor`, `aesara tensor` (including combinations with different capitalization,
-      dot or hyphen in between) to `TensorVariable`, without extra quotes or backticks
+    - **`tensor_like`:** One of the most common (if not the most common) aliases.
+      It should be used in all parameters that take an aesara tensor or any object that can
+      be converted to it. In general, you'll have to change `tensor`, `aesara tensor`
+      (including combinations with different capitalization, dot or hyphen in between) to
+      `tensor_like`.
+    - **`TensorVariable`:** Similar to `tensor_like` but should only be used for parameters
+      that won't be converted internally and need to be Aesara tensors before passing them to the
+      arguments. Use `TensorVariable`, without extra quotes or backticks. Ask if you are unsure
+      about using `tensor_like` or `TensorVariable`.
     - **`RandomVariable`:** Change `var`, `random var`, `aesara var` and similar concepts should be `RandomVariable`
     - **`array_like`:** Change `array like` or `array-like` to `array_like` with an underscore.
       If you encounter this in a returned parameter, note it in the PR description.
@@ -162,20 +168,22 @@ to write missing docstrings). I am therefore ignoring the `dist` and `get_moment
       to this. Note the underscore and capitalization!
     - **`Aesara_Op`**: change `Aesara Op`, `Op` and variations to `Aesara_Op`, note
       the underscore and capitalization!
-* _pymc.Uniform case:_
+    - We might also realize we are missing an important alias during the sprint thanks
+      to your contributions. Check the
+      [conf.py](https://github.com/pymc-devs/pymc/blob/main/docs/source/conf.py) file
+      from time to time to see if there are new aliases not explained here.
+      Aliases are defined in the `numpydoc_xref_aliases` dict.
+* _pymc.Uniform class docstring:_
   - There is no space between argument name and colon
   - Both arguments are actually optional. In Distributions, this can't be seen
     in the class itself but in the `dist` method. In the Uniform case, it
     is `dist(cls, lower=0, upper=1, **kwargs)`. Therefore they are both optional
     with defaults to 0 and 1 respectively.
-* _logcdf method:_
-  - `value` type description uses `np.ndarray` -> `ndarray` and
-    `` `TensorVariable` ``, which should not have backticks. It
-    is also missing the space before the colon.
-  - lower and upper are missing from the docstring. Here you can take their
-    descriptions from the class docstring. In other cases it will probably not
-    be clear what to write for those, just note them down and comment when opening
-    the PR.
+  - Input parameters to distributions can be Aesara tensors, scalars or NumPy arrays.
+    Therefore, `tensor_like` should be used. In this case, the parameters of
+    the distribution are real numbers (as opposed to discrete for example) so
+    we will use `tensor_like of float`. For discrete parameters we would
+    use `tensor_like of int`.
 
 ### Returns and yields
 * _General comments:_ Nothing to add to numpydoc. They follow the style of the
@@ -183,12 +191,11 @@ to write missing docstrings). I am therefore ignoring the `dist` and `get_moment
   outputs. You should look for the same things detailed in parameters section
   plus making sure that the type (plus name if any) and the description are on
   different lines.
-* _pymc.Uniform case:_ {fas}`check`
-* _logcdf method:_ {fas}`check`
+* _pymc.Uniform class docstring:_ {fas}`check`
 
 ## Commit the changes to git and get your PR ready
 
-Great! You are ready to do your PR now. 
+Great! You are ready to do your PR now.
 
 You can follow the {ref}`PR Tutorial <pr_tutorial>` which explains how you can do a PR to PyMC.
 

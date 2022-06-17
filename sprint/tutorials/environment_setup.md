@@ -1,4 +1,3 @@
-
 (environment_setup)=
 # Environment setup
 
@@ -66,43 +65,56 @@ the list below, otherwise install _one_, any will do:
 Fork the [project repository](https://github.com/pymc-devs/pymc/)
 by clicking on the 'Fork' button near the top right of the main repository page.
 
-![fork_button](https://docs.github.com/assets/cb-6294/images/help/repository/fork_button.jpg)
+![fork_button](../images/fork_button.png)
 
 This creates a copy of the code under your GitHub user account.
 You should now see that `https://github.com/<your GitHub handle>/pymc/` exists
 
-## Create a feature branch
+## Open a command line interface
+This should come with your operative system or have been installed when
+setting up Git and miniconda.
+
+## Clone the pymc repo
+Clone your fork. This will create a `pymc` folder wherever
+you are, make sure to be at the location where you want
+the folder to be created.
 
 ```bash
-git checkout -b docstring_update
+git clone git@github.com:<your GitHub handle>/pymc.git
 ```
-and check git indicates you the branch change was successful:
+This command should start immediately but it can take a while to finish.
+Its output should look similar to the prompt below
+(the exact numbers can change and
+it will be in the language or your computer which probably won't be Catalan):
+
 ```none
-S'ha canviat a la branca nova «docstring_update»
+S'està clonant a «pymc»...
+remote: Enumerating objects: 53490, done.
+remote: Counting objects: 100% (212/212), done.
+remote: Compressing objects: 100% (154/154), done.
+remote: Total 53490 (delta 104), reused 107 (delta 58), pack-reused 53278
+S'estan rebent objectes: 100% (53490/53490), 728.53 MiB | 10.04 MiB/s, fet.
+S'estan resolent les diferències: 100% (39445/39445), fet.
 ```
 
-:::{tip}
-Keep your branch names informative, use one branch per PR and **never**
-work on `main`.
-:::
+Enter inside the directory containing your local clone of the pymc repo,
+then tell git this is a fork of the one in the pymc-devs organization:
 
-:::{admonition} Getting ready for the 2nd PR?
-:class: dropdown, attention
-
-If you haven't changed to a different branch, you'll still be in the `docstring_update` one,
-but you don't want to work there! Remember, one branch per PR.
-
-_Before_ starting to work on the new changes, move back to main,
-update your local copy and then create the new branch.
-
+```bash
+cd pymc
+git remote add upstream git@github.com:pymc-devs/pymc.git
 ```
-git checkout main
-git fetch upstream
-git rebase upstream/main
-git checkout -b branch_for_2nd_pr
-```
-:::
 
+None of these commands generate any output. To check they have worked type
+
+```bash
+git remote
+```
+and check that the output is:
+```none
+origin
+upstream
+```
 
 ## Install PyMC
 
@@ -185,7 +197,8 @@ pre-commit installed at .git/hooks/pre-commit
 
 Your system is now ready! You are ready to do your first PR.
 
+Go and choose an issue to work on at `TODO: add link`!
+
 :::{div} sd-text-center sd-fs-1
 {fas}`star;sd-fs-1 sd-text-warning`
 :::
-

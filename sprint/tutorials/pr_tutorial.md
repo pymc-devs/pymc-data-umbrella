@@ -3,6 +3,46 @@
 
 In this guide we will be creating a pull request for the PyMC project.
 
+:::{important}
+To follow this tutorial you will need to have your environment set up
+**and** have an idea of the changes you are planning to do.
+
+* To set up your environment you can follow the {ref}`environment_setup` tutorial.
+* If you haven't yet chosen an issue to work on, we recommend following the {ref}`docstring_guide` tutorial.
+:::
+
+## Create a feature branch
+
+```bash
+git checkout -b docstring_update
+```
+and check git indicates you the branch change was successful:
+```none
+S'ha canviat a la branca nova «docstring_update»
+```
+
+:::{tip}
+Keep your branch names informative, use one branch per PR and **never**
+work on `main`.
+:::
+
+:::{admonition} Getting ready for the 2nd PR?
+:class: dropdown, attention
+
+If you haven't changed to a different branch, you'll still be in the `docstring_update` one,
+but you don't want to work there! Remember, one branch per PR.
+
+_Before_ starting to work on the new changes, move back to main,
+update your local copy and then create the new branch.
+
+```
+git checkout main
+git fetch upstream
+git rebase upstream/main
+git checkout -b branch_for_2nd_pr
+```
+:::
+
 ## Commit the changes to git
 
 Add the changes to your local copy and give a name to the changes.
