@@ -7,7 +7,7 @@
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Reshama Shaikh" src="../../_static/reshama.jpg" class="rounded-circle">
+<img alt="Reshama Shaikh" src="../../_static/people/reshama.jpg" class="rounded-circle">
 
 Reshama Shaikh
 
@@ -19,7 +19,7 @@ Reshama Shaikh
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Beryl Kanali" src="../../_static/beryl.JPG" class="rounded-circle">
+<img alt="Beryl Kanali" src="../../_static/people/beryl.JPG" class="rounded-circle">
 
 Beryl Kanali
 
@@ -39,7 +39,7 @@ Sandra Meneses
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Sandy Weng" src="../../_static/sandy.jpg" class="rounded-circle">
+<img alt="Sandy Weng" src="../../_static/people/sandy.jpg" class="rounded-circle">
 
 Sandy Weng
 
@@ -65,7 +65,7 @@ Christian Luhmann
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Reshama Shaikh" src="../../_static/reshama.jpg" class="rounded-circle">
+<img alt="Reshama Shaikh" src="../../_static/people/reshama.jpg" class="rounded-circle">
 
 Reshama Shaikh
 
@@ -77,7 +77,7 @@ Reshama Shaikh
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Oriol Abril Pla" src="../../_static/oriol.jpg" class="rounded-circle">
+<img alt="Oriol Abril Pla" src="../../_static/people/oriol.jpg" class="rounded-circle">
 
 Oriol Abril Pla
 
