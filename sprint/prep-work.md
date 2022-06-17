@@ -1,5 +1,14 @@
 # Sprint preparation
 
+:::{toctree}
+:maxdepth: 1
+:hidden:
+
+tutorials/environment_setup
+tutorials/pr_tutorial
+tutorials/docstring_tutorial
+:::
+
 ## Checklist
 
 :::{list-table}
@@ -12,12 +21,28 @@
   - Status
   - Notes
 * - 1
-  - Have a GitHub account?
+  - Do I have a GitHub account?
   - {fas}`check;sd-text-success`
   - 
-
+* - 2
+  - Did I Install Git?
+  - {fas}`check;sd-text-success`
+  - 
+* - 3
+  - Did I Install Conda?
+  - {fas}`check;sd-text-success`
+  - 
+* - 4
+  - Do I have a Text Editor?
+  - {fas}`check;sd-text-success`
+  - 
+* - 5
+  - Did I fork the PyMC repo?
+  - {fas}`check;sd-text-success`
+  -
 :::
 
+If you need help with any of the previous steps, you will find clear instructions in the {ref}`Environment Setup <environment_setup>` section.
 
 ## Sprint day
 
@@ -35,6 +60,3 @@ Live Share is an extension from Visual Studio Code that allows you to collaborat
 
 :::{youtube} WHOiljOYGVw
 :::
-
-
-### Environment setup
