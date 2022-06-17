@@ -40,6 +40,7 @@ rediraffe_redirects = {
     "webinars/contributing_to_pymc/index.md": "about/contributing_to_pymc/index.md",
     "webinars/intro_to_array_operations/index.md": "about/intro_to_array_operations/index.md",
     "webinars/probabilistic_programming_with_pymc/index.md": "about/probabilistic_programming_with_pymc/index.md",
+    "sprint/docstring_tutorial.md": "sprint/tutorials/docstring_tutorial.md",
 }
 
 # use numbered figures

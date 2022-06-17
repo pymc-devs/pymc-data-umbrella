@@ -1,3 +1,4 @@
+(example_pr)=
 # Example Pull Request to PyMC
 
 ## Event
@@ -19,7 +20,7 @@ Go to the webinar material!
 
 ## Speaker
 
-[Reshama Shaikh](https://reshamas.github.io) is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
+[Reshama Shaikh](https://reshamas.github.io) is a statistician/data scientist based in New York City. She earned her M.S. in statistics from Rutgers University. She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.
 
 Reshama is the Director of Data Umbrella and an organizer for NYC PyLadies. She is also on the Contributing Teams for scikit-learn and PyMC.  She was awarded the [Community Leadership Award from NumFOCUS in 2019](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/).
 
