@@ -35,11 +35,7 @@ Contributor Location
 
 :::{grid-item}
 
-<<<<<<< HEAD
 <img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/99a29cb356ef698288cac8dc509415d1d1420346/_static/contributors/blank_woman.jpg" class="rounded-circle">
-=======
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
->>>>>>> f3f4c163225856442dc3f5cc5945c531b35dac57
 
 <!-- This is a comment which won't appear on the rendered site and should not be copied
 when adding yourself as contributor.
@@ -60,11 +56,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<<<<<<< HEAD
 <img alt="Image for contributor template" src="https://media-exp1.licdn.com/dms/image/C4E03AQEtHT_U07jUGw/profile-displayphoto-shrink_800_800/0/1641872900950?e=1660780800&v=beta&t=RWiF1VYMIerknTARsjkzaahNEnYs2bNW0fWmPxttyqE" class="rounded-circle">
-=======
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
->>>>>>> f3f4c163225856442dc3f5cc5945c531b35dac57
 
 Carlo Domenico Longo de Lemos
 
@@ -76,19 +68,3 @@ São Paulo, São Paulo (Brazil)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/carlo-lemos)
 :::
 ::::
-<<<<<<< HEAD
-
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/_static/contributors/blank_man.jpg" class="rounded-circle">
-
-First Last Name
-
-City, Province (Country)
-
-[{fas}`globe`]()
-[{fab}`github`](https://github.com/)
-[{fab}`twitter`]()
-[{fab}`linkedin-in`](https://www.linkedin.com/in/)
-:::
-::::
-=======
->>>>>>> f3f4c163225856442dc3f5cc5945c531b35dac57
