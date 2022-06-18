@@ -1,5 +1,5 @@
 # Contributors
-## Returning Contributors
+## Invited Contributors
 
 ::::{grid} 2 3 4 5
 :gutter: 1
@@ -35,7 +35,7 @@ Contributor Location
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/99a29cb356ef698288cac8dc509415d1d1420346/_static/contributors/blank_woman.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/main/_static/contributors/blank_woman.jpg" class="rounded-circle">
 
 <!-- This is a comment which won't appear on the rendered site and should not be copied
 when adding yourself as contributor.
@@ -56,7 +56,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<img alt="Image for contributor template" src="https://media-exp1.licdn.com/dms/image/C4E03AQEtHT_U07jUGw/profile-displayphoto-shrink_800_800/0/1641872900950?e=1660780800&v=beta&t=RWiF1VYMIerknTARsjkzaahNEnYs2bNW0fWmPxttyqE" class="rounded-circle">
+<img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/main/_static/contributors/blank_man.jpg" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
 
