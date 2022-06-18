@@ -10,11 +10,8 @@ extensions = [
     "sphinx_thebe",
     "sphinxcontrib.youtube",
     "notfound.extension",
+    "sphinxext.rediraffe",
 ]
-
-thebe_config = {
-   "selector": "div.highlight-ipython3"
-}
 
 # configure notfound extension to not add any prefix to the urls
 notfound_urls_prefix = "/en/latest/"
@@ -23,8 +20,8 @@ notfound_urls_prefix = "/en/latest/"
 templates_path = ["_templates"]
 
 # MyST related params
-jupyter_execute_notebooks = "auto"  # TODO: these two arguments are deprecated in latest myst-nb
-execution_excludepatterns = ["*.ipynb"]
+nb_execution_mode = "auto"
+nb_execution_excludepatterns = ["*.ipynb"]
 myst_enable_extensions = [
     "colon_fence",
     "deflist",
@@ -35,6 +32,15 @@ myst_enable_extensions = [
 ]
 myst_substitutions = {
   "meenal": "Meenal Jhajharia"
+}
+
+# redirections
+rediraffe_redirects = {
+    "webinars/contributing_to_documentation/index.md": "about/contributing_to_documentation/index.md",
+    "webinars/contributing_to_pymc/index.md": "about/contributing_to_pymc/index.md",
+    "webinars/intro_to_array_operations/index.md": "about/intro_to_array_operations/index.md",
+    "webinars/probabilistic_programming_with_pymc/index.md": "about/probabilistic_programming_with_pymc/index.md",
+    "sprint/docstring_tutorial.md": "sprint/tutorials/docstring_tutorial.md",
 }
 
 # use numbered figures
