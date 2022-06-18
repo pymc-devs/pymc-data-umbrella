@@ -56,7 +56,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
+<img alt="Image for contributor template" src="https://media-exp1.licdn.com/dms/image/C4E03AQEtHT_U07jUGw/profile-displayphoto-shrink_800_800/0/1641872900950?e=1660780800&v=beta&t=RWiF1VYMIerknTARsjkzaahNEnYs2bNW0fWmPxttyqE" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
 
@@ -66,5 +66,18 @@ São Paulo, São Paulo (Brazil)
 [{fab}`github`](https://github.com/vitaliset)
 [{fab}`twitter`]()
 [{fab}`linkedin-in`](https://www.linkedin.com/in/carlo-lemos)
+:::
+::::
+
+<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/_static/contributors/blank_man.jpg" class="rounded-circle">
+
+First Last Name
+
+City, Province (Country)
+
+[{fas}`globe`]()
+[{fab}`github`](https://github.com/)
+[{fab}`twitter`]()
+[{fab}`linkedin-in`](https://www.linkedin.com/in/)
 :::
 ::::
