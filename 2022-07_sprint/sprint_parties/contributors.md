@@ -45,7 +45,6 @@ Pay attention to the empty lines! This is Markdown!
 The empty line between the name and the location places them in different lines
 in the rendered output. The *lack* of empty lines between the social links
 keeps them all in the same line -->
-
 Maja Milinkovic
 
 Rochester, NY (USA)
