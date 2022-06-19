@@ -57,7 +57,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<img alt="Image for contributor template" src="src="../../_static/contributors_2022_07/carlo_dll.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/carlo_dll.jpeg" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
 
