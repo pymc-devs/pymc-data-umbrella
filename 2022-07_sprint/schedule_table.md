@@ -1,3 +1,9 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Sessions">
+<meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PYMC">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner.png">
+
+## Schedule
 
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should
@@ -15,3 +21,11 @@ To take part in the upcoming Open Source Working Sessions you should
 | Open Source Post-series Office Hours [^1] | Aug 18 (Saturday)  | 19 ET / 23 UTC          | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/) |
 
 [^1]: Asia-Pacific timeslot
+
+## Schedule with Timezones
+
+[![schedule with timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
+
+## Exportable calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=pymc.devs%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

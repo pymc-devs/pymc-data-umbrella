@@ -1,6 +1,6 @@
 docutils
 pydata_sphinx_theme>=0.6.3
-myst-parser
+myst-parser[linkify]
 myst-nb
 sphinx>=3
 sphinx-copybutton

@@ -2,18 +2,18 @@
 
 ## Become a Community Partner
 
-Community Partners are organizations who support our mission and share our event for outreach.  Data Umbrella will add the Name, Logo and Website Link to this page to bring visibility to your community.  If you would like to be a community partner, please contact us (info@dataumbrella.org).
+Community Partners are organizations who support our mission and share our event for outreach.  Data Umbrella will add the Name, Logo and Website Link to this page to bring visibility to your community.  If you would like to be a community partner, please contact us ({{ du_email }}).
 
 Our event series can be shared in one or more of the following ways:  
-- Share the event website:   https://pymc-data-umbrella.xyz/en/latest/2022-07_sprint/schedule.html
+- Share the event website:   https://pymc-data-umbrella.xyz/en/latest/
 - Share the event registration form:  https://tinyurl.com/du-pymc-os-ws
 - Tweet:  [to be added]
 - LinkedIn post (English): [to be added]
-- Social media card:  https://drive.google.com/file/d/18jwsvoWTxgj-Ex3AQWdK_AtPbgJm0Bm9/view?usp=sharing
+- Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2020_07_banner.png
 - on Slack, Discord, Facebook
 - Email copy
 ```
-We [insert org name] are excited to share that we are a Community Partner with Data Umbrella for their upcoming open source working sessions with the Python library, PyMC.  PyMC is an open-source probabilistic programming language in Python.
+We [insert org name] are excited to share that we are a Community Partner with Data Umbrella for their upcoming open source working sessions with the Python library PyMC.  PyMC is an open-source probabilistic programming language in Python.
 
 This is a beginner-friendly event.  Skills that are helpful to have: Git, GitHub, Markdown, Sphinx, statistics, python, Bayesian statistics.
 
