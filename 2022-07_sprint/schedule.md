@@ -10,6 +10,10 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJ_x4V63aji-WmarsgEyj9eS_Cp0DB5m647TZdNjYj03nPQq0u0Q6eKPGhHrw-8Ugp16KhAg-AgLkK/pubhtml?widget=true&amp;headers=false"></iframe>
 :::
 
+## Schedule with Timezones
+
+<img alt="schedule with timezones" src="../../_static/2022_07/2022_07_timezones.png" class="rounded-circle">
+
 ## Exportable calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=pymc.devs%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
