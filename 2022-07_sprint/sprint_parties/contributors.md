@@ -57,7 +57,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/contributors/blank_man.jpg" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
 
