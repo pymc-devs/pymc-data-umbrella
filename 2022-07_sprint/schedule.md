@@ -12,7 +12,13 @@
 
 ## Schedule with Timezones
 
-<img alt="schedule with timezones" src="../../_static/2022_07/2022_07_timezones.png" class="rounded-circle">
+<p float="left">
+   <a href="https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing">
+<img alt="schedule with timezones" src="../_static/2022_07/2022_07_timezones.png" class="rounded-circle">
+</a>
+</p>
+
+
 
 ## Exportable calendar
 
