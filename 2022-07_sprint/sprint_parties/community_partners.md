@@ -19,3 +19,12 @@ Python Ghana is an organisation of technology enthusiasts who seek to promote an
 
 PyLadies Ghana aims to provide a friendly support network for women and a bridge to the larger Python world.
 :::
+
+:link: https://www.womeninanalytics.com/
+:shadow: none
+:class-card: border-0
+
+![Women in Analytics](../../_static/community_partners/wia.png)
+
+An Analytics Community. Featuring Women. For Everyone.
+:::
