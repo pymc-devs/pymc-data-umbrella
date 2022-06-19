@@ -4,13 +4,10 @@
 :::{include} schedule_table.md
 :::
 
-:::
 
 ## Schedule with Timezones
 
 [![schedule with timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
-
-
 
 ## Exportable calendar
 
