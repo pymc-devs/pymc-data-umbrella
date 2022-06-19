@@ -4,4 +4,3 @@
 :::{include} schedule_table.md
 :::
 
-
