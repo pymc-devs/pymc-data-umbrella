@@ -12,15 +12,17 @@ Our event series can be shared in one or more of the following ways:
 - Social media card:  https://drive.google.com/file/d/18jwsvoWTxgj-Ex3AQWdK_AtPbgJm0Bm9/view?usp=sharing
 - on Slack, Discord, Facebook
 - Email copy
->We [insert org name] are excited to share that we are a Community Partner with Data Umbrella for their upcoming open source working sessions with the Python library, PyMC.  PyMC is an open-source probabilistic programming language in Python.
+```
+We [insert org name] are excited to share that we are a Community Partner with Data Umbrella for their upcoming open source working sessions with the Python library, PyMC.  PyMC is an open-source probabilistic programming language in Python.
 
->This is a beginner-friendly event.  Skills that are helpful to have: Git, GitHub, Markdown, Sphinx, statistics, python, Bayesian statistics.
+This is a beginner-friendly event.  Skills that are helpful to have: Git, GitHub, Markdown, Sphinx, statistics, python, Bayesian statistics.
 
->Additionally, we have a series of videos where participants can watch videos and add timestamps. There are lots of ways to participate and contribute to open source.
+Additionally, we have a series of videos where participants can watch videos and add timestamps. There are lots of ways to participate and contribute to open source.
 
->More information on joining the event:   
+More information on joining the event:   
 a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2022-07_sprint/schedule.html  
 b) Complete this registration form: https://tinyurl.com/du-pymc-os-ws
+```
 
 
 ## Community Partners
