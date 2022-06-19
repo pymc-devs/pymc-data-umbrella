@@ -1,3 +1,5 @@
+from pathlib import Path
+
 # Sphinx configuration build
 # -- General configuration ------------------------------------------------
 extensions = [
@@ -28,10 +30,12 @@ myst_enable_extensions = [
     "dollarmath",
     "amsmath",
     "substitution",
-    "html_image"
+    "html_image",
+    "linkify",
 ]
 myst_substitutions = {
-  "meenal": "Meenal Jhajharia"
+  "meenal": "Meenal Jhajharia",
+  "du_email": "[info@dataumbrella.org](mailto:info@dataumbrella.org)",
 }
 
 # redirections
@@ -41,6 +45,7 @@ rediraffe_redirects = {
     "webinars/intro_to_array_operations/index.md": "about/intro_to_array_operations/index.md",
     "webinars/probabilistic_programming_with_pymc/index.md": "about/probabilistic_programming_with_pymc/index.md",
     "sprint/docstring_tutorial.md": "sprint/tutorials/docstring_tutorial.md",
+    "index.md": "2022-07_sprint/schedule.md",
 }
 
 # use numbered figures
@@ -164,4 +169,23 @@ thebe_config = {
     "repository_branch": "sprint",
     "selector": "div.highlight"
 }
-html_extra_path = ["_html"]
+
+def remove_index(app):
+    """
+    This removes the index pages so rediraffe generates the redirect placeholder
+    It needs to be present initially for the toctree as it defines the navbar.
+    """
+
+    index_file = Path(app.outdir) / "index.html"
+    index_file.unlink()
+
+    app.env.project.docnames -= {"index"}
+    yield "", {}, "layout.html"
+
+
+def setup(app):
+    """
+    Add extra steps to sphinx build
+    """
+
+    app.connect("html-collect-pages", remove_index, 100)

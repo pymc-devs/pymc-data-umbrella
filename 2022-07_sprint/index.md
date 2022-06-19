@@ -1,9 +1,11 @@
-(current_sprint)=
-# July 2022 sprint
+(2022_07/schedule)=
+# July 2022 Open Source Working Session
 
-:::{toctree}
-:maxdepth: 1
-
-Sprint schedule <schedule>
-sprint_parties/index
+:::{include} schedule_table.md
 :::
+
+```{toctree}
+:hidden:
+
+sprint_parties/index
+```
