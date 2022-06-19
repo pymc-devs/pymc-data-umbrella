@@ -1,5 +1,5 @@
 # Contributors
-## Invited Contributors
+## Returning Contributors
 
 ::::{grid} 2 3 4 5
 :gutter: 1
@@ -35,7 +35,7 @@ Contributor Location
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/main/_static/contributors/blank_woman.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/contributors/blank_woman.jpg" class="rounded-circle">
 
 <!-- This is a comment which won't appear on the rendered site and should not be copied
 when adding yourself as contributor.
@@ -45,6 +45,7 @@ Pay attention to the empty lines! This is Markdown!
 The empty line between the name and the location places them in different lines
 in the rendered output. The *lack* of empty lines between the social links
 keeps them all in the same line -->
+
 Maja Milinkovic
 
 Rochester, NY (USA)
@@ -56,7 +57,7 @@ Rochester, NY (USA)
 :::
 ::::
 
-<img alt="Image for contributor template" src="https://github.com/pymc-devs/pymc-data-umbrella/blob/main/_static/contributors/blank_man.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/contributors/blank_man.jpg" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
 
