@@ -45,6 +45,15 @@ Sandy Weng
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/sandy-weng-a0959762)
 :::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle">
+
+Cristina Mulas Lopez
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/cristina-mulas-00321a167/)
+:::
 ::::
 
 ## PyMC Organizers
