@@ -38,9 +38,9 @@ These breakout channels/rooms aren't rigid, you can choose which one you wish to
 - All participants join, the first 10-15 mins are spent with everyone introducing and saying hi
 - Participants are redirected to the board consisting of available issues that they can choose [from here](https://github.com/pymc-devs/pymc/projects/4)
 - If a participant doesn't find a suitable issue here they're encouraged to ask the volunteers for help, who will suggest an issue or task based on their said skills
-- Participants go to breakout rooms and work on their issues, they should make a comment on the issue they're interested in, after which volunteers will update that issue on the Sprint Dashboard for clarity.
+- Participants go to breakout rooms and work on their issues, they should make a comment on the issue they're interested in, after which volunteers will update that issue on the Sprint Dashboard for clarity
 - Volunteers keep alternating between breakout rooms to checkup on Participants, to see if they need help
-- Participants can either wait for someone to come to their breakout room, or text on the discord channel or Zoom chat
+- Participants can go to the "help-desk" channel/room if they have a question
 
 Cheers, have fun folks!
 
