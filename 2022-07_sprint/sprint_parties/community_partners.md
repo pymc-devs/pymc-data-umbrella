@@ -8,7 +8,7 @@ Our event series can be shared in one or more of the following ways:
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
 - Event registration form:  https://tinyurl.com/du-pymc-os-ws
 - Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
-- LinkedIn post: ​​https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656
+- LinkedIn post: ​​https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/
 - Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2020_07_banner.png
 - Meetup event: can share links or cross-post the event with your Meetup group
     - Pre-series Office Hours | Jul 2 (Saturday) | 13 UTC | 1 hour | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)
