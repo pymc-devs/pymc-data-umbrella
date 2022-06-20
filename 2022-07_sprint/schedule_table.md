@@ -1,12 +1,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Sessions">
-<meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PYMC">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner.png">
+<meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png">
 
 ## Schedule
 
 :::{important}
-To take part in the upcoming Open Source Working Sessions you should
+To take part in the upcoming Open Source Working Sessions you should:
 
 1. Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-pymc-os-ws`
 2. RSVP on MeetUp for the events you will be attending (links on table below)
