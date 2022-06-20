@@ -61,6 +61,8 @@ PyLadies Ghana aims to provide a friendly support network for women and a bridge
 ![Women in Analytics](../../_static/community_partners/wia.png)
 
 An Analytics Community. Featuring Women. For Everyone.
+:::
+:::{grid-item-card}
 :link: https://nyc.pyladies.com
 :shadow: none
 :class-card: border-0
@@ -69,5 +71,4 @@ An Analytics Community. Featuring Women. For Everyone.
 
 We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
-:::{grid-item-card}
-:::
+::::
