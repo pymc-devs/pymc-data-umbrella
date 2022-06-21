@@ -3,7 +3,9 @@
 <meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png">
 
-# Schedule
+#
+
+## Schedule
 
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should:
@@ -22,10 +24,10 @@ To take part in the upcoming Open Source Working Sessions you should:
 
 [^1]: Asia-Pacific timeslot
 
-# Schedule with Timezones
+## Schedule with Timezones
 
 [![schedule with timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
 
-# Exportable calendar
+## Exportable calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=pymc.devs%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
