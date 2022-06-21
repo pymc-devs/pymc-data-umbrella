@@ -1,7 +1,7 @@
 (2022_07/schedule)=
 # July 2022 Open Source Working Session
 
-:::{include} schedule_table.md
+:::{include} schedule_table.part.md
 :::
 
 ```{toctree}

@@ -8,6 +8,8 @@
 
 :::{toctree}
 
-schedule
 organizers/index
+:::
+
+:::{include} schedule.part.md
 :::

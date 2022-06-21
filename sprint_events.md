@@ -1,4 +1,4 @@
-# Sprint Events
+# Log of events
 
 The content for all sprint events organized by PyMC and Data Umbrella is available
 here:

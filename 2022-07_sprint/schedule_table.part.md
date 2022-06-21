@@ -3,8 +3,6 @@
 <meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png">
 
-#
-
 ## Schedule
 
 :::{important}
