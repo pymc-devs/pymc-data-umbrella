@@ -67,7 +67,7 @@ There are social media links and text available in the {ref}`Community Partner s
   to avoid "tutorials" as it can be confusing with the content of the documentation webinar.
   If you need some alternative to "webinar" consider using "event" or "workshop" before for example.
 
-## Translating content (set-up in progress)
+## Translating content: volunteers needed 🙌
 
 :::{note}
 We first need to set up the translation infrastructure with sphinx. If you know how to do it or are interested in translating, please reach out.
