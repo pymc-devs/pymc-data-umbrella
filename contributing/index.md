@@ -67,10 +67,6 @@ There are social media links and text available in the {ref}`Community Partner s
   to avoid "tutorials" as it can be confusing with the content of the documentation webinar.
   If you need some alternative to "webinar" consider using "event" or "workshop" before for example.
 
-## Paving the way of new contributors
-
-Help with issue triaging on both [pymc](https://github.com/pymc-devs/pymc) and [pymc-examples](https://github.com/pymc-devs/pymc-examples) repo.
-
 ## Translating content (set-up in progress)
 
 :::{note}
