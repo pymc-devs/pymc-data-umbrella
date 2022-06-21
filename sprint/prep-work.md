@@ -16,7 +16,7 @@ tutorials/pr_tutorial
 :stub-columns: 1
 :widths: 1 4 1 2
 
-* - #
+* - *#*
   - Task
   - Status
   - Notes
