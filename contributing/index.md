@@ -67,7 +67,7 @@ There are social media links and text available in the {ref}`Community Partner s
 
 Help with issue triaging on both [pymc](https://github.com/pymc-devs/pymc) and [pymc-examples](https://github.com/pymc-devs/pymc-examples) repo.
 
-## Translating content
+## Translating content (set-up in progress)
 
 :::{note}
 We first need to set up the translation infrastructure with sphinx. If you know how to do it or are interested in translating, please reach out.
