@@ -55,8 +55,6 @@ There are social media links and text available in the {ref}`Community Partner s
   to the general series of events, use links within this domain for specific links to single
   events or external links (i.e. direct link to webinar or to registration form).
 
-  **DO NOT USE** `pymc-data-umbrella.readthedocs.io` nor `sprint-pymc-data-umbrella.readhedocs.io`
-  domains.
 * Use "events" to refer indistinctively to any event in the series, be it one of the webinars or the
   sprint session.
 * Use "webinars" to refer to the webinars we are hosting in preparation of the sprint. Try
