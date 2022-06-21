@@ -43,9 +43,15 @@ You can use as reference the {ref}`PR Tutorial <pr_tutorial>` which explains how
 
 Share the announcements on social networks, within your personal networks. This will help us to reach more people.
 
-:::{div} sd-text-center sd-fs-3
-[{fab}`twitter`](https://twitter.com/intent/tweet?text=https://pymc-data-umbrella.xyz)
+::::{div} sd-d-flex-row sd-align-major-center
+:::{button-link} https://twitter.com/intent/tweet?text=https://pymc-data-umbrella.xyz
+:color: primary
+:outline:
+:class: btn-lg
+
+Create Tweet {fab}`twitter`
 :::
+::::
 
 There are social media links and text available in the {ref}`Community Partner section <become_community_partner>` which can be shared as well. 
 
