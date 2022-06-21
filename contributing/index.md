@@ -49,7 +49,7 @@ Share the announcements on social networks, within your personal networks. This 
 
 There are social media links and text available in the {ref}`Community Partner section <become_community_partner>` which can be shared as well. 
 
-### Some outreach related advise:
+### Some outreach related advise
 
 * Always use [https://pymc-data-umbrella.xyz](https://pymc-data-umbrella.xyz) when linking
   to the general series of events, use links within this domain for specific links to single
