@@ -1,6 +1,6 @@
 # Support us
 
-If you or your company have the means to support us financially, consider a donation to the organizers.
+If you or your company have the means to support us financially, consider a donation to support our communities.
 
 :::{div} sd-text-center sd-fs-3
 Thanks for your interest in supporting us! {octicon}`heart-fill;2em;sd-text-danger`
