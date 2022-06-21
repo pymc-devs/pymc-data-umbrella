@@ -2,7 +2,7 @@
 
 ## PyMC
 
-PyMC is a non-profit project under NumFOCUS umbrella. If you want to support PyMC financially, you can donate [here](https://numfocus.salsalabs.org/donate-to-pymc3/index.html).
+PyMC is a non-profit project under NumFOCUS umbrella. If you want to support PyMC financially, you can donate [here](https://numfocus.org/donate-to-pymc).
 
 
 ## Data Umbrella
