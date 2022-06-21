@@ -1,3 +1,4 @@
+## Webinars
 
 | Name of Event                 | Date of Event        | Time of Event | Duration      | Speaker           |  Registration form  |
 |-------------------------------|----------------------|---------------|---------------|-------------------|---------------------|
@@ -13,11 +14,11 @@
 [^2]: This is an old (but useful) resource, it uses PyMC3, check {ref}`contributing_to_pymc` for an introduction to PyMC 4.0 
 
 
-# Sprint 
+## Sprint events
 
 | Name of Event                 | Date of Event        | Time of Event | Duration      | Registration form  |
 |-------------------------------|----------------------|---------------|---------------|---------------------|
-| {ref}`Pre Sprint <sprint/schedule>`| February 11, 2022 |  3pm UTC    | 1 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283765923/) |
-| {ref}`sprint` slot 1          | February 18, 2022    |  7pm UTC      | 2 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
-| {ref}`sprint` slot 2          | February 19, 2022    |  10am UTC     | 2 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
-| {ref}`Post Sprint <sprint/schedule>`| February 25, 2022 |  3pm UTC   | 1 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283766699/) |
+| Pre Sprint| February 11, 2022 |  3pm UTC    | 1 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283765923/) |
+| Sprint slot 1          | February 18, 2022    |  7pm UTC      | 2 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
+| Sprint slot 2          | February 19, 2022    |  10am UTC     | 2 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283178769/) |
+| Post Sprint| February 25, 2022 |  3pm UTC   | 1 hours       | [meetup event](https://www.meetup.com/data-umbrella/events/283766699/) |

@@ -1,4 +1,4 @@
-# Sprint parties
+# About
 
 :::{toctree}
 :maxdepth: 2

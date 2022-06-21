@@ -5,10 +5,11 @@
 <meta name="twitter:description" content="More info at pymc-data-umbrella.xyz">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_02/share_banner.png">
 
-TODO: add toctree
 
 :::{toctree}
 
-schedule
 organizers/index
+:::
+
+:::{include} schedule.part.md
 :::

@@ -1,4 +1,4 @@
-# Sprint info
+# Event info
 
 :::{toctree}
 :maxdepth: 1
@@ -14,7 +14,7 @@ resources
 
 ::::{div} sd-fs-5
 :::{tip}
-* **Wondering if the sprint is for you?** We have got just {ref}`the page <decision_tree>`
+* **Wondering if the sessions are for you?** We have got just {ref}`the page <decision_tree>`
 * **Ready to contribute?** Go to {ref}`docstring_tutorial` page
 :::
 ::::
@@ -26,8 +26,8 @@ Data Umbrella is organizing a series of open source working sessions to contribu
 
 ## Goals
 
-In this sprint we’re focusing on bringing in new contributors, we sincerely hope this will be a welcoming, inclusive experience for you into the world of open source software. We hope to help you to the best of our abilities and learn from you as well!
-The sprint will consist of small resolvable issues and contributing to the PyMC documentation, so if you aren’t experienced in software development no worries at all, you can contribute to documentation with knowledge of markdown or statistics.
+In these sessions we’re focusing on bringing in new contributors, we sincerely hope this will be a welcoming, inclusive experience for you into the world of open source software. We hope to help you to the best of our abilities and learn from you as well!
+The session will consist of small resolvable issues and contributing to the PyMC documentation, so if you aren’t experienced in software development no worries at all, you can contribute to documentation with knowledge of markdown or statistics.
 
 ## Requirements
 
@@ -38,7 +38,7 @@ The sprint will consist of small resolvable issues and contributing to the PyMC 
   - You can contribute to documentation with knowledge of markdown and maybe some basic statistics
   - You can contribute to CI/CD issues or Python issues with basic knowledge of programming
   - You can contribute to core codebase with knowledge of Python + Bayesian Statistics
-  - Note: {ref}`Check the sprint cheat sheet <decision_tree>` to know a suitable area of contribution and some resources to prepare you for it
+  - Note: {ref}`Check the event cheat sheet <decision_tree>` to know a suitable area of contribution and some resources to prepare you for it
 
 ## Target Audience
 The following table answers the question **"This sprint is for someone who is/has ..."**

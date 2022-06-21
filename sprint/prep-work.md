@@ -1,4 +1,4 @@
-# Sprint preparation
+# Event preparation
 
 :::{toctree}
 :maxdepth: 1
@@ -16,7 +16,7 @@ tutorials/pr_tutorial
 :stub-columns: 1
 :widths: 1 4 1 2
 
-* - #
+* - *#*
   - Task
   - Status
   - Notes
@@ -44,12 +44,12 @@ tutorials/pr_tutorial
 
 If you need help with any of the previous steps, you will find clear instructions in the {ref}`Environment Setup <environment_setup>` section.
 
-## Sprint day
+## Session day
 
 %TODO: Improve text%
 
 :::{tip}
-To communicate during the sprint, we will be using Discord. The [Using the Discord Server](https://youtu.be/w2A8SknM-68) introduction video contains a brief introduction to the Discord Data Umbrella server with some tips on how to navigate the application.
+To communicate during the session, we will be using Discord. The [Using the Discord Server](https://youtu.be/w2A8SknM-68) introduction video contains a brief introduction to the Discord Data Umbrella server with some tips on how to navigate the application.
 :::
 
 ### Pair programming
