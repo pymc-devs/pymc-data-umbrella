@@ -7,7 +7,7 @@
 
 self
 ../about/contributing_to_pymc/index
-../about/contributing_to_documentation/docs_presentation
+../about/contributing_to_documentation/index
 donate
 :::
 
