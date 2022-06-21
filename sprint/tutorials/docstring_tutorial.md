@@ -168,7 +168,7 @@ docstring. We will therefore ignore the docstrings of the `logcdf`, `get_moment`
       to this. Note the underscore and capitalization!
     - **`Aesara_Op`**: change `Aesara Op`, `Op` and variations to `Aesara_Op`, note
       the underscore and capitalization!
-    - We might also realize we are missing an important alias during the sprint thanks
+    - We might also realize we are missing an important alias thanks
       to your contributions. Check the
       [conf.py](https://github.com/pymc-devs/pymc/blob/main/docs/source/conf.py) file
       from time to time to see if there are new aliases not explained here.

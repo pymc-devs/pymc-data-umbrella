@@ -149,8 +149,8 @@ Click on "Create pull request" and celebrate for a bit 🎉, but the work is not
 ## Get ready for reviews
 
 Now you have to wait for someone on the PyMC team to review. If you have sent the
-PR during sprint hours, we'll get to it fast (but not immediately, we might be
-reviewing someone else's PR!), if you are doing this ahead of of the sprint,
+PR during session hours, we'll get to it fast (but not immediately, we might be
+reviewing someone else's PR!), if you are doing this ahead of the session day,
 it will probably take several hours before someone sees it and reviews it.
 
 We'll probably make some extra comments about things to change, this is not

@@ -1,18 +1,18 @@
 (decision_tree)=
-# Your sprint cheat sheet
-Welcome to this PyMC & Data Umbrella sprint to help you get
+# Your event cheat sheet
+Welcome to this PyMC & Data Umbrella Open Source Working Session to help you get
 started contributing to PyMC.
 
 PyMC is already a mature package with multiple dedicated
 teams within its core contributor base. PyMC welcomes
 many types of contributions and we wanted to
-host a sprint where this "functional" diversity was
+host an event where this "functional" diversity was
 one of the pillars.
 
 We also wanted to allow people from many different backgrounds
-to be able to participate from the sprint, so we eventually
-decided not to do a sprint. Instead, **we are hosting
-a whole series of webinars that culminates with a sprint**!
+to be able to participate in the event, so we eventually
+decided not to do a session. Instead, **we hosted
+a whole series of webinars and multiple Open Source Working Sessions**!
 
 This is very ambitious (though hopefully not too much) and
 can be confusing so we have written this document to help
@@ -48,7 +48,7 @@ paradigm, probabilistic programming and PyMC.
 
 It is divided in two parts. The first half is explanatory of the concepts above.
 The second half goes over some PyMC examples from the community which you can skip.
-They use version 3 of PyMC but the sprint is focused on PyMC version 4.
+They use version 3 of PyMC but the event is focused on PyMC version 4.
 One of the webinars of the series is about using PyMC which goes in much more detail.
 
 :::{youtube} 6dc7JgR8eI0
@@ -90,12 +90,12 @@ Watch the webinar {ref}`contributing_to_pymc`
 ## Have you already contributed to PyMC?
 If you haven't, we recommend reading this tutorial: {ref}`docstring_tutorial`.
 It covers all the steps from zero to submitting a pull request improving
-a docstring. We belive this will help you become familiar with
+a docstring. We believe this will help you become familiar with
 Git, GitHub, and the whole contributing process quickly so you can then
 focus on the content of your contributions, not struggle with the
 tooling.
 
-## Planning to participate from the sprint?
+## Planning to participate in the event?
 
 Register as attendee on the [Meetup event](https://www.meetup.com/data-umbrella/events/283178769/),
 join Discord, watch [Discord intro video by DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)
