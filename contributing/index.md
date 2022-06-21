@@ -72,6 +72,5 @@ Help with issue triaging on both [pymc](https://github.com/pymc-devs/pymc) and [
 :::{note}
 We first need to set up the translation infrastructure with sphinx. If you know how to do it or are interested in translating, please reach out.
 
-If you'd like to volunteer with translations only, let us know too, but we ask you to be
-patient for now. There is nothing yet for translators to work on.
+In the meantime, if you would to volunteer for translations, please add your information to [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99) on GitHub. We will be in touch when we are ready to move forward on this project.
 :::
