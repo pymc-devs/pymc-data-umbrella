@@ -30,7 +30,7 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
     ```
 
 1. Open this file: `2022-07_sprint/sprint_parties/contributors.md`
-1. Copy the template to the relevant section and update it with your personal info.
+1. Paste the template to the relevant section and update it with your personal info.
 
     :::{important}
     * Copy everything. The opening and closing _3 colon fences_ (`:::`) are necessary
