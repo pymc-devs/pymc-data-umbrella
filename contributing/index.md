@@ -9,7 +9,7 @@ self
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
 donate
-../../sprint_parties/media_kit
+../2022-07_sprint/sprint_parties/media_kit
 :::
 
 ## Help us improve this website
@@ -54,7 +54,7 @@ Create Tweet {fab}`twitter`
 :::
 ::::
 
-There are social media links and text available in our {ref}`Social Media Kit`<media_kit> with information for sharing with your network.
+There are social media links and text available in our {ref}`media_kit` with information for sharing with your network.
 
 ### Some outreach related advise
 

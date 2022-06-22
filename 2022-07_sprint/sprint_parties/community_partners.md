@@ -5,7 +5,7 @@
 
 Community Partners are organizations who support our mission and share our event for outreach.  Data Umbrella will add the Name, Logo and Website Link to this page to bring visibility to your community.  If you would like to be a community partner, please contact us ({{ du_email }}).
 
-We are providing a [Social Media Kit](media_kit) with information for sharing with your community. 
+We are providing a {ref}`media_kit` with information for sharing with your community.
 
 ## Community Partners
 
