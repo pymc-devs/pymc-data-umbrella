@@ -46,7 +46,7 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
     :::
 
     If you do not want to share a website, GitHub, Twitter and/or LinkedIn,
-    those lines can be deleted, keeping an eye on not leaving emtpy lines between icons+links.
+    those lines can be deleted, keeping an eye on not leaving empty lines between icons+links.
 
 1. Commit your changes and open a Pull Request
 
