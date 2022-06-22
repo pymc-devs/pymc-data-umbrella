@@ -9,6 +9,7 @@ self
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
 donate
+../../sprint_parties/media_kit
 :::
 
 ## Help us improve this website
