@@ -14,21 +14,30 @@ This is our official hashtag and can be used on social media (Twitter, LinkedIn,
 | Organization   | Twitter  |  LinkedIn | Facebook | Instagram       | Discourse      |
 |----------------|----------|-----------|----------|-----------------|----------------|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Data Umbrella  | [@DataUmbrella](https://twitter.com/DataUmbrella) |  [dataumbrella](https://www.linkedin.com/company/dataumbrella/) | [data.umbrella.dei](https://www.facebook.com/data.umbrella.dei) | [@data.umbrella](https://www.instagram.com/data.umbrella/)  | N/A | 
 | PyMC Dev  | [@pymc_devs](https://twitter.com/pymc_devs) |  [pymc](https://www.linkedin.com/company/pymc/mycompany/) | N/A | N/A  |  [pymc.io](https://discourse.pymc.io)
 =======
 | Data Umbrella  | [@DataUmbrella](https://twitter.com/DataUmbrella) |  [dataumbrella](https://www.linkedin.com/company/dataumbrella/) | [data.umbrella.dei](https://www.facebook.com/data.umbrella.dei) | [@data.umbrella](https://www.instagram.com/data.umbrella/)  | N/A |
 | PyMC  | [@pymc_devs](https://twitter.com/pymc_devs) |  [pymc](https://www.linkedin.com/company/pymc/mycompany/) | N/A | N/A  |  [discourse.pymc.io](https://discourse.pymc.io)
 >>>>>>> 73a172e51324848978e91cc58add970a60a71997
+=======
+| Data Umbrella  | [@DataUmbrella](https://twitter.com/DataUmbrella) |  [dataumbrella](https://www.linkedin.com/company/dataumbrella/) | [data.umbrella.dei](https://www.facebook.com/data.umbrella.dei) | [@data.umbrella](https://www.instagram.com/data.umbrella/)  | N/A |
+| PyMC  | [@pymc_devs](https://twitter.com/pymc_devs) |  [pymc](https://www.linkedin.com/company/pymc/mycompany/) | N/A | N/A  |  [discourse.pymc.io](https://discourse.pymc.io)
+>>>>>>> e12e1057af77ab41bb368fc9ccc5a0fb6458d050
 
 
 ## Share Our Events
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Our event series can be shared in one or more of the following ways:  
 =======
 Our event series can be shared in one or more of the following ways:
 >>>>>>> 73a172e51324848978e91cc58add970a60a71997
+=======
+Our event series can be shared in one or more of the following ways:
+>>>>>>> e12e1057af77ab41bb368fc9ccc5a0fb6458d050
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
 - Event registration form:  https://tinyurl.com/du-pymc-os-ws
 - Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
@@ -68,7 +77,11 @@ Our event series can be shared in one or more of the following ways:
 **Acknowledgement**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 We would like to thank [Pollicy](https://pollicy.org) for sharing their [DataFest Africa](https://datafest.africa) media kit as a resource to the community.
 =======
 We would like to thank [Pollicy](https://pollicy.org) for sharing their [DataFest Africa](https://datafest.africa) media kit as a resource to the community.
 >>>>>>> 73a172e51324848978e91cc58add970a60a71997
+=======
+We would like to thank [Pollicy](https://pollicy.org) for sharing their [DataFest Africa](https://datafest.africa) media kit as a resource to the community.
+>>>>>>> e12e1057af77ab41bb368fc9ccc5a0fb6458d050

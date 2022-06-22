@@ -10,10 +10,14 @@ self
 ../about/contributing_to_documentation/index
 donate
 <<<<<<< HEAD
+<<<<<<< HEAD
 ../../sprint_parties/media_kit
 =======
 ../2022-07_sprint/sprint_parties/media_kit
 >>>>>>> 73a172e51324848978e91cc58add970a60a71997
+=======
+../2022-07_sprint/sprint_parties/media_kit
+>>>>>>> e12e1057af77ab41bb368fc9ccc5a0fb6458d050
 :::
 
 ## Help us improve this website
@@ -59,10 +63,14 @@ Create Tweet {fab}`twitter`
 ::::
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 There are social media links and text available in our {ref}`Social Media Kit`<media_kit> with information for sharing with your network.
 =======
 There are social media links and text available in our {ref}`media_kit` with information for sharing with your network.
 >>>>>>> 73a172e51324848978e91cc58add970a60a71997
+=======
+There are social media links and text available in our {ref}`media_kit` with information for sharing with your network.
+>>>>>>> e12e1057af77ab41bb368fc9ccc5a0fb6458d050
 
 ### Some outreach related advise
 
