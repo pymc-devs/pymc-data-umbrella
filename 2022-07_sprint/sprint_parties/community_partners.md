@@ -52,7 +52,7 @@ We are the New York City chapter of PyLadies, an international community of wome
 :shadow: none
 :class-card: border-0
 
-![Python Ghana](../../_static/community_partners/logo_pyladies_berlin.png)
+![PyLadies Berlin](../../_static/community_partners/logo_pyladies_berlin.png)
 
 PyLadies Berlin helps women and non-binary people to become active participants and leaders in the Python community.
 :::
