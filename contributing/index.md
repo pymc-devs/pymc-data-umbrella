@@ -53,7 +53,7 @@ Create Tweet {fab}`twitter`
 :::
 ::::
 
-There are social media links and text available in the {ref}`Community Partner section <become_community_partner>` which can be shared as well. 
+There are social media links and text available in our {ref}`Social Media Kit`<media_kit> with information for sharing with your network.
 
 ### Some outreach related advise
 

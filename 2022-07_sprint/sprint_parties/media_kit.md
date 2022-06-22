@@ -1,17 +1,20 @@
+(media_kit)=
 # Social Media Kit
 
-(media_kit)=
-
 ## Event Hashtag
+This is our official hashtag and can be used on social media (Twitter, LinkedIn, Instagram, etc.)
 
-#DataUmbrellaPyMCSprint
+:::{div} sd-text-center sd-fs-3
+#DataUmbrellaPyMCSprint {material-sharp}`favorite;2em;sd-text-danger`
+:::
+
 
 ## Social Media Accounts
 
 | Organization   | Twitter  |  LinkedIn | Facebook | Instagram       | Discourse      |
 |----------------|----------|-----------|----------|-----------------|----------------|
 | Data Umbrella  | [@DataUmbrella](https://twitter.com/DataUmbrella) |  [dataumbrella](https://www.linkedin.com/company/dataumbrella/) | [data.umbrella.dei](https://www.facebook.com/data.umbrella.dei) | [@data.umbrella](https://www.instagram.com/data.umbrella/)  | N/A | 
-| PyMC Dev  | [@DataUmbrella](https://twitter.com/pymc_devs) |  [pymc](https://www.linkedin.com/company/pymc/mycompany/) | N/A | [pymc.io](https://discourse.pymc.io)  |
+| PyMC Dev  | [@pymc_devs](https://twitter.com/pymc_devs) |  [pymc](https://www.linkedin.com/company/pymc/mycompany/) | N/A | N/A  |  [pymc.io](https://discourse.pymc.io)
 
 
 ## Share Our Events
@@ -20,7 +23,7 @@ Our event series can be shared in one or more of the following ways:
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
 - Event registration form:  https://tinyurl.com/du-pymc-os-ws
 - Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
-- LinkedIn post: ​​https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/
+- LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)
 - Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png
 - Meetup event: can share links or cross-post the event with your Meetup group
     - Pre-series Office Hours | Jul 2 (Saturday) | 13 UTC | 1 hour | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)
@@ -51,6 +54,8 @@ Our event series can be shared in one or more of the following ways:
 - Data Umbrella: [Brand and Logo](https://github.com/data-umbrella/info)
 - PyMC Devs:  [Brand & Logo](https://github.com/pymc-devs/brand)
 
-### Acknowledgment
+---
+
+**Acknowledgement**
 
 We would like to thank [Pollicy](https://pollicy.org) for sharing their [DataFest Africa](https://datafest.africa) media kit as a resource to the community.
