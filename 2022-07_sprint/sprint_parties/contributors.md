@@ -1,19 +1,58 @@
 # Contributors
+
+::::{dropdown} Add yourself as a contributor to the OS Working Session
+:icon: person-add
+
+The template shown rendered below for the Data Umbrella logo is available here
+to help you copy it and add yourself to the contributor list.
+
+Steps to follow are only mentioned here. For an extensive tutorial you can
+read the page {ref}`pr_tutorial` and follow the steps mentioned below:
+
+1. Fork and clone the repo. You can get to the repo on GitHub with the icon on the top right of the page
+1. Create a feature branch.
+1. Copy the contributor card template:
+
+    ```
+    :::{grid-item}
+
+    <img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
+
+    Contributor Name
+
+    Contributor Location
+
+    [{fas}`globe`](https://www.dataumbrella.org/)
+    [{fab}`github`](https://github.com/data-umbrella)
+    [{fab}`twitter`](https://twitter.com/DataUmbrella)
+    [{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
+    :::
+    ```
+
+1. Open this file: `2022-07_sprint/sprint_parties/contributors.md`
+1. Copy the template to the relevant section and update it with your personal info.
+
+    :::{important}
+    * Copy everything. The opening and closing _3 colon fences_ (`:::`) are necessary
+    * Paste your card **under** the last card available (that is, after the last `:::`)
+      but **above** the end of the grid (that is, before the one with 4 colons `::::`)
+    * Empty lines are important for rendering. The empty line between "Contributor Name"
+      and "Contributor Location" places them in different lines when rendering.
+      The _lack_ of empty line between the multiple icons places them in the same
+      line when rendering the website.
+    * The image can be added to the repo as part of the PR or be an external link
+      like in the template. But it needs to be a square image.
+    :::
+
+1. Commit your changes and open a Pull Request
+
+::::
+
 ## Returning Contributors
 
 ::::{grid} 2 3 4 5
 :gutter: 1
 
-<!-- This is a comment which won't appear on the rendered site and should not be copied
-when adding yourself as contributor.
-
-Pay attention to the empty lines! This is Markdown!
-
-The empty line between the name and the location places them in different lines
-in the rendered output. The *lack* of empty lines between the social links
-keeps them all in the same line
-
-Start copying at the line below -->
 :::{grid-item}
 
 <img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
@@ -27,11 +66,6 @@ Contributor Location
 [{fab}`twitter`](https://twitter.com/DataUmbrella)
 [{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
 :::
-<!-- Finish copying at the line above.
-
-Your picture and name will be an item inside the grid,
-all the content should be between the 3 colon fences (:::).
-The 4 colon fences (::::, in the line below) open and close the grid itself -->
 ::::
 
 ## New Contributors
