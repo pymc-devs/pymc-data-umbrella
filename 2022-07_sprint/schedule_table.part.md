@@ -10,6 +10,8 @@ To take part in the upcoming Open Source Working Sessions you should:
 
 1. Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-pymc-os-ws`
 2. RSVP on MeetUp for the events you will be attending (links on table below)
+
+Note:   It is *not required* to attend a specific session as a prerequisite for other sessions.  Ideally, it is beneficial if folks can attend as many sessions as they can, to build up their open source skills and familiarity with the PyMC project.
 :::
 
 | Event                                     | Date               | Time                    | Duration |  RSVP       |
@@ -23,6 +25,8 @@ To take part in the upcoming Open Source Working Sessions you should:
 [^1]: Asia-Pacific timeslot
 
 ## Schedule with Timezones
+
+Note: You can click on the table image below to view the full spreadsheet with a larger view.
 
 [![schedule with timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
 
