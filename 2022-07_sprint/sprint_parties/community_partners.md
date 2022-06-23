@@ -56,4 +56,14 @@ We are the New York City chapter of PyLadies, an international community of wome
 
 PyLadies Berlin helps women and non-binary people to become active participants and leaders in the Python community.
 :::
+
+:::{grid-item-card}
+:link: https://www.meetup.com/pyladies-tunis/
+:shadow: none
+:class-card: border-0
+
+![PyLadies Tunis](../../_static/community_partners/pyladies_tunis.png)
+
+PyLadies Tunis is an initiative under the Python Software Community. We want to maintain a friendly support network for women and all of those who are interested in Python.
+:::
 ::::
