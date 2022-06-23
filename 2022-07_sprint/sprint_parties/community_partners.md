@@ -47,4 +47,13 @@ An Analytics Community. Featuring Women. For Everyone.
 
 We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
+:::{grid-item-card}
+:link: https://berlin.pyladies.com/
+:shadow: none
+:class-card: border-0
+
+![PyLadies Berlin](../../_static/community_partners/logo_pyladies_berlin.png)
+
+PyLadies Berlin helps women and non-binary people to become active participants and leaders in the Python community.
+:::
 ::::
