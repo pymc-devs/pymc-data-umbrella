@@ -31,7 +31,7 @@ Oriol Abril Pla is a Bayesian statistics and open source software enthusiast cur
 He is also a member of the ArviZ and PyMC teams, where he dedicates most of his efforts
 to documentation and community management.
 
-- Personal website: https://oriolabril.github.io/oriol_unraveled/
+- Personal website: https://oriolabrilpla.cat
 - LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/
 - Twitter: https://twitter.com/OriolAbril
 - GitHub: https://github.com/OriolAbril
