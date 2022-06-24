@@ -66,4 +66,14 @@ PyLadies Berlin helps women and non-binary people to become active participants 
 
 PyLadies Tunis is an initiative under the Python Software Community. We want to maintain a friendly support network for women and all of those who are interested in Python.
 :::
+
+:::{grid-item-card}
+:link: https://www.meetup.com/pyladiesparis/
+:shadow: none
+:class-card: border-0
+
+![PyLadies Paris](../../_static/community_partners/pyladies_paris.png)
+
+We're PyLadies Paris! We organize meetups, workshops and gatherings around Python for women in Paris and online. We aim to share experience and good practices, learn, and be a friendly community for Python enthusiasts!
+:::
 ::::
