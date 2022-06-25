@@ -135,6 +135,17 @@ Thomas Wiecki
 [{fab}`github`][thomas_github]
 [{fab}`twitter`][thomas_twitter]
 :::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Sayam" src="../../_static/people/sayam_kumar.jpeg" class="rounded-circle">
+
+Sayam Kumar
+
+[{fas}`globe`](https://codingpaths.com/)
+[{fab}`github`](https://github.com/Sayam753)
+[{fab}`twitter`](https://twitter.com/sayamkumar753)
+:::
 ::::
 
 ## About PyMC and Data Umbrella
