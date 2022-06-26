@@ -101,7 +101,7 @@ São Paulo, São Paulo (Brazil)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_woman.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Mariya
 
