@@ -99,4 +99,15 @@ São Paulo, São Paulo (Brazil)
 [{fab}`github`](https://github.com/vitaliset)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/carlo-lemos)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_woman.jpg" class="rounded-circle">
+
+Mariya
+
+(USA)
+
+[{fab}`github`](https://github.com/mariyayb)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/mariya-b/)
+:::
 ::::
