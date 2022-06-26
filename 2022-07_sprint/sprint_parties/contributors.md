@@ -101,17 +101,6 @@ São Paulo, São Paulo (Brazil)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_woman.jpg" class="rounded-circle">
-
-Mariya
-
-North America
-
-[{fab}`github`](https://github.com/mariyayb)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/mariya-b)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors/blank_man.jpg" 
 class="rounded-circle">
 
