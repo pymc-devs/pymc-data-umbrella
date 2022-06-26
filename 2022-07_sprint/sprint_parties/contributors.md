@@ -121,4 +121,16 @@ Winneba, Central Region (Ghana)
 [{fab}`github`](https://github.com/elijah-appiah)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/appiah-elijah-383231123/)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Cynthia Allan-Gyimah
+
+Accra, Accra (Ghana)
+
+[{fab}`github`](https://github.com/gimah)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/cynthia-allan-gyimah-b6582b24/)
+[{fab}`twitter`](https://twitter.com/GyimahCynthia?t=R7bRByU9P3CkxDVC6l8cDQ&s=09)
+:::
 ::::
