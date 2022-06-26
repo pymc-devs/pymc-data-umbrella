@@ -76,4 +76,24 @@ PyLadies Tunis is an initiative under the Python Software Community. We want to 
 
 We're PyLadies Paris! We organize meetups, workshops and gatherings around Python for women in Paris and online. We aim to share experience and good practices, learn, and be a friendly community for Python enthusiasts!
 :::
+
+:::{grid-item-card}
+:link: https://twitter.com/pyladies_co
+:shadow: none
+:class-card: border-0
+
+![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)
+
+We are a community that motivates women to use technology and code. Everyone is welcome here, and it is a diverse and inclusive group.
+:::
+
+:::{grid-item-card}
+:link: https://wbds.la
+:shadow: none
+:class-card: border-0
+
+![Women in Bioinformatics & Data Science LA (Latin America)](../../_static/community_partners/wbds_latin_america.png)
+
+Fostering collaboration among women.
+:::
 ::::
