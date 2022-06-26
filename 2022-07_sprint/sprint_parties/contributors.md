@@ -105,6 +105,8 @@ São Paulo, São Paulo (Brazil)
 
 Mariya
 
+North America
+
 [{fab}`github`](https://github.com/mariyayb)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/mariya-b)
 :::
