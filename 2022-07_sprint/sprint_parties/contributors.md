@@ -113,7 +113,7 @@ North America
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_man.jpg" 
- class="rounded-circle">
+class="rounded-circle">
 
 Elijah Appiah
 
