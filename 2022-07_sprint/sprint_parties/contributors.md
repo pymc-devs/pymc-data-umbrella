@@ -133,4 +133,45 @@ Accra, Accra (Ghana)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/cynthia-allan-gyimah-b6582b24/)
 [{fab}`twitter`](https://twitter.com/GyimahCynthia?t=R7bRByU9P3CkxDVC6l8cDQ&s=09)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Emmanuel Saah
+
+Accra, Greater Accra (Ghana)
+
+[{fab}`github`](https://github.com/kweku-annan)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/emmanuel-saah)
+[{fab}`twitter`](https://twitter.com/KwekuAnnanSaah)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Raphael Okai
+
+Accra, Greater Accra (Ghana)
+
+[{fab}`github`](https://github.com/JayRalph360)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/raphael-okai-b136281b9)
+[{fab}`twitter`](https://twitter.com/@JayRalph360)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Samuel
+
+Accra (Ghana)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Vaishnavi Patil
+
+[{fab}`github`](https://www.github.com/vaishnavipatil4848)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/vaishnavi-patil-8522731a7)
+:::
 ::::
