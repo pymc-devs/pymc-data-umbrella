@@ -96,4 +96,14 @@ We are a community that motivates women to use technology and code. Everyone is 
 
 Fostering collaboration among women.
 :::
+
+:::{grid-item-card}
+:link: https://www.meetup.com/pyladieslondon/
+:shadow: none
+:class-card: border-0
+
+![PyLadies London](../../_static/community_partners/pyladies_london.png)
+
+We are a mentorship group for marginalized genders on a mission is to promote, educate and advance a diverse Python community.
+:::
 ::::
