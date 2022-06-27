@@ -8,7 +8,7 @@ Community Partners are organizations who support our mission and share our event
 We are providing a social media kit with information for sharing with your community:
 
 ::::{div} sd-d-flex-row sd-align-major-center
-:::{button-ref} media_kit
+:::{button-ref} media_kit_ref
 :color: primary
 :ref-type: myst
 :class: sd-fs-5
