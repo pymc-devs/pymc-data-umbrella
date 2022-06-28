@@ -259,4 +259,58 @@ Callistus Ndemo
 [{fab}`linkedin-in`](https://www.linkedin.com/in/ndemo/)
 [{fab}`twitter`](https://twitter.com/callistusndemo)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Andrianina David Raharijao
+
+NYC, United States
+
+New contributor
+
+[{fab}`github`](https://github.com/Raharijao)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Rowan Gayle Schaefer
+
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Abhilash Babu
+
+Germany
+
+New contributor
+
+[{fab}`github`](https://github.com/abhilb)
+[{fab}`twitter`](https://twitter.com/abhilb)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/abhilb)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Vikas Vishwakarma
+
+Bhopal, Madhya Pradesh, India
+
+New contributor
+
+[{fab}`github`](https://github.com/Icyshaman)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)
+:::
+:::{grid-item}
+
+Daniel Saunders
+
+[{fab}`github`](github.com/daniel-saunders-phil)
+[{fab}`twitter`](twitter.com/carolbasknrobns)
+:::
 ::::
