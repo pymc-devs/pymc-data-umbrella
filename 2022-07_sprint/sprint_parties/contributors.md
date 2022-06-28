@@ -70,6 +70,15 @@ Contributor Location
 [{fab}`twitter`](https://twitter.com/DataUmbrella)
 [{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Alihan Zihna
+
+Dublin (Ireland)
+
+:::
 ::::
 
 ## New Contributors
@@ -221,14 +230,6 @@ Surrey	Egham, Surrey (UK)
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Senst
-
-Berlin
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
 Zoe Braiterman
 
 New York, New York (USA)
@@ -247,15 +248,6 @@ Los Angeles, CA (USA)
 
 [{fab}`github`](https://github.com/ethantran8714)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/ethantran8714/)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Alihan Zihna
-
-Dublin (Ireland)
-
 :::
 :::{grid-item}
 
