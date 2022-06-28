@@ -310,7 +310,7 @@ New contributor
 
 Daniel Saunders
 
-[{fab}`github`](github.com/daniel-saunders-phil)
-[{fab}`twitter`](twitter.com/carolbasknrobns)
+[{fab}`github`](https://github.com/daniel-saunders-phil)
+[{fab}`twitter`](https://twitter.com/carolbasknrobns)
 :::
 ::::
