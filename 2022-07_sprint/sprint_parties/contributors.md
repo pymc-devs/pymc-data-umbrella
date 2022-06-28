@@ -70,6 +70,15 @@ Contributor Location
 [{fab}`twitter`](https://twitter.com/DataUmbrella)
 [{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Alihan Zihna
+
+Dublin (Ireland)
+
+:::
 ::::
 
 ## New Contributors
@@ -216,5 +225,38 @@ Surrey	Egham, Surrey (UK)
 [{fab}`github`](https://www.github.com/saurbhc)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/saurabhchopraa/)
 [{fab}`twitter`](https://twitter.com/saurabhchopraa)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Zoe Braiterman
+
+New York, New York (USA)
+
+[{fab}`github`](https://github.com/zbraiterman)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/zoebraiterman/)
+[{fab}`twitter`](https://twitter.com/zbraiterman)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Ethan
+
+Los Angeles, CA (USA)
+
+[{fab}`github`](https://github.com/ethantran8714)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/ethantran8714/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Callistus Ndemo
+
+[{fab}`github`](https://github.com/callistusndemo)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/ndemo/)
+[{fab}`twitter`](https://twitter.com/callistusndemo)
 :::
 ::::
