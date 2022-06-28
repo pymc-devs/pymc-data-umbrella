@@ -146,6 +146,18 @@ Sayam Kumar
 [{fab}`github`](https://github.com/Sayam753)
 [{fab}`twitter`](https://twitter.com/sayamkumar753)
 :::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Danh Phan" src="../../_static/people/danh_phan.jpeg" class="rounded-circle">
+
+Danh Phan
+
+[{fas}`globe`][danh_web]
+[{fab}`github`][danh_github]
+[{fab}`twitter`][danh_twitter]
+[{fab}`linkedin-in`][danh_linkedin]
+:::
 ::::
 
 ## About PyMC and Data Umbrella
@@ -164,3 +176,7 @@ Sayam Kumar
 [thomas_work]: https://www.pymc-labs.io/team/thomas-wiecki/
 [thomas_github]: https://github.com/twiecki
 [thomas_twitter]: https://twitter.com/twiecki
+[danh_web]: https://danhphan.github.io
+[danh_github]: https://github.com/danhphan
+[danh_twitter]: https://twitter.com/danhpt
+[danh_linkedin]: https://www.linkedin.com/in/danhpt
