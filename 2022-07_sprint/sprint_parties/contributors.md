@@ -308,6 +308,8 @@ New contributor
 :::
 :::{grid-item}
 
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
 Daniel Saunders
 
 [{fab}`github`](https://github.com/daniel-saunders-phil)
