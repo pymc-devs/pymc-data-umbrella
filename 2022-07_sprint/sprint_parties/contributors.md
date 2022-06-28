@@ -267,8 +267,6 @@ Andrianina David Raharijao
 
 NYC, United States
 
-New contributor
-
 [{fab}`github`](https://github.com/Raharijao)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
 :::
@@ -287,8 +285,6 @@ Abhilash Babu
 
 Germany
 
-New contributor
-
 [{fab}`github`](https://github.com/abhilb)
 [{fab}`twitter`](https://twitter.com/abhilb)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/abhilb)
@@ -300,8 +296,6 @@ New contributor
 Vikas Vishwakarma
 
 Bhopal, Madhya Pradesh, India
-
-New contributor
 
 [{fab}`github`](https://github.com/Icyshaman)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)
