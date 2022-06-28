@@ -267,8 +267,6 @@ Andrianina David Raharijao
 
 NYC, United States
 
-New contributor
-
 [{fab}`github`](https://github.com/Raharijao)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
 :::
