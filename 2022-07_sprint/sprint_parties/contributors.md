@@ -285,8 +285,6 @@ Abhilash Babu
 
 Germany
 
-New contributor
-
 [{fab}`github`](https://github.com/abhilb)
 [{fab}`twitter`](https://twitter.com/abhilb)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/abhilb)
