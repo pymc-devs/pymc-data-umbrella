@@ -174,4 +174,47 @@ Vaishnavi Patil
 [{fab}`github`](https://www.github.com/vaishnavipatil4848)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/vaishnavi-patil-8522731a7)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Juan Pablo Ibieta Jimenez
+
+São Paulo, SP (Brasil)
+
+[{fab}`github`](https://www.github.com/pibieta)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/pibieta)
+[{fab}`twitter`](https://twitter.com/pabloibieta)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Qwadwo Nyamekye
+
+Accra, Greater Accra Region (Ghana)
+
+[{fab}`github`](https://www.github.com/QwadwoNyamekye)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/david-oppong-nkrumah)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Senst
+
+Berlin
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Saurabh Egham
+
+Surrey	Egham, Surrey (UK)
+
+[{fab}`github`](https://www.github.com/saurbhc)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/saurabhchopraa/)
+[{fab}`twitter`](https://twitter.com/saurabhchopraa)
+:::
 ::::
