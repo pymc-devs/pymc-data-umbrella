@@ -297,8 +297,6 @@ Vikas Vishwakarma
 
 Bhopal, Madhya Pradesh, India
 
-New contributor
-
 [{fab}`github`](https://github.com/Icyshaman)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)
 :::
