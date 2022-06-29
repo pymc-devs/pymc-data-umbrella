@@ -59,25 +59,21 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
-
-Contributor Name
-
-Contributor Location
-
-[{fas}`globe`](https://www.dataumbrella.org/)
-[{fab}`github`](https://github.com/data-umbrella)
-[{fab}`twitter`](https://twitter.com/DataUmbrella)
-[{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Alihan Zihna
 
 Dublin (Ireland)
+:::
+:::{grid-item}
 
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Lucy Jimenez
+
+[{fab}`github`](https://github.com/LucyJimenez	)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
+[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 :::
 ::::
 
@@ -274,8 +270,98 @@ NYC, United States
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Rowan Gayle Schaefer
+Nthabiseng Khabele Mafereka
 
+[{fab}`github`](https://github.com/khabele)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/nthabiseng-khabele-194832151/)
+[{fab}`twitter`](https://twitter.com/Z22Nthaby)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Igor Kuvychko
+
+Portland, OR (USA)
+
+[{fab}`github`](https://github.com/kuvychko)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/igor-kuvychko-09ba759/)
+[{fab}`twitter`](https://twitter.com/IgorKuvychko)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Exmeralda
+
+Winneba Buduata (Ghana)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Safalta Kundra
+
+Nagpur, Maharashtra (India)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Arun Ravi
+
+Pune, Maharashtra (India)
+
+[{fab}`github`](https://github.com/haricash)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/haricash/)
+[{fab}`twitter`](https://twitter.com/haricash)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Jonathan Lindbloom
+
+Los Alamos, NM (USA)
+
+[{fab}`github`](https://github.com/jlindbloom)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/jonathanlindbloom-77232917/)
+[{fab}`twitter`](https://twitter.com/qed404)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Benjamin Datko
+
+[{fab}`github`](https://github.com/bdatko)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/bdatko-23802891/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Bratipah Kioko
+
+Kenya
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+
+Rowan Gayle Schaefer
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Dustin Burt
+
+Columbus, Ohio (USA)
+
+[{fab}`github`](https://github.com/dmburt)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/dustin-matthew-burt-760b112/)
 :::
 :::{grid-item}
 
@@ -293,6 +379,18 @@ Germany
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
+Jon Labahn
+
+Naples, Florida (USA)
+
+[{fab}`github`](https://github.com/Jon369)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/jon-labahn-jr/)
+[{fab}`twitter`](https://twitter.com/JLabahnJr)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
 Vikas Vishwakarma
 
 Bhopal, Madhya Pradesh, India
@@ -304,9 +402,41 @@ Bhopal, Madhya Pradesh, India
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
+Margaret Chege
+
+Kenya
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Ivan Finaev
+
+Moscow (Russia)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Nick Nyanjui
+
+Nairobi (Kenya)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
 Daniel Saunders
 
 [{fab}`github`](https://github.com/daniel-saunders-phil)
 [{fab}`twitter`](https://twitter.com/carolbasknrobns)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Yuan Li
+
+New York
 :::
 ::::
