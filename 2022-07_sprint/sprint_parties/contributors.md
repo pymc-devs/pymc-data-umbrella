@@ -59,25 +59,21 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
-
-Contributor Name
-
-Contributor Location
-
-[{fas}`globe`](https://www.dataumbrella.org/)
-[{fab}`github`](https://github.com/data-umbrella)
-[{fab}`twitter`](https://twitter.com/DataUmbrella)
-[{fab}`linkedin-in`](https://www.linkedin.com/company/dataumbrella/)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Alihan Zihna
 
 Dublin (Ireland)
+:::
+:::{grid-item}
 
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Lucy Jimenez
+
+[{fab}`github`](https://github.com/LucyJimenez	)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
+[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 :::
 ::::
 
@@ -263,6 +259,17 @@ Callistus Ndemo
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
+Andrianina David Raharijao
+
+NYC, United States
+
+[{fab}`github`](https://github.com/Raharijao)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
 Nthabiseng Khabele Mafereka
 
 [{fab}`github`](https://github.com/khabele)
@@ -342,12 +349,31 @@ Kenya
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
+
+Rowan Gayle Schaefer
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
 Dustin Burt
 
 Columbus, Ohio (USA)
 
 [{fab}`github`](https://github.com/dmburt)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/dustin-matthew-burt-760b112/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Abhilash Babu
+
+Germany
+
+[{fab}`github`](https://github.com/abhilb)
+[{fab}`twitter`](https://twitter.com/abhilb)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/abhilb)
 :::
 :::{grid-item}
 
@@ -360,6 +386,17 @@ Naples, Florida (USA)
 [{fab}`github`](https://github.com/Jon369)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/jon-labahn-jr/)
 [{fab}`twitter`](https://twitter.com/JLabahnJr)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Vikas Vishwakarma
+
+Bhopal, Madhya Pradesh, India
+
+[{fab}`github`](https://github.com/Icyshaman)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)
 :::
 :::{grid-item}
 
@@ -389,11 +426,10 @@ Nairobi (Kenya)
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Lucy Jimenez
+Daniel Saunders
 
-[{fab}`github`](https://github.com/LucyJimenez	)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
-[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
+[{fab}`github`](https://github.com/daniel-saunders-phil)
+[{fab}`twitter`](https://twitter.com/carolbasknrobns)
 :::
 :::{grid-item}
 
