@@ -259,4 +259,106 @@ Callistus Ndemo
 [{fab}`linkedin-in`](https://www.linkedin.com/in/ndemo/)
 [{fab}`twitter`](https://twitter.com/callistusndemo)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Nthabiseng Khabele Mafereka
+
+[{fab}`github`](https://github.com/khabele)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/nthabiseng-khabele-194832151/)
+[{fab}`twitter`](https://twitter.com/Z22Nthaby)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Igor Kuvychko
+
+Portland, OR (USA)
+
+[{fab}`github`](https://github.com/kuvychko)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/igor-kuvychko-09ba759/)
+[{fab}`twitter`](https://twitter.com/IgorKuvychko)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Exmeralda
+
+Winneba Buduata (Ghana)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Safalta Kundra
+
+Nagpur, Maharashtra (India)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Arun Ravi
+
+Pune, Maharashtra (India)
+
+[{fab}`github`](https://github.com/haricash)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/haricash/)
+[{fab}`twitter`](https://twitter.com/haricash)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Jonathan Lindbloom
+
+Los Alamos, NM (USA)
+
+[{fab}`github`](https://github.com/jlindbloom)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/jonathanlindbloom-77232917/)
+[{fab}`twitter`](https://twitter.com/qed404)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Benjamin Datko
+
+[{fab}`github`](https://github.com/bdatko)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/bdatko-23802891/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Bratipah Kioko
+
+Kenya
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Dustin Burt
+
+Columbus, Ohio (USA)
+
+[{fab}`github`](https://github.com/dmburt)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/dustin-matthew-burt-760b112/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Jon Labahn
+
+Naples, Florida (USA)
+
+[{fab}`github`](https://github.com/Jon369)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/jon-labahn-jr/)
+[{fab}`twitter`](https://twitter.com/JLabahnJr)
+:::
 ::::
