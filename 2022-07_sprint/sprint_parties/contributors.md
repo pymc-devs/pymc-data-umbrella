@@ -361,4 +361,46 @@ Naples, Florida (USA)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/jon-labahn-jr/)
 [{fab}`twitter`](https://twitter.com/JLabahnJr)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Margaret Chege
+
+Kenya
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Ivan Finaev
+
+Moscow (Russia)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Nick Nyanjui
+
+Nairobi (Kenya)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Lucy Jimenez
+
+[{fab}`github`](https://github.com/LucyJimenez	)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
+[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Yuan Li
+
+New York
+:::
 ::::
