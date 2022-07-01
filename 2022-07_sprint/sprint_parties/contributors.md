@@ -67,7 +67,7 @@ Dublin (Ireland)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://drive.google.com/uc?export=view&id=1Oks1B2h2E2juND1OxReYMaR9ZNORLtku" width="100%" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Lucy_Jimenez.jpeg" class="rounded-circle">
 
 Lucy Jimenez
 
@@ -268,7 +268,7 @@ NYC, United States
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Nthaby_Khabele.jpeg" class="rounded-circle">
 
 Nthabiseng Khabele Mafereka
 
@@ -278,7 +278,7 @@ Nthabiseng Khabele Mafereka
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Igor_Kuvychko.jpeg" class="rounded-circle">
 
 Igor Kuvychko
 
@@ -306,7 +306,7 @@ Nagpur, Maharashtra (India)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Arun_Ravi.jpeg" class="rounded-circle">
 
 Arun Ravi
 
@@ -318,7 +318,7 @@ Pune, Maharashtra (India)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jonathan_Lindbloom.jpeg" class="rounded-circle">
 
 Jonathan Lindbloom
 
@@ -347,14 +347,14 @@ Kenya
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rowan_S.jpeg" class="rounded-circle">
 
 
 Rowan Gayle Schaefer
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Dustin_Burt.jpeg" class="rounded-circle">
 
 Dustin Burt
 
@@ -377,7 +377,7 @@ Germany
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jon_Labahn.jpeg" class="rounded-circle">
 
 Jon Labahn
 
@@ -389,7 +389,7 @@ Naples, Florida (USA)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Vikas_Vishwakarma.jpeg" class="rounded-circle">
 
 Vikas Vishwakarma
 
