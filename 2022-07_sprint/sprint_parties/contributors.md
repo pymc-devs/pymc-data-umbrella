@@ -67,11 +67,11 @@ Dublin (Ireland)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://drive.google.com/uc?export=view&id=1Oks1B2h2E2juND1OxReYMaR9ZNORLtku" width="100%" class="rounded-circle">
 
 Lucy Jimenez
 
-[{fab}`github`](https://github.com/LucyJimenez	)
+[{fab}`github`](https://github.com/LucyJimenez)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
 [{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 :::
