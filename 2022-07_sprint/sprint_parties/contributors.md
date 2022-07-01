@@ -268,7 +268,7 @@ NYC, United States
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Nthaby_Khabele.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Nthaby_Khabele.jpg" class="rounded-circle">
 
 Nthabiseng Khabele Mafereka
 
@@ -278,7 +278,7 @@ Nthabiseng Khabele Mafereka
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Igor_Kuvychko.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Igor_Kuvychko.png" class="rounded-circle">
 
 Igor Kuvychko
 
@@ -306,7 +306,7 @@ Nagpur, Maharashtra (India)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Arun_Ravi.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Arun_Ravi.jpg" class="rounded-circle">
 
 Arun Ravi
 
@@ -318,7 +318,7 @@ Pune, Maharashtra (India)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jonathan_Lindbloom.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jonathan_Lindbloom.jpg" class="rounded-circle">
 
 Jonathan Lindbloom
 
@@ -347,7 +347,7 @@ Kenya
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rowan_S.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rowan_S.jpg" class="rounded-circle">
 
 
 Rowan Gayle Schaefer
@@ -377,7 +377,7 @@ Germany
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jon_Labahn.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jon_Labahn.jpg" class="rounded-circle">
 
 Jon Labahn
 
@@ -389,7 +389,7 @@ Naples, Florida (USA)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Vikas_Vishwakarma.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Vikas_Vishwakarma.jpg" class="rounded-circle">
 
 Vikas Vishwakarma
 
