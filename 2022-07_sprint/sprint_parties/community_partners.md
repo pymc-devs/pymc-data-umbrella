@@ -116,4 +116,14 @@ Fostering collaboration among women.
 
 We are a mentorship group for marginalized genders on a mission is to promote, educate and advance a diverse Python community.
 :::
+
+:::{grid-item-card}
+:link: https://www.pythonchile.cl
+:shadow: none
+:class-card: border-0
+
+![Python Chile](../../_static/community_partners/pythonchile.png)
+
+Official Chilean Python Community, a place to meet, learn, and empower Chilean Python developers.
+:::
 ::::
