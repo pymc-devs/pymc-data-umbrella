@@ -208,7 +208,7 @@ Accra, Greater Accra Region (Ghana)
 
 Benjamin Senst
 
-Berlin
+Berlin (Germany)
 :::
 :::{grid-item}
 
