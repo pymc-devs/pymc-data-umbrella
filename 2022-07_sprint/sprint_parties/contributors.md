@@ -439,4 +439,15 @@ Yuan Li
 
 New York
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Sangam
+
+Bangalore
+
+
+[{fab}`github`](https://github.com/SangamSwadiK)
+:::
 ::::
