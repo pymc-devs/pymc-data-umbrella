@@ -224,7 +224,7 @@ Surrey	Egham, Surrey (UK)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="https://avatars.githubusercontent.com/u/17055910?s=400&u=a4cb6008a4140e337670321f94d1130fb6378b6a&v" class="rounded-circle">
 
 Zoe Braiterman
 
