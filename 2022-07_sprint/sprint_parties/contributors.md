@@ -117,6 +117,19 @@ Mariya
 :::
 :::{grid-item}
 
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Prince_Asiedu.jpg" class="rounded-circle">
+
+Prince Asiedu
+
+Accra, Ghana
+
+[{fas}`globe`](https://www.dataumbrella.org/)
+[{fab}`github`](https://https://github.com/princeasiedu)
+[{fab}`twitter`](https://twitter.com/PrinceA13827013)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/princeoforhasiedu/)
+:::
+:::{grid-item}
+
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Elijah Appiah
