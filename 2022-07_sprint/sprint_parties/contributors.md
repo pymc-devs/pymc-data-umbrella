@@ -459,7 +459,6 @@ Prince Asiedu
 
 Accra, Ghana
 
-[{fas}`globe`](https://www.dataumbrella.org/)
 [{fab}`github`](https://https://github.com/princeasiedu)
 [{fab}`twitter`](https://twitter.com/PrinceA13827013)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/princeoforhasiedu/)
