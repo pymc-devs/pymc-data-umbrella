@@ -122,19 +122,19 @@ upstream
 :::{tab-item} Linux
 :sync: linux
 ```bash
-conda env create -f conda-envs/environment-dev-py38.yml
+conda env create -f conda-envs/environment-dev.yml
 ```
 :::
 :::{tab-item} macosx
 :sync: macos
 ```bash
-conda env create -f conda-envs/environment-dev-py38.yml
+conda env create -f conda-envs/environment-dev.yml
 ```
 :::
 :::{tab-item} Windows
 :sync: windows
 ```
-conda env create -f conda-envs/windows-environment-dev-py38.yml
+conda env create -f conda-envs/windows-environment-dev.yml
 ```
 :::
 ::::
@@ -148,7 +148,7 @@ done
 #
 # To activate this environment, use
 #
-#     $ conda activate pymc-dev-py38
+#     $ conda activate pymc-dev
 #
 # To deactivate an active environment, use
 #
@@ -157,7 +157,7 @@ done
 
 Activate the environment and install pymc:
 ```bash
-conda activate pymc-dev-py38
+conda activate pymc-dev
 ```
 This command has no output, but generally adds the environment
 name to the start of the command line. If you want, you can check
@@ -165,7 +165,7 @@ it has worked with the command `conda list` which should print
 all the packages installed, starting with:
 
 ```none
-# packages in environment at /home/oriol/miniconda3/envs/pymc-dev-py38:
+# packages in environment at /home/oriol/miniconda3/envs/pymc-dev:
 #
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                 conda_forge    conda-forge
