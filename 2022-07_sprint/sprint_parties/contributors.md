@@ -400,7 +400,7 @@ Bhopal, Madhya Pradesh, India
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/Margaret_Okore.JPG" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Margaret_Okore.JPG" class="rounded-circle">
 
 Margaret Okore
 
