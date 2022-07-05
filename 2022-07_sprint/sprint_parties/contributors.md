@@ -417,6 +417,8 @@ Margaret Chege
 
 Kenya
 
+I am a NEW contributor to PyMC
+
 :::
 :::{grid-item}
 
