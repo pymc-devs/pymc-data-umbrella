@@ -459,7 +459,7 @@ Prince Asiedu
 Accra, Ghana
 
 [{fab}`github`](https://github.com/PrinceAsiedu)
-[{fab}`twitter`](https://twitter.com/PrinceA13827013
+[{fab}`twitter`](https://twitter.com/PrinceA13827013)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/princeoforhasiedu/)
 :::
 ::::
