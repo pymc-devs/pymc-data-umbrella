@@ -406,7 +406,11 @@ Margaret Okore
 
 Nairobi, Kenya
 
+I am a NEW contributor to PyMC
+
 [{fab}`linkedin-in`](https://www.linkedin.com/in/margaretokore/)
+[{fab}`twitter`](https://twitter.com/MargaretOkore)
+[{fab}`github`](https://github.com/MargaretOkore)
 
 :::
 :::{grid-item}
