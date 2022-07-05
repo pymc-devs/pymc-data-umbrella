@@ -405,6 +405,7 @@ Bhopal, Madhya Pradesh, India
 Margaret Okore
 
 Nairobi, Kenya
+
 [{fab}`linkedin-in`](https://www.linkedin.com/in/margaretokore/)
 :::
 :::{grid-item}
