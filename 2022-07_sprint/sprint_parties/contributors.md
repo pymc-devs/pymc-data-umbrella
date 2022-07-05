@@ -407,6 +407,16 @@ Margaret Okore
 Nairobi, Kenya
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/margaretokore/)
+
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Margaret Chege
+
+Kenya
+
 :::
 :::{grid-item}
 
