@@ -74,6 +74,15 @@ Lucy Jimenez
 [{fab}`github`](https://github.com/LucyJimenez)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
 [{fab}`twitter`](https://twitter.com/JimenezLucyJ)
+
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Margaret Chege
+
+Kenya
 :::
 ::::
 
@@ -406,22 +415,9 @@ Margaret Okore
 
 Nairobi, Kenya
 
-I am a NEW contributor to PyMC
-
 [{fab}`linkedin-in`](https://www.linkedin.com/in/margaretokore/)
 [{fab}`twitter`](https://twitter.com/MargaretOkore)
 [{fab}`github`](https://github.com/MargaretOkore)
-
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Margaret Chege
-
-Kenya
-
-I am a NEW contributor to PyMC
 
 :::
 :::{grid-item}
