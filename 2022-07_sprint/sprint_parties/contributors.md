@@ -450,4 +450,16 @@ Bangalore
 
 [{fab}`github`](https://github.com/SangamSwadiK)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../static/contributors_2022_07/Prince_Asiedu.jpg" class="rounded-circle">
+
+Prince O. Asiedu
+
+Accra Ghana
+
+[{fab}`github`](https://github.com/PrinceAsiedu)
+[{fab}`twitter`](https://twitter.com/PrinceA13827013)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/princeoforhasiedu/)
+:::
 ::::
