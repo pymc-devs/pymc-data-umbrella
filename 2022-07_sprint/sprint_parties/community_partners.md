@@ -126,4 +126,14 @@ We are a mentorship group for marginalized genders on a mission is to promote, e
 
 Official Chilean Python Community, a place to meet, learn, and empower Chilean Python developers.
 :::
+
+:::{grid-item-card}
+:link: https://www.meetup.com/pyladieskampala/
+:shadow: none
+:class-card: border-0
+
+![PyLadies Kampala](../../_static/community_partners/pyladies_kampala.png)
+
+We are a group hosting various types of events on a range of usually Python-related tech topics.
+:::
 ::::
