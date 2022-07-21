@@ -85,12 +85,12 @@ You can see a huge change already:
 
 ::::{grid} 1 2 2 2
 
-:::{grid-item-card}
+:::{grid-item-card} PyMC V4
 :img-background: new.png
-:link: https://docs.pymc.io/projects/examples/en/2022.01.0/generalized_linear_models/GLM-model-selection.html
+:link: https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-model-selection.html
 :::
 
-:::{grid-item-card}
+:::{grid-item-card} PyMC V3
 :img-background: old.png
 :link: https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-model-selection.html
 :::
