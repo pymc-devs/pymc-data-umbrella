@@ -39,7 +39,7 @@ Our wishlist:
 * Browsable via tags and categories
 * Searchable by itself and searchable from the pymc library documentation
 * Citable resource
-* Awknowledge the authors (without making it the focus)
+* Acknowledge the authors (without making it the focus)
 * Automatic table of contents
 * Accessible
 * DRY: do not repeat yourself. Things shared between several notebooks should be done
@@ -61,7 +61,7 @@ Our wishlist:
   - supported via sphinx+pydata-sphinx-theme+readthedocs
 * Citable resource
   - supported via zenodo+custom template
-* Awknowledge the authors (without making it the focus)
+* Acknowledge the authors (without making it the focus)
   - supported via ablog+custom template
 * Automatic table of contents
   - supported via sphinx+pydata-sphinx-theme
@@ -85,14 +85,14 @@ You can see a huge change already:
 
 ::::{grid} 1 2 2 2
 
-:::{grid-item-card} PyMC V4
+:::{grid-item-card} Current style
 :img-background: new.png
-:link: https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-model-selection.html
+:link: https://www.pymc.io/projects/examples/en/2022.01.0/generalized_linear_models/GLM-model-selection.html
 :::
 
-:::{grid-item-card} PyMC V3
+:::{grid-item-card} Old style
 :img-background: old.png
-:link: https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-model-selection.html
+:link: https://www.pymc.io/projects/docs/en/v3/pymc-examples/examples/generalized_linear_models/GLM-model-selection.html
 :::
 ::::
 
