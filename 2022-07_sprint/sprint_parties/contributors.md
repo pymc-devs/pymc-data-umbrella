@@ -438,7 +438,7 @@ Nairobi (Kenya)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/daniel_saunders.jpg" class="rounded-circle">
 
 Daniel Saunders
 
