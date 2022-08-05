@@ -488,5 +488,13 @@ Delhi, India
 [{fab}`github`](https://github.com/Rohanfizz)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/rohanfizz/)
 :::
+:::{grid-item}
 
+Ashutosh Negi
+
+Delhi, India
+
+[{fab}`github`](https://github.com/adkood/)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/ashutosh-negi-b08a32193/)
+:::
 ::::
