@@ -476,4 +476,17 @@ Accra, Ghana
 [{fab}`twitter`](https://twitter.com/PrinceA13827013)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/princeoforhasiedu/)
 :::
+
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rohan_Sharma.webp" class="rounded-circle">
+
+Rohan Sharma
+
+Delhi, India
+
+[{fab}`github`](https://github.com/Rohanfizz)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/rohanfizz/)
+:::
+
 ::::
