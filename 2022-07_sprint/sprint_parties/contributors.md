@@ -294,14 +294,6 @@ Portland, OR (USA)
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Exmeralda
-
-Winneba Buduata (Ghana)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
 Safalta Kundra
 
 Nagpur, Maharashtra (India)
