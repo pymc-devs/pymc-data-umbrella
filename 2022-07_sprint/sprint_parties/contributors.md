@@ -402,14 +402,6 @@ Bhopal, Madhya Pradesh, India
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Nick Nyanjui
-
-Nairobi (Kenya)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/daniel_saunders.jpg" class="rounded-circle">
 
 Daniel Saunders
