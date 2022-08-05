@@ -151,27 +151,6 @@ New York, New York (USA)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Ethan
-
-Los Angeles, CA (USA)
-
-[{fab}`github`](https://github.com/ethantran8714)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/ethantran8714/)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Callistus Ndemo
-
-[{fab}`github`](https://github.com/callistusndemo)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/ndemo/)
-[{fab}`twitter`](https://twitter.com/callistusndemo)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Andrianina_Raharijao.jpg" class="rounded-circle">
 
 Andrianina David Raharijao
@@ -180,16 +159,6 @@ NYC, United States
 
 [{fab}`github`](https://github.com/Raharijao)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Nthaby_Khabele.jpg" class="rounded-circle">
-
-Nthabiseng Khabele Mafereka
-
-[{fab}`github`](https://github.com/khabele)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/nthabiseng-khabele-194832151/)
-[{fab}`twitter`](https://twitter.com/Z22Nthaby)
 :::
 :::{grid-item}
 
