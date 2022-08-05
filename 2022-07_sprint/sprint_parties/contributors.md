@@ -379,18 +379,6 @@ Germany
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Jon_Labahn.jpg" class="rounded-circle">
-
-Jon Labahn
-
-Naples, Florida (USA)
-
-[{fab}`github`](https://github.com/Jon369)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/jon-labahn-jr/)
-[{fab}`twitter`](https://twitter.com/JLabahnJr)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Vikas_Vishwakarma.jpg" class="rounded-circle">
 
 Vikas Vishwakarma
