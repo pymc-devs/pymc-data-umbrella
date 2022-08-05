@@ -59,14 +59,6 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Alihan Zihna
-
-Dublin (Ireland)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Lucy_Jimenez.jpeg" class="rounded-circle">
 
 Lucy Jimenez
@@ -76,6 +68,15 @@ Lucy Jimenez
 [{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Alihan Zihna
+
+Dublin (Ireland)
+:::
+
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
@@ -155,15 +156,7 @@ Los Alamos, NM (USA)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/jonathanlindbloom-77232917/)
 [{fab}`twitter`](https://twitter.com/qed404)
 :::
-:::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Benjamin Datko
-
-[{fab}`github`](https://github.com/bdatko)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/bdatko-23802891/)
-:::
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rowan_S.jpg" class="rounded-circle">
@@ -204,25 +197,6 @@ Daniel Saunders
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Yuan Li
-
-New York
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Sangam
-
-Bangalore
-
-
-[{fab}`github`](https://github.com/SangamSwadiK)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Prince_Asiedu.jpg" class="rounded-circle">
 
 Prince Asiedu
@@ -245,6 +219,26 @@ Delhi, India
 [{fab}`github`](https://github.com/Rohanfizz)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/rohanfizz/)
 :::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Yuan Li
+
+New York
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Sangam
+
+Bangalore
+
+
+[{fab}`github`](https://github.com/SangamSwadiK)
+:::
+
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
@@ -295,5 +289,14 @@ Surrey	Egham, Surrey (UK)
 Safalta Kundra
 
 Nagpur, Maharashtra (India)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Benjamin Datko
+
+[{fab}`github`](https://github.com/bdatko)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/bdatko-23802891/)
 :::
 ::::
