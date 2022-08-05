@@ -367,18 +367,6 @@ Columbus, Ohio (USA)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Abhilash Babu
-
-Germany
-
-[{fab}`github`](https://github.com/abhilb)
-[{fab}`twitter`](https://twitter.com/abhilb)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/abhilb)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Vikas_Vishwakarma.jpg" class="rounded-circle">
 
 Vikas Vishwakarma
