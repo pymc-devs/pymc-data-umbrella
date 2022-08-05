@@ -404,14 +404,6 @@ Bhopal, Madhya Pradesh, India
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Ivan Finaev
-
-Moscow (Russia)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
 Nick Nyanjui
 
 Nairobi (Kenya)
