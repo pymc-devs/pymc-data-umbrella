@@ -402,19 +402,6 @@ Bhopal, Madhya Pradesh, India
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Margaret_Okore.JPG" class="rounded-circle">
-
-Margaret Okore
-
-Nairobi, Kenya
-
-[{fab}`linkedin-in`](https://www.linkedin.com/in/margaretokore/)
-[{fab}`twitter`](https://twitter.com/MargaretOkore)
-[{fab}`github`](https://github.com/MargaretOkore)
-
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Ivan Finaev
