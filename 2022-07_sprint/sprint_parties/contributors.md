@@ -97,17 +97,6 @@ São Paulo, SP (Brasil)
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_woman.jpg" class="rounded-circle">
-
-Maja Milinkovic
-
-Rochester, NY (USA)
-
-[{fab}`github`](https://github.com/majamil16)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/maja-milinkovic/)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/carlo_dll.jpeg" class="rounded-circle">
 
 Carlo Domenico Longo de Lemos
@@ -415,6 +404,8 @@ Delhi, India
 :::{grid-item}
 
 Ashutosh Negi
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
 Delhi, India
 
