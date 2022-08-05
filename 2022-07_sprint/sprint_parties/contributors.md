@@ -341,14 +341,6 @@ Benjamin Datko
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Bratipah Kioko
-
-Kenya
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Rowan_S.jpg" class="rounded-circle">
 
 
