@@ -121,27 +121,6 @@ Mariya
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-Vaishnavi Patil
-
-[{fab}`github`](https://www.github.com/vaishnavipatil4848)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/vaishnavi-patil-8522731a7)
-:::
-
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Qwadwo Nyamekye
-
-Accra, Greater Accra Region (Ghana)
-
-[{fab}`github`](https://www.github.com/QwadwoNyamekye)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/david-oppong-nkrumah)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
 Benjamin Senst
 
 Berlin (Germany)
