@@ -106,37 +106,7 @@ São Paulo, São Paulo (Brazil)
 [{fab}`github`](https://github.com/vitaliset)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/carlo-lemos)
 :::
-:::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Mariya
-
-(USA)
-
-[{fab}`github`](https://github.com/mariyayb)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/mariya-b/)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Benjamin Senst
-
-Berlin (Germany)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Saurabh Egham
-
-Surrey	Egham, Surrey (UK)
-
-[{fab}`github`](https://www.github.com/saurbhc)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/saurabhchopraa/)
-[{fab}`twitter`](https://twitter.com/saurabhchopraa)
-:::
 :::{grid-item}
 
 <img alt="Image for contributor template" src="https://avatars.githubusercontent.com/u/17055910?s=400&u=a4cb6008a4140e337670321f94d1130fb6378b6a&v" class="rounded-circle">
@@ -151,17 +121,6 @@ New York, New York (USA)
 :::
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2022_07/Andrianina_Raharijao.jpg" class="rounded-circle">
-
-Andrianina David Raharijao
-
-NYC, United States
-
-[{fab}`github`](https://github.com/Raharijao)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/andrianina-raharijao/)
-:::
-:::{grid-item}
-
 <img alt="Image for contributor template" src="../../_static/contributors_2022_07/Igor_Kuvychko.png" class="rounded-circle">
 
 Igor Kuvychko
@@ -171,14 +130,6 @@ Portland, OR (USA)
 [{fab}`github`](https://github.com/kuvychko)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/igor-kuvychko-09ba759/)
 [{fab}`twitter`](https://twitter.com/IgorKuvychko)
-:::
-:::{grid-item}
-
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
-
-Safalta Kundra
-
-Nagpur, Maharashtra (India)
 :::
 :::{grid-item}
 
@@ -296,13 +247,53 @@ Delhi, India
 :::
 :::{grid-item}
 
-Ashutosh Negi
-
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Ashutosh Negi
 
 Delhi, India
 
 [{fab}`github`](https://github.com/adkood/)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/ashutosh-negi-b08a32193/)
+:::
+
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Mariya
+
+(USA)
+
+[{fab}`github`](https://github.com/mariyayb)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/mariya-b/)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Benjamin Senst
+
+Berlin (Germany)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Saurabh Egham
+
+Surrey	Egham, Surrey (UK)
+
+[{fab}`github`](https://www.github.com/saurbhc)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/saurabhchopraa/)
+[{fab}`twitter`](https://twitter.com/saurabhchopraa)
+:::
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+
+Safalta Kundra
+
+Nagpur, Maharashtra (India)
 :::
 ::::
