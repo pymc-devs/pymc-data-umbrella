@@ -27,11 +27,13 @@ Our event series can be shared in one or more of the following ways:
 - LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)
 - Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png
 - Meetup event: can share links or cross-post the event with your Meetup group
-    - Pre-series Office Hours | Jul 2 (Saturday) | 13 UTC | 1 hour | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)
-    - Working Session #1      | Jul 9 (Saturday) | 13 UTC | 3 hours| [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)
-    - Working Session #2      | Jul 22 (Friday)  | 16 UTC | 3 hours| [MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)
-    - Working Session #3      | Aug 4/5 (Th/Fr)  | 23 UTC  | 3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)
-    - Post-series Office Hours [^1] | Aug 18 (Sat) | 23 UTC| 1 hour  | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)
+    | Event                         | Date             | Time    | Duration | MeetUp |
+    |-------------------------------|------------------|---------|----------|--------|
+    | Pre-series Office Hours       | Jul 2 (Saturday) | 13 UTC  | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/) |
+    | Working Session #1            | Jul 9 (Saturday) | 13 UTC  | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/) |
+    | Working Session #2            | Jul 22 (Friday)  | 16 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628677/) |
+    | Working Session #3            | Aug 4/5 (Th/Fr)  | 23 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628723/) |
+    | Post-series Office Hours [^1] | Aug 18 (Sat)     |  23 UTC | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/) |
 - Email copy (button to copy all text available at the top right of the code block)
 
   ```none
