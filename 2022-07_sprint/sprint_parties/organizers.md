@@ -175,6 +175,15 @@ Michael Osthege
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)
 :::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Alex Andorra" src="../../_static/people/alex_a.jpeg" class="rounded-circle">
+
+Alexandre Andorra
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition//)
+:::
 ::::
 
 ## Community Contributors
