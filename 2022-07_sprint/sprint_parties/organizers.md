@@ -182,7 +182,18 @@ Michael Osthege
 
 Alexandre Andorra
 
-[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition//)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="
+Fernando Irarrázaval" src="../../_static/people/fernando_i.jpeg" class="rounded-circle">
+
+
+Fernando Irarrázaval
+
+[{fab}`github`](https://github.com/cuchoi)
 :::
 ::::
 
