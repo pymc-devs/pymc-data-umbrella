@@ -1,8 +1,8 @@
 # Organizers
 ## Data Umbrella Organizers
 
-::::{grid} 1 2 3 4
-:gutter: 5
+::::{grid} 1 2 3 4 5
+:gutter: 3
 
 :::{grid-item}
 :class: sd-text-center
