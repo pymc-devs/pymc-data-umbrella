@@ -1,8 +1,8 @@
 # Organizers
 ## Data Umbrella Organizers
 
-::::{grid} 1 2 3 4
-:gutter: 5
+::::{grid} 2 2 3 5
+:gutter: 3
 
 :::{grid-item}
 :class: sd-text-center
@@ -126,25 +126,24 @@ Christian Luhmann
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Thomas Wiecki" src="../../_static/people/thomas_wiecki.jpeg" class="rounded-circle">
+<img alt="Oriol Abril Pla" src="../../_static/people/oriol.jpg" class="rounded-circle">
 
-Thomas Wiecki
+Oriol Abril Pla
 
-[{fas}`globe`][thomas_web]
-[{fas}`briefcase`][thomas_work]
-[{fab}`github`][thomas_github]
-[{fab}`twitter`][thomas_twitter]
+[{fas}`globe`](https://oriolabrilpla.cat)
+[{fab}`github`](https://github.com/oriolabril)
+[{fab}`twitter`](https://twitter.com/oriolabril)
 :::
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Sayam" src="../../_static/people/sayam_kumar.jpeg" class="rounded-circle">
+<img alt="Ravin Kumar" src="../../_static/people/ravin_kumar.jpeg" class="rounded-circle">
 
-Sayam Kumar
+Ravin Kumar
 
-[{fas}`globe`](https://codingpaths.com/)
-[{fab}`github`](https://github.com/Sayam753)
-[{fab}`twitter`](https://twitter.com/sayamkumar753)
+[{fas}`globe`](https://ravinkumar.com/)
+[{fab}`github`](https://github.com/canyon289)
+[{fab}`twitter`](https://twitter.com/canyon289)
 :::
 :::{grid-item}
 :class: sd-text-center
@@ -157,6 +156,71 @@ Danh Phan
 [{fab}`github`][danh_github]
 [{fab}`twitter`][danh_twitter]
 [{fab}`linkedin-in`][danh_linkedin]
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Christopher Fonnesbeck" src="../../_static/people/chris_f.jpeg" class="rounded-circle">
+
+Christopher Fonnesbeck 
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Michael Osthege" src="../../_static/people/michael_o.jpeg" class="rounded-circle">
+
+Michael Osthege
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Alex Andorra" src="../../_static/people/alex_a.jpeg" class="rounded-circle">
+
+Alexandre Andorra
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Fernando Irarrázaval" src="../../_static/people/fernando_i.jpeg" class="rounded-circle">
+
+Fernando Irarrázaval
+
+[{fab}`github`](https://github.com/cuchoi)
+:::
+::::
+
+Additionally, we thank all the PyMC team members who contributed by reviewing pull requests and assisting with outreach as well as [NumFOCUS](https://numfocus.org) for their support.
+
+## Community Contributors
+
+::::{grid} 1 2 3 4
+:gutter: 5
+
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Cristiin Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
+
+Cristián Maureira-Fredes
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Lucy Jiminez" src="../../_static/contributors_2022_07/Lucy_Jimenez.jpeg" class="rounded-circle">
+
+Lucy Jiminez
+
+[{fab}`github`](https://github.com/LucyJimenez)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
+[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 :::
 ::::
 
