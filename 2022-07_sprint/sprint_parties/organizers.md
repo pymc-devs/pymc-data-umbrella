@@ -187,15 +187,15 @@ Alexandre Andorra
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="
-Fernando Irarrázaval" src="../../_static/people/fernando_i.jpeg" class="rounded-circle">
-
+<img alt="Fernando Irarrázaval" src="../../_static/people/fernando_i.jpeg" class="rounded-circle">
 
 Fernando Irarrázaval
 
 [{fab}`github`](https://github.com/cuchoi)
 :::
 ::::
+
+Additionally, we thank all the PyMC team members who contributed by reviewing pull requests and assisting with outreach as well as [NumFOCUS](https://numfocus.org) for their support.
 
 ## Community Contributors
 
