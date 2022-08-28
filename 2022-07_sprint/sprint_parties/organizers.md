@@ -126,6 +126,17 @@ Christian Luhmann
 :::{grid-item}
 :class: sd-text-center
 
+<img alt="Oriol Abril Pla" src="../../_static/people/oriol.jpg" class="rounded-circle">
+
+Oriol Abril Pla
+
+[{fas}`globe`](https://oriolabrilpla.cat)
+[{fab}`github`](https://github.com/oriolabril)
+[{fab}`twitter`](https://twitter.com/oriolabril)
+:::
+:::{grid-item}
+:class: sd-text-center
+
 <img alt="Ravin Kumar" src="../../_static/people/ravin_kumar.jpeg" class="rounded-circle">
 
 Ravin Kumar
@@ -149,11 +160,20 @@ Danh Phan
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Christopher Fonnesbeck " src="../../_static/people/chris_f.jpeg" class="rounded-circle">
+<img alt="Christopher Fonnesbeck" src="../../_static/people/chris_f.jpeg" class="rounded-circle">
 
 Christopher Fonnesbeck 
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Michael Osthege" src="../../_static/people/michael_o.jpeg" class="rounded-circle">
+
+Michael Osthege
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)
 :::
 ::::
 
