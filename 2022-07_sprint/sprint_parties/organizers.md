@@ -149,14 +149,11 @@ Danh Phan
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Thomas Wiecki" src="../../_static/people/thomas_wiecki.jpeg" class="rounded-circle">
+<img alt="Christopher Fonnesbeck " src="../../_static/people/chris_f.jpeg" class="rounded-circle">
 
-Thomas Wiecki
+Christopher Fonnesbeck 
 
-[{fas}`globe`][thomas_web]
-[{fas}`briefcase`][thomas_work]
-[{fab}`github`][thomas_github]
-[{fab}`twitter`][thomas_twitter]
+[{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/)
 :::
 ::::
 
