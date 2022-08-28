@@ -126,25 +126,13 @@ Christian Luhmann
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Thomas Wiecki" src="../../_static/people/thomas_wiecki.jpeg" class="rounded-circle">
+<img alt="Ravin Kumar" src="../../_static/people/ravin_kumar.jpeg" class="rounded-circle">
 
-Thomas Wiecki
+Ravin Kumar
 
-[{fas}`globe`][thomas_web]
-[{fas}`briefcase`][thomas_work]
-[{fab}`github`][thomas_github]
-[{fab}`twitter`][thomas_twitter]
-:::
-:::{grid-item}
-:class: sd-text-center
-
-<img alt="Sayam" src="../../_static/people/sayam_kumar.jpeg" class="rounded-circle">
-
-Sayam Kumar
-
-[{fas}`globe`](https://codingpaths.com/)
-[{fab}`github`](https://github.com/Sayam753)
-[{fab}`twitter`](https://twitter.com/sayamkumar753)
+[{fas}`globe`](https://ravinkumar.com/)
+[{fab}`github`](https://github.com/canyon289)
+[{fab}`twitter`](https://twitter.com/canyon289)
 :::
 :::{grid-item}
 :class: sd-text-center
@@ -157,6 +145,45 @@ Danh Phan
 [{fab}`github`][danh_github]
 [{fab}`twitter`][danh_twitter]
 [{fab}`linkedin-in`][danh_linkedin]
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Thomas Wiecki" src="../../_static/people/thomas_wiecki.jpeg" class="rounded-circle">
+
+Thomas Wiecki
+
+[{fas}`globe`][thomas_web]
+[{fas}`briefcase`][thomas_work]
+[{fab}`github`][thomas_github]
+[{fab}`twitter`][thomas_twitter]
+:::
+::::
+
+## Community Contributors
+
+::::{grid} 1 2 3 4
+:gutter: 5
+
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Cristiin Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
+
+Cristián Maureira-Fredes
+
+[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)
+:::
+:::{grid-item}
+:class: sd-text-center
+
+<img alt="Lucy Jiminez" src="../../_static/contributors_2022_07/Lucy_Jimenez.jpeg" class="rounded-circle">
+
+Lucy Jiminez
+
+[{fab}`github`](https://github.com/LucyJimenez)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
+[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
 :::
 ::::
 
