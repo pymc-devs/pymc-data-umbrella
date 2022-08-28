@@ -1,7 +1,7 @@
 # Organizers
 ## Data Umbrella Organizers
 
-::::{grid} 1 2 3 4 5
+::::{grid} 2 2 3 5
 :gutter: 3
 
 :::{grid-item}
