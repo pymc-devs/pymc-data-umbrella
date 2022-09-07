@@ -58,7 +58,7 @@ Cristina Mulas Lopez
 
 ## PyMC Organizers
 
-::::{grid} 1 2 3 4
+::::{grid} 2 2 3 4
 :gutter: 5
 
 :::{grid-item}
@@ -110,7 +110,7 @@ Thomas Wiecki
 
 ## PyMC Mentors
 
-::::{grid} 1 2 3 4
+::::{grid} 2 2 3 4
 :gutter: 5
 
 :::{grid-item}
@@ -199,7 +199,7 @@ Additionally, we thank all the PyMC team members who contributed by reviewing pu
 
 ## Community Contributors
 
-::::{grid} 1 2 3 4
+::::{grid} 2 2 3 4
 :gutter: 5
 
 :::{grid-item}
