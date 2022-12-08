@@ -118,7 +118,7 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
-    "page_sidebar_items": ["page-toc", "edit-this-page", "cheatsheet"],
+    "secondary_sidebar_items": ["page-toc", "searchbox", "edit-this-page", "sourcelink", "cheatsheet"],
     "navbar_start": ["navbar-logo", "version-switcher"],
     "navbar_end": ["navbar-icon-links"],
     "search_bar_text": "Search...",
