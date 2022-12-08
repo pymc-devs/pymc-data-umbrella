@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 15:59+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../index.md:6
+msgid "July 2022 event"
+msgstr ""
+
+#: ../index.md:6
+msgid "People"
+msgstr ""
+
+#: ../index.md:6
+msgid "Log of events"
+msgstr ""
+
+#: ../index.md:6
+msgid "About PyMC"
+msgstr ""
+
+#: ../index.md:6
+msgid "Event info"
+msgstr ""
+
+#: ../index.md:6
+msgid "Contribute"
+msgstr ""
+
+#: ../index.md:2 28cad79981384a18a8d66c8a8fc604d8
+msgid "PyMC - Data Umbrella Events"
+msgstr ""
+
+#: ../index.md:4 4a4de3c132914951a4d55f1345990876
+msgid ""
+"DO NOT EDIT! This is only a placeholder to define the nabvar and is deleted "
+"to redirect the homepage to the current sprint schedule."
+msgstr ""

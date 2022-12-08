@@ -1,0 +1,14 @@
+[
+    {
+        "version": "en",
+        "url": "https://pymc-data-umbrella.xyz/en/latest/"
+    },
+    {
+        "version": "es",
+        "url": "https://pymc-data-umbrella.xyz/es/latest/"
+    },
+    {
+        "version": "pt",
+        "url": "https://pymc-data-umbrella.xyz/pt/latest/"
+    }
+]

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/resources.md:2 4af977194b0644b39ff48521ee25e994
+msgid "Resources"
+msgstr ""
+
+#: ../sprint/resources.md:4 d109baaf937744359b138fc508c1796c
+msgid ""
+"{ref}`PyMC - Data Umbrella series content and videos <about_pymc>` (all "
+"webinar materials have been uploaded to this website, videos are embedded "
+"too so you have everything just a click away)"
+msgstr ""
+
+#: ../sprint/resources.md:6 6e8b64539db045dc9278f9d64ea7cc60
+msgid "{ref}`Event Cheat Sheet <decision_tree>`"
+msgstr ""
+
+#: ../sprint/resources.md:8 b7e9de1b781d49dc86e3c07d4280e28e
+msgid ""
+"[Reshama Shaikh: Example of Submitting a Pull Request to PyMC "
+"Documentation](https://www.youtube.com/watch?v=NbmdFJsnuuo)"
+msgstr ""
+
+#: ../sprint/resources.md:10 2fed826e241e41c5a05e3fa952550720
+msgid "[Using Discord for the sessions](https://youtu.be/w2A8SknM-68)"
+msgstr ""
+
+#: ../sprint/resources.md:12 4950b546b830454fb972398ce8c4ec2c
+msgid "[Live Share with Visual Studio Code](https://youtu.be/WHOiljOYGVw)"
+msgstr ""
+
+#: ../sprint/resources.md:14 9d316264cd6d4a17bf0d47d4538a3fc3
+msgid "[Git Notes](https://www.dataschool.io/how-to-contribute-on-github/)"
+msgstr ""

@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/intro_to_array_operations/index.md:39
+msgid "Webinar notebook"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:2
+#: 908bd6540923476185af9d426988fa23
+msgid "Introduction to Array Operations in Python"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:4
+#: 2937aea1daec44ad9aac06844dc70831
+msgid ""
+"This is a ~40 minute session to introduce you to array manipulation and "
+"basics of Python, which will be useful to contribute to computational open "
+"source libraries in Python. We have some specific aims in mind:"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:6
+#: a7d76e07443443fb9c7b80f3e391f757
+msgid "Understanding basics of arrays, lists and datatypes in Python"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:8
+#: 02338662e9b941a1b0153813418886d9
+msgid "Using Python with Numpy"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:10
+#: 787c8ffb7a71487e907d349b0733e917
+msgid ""
+"Motivating you to contribute to PyMC, and hopefully also to other open "
+"source libraries"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:12
+#: 2416de283ce54add98756fe22697d3dd
+msgid ""
+"This event is a part of a larger series of PyMC - Data Umbrella events, "
+"which are aimed at helping you contribute to PyMC (Open source library for "
+"Probabilistic Programming in Python)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:14
+#: 7e6e0452de82451ebe42b6163c9a7be9
+msgid "Details"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:16
+#: 3bdfda57f55345be846e9d924ddc865e
+msgid ""
+"Audience: people who don't know Python but have some basic programming "
+"knowlege"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:17
+#: 87c20d02faec4ad9b63e57e09b03cca1
+msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:18
+#: a542bc487c084c85ba8f0819ab3dd02a
+msgid ""
+"All the content is available on this website, and you can run the code from "
+"the website to follow along with the webinar."
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:22
+#: c241ad37c6134b0f8a2763855be9f90e
+msgid "Go to the webinar notebook!"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:30
+#: bcfb97b7ec9c482b91d2e96be5df4e29
+msgid "Speaker"
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:32
+#: 8623d88850ff4fb0b2b9f1c8a6b5a83e
+msgid ""
+"[Meenal Jhajharia](https://mjhajharia.com) is a computer science and "
+"mathematics undergraduate in junior year. She has been working on Bayesian "
+"time series estimation models with PyMC, this project started when she was a"
+" Google Summer of Code’21 student . Generally she is interested in "
+"Probabilistic Programming, NLP, and algorithms."
+msgstr ""
+
+#: ../about/intro_to_array_operations/index.md:34
+#: 137da66d0ab146d184f56391817276d2
+msgid "Video"
+msgstr ""

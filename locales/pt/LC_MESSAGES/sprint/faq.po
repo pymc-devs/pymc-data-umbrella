@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/faq.md:1 89c8cbeea4994a238940cfd444237f49
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../sprint/faq.md:3 e1db9fe081a643f59f7603a6e76fba5f
+msgid ""
+"Do I need to be a PyMC user to participate in the open source working "
+"session?"
+msgstr ""
+
+#: ../sprint/faq.md:5 ee79bc4a9ca94319baef99f735fd5d5b
+msgid ""
+"**Response:**  It is not necessary to be a PyMC user to contribute to this "
+"open source project. There are a number of issues where we could use your "
+"contribution. Examples:"
+msgstr ""
+
+#: ../sprint/faq.md:6 d545b413dcc0436baf864730ef16ecd3
+msgid "Adding timestamps to videos from our PyMCon conference"
+msgstr ""
+
+#: ../sprint/faq.md:7 f673d4fd04d647dda679326b45ad31a4
+msgid ""
+"Updating docstrings in documentation. We have a webinar: {ref}`example_pr`; "
+"with explanation, background and examples on how to do it."
+msgstr ""
+
+#: ../sprint/faq.md:8 ecbf477e373841c8aa3d12abff741f55
+msgid ""
+"Updating the style and formatting of {doc}`example notebooks <nb:gallery>`. "
+"We have a webinar: {ref}`contributing_docs`; with explanation, background "
+"and examples on how to do it."
+msgstr ""
+
+#: ../sprint/faq.md:10 d7adb4cce95a4ede97b89a1bcf7ccd69
+msgid "Are we required to attend all the sessions in order to sign up?"
+msgstr ""
+
+#: ../sprint/faq.md:12 5c2b1bb2ce8545988897e92614ccf4ee
+msgid ""
+"**Response:** It is *not required* to attend all the sessions. Ideally, it "
+"is beneficial if folks can attend as many sessions as they can, to build up "
+"their open source skills and familiarity with the PyMC project. Some "
+"sessions may be more convenient for your time zone."
+msgstr ""
+
+#: ../sprint/faq.md:14 c1ae1358e7bd46b2a6ecc761c20b94a7
+msgid "Is there a requirement to have attended #1 of the working session?"
+msgstr ""
+
+#: ../sprint/faq.md:16 d43cbe93eeef4d8e90a34a9edbd05be8
+msgid ""
+"**Response:** The Pre-event office hours are an opportunity for incoming "
+"contributors to ask questions for the upcoming working sessions.  It is *not"
+" required* to attend a specific session as a prerequisite for other "
+"sessions.  Ideally, it is beneficial if folks can attend as many sessions as"
+" they can, to build up their open source skills and familiarity with the "
+"PyMC project."
+msgstr ""
+
+#: ../sprint/faq.md:18 1049c3f863b8478c8cb8a472469627d3
+msgid ""
+"If you are unable to attend the Pre-event office hours, you can ask your "
+"questions in one of these ways:"
+msgstr ""
+
+#: ../sprint/faq.md:19 3781038fae204e2d9257b22516444f76
+msgid ""
+"On [PyMC Discourse](https://discourse.pymc.io/new-"
+"topic?category=Questions/v4&tags=open-source-working-sessions)"
+msgstr ""
+
+#: ../sprint/faq.md:20 1effaea027dc411ea877a0052a649fd8
+msgid "Email us at:  [info@dataumbrella.org](mailto:info@dataumbrella.org)"
+msgstr ""

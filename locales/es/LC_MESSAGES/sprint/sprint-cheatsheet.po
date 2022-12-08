@@ -1,0 +1,193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/sprint-cheatsheet.md:2 c9a16ee702aa477d8b3785a1be1fb8f6
+msgid "Your event cheat sheet"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:3 ad6cf68148d04459bfa8284a2f4c3317
+msgid ""
+"Welcome to this PyMC & Data Umbrella Open Source Working Session to help you"
+" get started contributing to PyMC."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:6 cba1b9496c484880b489035fc9231694
+msgid ""
+"PyMC is already a mature package with multiple dedicated teams within its "
+"core contributor base. PyMC welcomes many types of contributions and we "
+"wanted to host an event where this \"functional\" diversity was one of the "
+"pillars."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:12 00254d4676b64bbeb96a09c882bf80c9
+msgid ""
+"We also wanted to allow people from many different backgrounds to be able to"
+" participate in the event, so we eventually decided not to do a session. "
+"Instead, **we hosted a whole series of webinars and multiple Open Source "
+"Working Sessions**!"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:17 8356e4ea66cc45d7b81705e4c69498cb
+msgid ""
+"This is very ambitious (though hopefully not too much) and can be confusing "
+"so we have written this document to help you navigate this series, and "
+"attend the content that will help you reach your goal."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:22 5975ca2bf3cd42be883f7252644505ae
+msgid ""
+"This page is structured as a decision tree. We have written questions and "
+"provide advise based on your answers."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:25 b434980c80884fc5bd8ab6d2a3992c63
+msgid ""
+"Already comfortable with Bayesian statistics but not interested in Python "
+"nor PyMC?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:28 2812ed27823447ec9d131b412a01bf43
+msgid ""
+"Jump straight to the {ref}`last webinar about contributing to documentation "
+"<contributing_docs>`. We have extensive statistical documentation to which "
+"you can contribute to! For example examples with detailed explanation along "
+"the code, a glossary of statistical terms, or descriptions of distributions "
+"and their parametrizations."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:34 be6fe593de864765acce37e6dd97446c
+msgid ""
+"The bulk of our documentation is written in markdown and Jupyter notebooks, "
+"so most of the skills you'll use: git/github, stats, technical writing and "
+"markdown transfer to any other stats related open source project {bdg-ref-"
+"warning-line}`I understand, jump <stats_join>`"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:40 7d783e74cc2241078c022ddafe407588
+msgid ""
+"Do you know what Bayesian statistics is? What about {abbr}`PPLs "
+"(Probabilistic Programming Languages)`? And PyMC?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:42 196c8ed3b4244b3bb7fda72c38042ea9
+msgid ""
+"If you know _about_ this (no need to be an expert) move to the next "
+"question, otherwise we recommend you open the dropdown and watch the "
+"embedded video."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:0 0f53d340d5744119a82682df957d4014
+msgid "About Bayesian statistics and PyMC"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:46 343daeb651d144c6993551b5cdd62dee
+msgid ""
+"This talk by PyMC core contributor Oriol Abril Pla covers the basics of the "
+"Bayesian paradigm, probabilistic programming and PyMC."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:49 cae4d5a9b19f4889bd11d5881a86bcdd
+msgid ""
+"It is divided in two parts. The first half is explanatory of the concepts "
+"above. The second half goes over some PyMC examples from the community which"
+" you can skip. They use version 3 of PyMC but the event is focused on PyMC "
+"version 4. One of the webinars of the series is about using PyMC which goes "
+"in much more detail."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:58 2ab31939397a4400959f1c5a02a3c8b0
+msgid "Are you comfortable working with Python and NumPy arrays?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:60 78bd82f0e2674abbb9fed6f85a48a4f3
+msgid ""
+"In case you aren't yet, we recommend the first webinar of the series: "
+"{ref}`array_ops`."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:62 708a0cee07d74fd0ad8d0735ec89dfdd
+msgid "Are you familiar with PyMC?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:64 a867021405cd41c685a566dc0c2e8adf
+msgid ""
+"In case you aren't yet, we recommend the second webinar of the series: "
+"{ref}`probprog_pymc`."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:66 3159a48d5a8a44a58a745ce5b6732335
+msgid ""
+"{bdg-danger}`STOP`: Any questions about PyMC so far? We encourage you to ask"
+" them on [PyMC Discourse](https://discourse.pymc.io/) the whole PyMC "
+"community (core contributors included) will do their best to help you out."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:70 5a538ba27d2d4ceb8be34e552e02ecf5
+msgid "Interested in contributing to code, to documentation or a bit of both?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:71 2dfd95cadf82497d80773e21d78c935f
+msgid "Before anything, thanks {octicon}`heart`"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:73 f2db818e71884b8ea4e7174e095fb433
+msgid ""
+"Now you should have all the context necessary to start contributing. Let's "
+"go watch the webinars preparing you to contribute."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:76 b1679246d97e44b397abcc5fe51cbd05
+msgid ""
+"From here on, there will be steps common to everyone and steps specific to "
+"docs or code contributions. Specific steps are separated in two columns, "
+"left for docs specific, right for code specific."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:84 5f04bc1cb54a4686a6d0a5500411b9e9
+msgid "Watch the webinar {ref}`contributing_docs`"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:87 a5d1cdb24b884b34a400567cf32e34f2
+msgid "Watch the webinar {ref}`contributing_to_pymc`"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:90 0aecd6a0cac84d399b367750d8476b1d
+msgid "Have you already contributed to PyMC?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:91 663293f2504a4c1bb89bfba9dbc4fd51
+msgid ""
+"If you haven't, we recommend reading this tutorial: "
+"{ref}`docstring_tutorial`. It covers all the steps from zero to submitting a"
+" pull request improving a docstring. We believe this will help you become "
+"familiar with Git, GitHub, and the whole contributing process quickly so you"
+" can then focus on the content of your contributions, not struggle with the "
+"tooling."
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:98 74a467d82e9b42f9bd233e302627f448
+msgid "Planning to participate in the event?"
+msgstr ""
+
+#: ../sprint/sprint-cheatsheet.md:100 fb096a2e6482487b8741eec773fefccf
+msgid ""
+"Register as attendee on the [Meetup event](https://www.meetup.com/data-"
+"umbrella/events/283178769/), join Discord, watch [Discord intro video by "
+"DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)"
+msgstr ""

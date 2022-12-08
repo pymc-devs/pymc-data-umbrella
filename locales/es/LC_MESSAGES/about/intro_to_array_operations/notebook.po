@@ -1,0 +1,457 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/intro_to_array_operations/notebook.ipynb:10003
+#: 7ff78b5007044903b1dd0271b05630de
+msgid "Introduction to Array Operations in Python"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:10005
+#: 053f998f0c254a21a53fc0f11f7426ae
+msgid "Meenal Jhajharia"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:20002
+#: d81d0c1508bd4bd28ab3b8b1f15b003c
+msgid "**Meenal Jhajharia. she/her.**"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:20004
+#: dcdfa2507361400ea576604fc823b874
+msgid "CS and Math undergrad, University of Delhi"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:20005
+#: 3def88c1e0474f39a3e946f9e3d7665e
+msgid "PyMC core contributor | GSoC student"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:20006
+#: c8f244a57f554882b5f2e29f2c578086
+msgid ""
+"Contact: [meenal@mjhajharia.com](mailto:meenal@mjhajharia.com) | "
+"[mjhajharia.com](https://mjhajharia.com)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:40002
+#: d6ecc0f56b6f43ee8e3773e5e4601bd9
+msgid ""
+"This banner is generated from [this "
+"code](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
+"umbrella/main/banner.py), the code in this link is a trivial customization "
+"of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-"
+"pages/assets/make_trajectories.py) by [Colin "
+"Caroll](https://colindcarroll.com/) who designed a [similar banner for "
+"pymcon’20](https://pymcon.com/), Colin is amazing at visualization stuff and"
+" even has a couple of talks about it!!"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:50002
+#: b0712a5b580046859ca62c9381d1bf22
+msgid "Overview"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:50004
+#: 7e01697f8e4f4d5ca64f21b638952805
+msgid "Introduction"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:50005
+#: c40e1f6dad8344bf8b207fcdc3b64309
+msgid "Python Objects"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:50006
+#: ../about/intro_to_array_operations/notebook.ipynb:410002
+#: 09f9318ff61045519eda3d5c5170eeea 0f48531676674dabac0043f8231bafe2
+msgid "List Comprehension"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:50007
+#: eb5712315ccc4039b3e580a128a313d4
+msgid "Basics of NumPy"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:60002
+#: da8df593da3e4134bda1199aa583a68f
+msgid "Why Python?"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:60004
+#: 8b21e7ebf3b74ca9af499afe8719d13f
+msgid "Useful for quick prototyping"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:60005
+#: 5cedd0a324b84051a4a8672c2af424c4
+msgid "Dynamically Typed, Interpreted, High level data types"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:60006
+#: 5decb635c02d4b7491778a4c9e851b3e
+msgid "Large number of scientific open source software"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:60008
+#: 07330f1bb89a49b5bdc3d186e7937626
+msgid ""
+"Best Place to learn more : [Official Python "
+"Tutorial](https://docs.python.org/3/tutorial/index.html)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:70002
+#: 686087f2f66f4ce68e1bc0ea1a47384f
+msgid "Let's get started!"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:70004
+#: c853fdb6e27d49cead12ba7144c449e7
+msgid ""
+"All the code that is shown in this webinar can be executed from its website."
+" Therefore you have two ways to follow along:"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:70007
+#: bed45725c6f345e3b5dbc0cca650999f
+msgid ""
+"Click on the run code button and execute the code straight from this page"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:70014
+#: 1f462ee1ed414e2d9786053298ce6a7e
+msgid ""
+"Clone the GitHub repo: [pymc-devs/pymc-data-"
+"umbrella](https://github.com/pymc-devs/pymc-data-umbrella)  and follow along"
+" locally using Jupyter"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:80002
+#: 98ff5efd406e4c8abb9ed6403140c86a
+msgid "Python Data Types"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:80004
+#: 6518fc7f7a17489a94126ee8512e0d20
+msgid "![data types](data_types.png)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:80004
+#: 4d93ba05162f4b2cbf54d4b87bef30ba
+msgid "data types"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:90002
+#: e673c7b8a94740c1bd5dc06ffbff4a8e
+msgid "Numbers"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:90004
+#: bb823f0fa5184bcbb166d672280a9577
+msgid "Certain numeric modules ship with Python"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:110002
+#: a3566604e43b4084a0f2da5f1aea8381
+msgid "Strings"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:110004
+#: ee50cac53c654a1b93097f685f543b51
+msgid "Sequence Operations"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:140002
+#: b8aeef0992984308bad4b0155ac8875e
+msgid "Immutability"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:140004
+#: 15e38043ad704360a3094ecbdf98ab11
+msgid "Immutable objects cannot be changed"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:170002
+#: 428a3b0fbbdb4457a5ce440aba1cc7b8
+msgid "Polymorphism"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:170004
+#: 38000b9ef7774411b57116e8579aa18e
+msgid "Operators or functions mean different things for different objects"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:200002
+#: b20f39dcdbf34a8db1d1be33b1bd96d4
+msgid "Length or size means different things for different datatypes"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:240002
+#: abee49a6c2dd48c2ab141787a9cb988b
+msgid "Related: Class Polymorphism, Method Overriding and Inheritance"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:250002
+#: 200973c00f1d4f03b47b1f9ec130e870
+msgid "Lists"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:250004
+#: b9d8c2e495b5405eb220b43b3e90f017
+msgid ""
+"Positionally ordered collections of arbitrarily typed objects (mutable, no "
+"fixed size)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:290002
+#: 2938b85e84524428badb94db089724a9
+msgid "List-specific operations"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:320002
+#: 21e4c11298eb41da86f26155b5d6ba34
+msgid "More: sort(), reverse()"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:330002
+#: b4e7546adef74f7c946fc0e4849ec66d
+msgid "List indexing and slicing"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:480002
+#: 435a2fe160da4da48f0c0379d2506ddd
+msgid "Nested List Comprehension"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:510002
+#: bb8304849a5945859204a5fa858d72c1
+msgid "Lambda Function"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:540002
+#: 4bcf2abe77c24f2b975d867ea675c1ff
+msgid "NumPy"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:550002
+#: 7276da45567d44dbb81da0820fed9d8c
+msgid "NumPy’s array class -> ndarray(array)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:550004
+#: 08591d85c3e74717a6b25c97a196b725
+msgid "ndarray.ndim"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:550005
+#: fd9f6286bfcd45feb51db655bf458979
+msgid "ndarray.shape"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:550006
+#: 142b689444cd42b598dd842c8e37de69
+msgid "ndarray.size"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:580002
+#: fb8b9f49a16a4be1a884bf7cf6c96c4b
+msgid "Simple array operation"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:600002
+#: 50886b83a57149d7b4ecebce7b0c81f5
+msgid "General Properties of ndarrays"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:640002
+#: 8682da627d104deba4ae76647d5cc05f
+msgid "Ways to create new arrays"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:680002
+#: 0e3fd4474a0c495fb3733aef654b6481
+msgid "Generate values in a certain range"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:700002
+#: f388bc13c91548bc8a188e3b1462e444
+msgid "Random Number Generator"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:720002
+#: dd84a6e53d0c442baf98b33e1d32d8ee
+msgid ""
+"Cumulative sum against specified axis (in this case only one axis is "
+"present)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:740002
+#: c5bf15b07513467fa221f50bdbdb00bc
+msgid "Multi-dimensional arrays"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:780002
+#: 546e36564a334a2192f457a58afc8251
+msgid "Element-wise printing"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:800002
+#: cb8d2d2cd7a246f890dc986c15c52261
+msgid "Transpose"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:820002
+#: 57bf832889284a7083e47a60ac9d035a
+msgid "Reshape"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:840002
+#: 5235386502a747b58ebaae0cd8b48747
+msgid "Stacking"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:880002
+#: 3dc8589d00e24379a5eb145fa28148d8
+msgid "Broadcasting"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:880004
+#: a35db989443b41c2bbff9878f419c766
+msgid "Used to deal with inputs that do not have exactly the same shape"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:880006
+#: 0d2cff8c932d4d2988d27b7a01fbf583
+msgid ""
+"If all input arrays do not have the same number of dimensions, a “1” will be"
+" repeatedly prepended to the shapes of the smaller arrays until all the "
+"arrays have the same number of dimensions."
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:880008
+#: b5e1ec059f144138830c5a55943f3ba3
+msgid ""
+"Arrays with a size of 1 along a particular dimension act as if they had the "
+"size of the array with the largest shape along that dimension. The value of "
+"the array element is assumed to be the same along that dimension for the "
+"“broadcast” array."
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:890002
+#: c8e87b1ab8ff47ddb1aa25c04cdfe828
+msgid "Arrays with same dimensions"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:910002
+#: fc434572afef4785b02575430ba57178
+msgid "1-d Array and a Scalar"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:930002
+#: c2a0c182c39c47228a98f5bf40ca28db
+msgid "Intuitively: scalar b being \"stretched\" to same shape as a"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:930004
+#: 37e7bd15e6f6446d80decbdf11d7a534
+msgid ""
+"Reality:  broadcasting moves less memory around (computationally efficient)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:940002
+#: 9e1d36e9556c4c068e2be8430edb0673
+msgid ""
+"Arrays where dimensions aren’t exactly same, but are aligned along the "
+"leading dimension"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:960002
+#: 9371905fdcb146d980cbb6224d6a8da6
+msgid ""
+"Arrays where dimensions aren’t exactly same, but leading dimension is 1, so "
+"it works"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:980002
+#: cc50ce364a864f249e1ff62f06da8856
+msgid "Broadcasting fails!"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000002
+#: 1e6b5ed972474ae2a3ff9795e84ca07a
+msgid "NumPy compares shapes element-wise for two given arrays"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000004
+#: 35aedc1167544c8ba6e32c1e6d9ca4b7
+msgid ""
+"It starts with the trailing (i.e. rightmost) dimensions Two dimensions are "
+"compatible when"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000005
+#: bada811aa50b46d1907d2c767b75f5f7
+msgid "they are equal, or"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000006
+#: df440f2efa3b4e55bbd5cd3901beef4b
+msgid "one of them is 1"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000008
+#: 1f901ae12b7843f0a3d70d8fe685504b
+msgid ""
+"Arrays do not need to have the same exact number of dimensions to be "
+"compatible. Broadcasting is a convenient way of taking the outer product (or"
+" any outer operation)"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1000010
+#: 40b40d9facf84cfeab634c088a30fda7
+msgid "Here broadcasting fails because of the mismatch of leading dimensions"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1020002
+#: aabc6883c39a418192296b496802521a
+msgid "We transpose a to reshape it along a new axix"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1040002
+#: 83ed9ef840704f8a9601e1198fd3cde3
+msgid "Now it works!"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1060002
+#: db5f06593ce2458eb9e94e752349f433
+msgid "Indexing"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1120002
+#: de682cd720eb4d44950d4ce7070bff53
+msgid "Next thing to look at -> https://numpy.org/doc/stable/user/basics.html"
+msgstr ""
+
+#: ../about/intro_to_array_operations/notebook.ipynb:1120004
+#: 9444c79d313647379972893f7d85926c
+msgid ""
+"Note / Reference: A lot of the things here are modified/original versions of"
+" examples given in official Python or NumPy documentation, so that’s the "
+"best source to learn comprehensively, this is meant to be an accessible "
+"introduction!!"
+msgstr ""

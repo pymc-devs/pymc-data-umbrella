@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/sprint-guide.md:2 ee3d7e4b4a2b48b08877bded99f6101b
+msgid "Event Guide"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:4 71827f3fd9cf47cfa3428c39a346ce3a
+msgid ""
+"Here are some guidelines and suggestions about the event for participants "
+"and volunteers!"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:6 f53ccf48f27b4465909740772e71040f
+msgid "General Information"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:8 93a3ed894edd488eb939b0b085b83b71
+msgid "Be Polite"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:9 1da11f25276b4b55bb2f47b9b8193771
+msgid "Ask questions"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:10 b86cc626354740449e5b28888c06cab8
+msgid "Don't use any discriminatory terms"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:11 25d349dba8c84d3780924d027f148717
+msgid ""
+"Use gender neutral pronouns unless you know someone's preferred pronouns"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:12 9041e3c248a94d33b182c356ed7b11e0
+msgid "Don't use words like \"guys\", instead say \"folks\" or \"people\""
+msgstr ""
+
+#: ../sprint/sprint-guide.md:13 9541155f2f424924a3231468d3b94833
+msgid "Be inclusive and kind"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:15 49e4e64849794b90a71e73c980a02f9a
+msgid ""
+"The sign up instructions are available on Meetup, please try to join on the "
+"starting time so you can receive proper help and guidance for the session."
+msgstr ""
+
+#: ../sprint/sprint-guide.md:17 36d5ad965cb04c50865f9e123ce6b1f0
+msgid "We will have separate channels (or \"rooms\"):"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:18 495e41de1d6a4a1cb8403f94f95ba0e9
+msgid ""
+"Women and Non binary folks: this breakout room is specifically for women and"
+" non binary folks, we hope you have a meaningful space here where you're "
+"heard!"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:19 aa7023c33f7a486b8429b6dcee1a059a
+msgid ""
+"New to open source: this breakout room is for newcomers to open source so "
+"you can get suitable help"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:20 1e4aa03d05754e05aac3f62aa7529b69
+msgid ""
+"Code related PR: If you are making a code related contribution then you'll "
+"be assigned to this breakout room"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:21 37db1b1b8bf3445c92504c158197efa8
+msgid ""
+"Documentation related PR: If you are making a Documentation related "
+"contribution then you'll be assigned to this breakout room"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:22 8dc42e1d172f4b6bbf2f6d44406b6404
+msgid ""
+"Spanish Speaker: Please let us know if you prefer this. We will ensure we "
+"have a Spanish-speaking mentor available."
+msgstr ""
+
+#: ../sprint/sprint-guide.md:24 cd812a3da33d47999a25c5c549a3ef50
+msgid ""
+"These breakout channels/rooms aren't rigid, you can choose which one you "
+"wish to be in, they're created solely to help us help you!"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:26 1719b5ac849941c99d34456d208aa296
+msgid "Volunteer Guide"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:28 79851df1cc4e4022856365fcbf22b5de
+msgid ""
+"Be patient and kind to session participants, if you feel unable to help "
+"someone with a doubt or issue, redirect it to another volunteer or PyMC team"
+" member if someone is available. If that does not work, consider suggesting "
+"a new issue to the participant."
+msgstr ""
+
+#: ../sprint/sprint-guide.md:29 87342d5922194b43a6a329ea03bd8509
+msgid "Encourage people to introduce themselves and ask questions."
+msgstr ""
+
+#: ../sprint/sprint-guide.md:30 f29ddfb010ec4eff9043bc021f74bee5
+msgid ""
+"Do flag any (really ANY) inappropriate behaviour. Warn the participant or "
+"remove them from the platform in these cases:"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:32 8af8d9703daa4ef196a0bb74ceaf997e
+msgid "They make a discriminatory remark"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:33 33223d1870d64f51b8b22ec9afe86f76
+msgid "They are being persistently rude"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:34 9da241d28330449cb2aa2eaa65a1b923
+msgid "They are a spammer"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:36 ac160a10231143ffbc1c0fcc46820b79
+msgid "Tentative Structure of the Session"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:38 4ea07192a20a4ddcb4e7d0c1655ee024
+msgid ""
+"All participants join, the first 10-15 mins are spent with everyone "
+"introducing and saying hi"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:39 d6ca76a1b85d407d98432ddc992b1440
+msgid ""
+"Participants are redirected to the board consisting of available issues that"
+" they can choose [from here](https://github.com/pymc-devs/pymc/projects/4)"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:40 d158ccdcf24d457abe67d675df3720e5
+msgid ""
+"If a participant doesn't find a suitable issue here they're encouraged to "
+"ask the volunteers for help, who will suggest an issue or task based on "
+"their said skills"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:41 016cc840ecc5413ebbbc7e50e1c7ab72
+msgid ""
+"Participants go to breakout rooms and work on their issues, they should make"
+" a comment on the issue they're interested in, after which volunteers will "
+"update that issue on the Event Dashboard for clarity"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:42 6298f3baecc24e899f0dd54cb0f36c2b
+msgid ""
+"Volunteers keep alternating between breakout rooms to checkup on "
+"Participants, to see if they need help"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:43 af2be871a4f14f759457c2c390f649f8
+msgid ""
+"Participants can go to the \"help-desk\" channel/room if they have a "
+"question"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:45 49325d449df24c6cbdb68ae2e4ec4d28
+msgid "Cheers, have fun folks!"
+msgstr ""
+
+#: ../sprint/sprint-guide.md:47 0c96958b9c114f949e8dbcef2221089d
+msgid "[Event Organizers](https://github.com/pymc-devs/pymc/projects/4)"
+msgstr ""

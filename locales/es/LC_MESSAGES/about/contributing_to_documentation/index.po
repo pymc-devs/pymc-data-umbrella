@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/contributing_to_documentation/index.md:43
+msgid "Presentation material"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:2
+#: 5c0711b2d715431db78b1a5052158de0
+msgid "Contributing to PyMC Documentation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:4
+#: 2d3137c1033048d0bf93a7971392c63f
+msgid "Event"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:5
+#: 33d9fc9145cf4991b03ec6a02688d3ca
+msgid ""
+"The best software libraries of the world are severely restrictive and "
+"inaccessible if they are not properly documented, resulting in few or no "
+"users. PyMC has an extensive documentation corpus with examples of all kinds"
+" which has been built since its initial release back in 2015! In this "
+"webinar we’ll explain how to contribute to PyMC documentation to update it "
+"to our new infrastructure built during the last 8 months thanks to Outreachy"
+" and GSoD (Google Season of Docs)."
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:7
+#: cb97831e08d042c6a1bbaa54ed05d242
+msgid ""
+"You'll learn how to use MyST (a superset of Markdown) to write technical "
+"documentation, to use multiple types of cross-references, to add beautiful "
+"styling elements, figures with captions... all while using executable "
+"Jupyter notebooks!"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:9
+#: dd8a2dae5746497fa2ee13cd844f01da
+msgid "Details"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:11
+#: 1cfc5f7d39f244818007dbf459e33459
+msgid ""
+"Audience: People who are interested in contributing to PyMC documentation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:12
+#: f16946df13b742158110e44363cb547d
+msgid "Requirements: Markdown"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:13
+#: 465197046f94437fbc2693fae27488d3
+msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:14
+#: 9a620e7dcc4a4e0d94a8b737b57e8a09
+msgid ""
+"All the content is available on this website, which is built with the same "
+"tools we use for PyMC documentation."
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:18
+#: 3f892e469f0a43f8b25adb48ec72816b
+msgid "Go to the webinar material!"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:26
+#: 1b0a691241ff4b029f5bc3850d7913ba
+msgid "Pre-reqs"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:27
+#: 76fb7f4424de4edf91804a71c153f5ea
+msgid ""
+"Being comfortable writing and formatting with Markdown is necessary, being "
+"familiar with Jupyter is strongly recommended."
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:29
+#: 8f0458645f3c476ca649c8d007f866b4
+msgid "Speaker"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:30
+#: 395f6ad9335a48cbb0eee03a863f8ff6
+msgid ""
+"Oriol Abril Pla is a Bayesian statistics and open source software enthusiast"
+" currently pursuing a PhD in Computer Science at Helsinki University. He is "
+"also a member of the ArviZ and PyMC teams, where he dedicates most of his "
+"efforts to documentation and community management."
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:34
+#: a3be78d7d6274637b427b4ed188bbebe
+msgid "Personal website: https://oriolabrilpla.cat"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:35
+#: d3ad33e915b94f549c8a8e21708e4527
+msgid "LinkedIn: https://www.linkedin.com/in/oriol-abril-pla-1b9123180/"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:36
+#: b9d2a9c28b6344f6bd1f5ef821dc5ac5
+msgid "Twitter: https://twitter.com/OriolAbril"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:37
+#: e5057e145d18450eaa5ffb748b4143ec
+msgid "GitHub: https://github.com/OriolAbril"
+msgstr ""
+
+#: ../about/contributing_to_documentation/index.md:39
+#: 02df46886d214094874df7e8cce7bf3b
+msgid "Video"
+msgstr ""

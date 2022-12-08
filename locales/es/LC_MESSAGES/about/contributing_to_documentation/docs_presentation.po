@@ -1,0 +1,681 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/contributing_to_documentation/docs_presentation.md:2
+#: 62b8e168354a45708fff1824983bf7d3
+msgid "Contributing to PyMC documentation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:4
+#: 9d7582441b0d49c88e64ccc173f4899e
+msgid "An overview of PyMC documentation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:5
+#: ba1a3d4c42c845da871b5c14eee029cf
+msgid ""
+"The PyMC documentation is generated from two different GitHub repositories, "
+"each containing different type of documentation:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:8
+#: af58a50b83064d7aab7c92160680e9c7
+msgid ""
+"[pymc](https://github.com/pymc-devs/pymc): The pymc repository contains most"
+" reference content in the form of docstrings (strings attached to the Python"
+" object they describe), some guides about core functionality and the "
+"contributing docs."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:13
+#: e61053f126854c61bee3fdaebec428c4
+msgid ""
+"[pymc-examples](https://github.com/pymc-devs/pymc-examples): The pymc-"
+"examples repository contains a collection of over 90 notebooks with usage "
+"examples, in depth-explanations and tutorials about PyMC."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:18
+#: 430044fe14fe457eae4b4958ec94bd42
+msgid ""
+"In this talk, we'll focus on contributing to pymc-examples, which contains "
+"more and more diverse documentation. We'll start with a description of the "
+"resource, its features and how they relate to our pedagogical goals and then"
+" dive into using those features to write clear, pretty and well referenced "
+"technical documentation."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:26
+#: 1512421201184ea9bfaa1f1ca3cf0c76
+msgid "The idea: an executable book made from blogposts"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:28
+#: 986c1ee78cca4e109284570e9b3f8211
+msgid ""
+"We won't explain how to set up a similar website, this would take another "
+"whole talk."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:30
+#: a06a94b704c04ac3856ebcd66b9f2442
+msgid ""
+"We will give an overview of the features available and about why we chose "
+"those to then dive into our main goal for the talk: _How do you as a "
+"contributor to PyMC documentation take advantage of them_"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:35
+#: a568a610a9bd48d29771eab4c7b35c54
+msgid "Our wishlist:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:36
+#: ../about/contributing_to_documentation/docs_presentation.md:50
+#: 1c22a84068d24f76a507895923d74c60 cf6a9cbc60d944578ed6ef27516969dc
+msgid "Easy to write"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:37
+#: ../about/contributing_to_documentation/docs_presentation.md:53
+#: 29017bc484924798b1a8456fb7d16854 987d0dd98e0841e9ba5ecfcdbb569c21
+msgid ""
+"Easy to execute, both when writing pages and when reading them. We should be"
+" able to run the code years from now."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:39
+#: ../about/contributing_to_documentation/docs_presentation.md:58
+#: 37604cc9bc3e452c94f3d54595bfa433 8f31570fc9244de981aacdfd6080abf0
+msgid "Browsable via tags and categories"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:40
+#: ../about/contributing_to_documentation/docs_presentation.md:60
+#: 952ab1d5a8f64bfdaf3926c67c24e72a bca2dd6c30f84d488cdb9a935f6d8a20
+msgid ""
+"Searchable by itself and searchable from the pymc library documentation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:41
+#: ../about/contributing_to_documentation/docs_presentation.md:62
+#: 075e6f1c5ab04b929c556df0fd338a97 84404e1cc0db4e7db841457e6fd06725
+msgid "Citable resource"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:42
+#: ../about/contributing_to_documentation/docs_presentation.md:64
+#: 083429f95369428e9f70721856d198b5 dfbd332bae75426581383617a21a0742
+msgid "Acknowledge the authors (without making it the focus)"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:43
+#: ../about/contributing_to_documentation/docs_presentation.md:66
+#: 7e5266dbcda24f008db01d1347000a91 f7a6be33d8ce4f9fb36252589b4f9e8b
+msgid "Automatic table of contents"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:44
+#: ../about/contributing_to_documentation/docs_presentation.md:68
+#: 137544fe34324cc49def739c7ea69861 ed672803118d4978993b9810804c321c
+msgid "Accessible"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:45
+#: ../about/contributing_to_documentation/docs_presentation.md:70
+#: 1e26006382874cc5b25dc02410ed85ec 8c667e08f4a640a3999e3697cd3ceb9b
+msgid ""
+"DRY: do not repeat yourself. Things shared between several notebooks should "
+"be done once when possible."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:48
+#: e0deb6bbcbbf49ecb0c64b13443ff601
+msgid "The implementation: jupyter notebook + sphinx (+ extensions)"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:51
+#: 5c7dcb42b9434ebaa03910c7ed8d7cbd
+msgid "Markdown"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:52
+#: c592f679b99049b88c14825ca55ac42b
+msgid "supported via sphinx+myst-parser"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:55
+#: 1ff3e6170c094903b2fef49143b6050e
+msgid ""
+"Jupyter notebook combined with binder and google colab badges on top of "
+"every page"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:56
+#: b7c6b672946742ac926f47ab59b525aa
+msgid "supported via sphinx+myst-nb and a custom html template for the badges"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:57
+#: e3e048a9f5134b248df698fa62a294fb
+msgid ""
+"the environment used to run them is stored automatically thanks to the "
+"watermark library"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:59
+#: bbcccd2898894bf3b46a72c636c1b01f
+msgid "supported via sphinx+ablog"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:61
+#: 835b2de3381f493ea10024a02e2d22f7
+msgid "supported via sphinx+pydata-sphinx-theme+readthedocs"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:63
+#: 98ddb1d5d9b54723bf7fd98c9f8a0356
+msgid "supported via zenodo+custom template"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:65
+#: 585d143387fb4ecca08653cfa8051737
+msgid "supported via ablog+custom template"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:67
+#: f78e5aa24af6411b907c657579d76b9c
+msgid "supported via sphinx+pydata-sphinx-theme"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:69
+#: c11adf2369444251a72c16df111d8559
+msgid ""
+"pydata-sphinx-theme is working on the accessibility of the theme and will "
+"continue to do so"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:72
+#: c596f0231af14874bf04994743d02e16
+msgid ""
+"Centralized citations thanks to sphinx-bibtex, they are referenced in the "
+"docs with 2 keywords"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:73
+#: c0c6f93efa3b41c38e156cb6f0a2943d
+msgid "Badges are automatic"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:74
+#: 5d5e5156e4e44de5a456a1a28b7ee4b1
+msgid "Tags and categories are automatic"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:75
+#: 1247f4703f03474ea47edab2e9f51377
+msgid "Table of contents is automatic"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:76
+#: 1da9dedbc22342a8bc01f3264a4eb9ec
+msgid ""
+"The 2 last sections with license info and citation are generated from a "
+"centralized source, with only 2 lines needed per notebook"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:79
+#: 2d5bead4a55f419c8b1967a00ea03bcc
+msgid ""
+"To sum up, thanks to the work of several amazing people (both seasoned PyMC "
+"contributors and new members working with us via Outreachy and {abbr}`GSoD "
+"(Google Season of Docs)`) and the funds we raised during "
+"[PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and GSoD we have "
+"changed most of our documentation infrastructure in the last 9 months."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:84
+#: f47fea145fc74b61ac976f893435aa11
+msgid "You can see a huge change already:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:88
+#: ../about/contributing_to_documentation/docs_presentation.md:93
+#: c9503f4b2f6142f4ad0397c90868f213 130f929ad93a4e5a8ad388e5e5c56792
+msgid "background image"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:99
+#: b3c009c744dc49e38e960ee96a89212a
+msgid "The problem: too much docs?"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:100
+#: ca726fb8a79e4071b7bdd2dd5033f747
+msgid ""
+"Our **infrastructure** supports all of the points above, but only a handful "
+"of notebooks have been updated to take advantage of them. So while we "
+"_could_ have all that, we are still far from there!"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:104
+#: 7dba53a160f645498e6a46cc199462f3
+msgid "MyST: Markedly Structured Text"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:105
+#: ed588f21a2934badbe826c4cff23d0fe
+msgid ""
+"As we have just said, we have already configured the infrastructure for all "
+"the points above, so you don't need to worry about that. The rest of the "
+"webinar will be a myst quickstart targetted to contributing to pymc-"
+"examples."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:109
+#: fffd3d12342540878b7d5c4969fdcfb5
+msgid "Core markup"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:110
+#: aab79bc9d0944f33b5af8b968518a984
+msgid ""
+"MyST is a superset of ✨✨ **Markdown** ✨✨. Everything you know and love about"
+" markdown is valid MyST markup: italics, code blocks, links, headers, "
+"lists..."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:113
+#: 3e9e95a715374519b3bfcafd39891133
+msgid ""
+"However, markdown is too limited for technical writing and for resources "
+"containing many files. MyST fills this gap by bringing to markdown all the "
+"features of restructured text, a similar markup language designed for "
+"technical documentation. It does so by extending markdown with a few custom "
+"idioms and by supporting roles and directives (covered in the following "
+"subsections)."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:120
+#: 65cee2e42a744d3c868fa111cf5cff8a
+msgid "**Targets**"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:122
+#: 0509d94c5d4f4390865a625b337a3c83
+msgid ""
+"Targets are used to define custom anchors that you can refer to elsewhere in"
+" your documentation using roles. They generally go before section titles, "
+"but they can also point to lists or specific bullet points within a list."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:127
+#: 712f2f4b62d043b3bd27508ef2debc7a
+msgid ""
+"Targets are creating with `(target_id)=` right before the section or item we"
+" want them to point to. You can see the equal at the end as an indicator "
+"that we are making the target id equivalent to what comes after. Thus, "
+"referencing the target id becomes the same as referencing a section header "
+"or bullet point."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:133
+#: 854499e5b16442b1a6a5a0afef42bf00
+msgid "**Math**"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:135
+#: 82dd0c1f903f45dd8a3ee371b8bde33a
+msgid ""
+"Like Jupyter notebooks, MyST supports using `$` for inline latex math "
+"expressions, and `$$` for block expressions. Moreover, block mathematical "
+"expressions can be given ids in order to reference them elsewhere using "
+"roles. Thus:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:145
+#: 40689d1e59484f9b9e587a621b517c27
+msgid "renders as:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:147
+#: 49eebb785b6a40d09f6952252269b36a
+msgid ""
+"\n"
+"P(\\theta|y) \\propto P(y|\\theta) P(\\theta)\n"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:151
+#: 5ccb1c19569a411193536de8adeab589
+msgid "and can be referenced."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:153
+#: bfaec872a56042c2938cb697aad1ceda
+msgid "Roles"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:154
+#: 0f19fc80ba04406c8541b5023c3209e2
+msgid ""
+"Roles provide a way to specify arbitrary **inline** features. Their base "
+"syntax is `` {role-name}`role-content` `` and can be divided in two "
+"subgroups: cross-referencing and formatting roles, with the cross-"
+"referencing use being far more important."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:159
+#: 2ac94675d2b347d396410ce5a698a9ca
+msgid "Cross-referencing roles"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:160
+#: 52a2352eeaf34cf4859ae5e99fa78e72
+msgid "Cross-referencing roles can be used in two ways:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:163
+#: 6e3f924ac55e411e881876cf24ee27e0
+msgid "`` {role-name}`target` ``"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:164
+#: dce9d15f6dca45d4bf1ea5be0082e4ec
+msgid "`` {role-name}`custom text for link <target>` ``"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:167
+#: 344e27ccae65485389f2e225a9eba16b
+msgid ""
+"`ref` and `numref` role is used to link to manually created targets, with "
+"`(id)=`, in figures... `ref` is replaced by the title of what we are linking"
+" to, `numref` (not valid for all objects) is replaced by its count."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:170
+#: 22bc1ca677b94e0eaa27bada5e70c646
+msgid "`doc` role is used to link using the path to a file"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:171
+#: d8edb2ab22ce40979be8184d163b2c1a
+msgid ""
+"`term` role is used to link to terms defined in {ref}`our glossary "
+"<pymc:glossary>`."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:172
+#: cf7e49d112524efb89c309e9438921b7
+msgid ""
+"python domain references: `mod` (module), `func` (function), `class` or "
+"`meth` (method) are used to link to python objects documented in the "
+"{ref}`pymc:api`."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:174
+#: 7df3c5eeb62b4507906a1424a3059748
+msgid ""
+"These can also take a `~` character before the import path to show only the "
+"object, not its import path."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:176
+#: 66c0522225d84d0ab982f828e485cd7d
+msgid ""
+"bibtex citation: `cite:p` and `cite:t` are used to cite the scientific "
+"literature and tell sphinx to keep a log of citations so we can generate the"
+" biblography automatically."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:178
+#: 24aacfd186304cdd8c12fe91bab72358
+msgid "`eq` for equation targets"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:180
+#: f5314dca3caa4315a7abcef96177f823
+msgid "**Examples**"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:182
+#: a26d90850a4d40f4ac9f2cb021aa83b0
+msgid ""
+"`` {ref}`docs/idea` `` is rendered as {ref}`docs/idea` and points to a title"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:183
+#: 1cf6464f0f834a059fe30d1a276d6cf1
+msgid ""
+"`` {ref}`the idea <docs/idea>` `` is rendered as {ref}`the idea <docs/idea>`"
+" and points to a title"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:184
+#: 4d0f2ccbc5d34a9bb170780d5c0d058a
+msgid ""
+"`` {eq}`eq:bayes` `` is rendered as {eq}`eq:bayes` and points to an equation"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:185
+#: c74bd0d91ab94233b029c8d5ea8f8c94
+msgid ""
+"`` {ref}`pymc-examples bullet point <docs/pymc-examples-point>` `` is "
+"rendered as {ref}`pymc-examples bullet point <docs/pymc-examples-point>`, "
+"and points to a bullet point using a custom text for the link. Here as we "
+"link to a bullet point we need to use custom text, sphinx can't use the "
+"title itself as link text."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:190
+#: c7f307dec3974d03b4f9db125a84eb45
+msgid ""
+"`` {class}`pymc.Normal` `` is rendered as {class}`pymc.Normal` and points to"
+" the documentation of the Normal class in PyMC"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:192
+#: 8fb8428ba91f4fe78f6dcf3831a0d6e6
+msgid ""
+"`` {class}`~pymc.Normal` `` is rendered as {class}`~pymc.Normal` and also "
+"points to the documentation of the Normal class in PyMC, but showing on "
+"`Normal`."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:194
+#: 19706c741df6459486f113aa78bf8de8
+msgid ""
+"`` {class}`normal distribution <pymc.Normal>` `` is rendered as "
+"{class}`normal distribution <pymc.Normal>` and again, also points to the "
+"documentation of the Normal class in PyMC but showing custom text."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:197
+#: a374e7342d9a46eaaba66b96141f3e61
+msgid ""
+"`` {term}`pymc:posterior` `` is rendered as {term}`pymc:posterior` and "
+"points to the posterior definition in the glossary."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:201
+#: 2fa98b107de245cdbee1851a07978848
+msgid ""
+"We can also use cross references for external links. In such cases, the "
+"target needs to be prepended by the external website id, we do this with our"
+" term cross reference, indicating it should point to the PyMC docs."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:205
+#: 371d9b80801340dfb2896d99908c9462
+msgid ""
+"If the target doesn't exist in the current website nor it is repeated among "
+"the external websites we have configured we can skip this prefix. We can "
+"therefore skip the prefix safely for links to python objects, and we have, "
+"the import path is already unique."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:210
+#: d5733b00fd2b4f648a3089e79e62e5f1
+msgid "Formatting roles"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:212
+#: 8a6872b0d90c476a9e570d27795d3165
+msgid ""
+"`abbr` for abbreviations: {abbr}`PPL (Probabilistic Programming Language)`"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:213
+#: 372dfefd10744f978d69768e28dda854
+msgid ""
+"`bdg-<style>` for badges: {bdg-warning}`caution`. "
+"[Reference](https://sphinx-design.readthedocs.io/en/furo-"
+"theme/badges_buttons.html#badges) for valid styles."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:214
+#: 526d0d207e614a3185d2a13b78b3e252
+msgid ""
+"`octicon` for [octicon](https://sphinx-design.readthedocs.io/en/furo-"
+"theme/badges_buttons.html#inline-icons) icons: {octicon}`bookmark`"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:215
+#: ab1aa734d42141d2b45db4049f9f3085
+msgid "`fas`, `fab` and `far` for Font Awesome icons: {fas}`dragon`"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:217
+#: 1620cecaa19c4e4a964950d7956ed3e4
+msgid "Directives"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:218
+#: ef8586f3301a4ae0b4b8d13c951c1453
+msgid ""
+"Directives provide a way to specify arbitrary **block/paragraph** features. "
+"They are much more diverse and flexible than roles. Their base syntax is:"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:230
+#: ff646f14e7734915a2a4071a1021037d
+msgid ""
+"Out of the 4 blocks (name, argument, keyword arguments and content), only "
+"the name is always required. Each directive has its own rules and required "
+"(or even forbidden sometimes) blocks."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:234
+#: 488b52cea15a49489621937391f20415
+msgid "Figure"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:235
+#: cc3beed441bb4c3788b00abc204818d0
+msgid ""
+"MyST provides a `figure-md` directive where we can add images with an id and"
+" a caption that gets rendered both in pure markdown (unrendered notebook) "
+"and in the website (where it looks nicer)."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:250
+#: 37a9348262ea4f488b71b53685f1dfa4
+msgid ""
+"The image shows two venn diagrams. The left side describes the imposter "
+"syndrome.There is a big yellow circle labeled\"what I think others know\", "
+"inside it has a small blue circle labeled \"What I know\".The right side "
+"describes the reality. The blue circle stays the same, but now,it is instead"
+" surrounded by many yellow circles of the same size that combinedcover the "
+"same area as the big yellow circle in the previous diagram. Now eachyellow "
+"circle represents what someone else knows, with no circle being smaller "
+"thanthe other."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:259
+#: e6305e349f534938878a9185ed2fdd72
+msgid ""
+"[Image by David "
+"Whittaker](https://twitter.com/rundavidrun/status/587671657193455616)"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:262
+#: ba18be05ee754da987421ef320ffefd4
+msgid ""
+"We really like the image in {numref}`imposter` and decided to use it here "
+"because we think that pymc-examples is a crystallization of this image. "
+"Nobody within the PyMC team know everything covered in the examples, the "
+"collection of examples was built by developers, power users, first time "
+"contributors and progressively ended up covering more and more, just like "
+"the yellow circles in the right diagram."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:268
+#: b7e0a18980834e2094618eeb2b6aaccd
+msgid ""
+"It is also a wink to [Melissa's talk about "
+"sphinx](https://www.youtube.com/watch?v=tXWscUSYdBs) which you should look "
+"if you are interested in setting sphinx up for your project."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:271
+#: cc7a0b5d05384b13afa4ab9216640943
+msgid "Admonitions"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:272
+#: 2b67faccb59a490aaa329a9a1eb0177e
+msgid ""
+"Admonitions provide a way to highlight a block of content with special "
+"relevance. You can use it for warnings, tips or notes. The complete list of "
+"admonition styles are available at the [jupyterbook "
+"website](https://jupyterbook.org/reference/cheatsheet.html#admonitions)"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:283
+#: 45a03610ced74a4388f4462b53abe987
+msgid ""
+"Use admonitions for content you don't want readers to miss, even if skimming"
+" only, chances are they will stop at the admonition blocks."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:287
+#: 17bb07ebfb974e8894544e54595abca8
+msgid "And more!"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:288
+#: 92473d6ad01b4de4bb09c8c3a8c68eed
+msgid ""
+"There are still more directives, most of which you don't need to contribute "
+"to pymc examples. In the next section we'll go over our \"jupyter style "
+"guide\" and cover 3 more directives that are important for pymc-examples."
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:292
+#: 28a17234a4fc4649ae61e531c88541c9
+msgid "Our conventions"
+msgstr ""
+
+#: ../about/contributing_to_documentation/docs_presentation.md:293
+#: 44a6a98b88f7423f812b736c66d80dba
+msgid ""
+"To try and ensure some common style and formatting among all the examples "
+"even though it is a collaborative effort with many people contributing, we "
+"also have some extra conventions. They are outlined in our documentation, at"
+" the {ref}`pymc:jupyter_style` page."
+msgstr ""
