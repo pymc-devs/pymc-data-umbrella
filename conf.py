@@ -109,12 +109,12 @@ html_theme_options = {
         {
             "name": "GitHub",
             "url": "https://github.com/pymc-devs/pymc-data-umbrella",
-            "icon": "fab fa-github-square",
+            "icon": "fa-brands fa-github",
         },
         {
             "name": "Discourse",
             "url": "https://discourse.pymc.io",
-            "icon": "fab fa-discourse",
+            "icon": "fa-brands fa-discourse",
         }
     ],
     "use_edit_page_button": True,
