@@ -1,0 +1,16 @@
+name: Get translations from transifex
+
+on:
+  schedule:
+    - cron: '17 5 * * 1,4'
+
+jobs:
+  txpull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      - name: Pull from transifex
+        run: |
+          curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+          tx --token ${{ secrets.TX_TOKEN }} pull --all

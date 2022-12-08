@@ -1,0 +1,25 @@
+name: Get text and upload to transifex
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  txpush:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: pip install -r requirements-docs.txt
+      - name: Generate translatable strings
+        run: sphinx-build . gettext -b gettext
+      - name: Push to transifex
+        run: |
+          curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+          tx --token ${{ secrets.TX_TOKEN }} push
