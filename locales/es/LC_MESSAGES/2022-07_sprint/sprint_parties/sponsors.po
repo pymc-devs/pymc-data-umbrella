@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:1
+#: 723694fa8fd5414b96eeb939237795ab
+msgid "Data Umbrella Sponsors"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:9
+#: 3840164654b8404e9d78126ae6ed3da5
+msgid "![Google](../../_static/sponsors/google_color.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:9
+#: b3b8460ebd3e48a3bf5ef7f2a0a1f16f
+msgid "Google"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:11
+#: 18fd74ea90f84e259be1721df22d4374
+msgid ""
+"We bring all the value of open source to Google and all the resources of "
+"Google to open source."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:18
+#: 1c8bfd22f8db4dfb941fcfa6ac5a3423
+msgid "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:18
+#: 81731110e0a54a4b90d2116f2c0c2104
+msgid "PyMC Labs"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:20
+#: ca6d0b75e1dc43b4863474b63f4fe20a
+msgid ""
+"The Bayesian Consultancy. We bring Bayesian methods into wide practice."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:27
+#: 2145ca629752452eba291d09b3fcaa8a
+msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:27
+#: 171ac5864af245c98e84fa9cb655b22e
+msgid "CZI"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/sponsors.md:29
+#: a179364fd14e45e4b93835f616306d9f
+msgid ""
+"We help solve some of society’s toughest challenges — from eradicating "
+"disease and improving education, to addressing the needs of our local "
+"communities. Our mission is to build a more inclusive, just, and healthy "
+"future for everyone."
+msgstr ""

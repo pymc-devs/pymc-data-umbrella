@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2022-02_sprint/organizers/index.md:2 dd378ea0958b458d9cad082a250e1375
+msgid "About"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:5 61a7edc1b4d54ac6b3dd11649177f93a
+msgid ""
+"Wondering if the sprint is for you? We have got just the page: "
+"{ref}`decision_tree`"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:9 9b2b2779462d4943a11a19335a07c89e
+msgid "Organizers"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:14 2a01b49352aa414ba42d8f59cb5c6efa
+msgid "Meenal Jhajharia"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:22 4f2130b368d949279e1325b1bd811699
+msgid "Meenal  Jhajharia"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:24
+#: ../2022-02_sprint/organizers/index.md:32 903bccfb43f84622a72bb928b65d1e51
+#: 19df7b4070f840c5b32283f9102dcb36
+msgid "Reshama Shaikh"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:34
+#: ../2022-02_sprint/organizers/index.md:42 a1fc25f9b4c940349b67e70bb072e2f5
+#: 3a4be3afc50e4dae904e803b8898ae53
+msgid "Beryl Kanali"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:44
+#: ../2022-02_sprint/organizers/index.md:52 326b97d199514af3ac16cfc15e79c83c
+#: d26779ea9ece407281181c53cb68421e
+msgid "Sandy Weng"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:54
+#: ../2022-02_sprint/organizers/index.md:62 bbfef7e4ea2a446fa128c70dc7ede60c
+#: a4d2d09085154a9aa3cabce242fd8029
+msgid "Oriol Abril Pla"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:66 7bd1a8321b1d40a5b27ef897b280027a
+msgid ""
+"Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), "
+"[Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo "
+"Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam "
+"Kumar](https://github.com/Sayam753)(Volunteer), [Thomas "
+"Wiecki](https://twiecki.io)(Volunteer), [Christian "
+"Luhmann](http://cluhmann.github.io/)(Volunteer) and "
+"[NUMFOCUS](https://numfocus.org) for their support."
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:68 c05a45cd8fea479b9139c5c7db609669
+msgid "About PyMC and Data Umbrella"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:70 4646d56abb744cf783605be9878cf8a6
+msgid ""
+"[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
+"underrepresented persons in data science. It is a fiscally hosted project of"
+" Open Collective, a registered 501(c)(3) non-profit based in California, "
+"USA. Data Umbrella: organizes online speaker series on data science and open"
+" source, organizes sprints / hackathons, curates resources on inclusive "
+"practices. All levels are welcome, beginners and experts."
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:72 0fc8ff4ace1f42f1814c7807bd5af1ec
+msgid ""
+"[PyMC](https://docs.pymc.io/en/latest/about.html) is a probabilistic "
+"programming package for Python that allows users to fit Bayesian models "
+"using a variety of numerical methods, most notably Markov chain Monte Carlo "
+"(MCMC) and variational inference (VI). Its flexibility and extensibility "
+"make it applicable to a large suite of problems. PyMC is a non-profit "
+"project under NumFOCUS."
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:74 b0895349b5ba478db976ae52b8bea701
+msgid "Banner code and credit"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:75 f93d92c586844ae19b3185553e0086d7
+msgid ""
+"This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
+"umbrella/main/banner.png) is generated from [this "
+"code](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
+"umbrella/main/banner.py), the code in this link is a trivial customization "
+"of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-"
+"pages/assets/make_trajectories.py) by [Colin "
+"Caroll](https://colindcarroll.com) who designed a [similar banner for "
+"pymcon'20](https://pymcon.com/), Colin is amazing at visualization stuff and"
+" even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) "
+"about it!!"
+msgstr ""

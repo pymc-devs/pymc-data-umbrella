@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/example_pr/index.md:2 ba1259deeebf49baac0111541464c281
+msgid "Example Pull Request to PyMC"
+msgstr ""
+
+#: ../about/example_pr/index.md:4 66029f1801544a888c52d0e6c856bc29
+msgid "Event"
+msgstr ""
+
+#: ../about/example_pr/index.md:5 a5a3335a1485431cb3c92eb4fb2b1312
+msgid ""
+"In this video, Reshama does a step-by-step example of how to set up a "
+"virtual environment, install the dependencies, build PyMC from source, make "
+"a small documentation change, and submit a pull request."
+msgstr ""
+
+#: ../about/example_pr/index.md:7 727ba62e27e74bc593e0f98b2fde2d00
+msgid "Details"
+msgstr ""
+
+#: ../about/example_pr/index.md:9 b54988e24e694fb58aaa06ffc5649e7e
+msgid ""
+"Audience: People who are interested in contributing to PyMC and who would "
+"like to see an example of a contribution."
+msgstr ""
+
+#: ../about/example_pr/index.md:13 8956273be8264348b5fc1f40ce74c79d
+msgid "Go to the webinar material!"
+msgstr ""
+
+#: ../about/example_pr/index.md:21 7ed474b0c2ed4c1d8fd5ca95941c391d
+msgid "Speaker"
+msgstr ""
+
+#: ../about/example_pr/index.md:23 0f29b976e9414304a5d097541d828eaa
+msgid ""
+"[Reshama Shaikh](https://reshamas.github.io) is a statistician/data "
+"scientist based in New York City. She earned her M.S. in statistics from "
+"Rutgers University. She earned her M.B.A. from NYU Stern School of Business "
+"where she studied strategy, business analytics and technology management."
+msgstr ""
+
+#: ../about/example_pr/index.md:25 1522834796e64977b3f62fe9875b98e3
+msgid ""
+"Reshama is the Director of Data Umbrella and an organizer for NYC PyLadies. "
+"She is also on the Contributing Teams for scikit-learn and PyMC.  She was "
+"awarded the [Community Leadership Award from NumFOCUS in "
+"2019](https://reshamas.github.io/on-receiving-2019-community-leadership-"
+"award-from-numfocus/)."
+msgstr ""
+
+#: ../about/example_pr/index.md:27 529a5bde2fb24900a9b1ce5f2309e887
+msgid "Video"
+msgstr ""

@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:1
+#: 67b7c447f31b44b3b46cda00cb4cabc2
+msgid "Community Partnership"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:4
+#: 6117626c50a0416d988dbc2f013369fe
+msgid "Become a Community Partner"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:6
+#: 6acc0b76885a4904a44dbc679410969e
+msgid ""
+"Community Partners are organizations who support our mission and share our "
+"event for outreach.  Data Umbrella will add the Name, Logo and Website Link "
+"to this page to bring visibility to your community.  If you would like to be"
+" a community partner, please contact us ({{ du_email }})."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:8
+#: cc3e120a67ae44c8bc7cf7af6947e7ec
+msgid ""
+"We are providing a social media kit with information for sharing with your "
+"community:"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:12
+#: a91cea1512a5482d81b8294232408b29
+msgid ""
+"Social Media Kit <svg version=\"4.0.0.63c5cb3\" width=\"3.0em\" "
+"height=\"3.0em\" class=\"sd-material-icon sd-material-icon-share\" "
+"viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
+"fill=\"none\"></path><path d=\"M18 16.08c-.76 0-1.44.3-1.96.77L8.91 "
+"12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 "
+"1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31"
+" 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 "
+"4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 "
+"2.92-2.92s-1.31-2.92-2.92-2.92z\"></path></svg>"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:20
+#: 43d0ef764bb34a90911ddac6bcbc2a57
+msgid "Community Partners"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:29
+#: 75a4108c37c74429a601c062c01ef501
+msgid "![Python Ghana](../../_static/community_partners/python_ghana.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:29
+#: bc3efe5278f947e192c75984361d7ff1
+msgid "Python Ghana"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:31
+#: b2e8c30e3fa14b58bd5450f79e2c4b67
+msgid ""
+"Python Ghana is an organisation of technology enthusiasts who seek to "
+"promote and advance the use of technology. Open to residents of all "
+"countries."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:38
+#: a971103c77064edbbcacd3347ec57b90
+msgid "![PyLadies Ghana](../../_static/community_partners/pyladies_ghana.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:38
+#: 63855a79b87d4b459f974899c7916541
+msgid "PyLadies Ghana"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:40
+#: a022ae749ca64bb5b04bc1946ebfbf25
+msgid ""
+"PyLadies Ghana aims to provide a friendly support network for women and a "
+"bridge to the larger Python world."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:48
+#: 8f4b082767234c839c9c0f17113b62db
+msgid "![Women in Analytics](../../_static/community_partners/wia.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:48
+#: f83b2097af2841a8976f415e05fbb4a9
+msgid "Women in Analytics"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:50
+#: 2a016c49c8914b408ee4c4c1ccb99628
+msgid "An Analytics Community. Featuring Women. For Everyone."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:57
+#: 31295fe757a14e18bca6460e9ca22f2e
+msgid ""
+"![New York City PyLadies](../../_static/community_partners/nyc_pyladies.jpg)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:57
+#: 85da0575cb2a4809bfef8b77c1cee3b4
+msgid "New York City PyLadies"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:59
+#: 910c240c23a44178bdcbb22176c3718c
+msgid ""
+"We are the New York City chapter of PyLadies, an international community of "
+"women and non-binary people in tech."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:66
+#: be45ab2ea5f244d3be22213ad38e17da
+msgid ""
+"![PyLadies "
+"Berlin](../../_static/community_partners/logo_pyladies_berlin.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:66
+#: 3cc0d4531f2b499eb31e2b9166008854
+msgid "PyLadies Berlin"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:68
+#: b0e83c5d3f06436380cca42b50fdb359
+msgid ""
+"PyLadies Berlin helps women and non-binary people to become active "
+"participants and leaders in the Python community."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:76
+#: 49390edee6e4414086f59a705708022d
+msgid "![PyLadies Tunis](../../_static/community_partners/pyladies_tunis.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:76
+#: bf73b61eace74ab4be0d565ce00fe7f5
+msgid "PyLadies Tunis"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:78
+#: b2664512b7f64621b50b5740a785fe0d
+msgid ""
+"PyLadies Tunis is an initiative under the Python Software Community. We want"
+" to maintain a friendly support network for women and all of those who are "
+"interested in Python."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:86
+#: 67d9bc88e69c454ba7ad69bf4449e223
+msgid "![PyLadies Paris](../../_static/community_partners/pyladies_paris.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:86
+#: 83d9874bbf8547e38c832bfd4a312ac5
+msgid "PyLadies Paris"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:88
+#: a86490ace23844058749b746a46610de
+msgid ""
+"We're PyLadies Paris! We organize meetups, workshops and gatherings around "
+"Python for women in Paris and online. We aim to share experience and good "
+"practices, learn, and be a friendly community for Python enthusiasts!"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:96
+#: 4911393d7d6d45dc8155cd4bd6255aee
+msgid ""
+"![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:96
+#: 4e124b32c62b4326b21a35a0b74580ca
+msgid "PyLadies Colombia"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:98
+#: 5546e20feb354690bd05aa65459ee975
+msgid ""
+"We are a community that motivates women to use technology and code. Everyone"
+" is welcome here, and it is a diverse and inclusive group."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:106
+#: e7d1735636a84e71a492279d43a65c82
+msgid ""
+"![Women in Bioinformatics & Data Science LA (Latin "
+"America)](../../_static/community_partners/wbds_latin_america.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:106
+#: b8d27d20483246aaa337e4a9a7c04cc1
+msgid "Women in Bioinformatics & Data Science LA (Latin America)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:108
+#: b4cd546e02b94d96b3c9cd7b33c9f919
+msgid "Fostering collaboration among women."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:116
+#: 427cc18dc5f44f479be04497e03633f1
+msgid ""
+"![PyLadies London](../../_static/community_partners/pyladies_london.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:116
+#: f53f8e94ed974665aa84d009677d6196
+msgid "PyLadies London"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:118
+#: 24d4c0a7f1f642ef8e21fa8f8137b85e
+msgid ""
+"We are a mentorship group for marginalized genders on a mission is to "
+"promote, educate and advance a diverse Python community."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:126
+#: 768526a243684fed8db552fe02ceaa24
+msgid "![Python Chile](../../_static/community_partners/pythonchile.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:126
+#: 5bb1fe27b2cd41ee82fe5111703c4025
+msgid "Python Chile"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:128
+#: 04aa14fcabef4a15877382d152957bee
+msgid ""
+"Official Chilean Python Community, a place to meet, learn, and empower "
+"Chilean Python developers."
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:136
+#: da36b19a4cc8490ca0b7f4318d932425
+msgid ""
+"![PyLadies Kampala](../../_static/community_partners/pyladies_kampala.png)"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:136
+#: c979b33c88f6416a8cfbe8e4aec15bd8
+msgid "PyLadies Kampala"
+msgstr ""
+
+#: ../2022-07_sprint/sprint_parties/community_partners.md:138
+#: 30baa26876d545c2b2c0a679b6c3f61d
+msgid ""
+"We are a group hosting various types of events on a range of usually Python-"
+"related tech topics."
+msgstr ""

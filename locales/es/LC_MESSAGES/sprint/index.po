@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/index.md:1 c7c3ab6aee2345fab5c68bf96b0c9a80
+msgid "Event info"
+msgstr ""
+
+#: ../sprint/index.md:18 ec30879bdd3f46b0b97a69ba30119ac8
+msgid ""
+"**Wondering if the sessions are for you?** We have got just {ref}`the page "
+"<decision_tree>`"
+msgstr ""
+
+#: ../sprint/index.md:19 2cb4740e082949a19fb1bf8fd336d86a
+msgid "**Ready to contribute?** Go to {ref}`docstring_tutorial` page"
+msgstr ""
+
+#: ../sprint/index.md:23 31c093a60f9e408b8e52fcd7dacc0964
+msgid "Open Source Working Sessions"
+msgstr ""
+
+#: ../sprint/index.md:25 1ae18efdc1b541fb9b7a303f7f74debe
+msgid ""
+"Data Umbrella is organizing a series of open source working sessions to "
+"contribute to the PyMC project. For more information, see {ref}`Resources "
+"<resources>` section."
+msgstr ""
+
+#: ../sprint/index.md:27 71dd14f5cf68451d8f4f17a3fb496d82
+msgid "Goals"
+msgstr ""
+
+#: ../sprint/index.md:29 8136172405c04f53bb88b1f1b07aa05d
+msgid ""
+"In these sessions we’re focusing on bringing in new contributors, we "
+"sincerely hope this will be a welcoming, inclusive experience for you into "
+"the world of open source software. We hope to help you to the best of our "
+"abilities and learn from you as well! The session will consist of small "
+"resolvable issues and contributing to the PyMC documentation, so if you "
+"aren’t experienced in software development no worries at all, you can "
+"contribute to documentation with knowledge of markdown or statistics."
+msgstr ""
+
+#: ../sprint/index.md:32 154039ba2f2c47ddbb539a8e430d6fbf
+msgid "Requirements"
+msgstr ""
+
+#: ../sprint/index.md:34 e054523d5a564e4d918101d25d19ee56
+msgid "Get your laptop, and some stable internet connection!"
+msgstr ""
+
+#: ../sprint/index.md:35 19771cd636ef4a858131698dbb1a3838
+msgid "Working knowledge of terminal and git"
+msgstr ""
+
+#: ../sprint/index.md:36 80d5a3a5387f4109bc7b1c6e1d521c81
+msgid "Setup a python virtual environment beforehand!"
+msgstr ""
+
+#: ../sprint/index.md:37 3b9cde278bd94351a3a8cc5b8aebe442
+msgid ""
+"Other than these two you can make different kinds of contributions with "
+"different skill sets, for example:"
+msgstr ""
+
+#: ../sprint/index.md:38 e1d16d95dd7746fb95e224e19ff4dab7
+msgid ""
+"You can contribute to documentation with knowledge of markdown and maybe "
+"some basic statistics"
+msgstr ""
+
+#: ../sprint/index.md:39 f88eb0bee6cd432f948e3e4f6be544cb
+msgid ""
+"You can contribute to CI/CD issues or Python issues with basic knowledge of "
+"programming"
+msgstr ""
+
+#: ../sprint/index.md:40 4cd03499f8ff4b92afa5e048d20bac2f
+msgid ""
+"You can contribute to core codebase with knowledge of Python + Bayesian "
+"Statistics"
+msgstr ""
+
+#: ../sprint/index.md:41 3281fdf025e044fc864c1a4d303ef550
+msgid ""
+"Note: {ref}`Check the event cheat sheet <decision_tree>` to know a suitable "
+"area of contribution and some resources to prepare you for it"
+msgstr ""
+
+#: ../sprint/index.md:43 df3746d7a64f4e63a0dc85f29d2c88a9
+msgid "Target Audience"
+msgstr ""
+
+#: ../sprint/index.md:44 d8ace8326cf64f8a9625506589777ef1
+msgid ""
+"The following table answers the question **\"This sprint is for someone who "
+"is/has ...\"**"
+msgstr ""
+
+#: ../sprint/index.md:52 edbe7b4cbd0445859ca0fb02a6a08484
+msgid "Yes"
+msgstr ""
+
+#: ../sprint/index.md:53 6b16c2d4aac745289d9e4567172c7e67
+msgid "No"
+msgstr ""
+
+#: ../sprint/index.md:54 ec6234ef2923468c8540e14228f5037c
+msgid "New to Open source"
+msgstr ""
+
+#: ../sprint/index.md:55 ../sprint/index.md:56 ../sprint/index.md:58
+#: ../sprint/index.md:59 ../sprint/index.md:61 ../sprint/index.md:62
+#: ../sprint/index.md:64 ../sprint/index.md:65 ../sprint/index.md:68
+#: 5451ea08c34b4070ab29f128225d8e41 2e89561062824438986312515a0c0b03
+#: 2586babe354b4287bf4d38ea63610341 03400fdd5f27415498b66b688759e53f
+#: 70d95bb243cd4d889e0a66c252ace38d 1c43434ff1cb4c1aba33ca00a2d06a0c
+#: 3ef648a4cec942be89d6dd8eaa0664a9 1d95bdcf8cb84861bf0c3c2db700030b
+#: 8c01c389b83742b0913db71e8725ac23
+msgid "{fas}`check;sd-text-success`"
+msgstr ""
+
+#: ../sprint/index.md:57 d773e246923b46789867d5674fa25096
+msgid "Statistical background"
+msgstr ""
+
+#: ../sprint/index.md:60 59f6603a0a98440d96d3ca1bf282ddda
+msgid "Currently working in data science/software"
+msgstr ""
+
+#: ../sprint/index.md:63 3b81e414a32d4f3491a333de168af95f
+msgid "Knows/uses PyMC"
+msgstr ""
+
+#: ../sprint/index.md:66 230a3067aa3841f2b93e65cd46e6478a
+msgid "Member of the PyMC team"
+msgstr ""
+
+#: ../sprint/index.md:67 273f9d243c5d4635979f54c36a70da06
+msgid "{fas}`times;sd-text-danger`"
+msgstr ""
+
+#: ../sprint/index.md:71 7cb8d4a893834bf5b13b55fa87c6d0cc
+msgid ""
+"Read the {ref}`decision_tree` for more detailed answers and to see what "
+"types of contributions can you make depending on your interests and "
+"background."
+msgstr ""

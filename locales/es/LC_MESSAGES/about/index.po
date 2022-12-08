@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../about/index.md:2 47864f4c11814d678128fd4bca235327
+msgid "About PyMC"
+msgstr ""
+
+#: ../about/index.md:4 ffea91481f13413e8183358600a88471
+msgid ""
+"[PyMC](https://www.pymc.io) is a probabilistic programming package for "
+"Python that allows users to fit Bayesian models using a variety of numerical"
+" methods, most notably Markov chain Monte Carlo (MCMC) and variational "
+"inference (VI). Its flexibility and extensibility make it applicable to a "
+"large suite of problems. PyMC is a non-profit project under NumFOCUS."
+msgstr ""
+
+#: ../about/index.md:6 24fa7d0fc9254fd8aa8ea84352251aa3
+msgid ""
+"Below we have a series of videos on PyMC and contributing to the library. We"
+" encourage you to watch the videos and bookmark the [PyMC Series "
+"playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-"
+"ir99uTvN0315hIVLuyj4Q1Gt). A subset of these videos focus on [How to "
+"Contribute to "
+"PyMC](https://www.youtube.com/playlist?list=PLD1x-BW9UdeEPD_4E4VOcj0q66kQpdcKz)."
+msgstr ""
+
+#: ../about/index.md:8 6918e45993934c22ba542b685bca58a3
+msgid ""
+"Is there a video you would find helpful, but it is not available?  Let us "
+"know via ({{ du_email }})."
+msgstr ""

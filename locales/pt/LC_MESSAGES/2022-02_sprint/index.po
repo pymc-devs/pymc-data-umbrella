@@ -1,0 +1,237 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2022-02_sprint/index.md:1 5bf314812b45472c9652fdba4da49999
+msgid "Feb 2022 sprint"
+msgstr ""
+
+#: ../2022-02_sprint/schedule.part.md:2 ee5a9780d14d486da426d1033c806b98
+msgid "Webinars"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: f3dc1eac9bc646fe91151a82ca23c84f 33e59d479bfd4070b3b3c6949b473be6
+msgid "Name of Event"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 21d3ead9fd8e437f84bc8bbd04cc2b90 d058a3c51f0e4b65bee3050907603923
+msgid "Date of Event"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: d511b1acf7d743658f8918399adbf3a6 f3c780ef09864e95bd40ce42f8af01a0
+msgid "Time of Event"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 04dd74d6098449a093e570b46700c3c5 980432a1c90a4104a65ab5b90119a714
+msgid "Duration"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 1d6dfdaf2bda421babbe7ac11e2be32a
+msgid "Speaker"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 021aef64d4c6449488ef3878a000a058 112d420611d24cda8fb643d3332bb706
+msgid "Registration form"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 cb21d90aa7624f5585d57aaee7814ede
+msgid "{ref}`array_ops`[^1]"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 902764f15b5f410f80786bd286cfc40f
+msgid "November 11, 2021"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 2cf679cb1e8e466a9bdc2d689ea064e4 6ab6ef9288f94399b33693b3a918ca10
+#: 63337c31acf74983a08378dc6936973a 30e3172d92784b8d8299d62d626e02ce
+msgid "5pm UTC"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 b635e689fcfe40b48f3419780dcb326c
+msgid "60+30 minutes"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 64f683d33a574a68ad5f2cb7903c2ef3
+msgid "[Meenal Jhajharia](https://mjhajharia.com)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 2e2d2c65a00f4f82abfca16389fd4628 c1da60a8126f4b6dac5f71947abc6532
+#: e07c330de13e4946879b8f2f55ab71bc 5a73e088d71b4770b90c41130bff44a8
+#: ebd56fc3664f42539b2896512e7a953c 0b7e23d438294efda9d3016d6176d75c
+#: d3bcf5df976048ac99501295f07b5e60 4992ab2304234adba5cb380348aacb91
+#: 9aed1d37f526409693c9598a71290823 34fdb9ba983b4b1eb601edcb1097cecd
+msgid "-"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 699f8fe5f61a4cb4af65540a7dccc9ec
+msgid "{ref}`probprog_pymc`"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 4308e835986e41c7b3dfe63655b8f552
+msgid "January 11, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 0ad881f6261844f0a5b98c80abdcbdf2 6dce4c746e114fab9fc3d68b5514d0f7
+#: 632f27f1cb05417b932b33dd025e71cd bda0a26ef7564e2aaa7622febe6a1e73
+msgid "45 minutes"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 b0cf72cc37ec47f3beec3f90c53becc9
+msgid "[Austin Rochford](https://austinrochford.com)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 dd37247163af47ed8c6749967597ea82
+msgid "{ref}`contributing_to_pymc`"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 c9792486ca494a5589d1785d8fa80893
+msgid "January 28, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 12afb0a808d24edc9c7ffbfe5582eb0d
+msgid "[Ricardo Vieira](https://github.com/ricardoV94)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 e15785e600604613988c2dab3a26030c
+msgid "{ref}`contributing_docs`"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 2dbd218d16bc45ed902aa460797d5386
+msgid "February 8, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 5d823d7055d842ff8f2223bc8b016367 827fcb3416684fc3a36f48d98c0ea16c
+msgid "[Oriol Abril](https://oriolabril.github.io)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 d5bb968818e04a388c566ff9b879c249
+msgid "[Example PR to PyMC](https://www.youtube.com/watch?v=NbmdFJsnuuo)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 9e6c7f4bfc3e4d97866afd4f642047c6
+msgid "20 minutes"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 9a57e41b157340ac9f4eb370dd894ee7
+msgid "[Reshama Shaikh](https://reshamas.github.io)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 25def0ca709143d6a31b4b61cb7964d4
+msgid ""
+"[Bayesian Modeling with "
+"PyMC3](https://www.youtube.com/watch?v=6dc7JgR8eI0)[^2]"
+msgstr ""
+
+#: ../2022-02_sprint/schedule.part.md:18 46f0ff3e033440378785b340c01e9cc9
+msgid "Sprint events"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 4bc38a9e22b240cf94f0c0d033a73d66
+msgid "Pre Sprint"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 d65e036275384cbe81a57d35ea575e73
+msgid "February 11, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 47176046faf14b22b24369eb1958fddd 74ec00e0fbcd48519cdf73865c25649a
+msgid "3pm UTC"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: f9d1adae6a634609914e7d13306fe607 265d6b9e9a8847269274608454fa80df
+msgid "1 hours"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 a4f62ef868554cb8b4776efb3e5bfc84
+msgid "[meetup event](https://www.meetup.com/data-umbrella/events/283765923/)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 9eda9301366e4ed6b61855d493cb3371
+msgid "Sprint slot 1"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 df5cad220f594488bdcc5afef55222fd
+msgid "February 18, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 d8eac98029044f56828aed2752e673bf
+msgid "7pm UTC"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: 98f42196a06f40ca9e7dc370e3f2591f a11bad21c4524c24b6b056bf62e48dd7
+msgid "2 hours"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ../2022-02_sprint/index.md:14
+#: ef358c73de5e49bd9db946ea9fa416d5 fb84a354c6c646da9f6bca2c8fd2bfaa
+msgid "[meetup event](https://www.meetup.com/data-umbrella/events/283178769/)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 d2334733ea4a4921b5cf341462352c3b
+msgid "Sprint slot 2"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 1d784236420b459bab53246fd62b0fd4
+msgid "February 19, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 a5e5b30a87e6421e8bc955c48d1ffd2e
+msgid "10am UTC"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 8d4f282a05274200bb42e5655b233bcc
+msgid "Post Sprint"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 ba2bd571ccbe431b98266ff0cfdc5e15
+msgid "February 25, 2022"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:14 e057d2e26b80458db4b5c07c48796ad7
+msgid "[meetup event](https://www.meetup.com/data-umbrella/events/283766699/)"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:13 d175f2cc86664597aa0ee18a3cae74a5
+msgid ""
+"Only for people who need additional help with python, but are already "
+"familiar with at least one programming language"
+msgstr ""
+
+#: ../2022-02_sprint/index.md:15 dacc56a4bdaa498381046d6b5362b2cb
+msgid ""
+"This is an old (but useful) resource, it uses PyMC3, check "
+"{ref}`contributing_to_pymc` for an introduction to PyMC 4.0"
+msgstr ""

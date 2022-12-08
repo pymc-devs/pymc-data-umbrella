@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/tutorials/pr_tutorial.md:2 615f55cff36d4541b98e0268aa8359ea
+msgid "Creating a Pull Request"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:4 8f7fe797e2dc4c67a948a96e61d41271
+msgid "In this guide we will be creating a pull request for the PyMC project."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:7 a235d9f3aab84213a3f18425e6af0040
+msgid ""
+"To follow this tutorial you will need to have your environment set up "
+"**and** have an idea of the changes you are planning to do."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:10 580631a552944ba8836dbd05a61045d8
+msgid ""
+"To set up your environment you can follow the {ref}`environment_setup` "
+"tutorial."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:11 1a389851d2ef4f2da134a7d25bf2cdc3
+msgid ""
+"If you haven't yet chosen an issue to work on, we recommend following the "
+"{ref}`docstring_tutorial` tutorial."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:14 b6d0c8ba9f6e4eb3836849313c54e7f0
+msgid "Create a feature branch"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:19 4611869c053f4be08ad7e15438dbfd36
+msgid "and check git indicates you the branch change was successful:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:25 8f6c11430b8a481a8797282708d0a9e8
+msgid ""
+"Keep your branch names informative, use one branch per PR and **never** work"
+" on `main`."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:29
+#: ../sprint/tutorials/pr_tutorial.md:180 e871d845e82945f79bacb6f9fc2fa1d2
+#: 8f64508d2091434f812bf6c46ec52098
+msgid "Getting ready for the 2nd PR?"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:32
+#: ../sprint/tutorials/pr_tutorial.md:183 4f7779781488455fa6d2af8b70fd19ce
+#: 2b87423a73564a72989ad25e44a1a5d7
+msgid ""
+"If you haven't changed to a different branch, you'll still be in the "
+"`docstring_update` one, but you don't want to work there! Remember, one "
+"branch per PR."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:35
+#: ../sprint/tutorials/pr_tutorial.md:186 a475ceda08ef44f5bbffd68dfd40ef6e
+#: c33bd982f9404b7db983098c1040a1d3
+msgid ""
+"_Before_ starting to work on the new changes, move back to main, update your"
+" local copy and then create the new branch."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:46 ec26232f6ca54fc388d637c2ff77a43d
+msgid "Commit the changes to git"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:48 caecfd5404e54e20a988f45cd9a89f6c
+msgid ""
+"Add the changes to your local copy and give a name to the changes. Keep the "
+"name short yet informative, for example:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:54 5e7d6bb32ae74b74902a7cdb815e1d1f
+msgid ""
+"pre-commit will check and fix common formatting issues, and before doing "
+"this it needs to set up. So this can take a bit."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:57 58f490517dc8474081452d7b62b41557
+msgid "If all the checks pass, the end of the printed output will look like:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:66 be2e1d833fe049f09d3101cfc617f4b7
+msgid "If some checks fail, there are two options:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:68 b36b87489d344c639534a83f0fd2697b
+msgid "pre-commit is able to fix the file"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:77 b8d2ed6213094967a77e6f2f290d4b9c
+msgid ""
+"If this is the case for all fails, you only need to run the same command "
+"again, and now checks will pass:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:83 55d7ec9a76284b739d839082d7dceb58
+msgid "pre-commit is not able to fix the file"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:92 382083e0cb674647aa99a7d393983f65
+msgid ""
+"If some fail has this message then it needs manual input. Ask on Discourse "
+"sharing this piece copied from your terminal. It needs to include the check "
+"name and all fail messages."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:96 7dff174dff514accaaf7fcfb22331408
+msgid "Upload (push) the changes to GitHub"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:98 bf3c2618e67a4ec4b667affd61a6ea0a
+msgid "Then push the changes to your GitHub account with:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:103 b2c99d0b38da403884d8aa6274c5ef86
+msgid "The output will look like:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:121 c6af68778bcb4042a6b5776c388be559
+msgid "Create a Pull Request"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:122 6d9f1604d7b8475c925f97d1d08f7ca0
+msgid ""
+"You will have noticed that the message already indicates how to open a PR "
+"and even provides a link. Click on the link (you might need to use right "
+"click plus \"Open link\") and take a look at the page shown in your browser"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:126 1930e89f9226422d9f561402a17afd0e
+msgid "Your screen at this point will be similar to:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:128 3cb8ee9a7e074f5c9fd2999e3a80728e
+msgid "![pr_screen](../images/pr_screen.png)"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:128 7d770ceb05674ef09c6f367fec3bf2b6
+msgid "pr_screen"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:130 f9bcdc76da034dbfb0d81d32386c0c64
+msgid ""
+"Before clicking on the \"Create pull request\" button, check a couple "
+"things."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:132 f01b6fafbe5041d29f7c0853410a1e08
+msgid ""
+"Make sure the title is informative. If you followed the advise here, it "
+"should already be as it defaults to the commit message."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:134 6c9698eaaafe4648a146c2e39b181c78
+msgid ""
+"Edit the description. You can remove all the points in the checklist except "
+"the one about the release notes. Then add a link to the issue you commented "
+"on."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:136 65e3f71f014c4ee6845869fb1e950e60
+msgid ""
+"If you have taken any notes while updating the docstring add them to the PR "
+"description."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:137 a902d3f4d29b4a91b6e39f1ab0d444a7
+msgid ""
+"Make sure the \"Allow edits and access to secrets by maintainers\" button is"
+" checked (it generally is checked by default)"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:140 1f41bfb0d7af4a16a0267999cbd122e5
+msgid ""
+"You might also see a link to the `CONTRIBUTING.md` file. You don't need to "
+"read it yet, this guide includes everything in the contributing guide that "
+"is relevant to this type of contribution. If your second PR is also on the "
+"pymc repo, then you should read the `CONTRIBUTING.md` guide there. However, "
+"if your second PR is to the pymc-examples repo instead, you have to read its"
+" (slightly different) `CONTRIBUTING.md`."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:147 bda349a1f82e491d88ed1153874e7013
+msgid ""
+"Click on \"Create pull request\" and celebrate for a bit 🎉, but the work is "
+"not finished."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:149 6ad086ef7a0b44a9b93a9777a0b1dc64
+msgid "Get ready for reviews"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:151 10fbd106841a47088d9951ea024af1d0
+msgid ""
+"Now you have to wait for someone on the PyMC team to review. If you have "
+"sent the PR during session hours, we'll get to it fast (but not immediately,"
+" we might be reviewing someone else's PR!), if you are doing this ahead of "
+"the session day, it will probably take several hours before someone sees it "
+"and reviews it."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:156 2c1358d9524c438da2c2471a065a4204
+msgid ""
+"We'll probably make some extra comments about things to change, this is not "
+"a bad sign. We don't expect you to know everything on the first try, and "
+"also, there might be further improvements like adding some `See Also` "
+"references that require a lot of familiarity with the code base."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:161 259158b841dc4126a74b3e8c9848f4ae
+msgid ""
+"If you need to address some comments, you will have to modify your local "
+"copy of the files (still on the same branch). Once you are finished, commit "
+"again (same command but different message):"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:169 2bcd4f0f76504d40a2477931bbebd23c
+msgid "Now you can push with:"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:175 79443012b6a04a00a2350b3b31d6ebb9
+msgid ""
+"The remote and branch name are only needed the first time. After pushing you"
+" should see that the PR on GitHub has been updated."
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:178 8f046fd6adc04fedad4ccb52177ba4f7
+msgid ":"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:197 de321a4c3400484a9d899c96a9734bec
+msgid ""
+"Your PR will be merged as soon as possible after that and you can properly "
+"celebrate your merged PR to PyMC! Thanks for contributing!"
+msgstr ""
+
+#: ../sprint/tutorials/pr_tutorial.md:201 d44ec7b8d1fa43bdba620f99404c7538
+msgid "{fas}`heart;sd-fs-1 sd-text-danger`"
+msgstr ""

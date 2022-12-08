@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../CODE_OF_CONDUCT.md:6 f4e29767cda44067ba52beae36ec0638
+msgid "Code of Conduct"
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:8 aa139b8bfd2c48a5bac4e3465e57b715
+msgid ""
+"Be kind to others. Do not insult or put down others. Behave professionally. "
+"Remember that harassment and sexist, racist, or exclusionary jokes are not "
+"appropriate for PyMC - Data Umbrella events being held."
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:10 ef708a0d306242be92f3f8f96e83a2dc
+msgid ""
+"All communication should be appropriate for a professional audience "
+"including people of many different backgrounds. Sexual language and imagery "
+"is not appropriate."
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:12 c093372824ff4cffab76b57b95726a5a
+msgid ""
+"We are dedicated to providing a harassment-free community for everyone, "
+"regardless of gender, sexual orientation, gender identity and expression, "
+"disability, physical appearance, body size, race, or religion. We do not "
+"tolerate harassment of community members in any form."
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:14 9afc277998814f4a84188f258f864a30
+msgid ""
+"Thank you for helping make this a welcoming, friendly community for all."
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:16 c05a948daa7f44dda3af0c57691d13b6
+msgid ""
+"For the complete version of the code of conduct refer to [NUMFOCUS code of "
+"conduct](https://numfocus.org/code-of-conduct)"
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:18 d450579fdd824686a602b9f5ede47581
+msgid "Reporting"
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:19 b0c3cc81c2ef4f868bb10951ef6b0338
+msgid ""
+"If you believe someone is violating the code of conduct, please report this "
+"in a timely manner. Code of conduct violations reduce the value of the "
+"community for everyone and we take them seriously."
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:22 d7807d3295ff4221b81cbf9473a1c2dd
+msgid ""
+"An anonymous report form is available at "
+"[https://numfocus.typeform.com/to/ynjGdT](https://numfocus.typeform.com/to/ynjGdT)"
+msgstr ""
+
+#: ../CODE_OF_CONDUCT.md:24 69fd2ffe22e74ed7a7dcb3af53186343
+msgid ""
+"You can also make a personal report by email to organizers at "
+"[info@dataumbrella.org](mailto:info@dataumbrella.org), they will respond "
+"promptly."
+msgstr ""

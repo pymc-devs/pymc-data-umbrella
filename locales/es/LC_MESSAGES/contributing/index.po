@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/index.md:2 f7915b63a3934524bede23acdf67042f
+msgid "Contribute to the events"
+msgstr ""
+
+#: ../contributing/index.md:15 7955f3d058b74168b6b3a079ba670525
+msgid "Help us improve this website"
+msgstr ""
+
+#: ../contributing/index.md:17 97bdb3c71a324b59933c57418f69780f
+msgid ""
+"If you find any errors or have any suggestions, please let us know! You can "
+"either [report an issue](https://github.com/pymc-devs/pymc-data-"
+"umbrella/issues/new) or send us a pull request."
+msgstr ""
+
+#: ../contributing/index.md:19 7b8a7d418553405bb23ecf0d1f0913be
+msgid ""
+"Click in the GitHub icon in the top right corner of the page to visit the "
+"page repo."
+msgstr ""
+
+#: ../contributing/index.md:21 3e8ed4aa03d6490687509c84c37bbe77
+msgid "Fork and clone the repository."
+msgstr ""
+
+#: ../contributing/index.md:23 190d0d5f40bc49ecb70ebe1a904ba964
+msgid "Install the requirements."
+msgstr ""
+
+#: ../contributing/index.md:29 3eda409a5feb49e1a167ae95d6e08893
+msgid "Build the docs locally."
+msgstr ""
+
+#: ../contributing/index.md:35 cae0ec55d4074aed8587b3bdcc81ad90
+msgid "Make your changes to the documentation."
+msgstr ""
+
+#: ../contributing/index.md:37 028bbb2038344a0fa4d0b77ce33fbfed
+msgid "Create your pull request."
+msgstr ""
+
+#: ../contributing/index.md:40 f951a3dfafd04e50bd3351d740c653cf
+msgid ""
+"You can use as reference the {ref}`PR Tutorial <pr_tutorial>` which explains"
+" how you can do a PR to PyMC."
+msgstr ""
+
+#: ../contributing/index.md:43 8b98985ca9434b95a46f100e3308f3c2
+msgid "Spread the word"
+msgstr ""
+
+#: ../contributing/index.md:45 4ce05576987f4c94bd53ce4848dced9a
+msgid ""
+"Share the announcements on social networks, within your personal networks. "
+"This will help us to reach more people."
+msgstr ""
+
+#: ../contributing/index.md:49 ad138f635a0e46489ca6f0071432e105
+msgid "Create Tweet"
+msgstr ""
+
+#: ../contributing/index.md:57 78a0f4109fb74184b76501e33148d4b0
+msgid ""
+"There are social media links and text available in our {ref}`media_kit` with"
+" information for sharing with your network."
+msgstr ""
+
+#: ../contributing/index.md:59 781c1212a6054316bea3cbfba8e7a515
+msgid "Some outreach related advise"
+msgstr ""
+
+#: ../contributing/index.md:61 e8cd5c1527fd483b84c7cf4392850b03
+msgid ""
+"Always use [https://pymc-data-umbrella.xyz](https://pymc-data-umbrella.xyz) "
+"when linking to the general series of events, use links within this domain "
+"for specific links to single events or external links (i.e. direct link to "
+"webinar or to registration form)."
+msgstr ""
+
+#: ../contributing/index.md:65 9bf1ca95d0d641a59d86f76c6652d055
+msgid ""
+"Use \"events\" to refer indistinctively to any event in the series, be it "
+"one of the webinars or the sprint session."
+msgstr ""
+
+#: ../contributing/index.md:67 e5035a4ef1b844fe919cee9b53e1057f
+msgid ""
+"Use \"webinars\" to refer to the webinars we are hosting in preparation of "
+"the sprint. Try to avoid \"tutorials\" as it can be confusing with the "
+"content of the documentation webinar. If you need some alternative to "
+"\"webinar\" consider using \"event\" or \"workshop\" before for example."
+msgstr ""
+
+#: ../contributing/index.md:71 6d8838102616400dba09fafc737c9396
+msgid "Translating content: volunteers needed 🙌"
+msgstr ""
+
+#: ../contributing/index.md:74 c16e573e40294f24aeb6bed4347220cd
+msgid ""
+"We first need to set up the translation infrastructure with sphinx. If you "
+"know how to do it or are interested in translating, please reach out."
+msgstr ""
+
+#: ../contributing/index.md:76 4cce689b04dd41d19e47fb9aeadc0144
+msgid ""
+"In the meantime, if you would to volunteer for translations, please add your"
+" information to [Issue #99](https://github.com/pymc-devs/pymc-data-"
+"umbrella/issues/99) on GitHub. We will be in touch when we are ready to move"
+" forward on this project."
+msgstr ""

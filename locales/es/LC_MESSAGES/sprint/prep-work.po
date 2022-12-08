@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../sprint/prep-work.md:1 6227077f40024757bf79baf6f2fc0f4e
+msgid "Event preparation"
+msgstr ""
+
+#: ../sprint/prep-work.md:12 564721b27f9148e1ab82c498a8d3c58d
+msgid "Checklist"
+msgstr ""
+
+#: ../sprint/prep-work.md:19 42b481e5033c4118903224e98c6c4e9d
+msgid "*#*"
+msgstr ""
+
+#: ../sprint/prep-work.md:20 dc3751ae29e34e44bdc773156684ce6f
+msgid "Task"
+msgstr ""
+
+#: ../sprint/prep-work.md:21 4d28bfa93a09426ab3c3d7d56bf54408
+msgid "Status"
+msgstr ""
+
+#: ../sprint/prep-work.md:22 a3663f073fa94bb8815933c7fad01150
+msgid "Notes"
+msgstr ""
+
+#: ../sprint/prep-work.md:23 36def0eab80342fba39b765b2c47fdf1
+msgid "1"
+msgstr ""
+
+#: ../sprint/prep-work.md:24 c8fe0b2c4305413da721e7a3bab95c59
+msgid "Do I have a GitHub account?"
+msgstr ""
+
+#: ../sprint/prep-work.md:25 ../sprint/prep-work.md:29
+#: ../sprint/prep-work.md:33 ../sprint/prep-work.md:37
+#: ../sprint/prep-work.md:41 8fc6d94b79264a0783c3a2af08d67772
+#: 657b8e075ce149d9bc2d2d794ac4dfaf e23a4ab450e5488d8d545174f00f090a
+#: d47ccb16f06f49d8859e20ce1a40e1e8 52780cb358f3477da16734f1b23483bd
+msgid "{fas}`check;sd-text-success`"
+msgstr ""
+
+#: ../sprint/prep-work.md:27 a9c0c5ce9a47415ea2c347d610cdb393
+msgid "2"
+msgstr ""
+
+#: ../sprint/prep-work.md:28 7643508d8b0949c0bf99e6c0350ebe8d
+msgid "Did I Install Git?"
+msgstr ""
+
+#: ../sprint/prep-work.md:31 7ea414063afe4be3ab5cf1091469fe47
+msgid "3"
+msgstr ""
+
+#: ../sprint/prep-work.md:32 9e4d8e8097e049f89a46db5f9c59b2be
+msgid "Did I Install Conda?"
+msgstr ""
+
+#: ../sprint/prep-work.md:35 d657e460cda14a4d999b5ef101bd3b2f
+msgid "4"
+msgstr ""
+
+#: ../sprint/prep-work.md:36 6f31819a243948848530133eedad71da
+msgid "Do I have a Text Editor?"
+msgstr ""
+
+#: ../sprint/prep-work.md:39 b26e0a75e4f1456492fa3add6e5fe619
+msgid "5"
+msgstr ""
+
+#: ../sprint/prep-work.md:40 c6c437f3140846979b0102b4fd4e2f43
+msgid "Did I fork the PyMC repo?"
+msgstr ""
+
+#: ../sprint/prep-work.md:45 a5d73222c53e498798ad9833a324da0f
+msgid ""
+"If you need help with any of the previous steps, you will find clear "
+"instructions in the {ref}`Environment Setup <environment_setup>` section."
+msgstr ""
+
+#: ../sprint/prep-work.md:47 bb4cb89be6c74b11a7b4864eb962865c
+msgid "Session day"
+msgstr ""
+
+#: ../sprint/prep-work.md:52 8b2ff06e6ab54656a99817db941d3cb1
+msgid ""
+"To communicate during the session, we will be using Discord. The [Using the "
+"Discord Server](https://youtu.be/w2A8SknM-68) introduction video contains a "
+"brief introduction to the Discord Data Umbrella server with some tips on how"
+" to navigate the application."
+msgstr ""
+
+#: ../sprint/prep-work.md:55 314a93182506475892afa3277417a9d4
+msgid "Pair programming"
+msgstr ""
+
+#: ../sprint/prep-work.md:57 562f723477d7452aa5a6855bc19fb77b
+msgid "Live Share"
+msgstr ""
+
+#: ../sprint/prep-work.md:59 0b9dafaab15a4bd98afe01dc85953e64
+msgid ""
+"Live Share is an extension from Visual Studio Code that allows you to "
+"collaboratively edit and debug with others in real-time. It allows you to "
+"instantly share your current project, edit snippets of code at the same time"
+" or follow someone’s cursor while they program. The following video (18 "
+"minutes) shows how to use this extension:"
+msgstr ""
