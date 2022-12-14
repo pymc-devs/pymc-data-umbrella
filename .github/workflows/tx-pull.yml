@@ -2,7 +2,7 @@ name: Get translations from transifex
 
 on:
   schedule:
-    - cron: '17 5 * * 1,4'
+    - cron: '17 5 * * 1'
 
 jobs:
   txpull:
