@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**.md'
+      - '**.py'
+      - '**.ipynb'
+      - requirements-docs.txt
 
 jobs:
   txpush:
