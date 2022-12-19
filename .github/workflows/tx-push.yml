@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - troubleshoot
     paths:
       - .github/workflows/tx-push.yml
       - '**.md'
