@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
+      - troubleshoot
     paths:
+      - .github/workflows/tx-push.yml
       - '**.md'
       - '**.py'
       - '**.ipynb'
@@ -27,5 +29,6 @@ jobs:
       - name: Push to transifex
         run: |
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
-          source ~/.bashrc
-          tx --token ${{ secrets.TX_TOKEN }} push --source
+          ls
+          pwd
+          ./tx --token ${{ secrets.TX_TOKEN }} push -h
