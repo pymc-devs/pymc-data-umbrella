@@ -52,7 +52,7 @@ Beryl Kanali
 Sandy Weng
 :::
 :::{grid-item-card}
-:link: https://oriolabril.github.io/oriol_unraveled/
+:link: https://oriolabrilpla.cat/en/
 :shadow: none
 :class-body: sd-text-center
 :class-card: border-0
