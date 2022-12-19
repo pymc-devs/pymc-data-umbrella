@@ -29,6 +29,4 @@ jobs:
       - name: Push to transifex
         run: |
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
-          ls
-          pwd
-          ./tx --token ${{ secrets.TX_TOKEN }} push -h
+          ./tx --token ${{ secrets.TX_TOKEN }} push --source
