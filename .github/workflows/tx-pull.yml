@@ -3,6 +3,7 @@ name: Get translations from transifex
 on:
   schedule:
     - cron: '17 5 * * 1'
+  workflow_dispatch:
 
 jobs:
   txpull:
