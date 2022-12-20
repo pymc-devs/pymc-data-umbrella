@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -17,40 +17,40 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/example_pr/index.md:2 ba1259deeebf49baac0111541464c281
+#: ../about/example_pr/index.md:2 1a55960258bc47969391d9f71c2ffc73
 msgid "Example Pull Request to PyMC"
 msgstr ""
 
-#: ../about/example_pr/index.md:4 66029f1801544a888c52d0e6c856bc29
+#: ../about/example_pr/index.md:4 9457b290b4644f51919e9bdc7687ac89
 msgid "Event"
 msgstr ""
 
-#: ../about/example_pr/index.md:5 a5a3335a1485431cb3c92eb4fb2b1312
+#: ../about/example_pr/index.md:5 8f3f3f9ff7cc466aa40f4e7a11164806
 msgid ""
 "In this video, Reshama does a step-by-step example of how to set up a "
 "virtual environment, install the dependencies, build PyMC from source, make "
 "a small documentation change, and submit a pull request."
 msgstr ""
 
-#: ../about/example_pr/index.md:7 727ba62e27e74bc593e0f98b2fde2d00
+#: ../about/example_pr/index.md:7 4e07e9a37e5447d6949c7b2db0e2b557
 msgid "Details"
 msgstr ""
 
-#: ../about/example_pr/index.md:9 b54988e24e694fb58aaa06ffc5649e7e
+#: ../about/example_pr/index.md:9 bbe12c05088440dab880e54c9ef5ca50
 msgid ""
 "Audience: People who are interested in contributing to PyMC and who would "
 "like to see an example of a contribution."
 msgstr ""
 
-#: ../about/example_pr/index.md:13 8956273be8264348b5fc1f40ce74c79d
+#: ../about/example_pr/index.md:13 cd92678e80084442972bbfcae2f9c38f
 msgid "Go to the webinar material!"
 msgstr ""
 
-#: ../about/example_pr/index.md:21 7ed474b0c2ed4c1d8fd5ca95941c391d
+#: ../about/example_pr/index.md:21 cea91f2a01044cb9958a9c4ce2a49372
 msgid "Speaker"
 msgstr ""
 
-#: ../about/example_pr/index.md:23 0f29b976e9414304a5d097541d828eaa
+#: ../about/example_pr/index.md:23 2b91a82e5d9746ed9f58dbbe8cf63dc8
 msgid ""
 "[Reshama Shaikh](https://reshamas.github.io) is a statistician/data "
 "scientist based in New York City. She earned her M.S. in statistics from "
@@ -58,7 +58,7 @@ msgid ""
 "where she studied strategy, business analytics and technology management."
 msgstr ""
 
-#: ../about/example_pr/index.md:25 1522834796e64977b3f62fe9875b98e3
+#: ../about/example_pr/index.md:25 52c4748752434bdd899e742851a96be7
 msgid ""
 "Reshama is the Director of Data Umbrella and an organizer for NYC PyLadies. "
 "She is also on the Contributing Teams for scikit-learn and PyMC.  She was "
@@ -67,6 +67,6 @@ msgid ""
 "award-from-numfocus/)."
 msgstr ""
 
-#: ../about/example_pr/index.md:27 529a5bde2fb24900a9b1ce5f2309e887
+#: ../about/example_pr/index.md:27 c03ecca95acf4b6c87bd20aac653885c
 msgid "Video"
 msgstr ""

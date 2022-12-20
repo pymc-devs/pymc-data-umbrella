@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -18,55 +18,55 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:1
-#: 723694fa8fd5414b96eeb939237795ab
+#: 61e1aad1c2234b8080976cf946a4dc46
 msgid "Data Umbrella Sponsors"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: 3840164654b8404e9d78126ae6ed3da5
+#: be214d88c1844426a8a18753c0dcda5e
 msgid "![Google](../../_static/sponsors/google_color.png)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: b3b8460ebd3e48a3bf5ef7f2a0a1f16f
+#: 356d4a59e70c4075babb2b50b971a0ec
 msgid "Google"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:11
-#: 18fd74ea90f84e259be1721df22d4374
+#: adb51b189262483db6d3934ed60d5f3e
 msgid ""
 "We bring all the value of open source to Google and all the resources of "
 "Google to open source."
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: 1c8bfd22f8db4dfb941fcfa6ac5a3423
+#: 0a257a3d789249e3a2d3379106aa2278
 msgid "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: 81731110e0a54a4b90d2116f2c0c2104
+#: 998251d421d44175b62cedb9196282ae
 msgid "PyMC Labs"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:20
-#: ca6d0b75e1dc43b4863474b63f4fe20a
+#: 5d8672b2c08d485a90877e822f89fe4f
 msgid ""
 "The Bayesian Consultancy. We bring Bayesian methods into wide practice."
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: 2145ca629752452eba291d09b3fcaa8a
+#: 36d37583d3844172b78232fc1f41dc29
 msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: 171ac5864af245c98e84fa9cb655b22e
+#: 75306a38bf0a4e899c6e32b5c89fabd3
 msgid "CZI"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:29
-#: a179364fd14e45e4b93835f616306d9f
+#: 20d3211c25a14da6a14468a3cbb398c3
 msgid ""
 "We help solve some of society’s toughest challenges — from eradicating "
 "disease and improving education, to addressing the needs of our local "

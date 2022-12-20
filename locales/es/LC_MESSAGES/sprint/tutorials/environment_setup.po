@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
@@ -17,30 +17,30 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/tutorials/environment_setup.md:2 b2ac42bcc6744ae7831782d252fb2366
+#: ../sprint/tutorials/environment_setup.md:2 4ca097f2f0ca42529ac83a6cfc8b2a70
 msgid "Environment setup"
 msgstr ""
 
-#: ../sprint/tutorials/environment_setup.md:4 d058147cd4ee4a2b9ba118412cc8a9f1
+#: ../sprint/tutorials/environment_setup.md:4 605e38fe7c994d238e7416586ec80913
 msgid "Pre-requisites"
 msgstr ""
 
-#: ../sprint/tutorials/environment_setup.md:6 219bc14c36434a6a80ab11d437398021
+#: ../sprint/tutorials/environment_setup.md:6 e682fa6afcd542b288863f7afacdcb8b
 msgid "GitHub account"
 msgstr ""
 
-#: ../sprint/tutorials/environment_setup.md:7 2094201806944b5baf5252f121924115
+#: ../sprint/tutorials/environment_setup.md:7 34d2d7868b9f4bbe84c902abc4e45e40
 msgid ""
 "To contribute you'll need a GitHub account. You can create one from [this "
 "link](https://github.com/join)"
 msgstr ""
 
-#: ../sprint/tutorials/environment_setup.md:9 834699e3be5c484da912701836ee42c3
+#: ../sprint/tutorials/environment_setup.md:9 3e3b19f8c8d644f9bf067a38085bff9c
 msgid "New to Git and GitHub?"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:10
-#: 6a332becc6c74666a1ea3ccc10909acb
+#: 21914327d7c74db2a22bab9094792967
 msgid ""
 "We have tried to cover all the steps and include both input and output, to "
 "make sure you can follow this tutorial without knowing Git. However, if you "
@@ -49,19 +49,19 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:16
-#: 68a0a5467942476fa16230dfd4cf914b
+#: f00878f529ff46ceb7f659d140f983a1
 msgid "Install Git"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:0
 #: ../sprint/tutorials/environment_setup.md:0
-#: ../sprint/tutorials/environment_setup.md:0 412f9a6258134900b5892b4f7ebc2105
-#: 61d371ea4cab41239ca1478a998b7dd4 02aee23ba796490196b9178eb9cd030c
+#: ../sprint/tutorials/environment_setup.md:0 595aeed711144b3aa9bc1cad104f9f1c
+#: 10cdfc3b2db74846a700e9f247ed20d4 61ab791a227048e99454fff924b51e1f
 msgid "Linux"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:22
-#: 685cdefaad9a42509b690f0dbe503503
+#: 5a9085b0285f4e19a1f53c8ef3be5692
 msgid ""
 "Instructions with installation commands for most Linux distributions can be "
 "found on the [Git project website](https://git-scm.com/download/linux)"
@@ -69,13 +69,13 @@ msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:0
 #: ../sprint/tutorials/environment_setup.md:0
-#: ../sprint/tutorials/environment_setup.md:0 0239753b3b6d42109da11de4af5e4f93
-#: 01fe67dfec6542438d2aa97527cd06ff 600cc4e473474470ab952054d108d0ab
+#: ../sprint/tutorials/environment_setup.md:0 6dc5cdb0d718445495c71680ab2b5a1f
+#: 5386e718d9304d7598f3c1ec2b521379 41433fd6f2cd44eebcaac74cb1cf3ad2
 msgid "macosx"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:27
-#: 496c178654c847d686efa6c8f3d0f037
+#: 37009ec76b584bd186b9243ecc469432
 msgid ""
 "Instructions with installation commands for macosx can be found on the [Git "
 "project website](https://git-scm.com/book/en/v2/Getting-Started-Installing-"
@@ -84,32 +84,32 @@ msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:0
 #: ../sprint/tutorials/environment_setup.md:0
-#: ../sprint/tutorials/environment_setup.md:0 2275cf7ff1cf4d55b44906d38480a738
-#: 11dd1e9d2c76432caf7bb73e91518e8e 8459987d99024629a17ae10de2d72428
+#: ../sprint/tutorials/environment_setup.md:0 c4c56763b3fa4ff3821c4ed9428d29e5
+#: 7b571d913be04bdb8f27c0b518fc818f 6f9b7b675f4f4e07b8f98911072e8101
 msgid "Windows"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:33
-#: 491bd7fa78ec4beab2607b3c2052f1c9
+#: fe646e3c65b94150b2527c741827d8cb
 msgid ""
 "The recommended way to install Git is using [Git for Windows](https://git-"
 "scm.com/download/win)."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:36
-#: 9271891c0dd64c22b76ffb910f762c35
+#: b3338a4176dc45d9a70adf02d6fa55b4
 msgid "Install conda"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:37
-#: c4147b50fa0e429a9e84cbd348ea966d
+#: 5554f1b7c10e4d8f9f3762ca426aa6f3
 msgid ""
 "We recommend you install miniconda and follow the steps below to install "
 "only the libraries you'll need."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:44
-#: 0965062fc03744beaedecbf82550d2a4
+#: eaf1819edc35414491e2ec2e61750ab3
 msgid ""
 "Miniconda installation instructions for linux are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -117,7 +117,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:48
-#: 9bf7262d372646f5b8aecd02092ecbc0
+#: 030da3eb7b7545a090bf6291ebb6f9b8
 msgid ""
 "Miniconda installation instructions for macosx are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -125,7 +125,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:52
-#: 0ea718b342e44086ba664914500e77b8
+#: 059027ad6cae42c1bc53569c9bd131e7
 msgid ""
 "Miniconda installation instructions for windows are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -133,44 +133,44 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:55
-#: b9545c58239948369c5325de39a76b73
+#: 0339feeb5ad24dd4bbf3a299227d8608
 msgid "Text editor"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:56
-#: 7bb532a448dc45338b57148782b6c512
+#: 1e6006e9aba24287a2b08740c7c49bd3
 msgid ""
 "You might already have a text editor installed. Check if you have any editor"
 " from the list below, otherwise install _one_, any will do:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:59
-#: 51a8b78295284514af54435d449e1f49
+#: 0fd77fd3334140439d4e92b8a83bf13e
 msgid "[Atom](https://atom.io/)"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:60
-#: 505c91342fa949a5a4c1d299cfd66b5d
+#: 1bee31a93af94465b148d43449cff714
 msgid "[Visual Studio Code](https://code.visualstudio.com/)"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:61
-#: 074d342f23c64c03b97cd24b5740a4d6
+#: 82d06d9e9cbf451396e0b1e83b6c8c7f
 msgid "[Sublime text](https://www.sublimetext.com/)"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:62
-#: 4820da9ba5ad49ab91b12cb6589b5d53
+#: 455cd4110561480088dee29f0dd688fc
 msgid "[PyCharm (community)](https://www.jetbrains.com/pycharm/download)"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:64
-#: b2ed4e752df840539f70db1e181f2978
+#: e91cece5077d4d60b3c3f29100650df9
 msgid "Fork the pymc repo"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:65
-#: e65eaeb4afd94ea0a2cc3aeba154bea0
+#: 03fffdf918a14f7d8975e8024693c387
 msgid ""
 "Fork the [project repository](https://github.com/pymc-devs/pymc/) by "
 "clicking on the 'Fork' button near the top right of the main repository "
@@ -178,48 +178,48 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:68
-#: 1b29ddf22dd0461f8c24dc34958a23cf
+#: e70a5ac5f66d4139b19cfdd100ecd8ad
 msgid "![fork_button](../images/fork_button.png)"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:68
-#: 40869e8be36b40de8630f77882a5dada
+#: 46e2bb2bfec24d01a18527fdce6c2401
 msgid "fork_button"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:70
-#: 5716eac9aa6d4496ab8c6ca5a1b5658a
+#: d07bf025428a42ca94ed9b5fe1ed6c64
 msgid ""
 "This creates a copy of the code under your GitHub user account. You should "
 "now see that `https://github.com/<your GitHub handle>/pymc/` exists"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:73
-#: c266eb32b5d1431294ee6fe8eb08d214
+#: 8210a43a1f344373a4d93449dce19f06
 msgid "Open a command line interface"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:74
-#: ecc8600e80f04feeb823e42735dd3e35
+#: d2aaa972bda8442581e00a0ea185d5fb
 msgid ""
 "This should come with your operative system or have been installed when "
 "setting up Git and miniconda."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:77
-#: e4debe4f1a0946c18a4b796c8423a2b6
+#: f05e673e2c7e4b7c9ef2521f2147d5ae
 msgid "Clone the pymc repo"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:78
-#: 30e1c6b620094f9382c83248af09a108
+#: 6b22b4ab7abc4692bcef0022c68f40bc
 msgid ""
 "Clone your fork. This will create a `pymc` folder wherever you are, make "
 "sure to be at the location where you want the folder to be created."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:85
-#: 1cdcd77513914d49998cae7ce82bd0bb
+#: fd9ae87a45274f98b448eebd7f8dd7a5
 msgid ""
 "This command should start immediately but it can take a while to finish. Its"
 " output should look similar to the prompt below (the exact numbers can "
@@ -228,42 +228,42 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:100
-#: bb306423541749bc8ff7b1f2c377c7c4
+#: 3a93d8fa44964ec3b485a722edbf1d53
 msgid ""
 "Enter inside the directory containing your local clone of the pymc repo, "
 "then tell git this is a fork of the one in the pymc-devs organization:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:108
-#: 855b18dc7f6847068a7dee85ecf27277
+#: fe9b4b66c2f049e491fbc11af9d2cfd9
 msgid ""
 "None of these commands generate any output. To check they have worked type"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:113
-#: 02d859116af04d69a7c07d405b8512d0
+#: d933b8ca8a94406383707b1ff90c9689
 msgid "and check that the output is:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:119
-#: a4edeae6b49e42ce8f1244f8b9c71a7b
+#: 055216f56c7c43ec9d22d00b1e0080fa
 msgid "Install PyMC"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:142
-#: 06517680969e4947bdd847eef56efb55
+#: d1303d789f1b44a69fe079ca83928a73
 msgid ""
 "This command can also take a while, but should start writing output "
 "immediately. If it finishes successfully, the last lines printed will be:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:158
-#: 81ed22eae9124d0ca5a2b99a0dca256b
+#: 38898b83126a441aa3fab8c5a5b282b3
 msgid "Activate the environment and install pymc:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:162
-#: 6039b0e706e947c0b1d9eae0ab12eb06
+#: 7a0ada017fe34d92b363ca9025c6ccf4
 msgid ""
 "This command has no output, but generally adds the environment name to the "
 "start of the command line. If you want, you can check it has worked with the"
@@ -272,39 +272,39 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:177
-#: 4c25deae14b7442baf2bf0d715c7a1e5
+#: 3ac7445bd4794760bb68e4f1fd992e92
 msgid "Install PyMC:"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:181
-#: 483f58f195454bd8a32dd1e59f2a3dc7
+#: 38b5bf0f60b745439f927d10792da064
 msgid ""
 "We already installed all the dependencies so this should not take long. If "
 "successful, the last printed line will be"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:188
-#: 0fd906f68faa48df859aac76675ecd53
+#: 7975974a6d0e4ef38cc856161a11978b
 msgid ""
 "Then activate `pre-commit`. It will help auto formatting the code for you."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:193
-#: ff00d3daa8374e1b8407ad3964c9f2d2
+#: fe3673d20a2049cc90283fbf422b7433
 msgid "on success will show"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:198
-#: 4f2d2835ec45462ba3cc6317a6e51507
+#: 5366b5d7737c4357aae6d910054afbd6
 msgid "Your system is now ready! You are ready to do your first PR."
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:200
-#: 591f7e1844254a449d1232671f9a4ed7
+#: a13f36f5162f43379f6e951ea4cb8edb
 msgid "Go and choose an issue to work on at `TODO: add link`!"
 msgstr ""
 
 #: ../sprint/tutorials/environment_setup.md:203
-#: 53e6dc19d52d476c9e8019d6b3d634de
+#: 96bcb29a51ef428e824d21145560f243
 msgid "{fas}`star;sd-fs-1 sd-text-warning`"
 msgstr ""

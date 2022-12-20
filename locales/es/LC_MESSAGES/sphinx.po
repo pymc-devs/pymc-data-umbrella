@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../_templates/cheatsheet.html:2 3e32ff3075ef494b82d02e409de89cf4
+#: ../_templates/cheatsheet.html:2 8e1667c360174099852c4e4bfc5e306c
 msgid ""
 " <a href=\"%(path)s\"><i class=\"far fa-file-alt\"></i> Sprint cheat "
 "sheet</a>."
 msgstr ""
 
-#: ../_templates/coc_notice.html:2 4d2a2d162ece4ee392e6f26abdd2e820
+#: ../_templates/coc_notice.html:2 4229780effb14aecb7bdacb266db8420
 msgid " <a href=\"%(path)s\">Code of Conduct</a>."
 msgstr ""

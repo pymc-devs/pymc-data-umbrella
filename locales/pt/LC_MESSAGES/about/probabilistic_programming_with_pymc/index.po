@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -22,17 +22,17 @@ msgid "Webinar notebook"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:2
-#: 3a79a99c7ef945a980813ce53e093fe1
+#: c1d26932b90246adb5ab9f4e219f95f6
 msgid "Introduction to Probabilistic Programming with PyMC"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:4
-#: 9c76a82d18194a0e80b9a4413cc62a34
+#: 0c1d7e620c6d4a22ac2cd073b21c55b7
 msgid "Event"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:5
-#: 6b648f5ec7a6496a917e0f0efd9a6044
+#: abb31e57290b465bae8e74f2b8061180
 msgid ""
 "In the last ten years, there have been a number of advancements in the study"
 " of Hamiltonian Monte Carlo and variational inference algorithms that have "
@@ -48,41 +48,41 @@ msgid ""
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:7
-#: fa1b9acb7b73441bab5ccf1e8e1345d7
+#: d2c5fd96c31a4f23841c61bd9faf4151
 msgid "Details"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:9
-#: f914302a3f9f4da09b5fa1ab92559db3
+#: a367739267744191badbbebc0cf9cd1c
 msgid ""
 "Audience: People who are interested in PyMC, Probabilistic Programming or "
 "Bayesian Statistics"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:10
-#: 79a1471e93cf40e0bd496b66060b9529
+#: 0273a1da640644a190b300a9bdf3dc2f
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:11
-#: 2ec45b3323fc4cdc879c890ce85c3e18
+#: bce093a47b2143ff9f6661486a356f0b
 msgid ""
 "All the content is available on this website, and you can run the code from "
 "the website to follow along with the webinar."
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:15
-#: a8cd068868d5455e990fedf01227832c
+#: 471ac5a952c04e27b638201ee98aac9d
 msgid "Go to the webinar notebook!"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:23
-#: e4cd08db972443188ec268b5a383b58f
+#: 5043c105a2cb4675b53486957c620e7c
 msgid "Speaker"
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:25
-#: 57ee3f39cdb84eaa8aa10d113003d01f
+#: 2ae47d14c83d45c68377d3a5fe0f8c7b
 msgid ""
 "Austin Rochford is the Chief Data Scientist at Kibo Commerce. He is a "
 "recovering mathematician and is passionate about math education, Bayesian "
@@ -90,6 +90,6 @@ msgid ""
 msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:28
-#: a300dcfb5f574a98be7b861527201eac
+#: c4793446c06e4cd1b75c73699d71d752
 msgid "Video"
 msgstr ""

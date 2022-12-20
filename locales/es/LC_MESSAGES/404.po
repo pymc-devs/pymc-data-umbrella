@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../404.md:1 f563014dc1384114bf7f1a5be41c47c0
+#: ../404.md:1 b6efadde2ff24572837a66e117c772a1
 msgid "Page not found"
 msgstr ""
 
-#: ../404.md:3 7273f7e48e614d6aa7c45460a1e974e0
+#: ../404.md:3 3f613484e6374a7bab4e6f81154382ef
 msgid "Sorry, we were unable to find this page."
 msgstr ""
 
-#: ../404.md:5 ae61a363ad024703a4ecb348ebe8b9e5
+#: ../404.md:5 2a17f756319042eb9847f3010928b7e9
 msgid ""
 "If it has been moved, you can use the navigation bar on top or the search "
 "bar on the left sidebar to find it again."

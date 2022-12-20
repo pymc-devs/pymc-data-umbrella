@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/index.md:2 47864f4c11814d678128fd4bca235327
+#: ../about/index.md:2 73b8beaa35d14b5690ace22273a12dc6
 msgid "About PyMC"
 msgstr ""
 
-#: ../about/index.md:4 ffea91481f13413e8183358600a88471
+#: ../about/index.md:4 941a29b183f14522836d97f9e10390bd
 msgid ""
 "[PyMC](https://www.pymc.io) is a probabilistic programming package for "
 "Python that allows users to fit Bayesian models using a variety of numerical"
@@ -30,7 +30,7 @@ msgid ""
 "large suite of problems. PyMC is a non-profit project under NumFOCUS."
 msgstr ""
 
-#: ../about/index.md:6 24fa7d0fc9254fd8aa8ea84352251aa3
+#: ../about/index.md:6 f0cd5143cc2f4a1785a200000cef9f50
 msgid ""
 "Below we have a series of videos on PyMC and contributing to the library. We"
 " encourage you to watch the videos and bookmark the [PyMC Series "
@@ -40,8 +40,8 @@ msgid ""
 "PyMC](https://www.youtube.com/playlist?list=PLD1x-BW9UdeEPD_4E4VOcj0q66kQpdcKz)."
 msgstr ""
 
-#: ../about/index.md:8 6918e45993934c22ba542b685bca58a3
+#: ../about/index.md:8 4f0c1ced32c24dd5bf69be52cb427b41
 msgid ""
 "Is there a video you would find helpful, but it is not available?  Let us "
-"know via ({{ du_email }})."
+"know via {{ du_email }}."
 msgstr ""

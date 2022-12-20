@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../sprint/tutorials/docstring_tutorial.md:2
-#: 0c1323a602b54174906b52723177ed61
+#: d41f1d78f4aa4bd7a655ff725d13dced
 msgid "Your first contribution to PyMC"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:3
-#: af1b995cbca34440ba96dcba4e5e7bac
+#: 7324cec15dc44aadbfd41fbd6e3cd735
 msgid ""
 "This tutorial will guide you in submitting your first {abbr}`PR (Pull "
 "Request)` to the [pymc](https://github.com/pymc-devs/pymc) repository. We "
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:7
-#: fcd28229edc348bc8a2bdc4689f7b835
+#: 2b1280ea541d4730aafbab8580b9d66d
 msgid ""
 "You will start cloning the pymc repository, installing the requirements "
 "you'll need to contribute, making some changes to a docstring of your choice"
@@ -40,19 +40,19 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:11
-#: 7318e7cfa8ce4b05a0a4de74935f2026
+#: bd02cd87a41d46e7b7c7e61befc4a433
 msgid "Disclaimer"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:12
-#: 0083b904669d46268faf819af447fefc
+#: bbaa4b7035c646558fea75f65b1ab84f
 msgid ""
 "This is a tutorial as defined in [diataxis](https://diataxis.fr/tutorials/)."
 " Here are some things to take into account:"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:15
-#: 036bf917482c441798f00199e3b3ecf0
+#: 94983ae5138f455cb9e7edf2e5cba67f
 msgid ""
 "**Do I need to follow each step exactly as explained?** No, but we strongly "
 "recommend you follow them. Once you have submitted your first PR and feel "
@@ -61,7 +61,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:18
-#: bf95a2882cd847c6b06f386ee60977f1
+#: 0f8839867b0f4422ac3c54837d23eec8
 msgid ""
 "**Do I need to submit a docstring edit as my first PR?** No, but again, we "
 "strongly recommend you do. This will allow you to separate the contribution "
@@ -74,14 +74,14 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:25
-#: 32a0d6f48396473aa04616b102bea27b
+#: 161ea9fcd2174d75a75bbfb691a7979c
 msgid ""
 "**Will I understand the reasons for each step?** No, the goal of this "
 "tutorial is to teach you to do and through doing."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:29
-#: 17baab2ecbd84a71a9b51370d2b6c484
+#: 1acb5c7dfcd0469186770723a5744de0
 msgid ""
 "If you prefer video to written content you can watch {ref}`Reshama "
 "<organizers>` go over this guide and submit a PR to PyMC in the following "
@@ -89,24 +89,24 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:35
-#: a9ca77dfde384677ba46a8a18291ac7a
+#: fc8ebbd880744bcca1175a6ca83f384a
 msgid "Prepare your environment"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:37
-#: 1bc93115e2c7405da95ab7eb1a974fe2
+#: 8a9f40e5deda43bab19723c310211313
 msgid ""
 "If you don't have your system configured yet, you can follow the "
 "instructions in the {ref}`environment_setup` tutorial."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:39
-#: 01c6a0f925a444258c938db6a27d13cd
+#: f13954f99c0b4df1aee53d2df00018cd
 msgid "Choose a docstring"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:40
-#: 101d33e5006d4aa5835ff8f8517d4a3b
+#: 80288f19ed144f5f8a0b32edb9db07bf
 msgid ""
 "Go to the [PyMC API "
 "documentation](https://www.pymc.io/projects/docs/en/latest/api.html), click "
@@ -115,7 +115,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:45
-#: cc748cbaa7644ad4a8b5ccb0492a9dfe
+#: 0062236f790c4c7da05afe377d5a18a1
 msgid ""
 "This tutorial follows the process of updating `pymc.Uniform` and pairs "
 "general comments about updating docstrings with specific comments about "
@@ -123,14 +123,14 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:49
-#: d6b829852c0543d1b9eef17916492d1d
+#: d810c7c24b44453bb11811a01ac69ef8
 msgid ""
 "The docstring is available at the {ref}`sample_docstring` page, I updated "
 "the docstring in PyMC while writing this guide."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:53
-#: 97ed018483004ac98775f9f46462379a
+#: c333e778193746428aa4ed8353481b35
 msgid ""
 "Once you have chosen, go to our [issue tracker](https://github.com/pymc-"
 "devs/pymc/issues/5459), check nobody is already working on it and comment "
@@ -138,18 +138,18 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:57
-#: b44d272dde6647c8a39e3aa70af34c17
+#: f3687325977549ffb32c321fbc2d47d7
 msgid ""
 "Remember that function and keep the tab open (or save the link for later)"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:60
-#: ec533d23d57d4a6db0d69189262f6379
+#: 6faa2d11284342c4bbfa61d0e843339a
 msgid "Open the file with your text editor"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:61
-#: 052f235bd6494c4b8bcb624787d9b079
+#: 6e3c59e37650495f90d31c5003c3e338
 msgid ""
 "Open the file containing the docstring you chose to edit with your text "
 "editor. The file will be inside the `pymc` folder, but it probably won't be "
@@ -157,30 +157,30 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:65
-#: d79d5eb51d3e4926897a10b01fbd6cd3
+#: 7edf64059c254323b710b411ac8d2572
 msgid ""
 "Go back to the API page and click on the \"[source]\" button at the right of"
 " the call signature."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:68
-#: cd1107cc988047cea830bf891bb7b94a
+#: d7120ba7efbc455f812a3ba6b20e1606
 msgid "![source_button](../images/source_button.png)"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:68
-#: 7ccbc305001a460f9d58682209194062
+#: a474792c930448998dca4da33d055f0f
 msgid "source_button"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:70
-#: e9f35b25f1f24064a34e326e0ffe5605
+#: dcaf9a3c7ab24473ac20a2fcdeb95e85
 msgid ""
 "Now take a look at the url. Here is what it shows for {class}`pymc.Uniform`:"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:76
-#: 8161ac095a4e4d938f6a002e2feb0b18
+#: ef572c2ffc324feb8eeefd90631ba450
 msgid ""
 "The file with the definition of the `Uniform` class and its docstring is "
 "`pymc/distributions/continuous.py`, the path that comes after `_modules` "
@@ -188,12 +188,12 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:80
-#: 9a2c5b265f4d4448872ac55e31c6234f
+#: 92d3fb5d67d54ec0a4df032b469ac48b
 msgid "Edit the docstring"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:81
-#: 44de3afda05b44c5b5cab11ab4a48251
+#: fce5f178555243d7b9463c587b4e071c
 msgid ""
 "The changes you have to do are making sure that the docstring is following "
 "[numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html#sections) "
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:86
-#: 0f695ca568de44f68ecd713033919d3a
+#: 6f2f187cfc6e4ec6b3b71ecc5423cb2f
 msgid ""
 "Open the [numpydoc style "
 "guide](https://numpydoc.readthedocs.io/en/latest/format.html#sections) side "
@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:90
-#: 0081f1d3c41b43b2af958cac32145cbb
+#: ffbddde8594b4c4b8c1e8a2ff33b3f5b
 msgid ""
 "You have to review section by section to make sure everything is well "
 "documented. If you have chosen a class that is not a distribution (unlike "
@@ -224,12 +224,12 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:97
-#: a156a52ddd55441886ad259bf85f2a95
+#: 91b817e9ba47422c8af1614ab84cf1b9
 msgid "Section independent comments"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:98
-#: 84241f9d6fcf427a9bb3d422d022afb9
+#: c89a4a0fd37f44c6a658d00f4e1257d6
 msgid ""
 "Only the short summary section is required. The rest should be used when "
 "relevant. As a rule, if a section is missing, ignore it for now. If you "
@@ -237,7 +237,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:102
-#: b90bc10f36cf4055b02878cdf3ee44c2
+#: fd022d94fefb4ce2990ad9064a5ad07c
 msgid ""
 "If you find instances of the plot directive `.. plot::`, make sure they are "
 "either on the extended summary or examples section and that they use the "
@@ -245,12 +245,12 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:113
-#: 6dacca65c43e4b8ba02216162e14fb1a
+#: c1f1f93503a14db68f953af1ffa145c6
 msgid "Short summary"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:114
-#: b5e6c141858f459794818a34c256452a
+#: 5d045fddee2247b6ad5c98ce648a220e
 msgid ""
 "_General comments:_ Make sure there is a (preferably single line) short "
 "description of the object. In most cases you'll need to ignore the \"not use"
@@ -260,18 +260,18 @@ msgstr ""
 #: ../sprint/tutorials/docstring_tutorial.md:117
 #: ../sprint/tutorials/docstring_tutorial.md:123
 #: ../sprint/tutorials/docstring_tutorial.md:194
-#: e7a7c02e321f49cba3a54af7970c33a6 65f2ce0c79bc46518d727372d9513d38
-#: 1077d780b1f7486c864119d46e425a8d
+#: 2b96a740a51346bbb3dcc8c2d7265a49 7010bb2c132b4a84a8318890eea46329
+#: 2dd16e109f434cabb10e386c9cd314f8
 msgid "_pymc.Uniform class docstring:_ {fas}`check`"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:119
-#: 08d075c2bde5460fb5b90953c13bf129
+#: f59fde7943f447f091a8933bd3d6dc24
 msgid "Deprecation warning"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:120
-#: 2af06d3647cc4558ad805e9bf72854d5
+#: 907778ea90ce4c2db5544a670e97d374
 msgid ""
 "_General comments:_ There should be no deprecation warnings, we use a "
 "decorator for that. If you find a docstring with one, take a note, do not "
@@ -279,12 +279,12 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:125
-#: a4fa9aca92234c488e3dd46d4db49c9b
+#: 70a83bd9708940fcb3541e48eb3379a9
 msgid "Extended summary"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:126
-#: 859603b19ed94cd599de56c368de5f68
+#: 46299d4e7071495993e75772fc86e04e
 msgid ""
 "_General comments:_ This section is quite free and will probably need no "
 "modifications other than maybe directive updates or moving some code to the "
@@ -292,32 +292,32 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:128
-#: 3123c26e411b49ff94a06f820798467d
+#: 0efbe68e54b6496cbad5f87a23757dba
 msgid ""
 "_pymc.Uniform class docstring:_ Missing close figs in the plot directive."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:130
-#: ed6f07f1fb954c27aa61f62f8a2dcc7d
+#: f0d59006aec94f51b3084cdd29361be1
 msgid "Parameters"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:131
-#: 2a49e8bda29c4ff39f2bc87f312dd677
+#: 0eef0b452e2a4e98afbbb67ab05c46a4
 msgid ""
 "_General comments:_ This is the section that will most probably need more "
 "work. Points to add or emphasize in addition to the advise on numpydoc:"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:133
-#: e9c32dcb2a814159ba5a7165be29dbef
+#: 50e004598a8e41819fadd8e9c21a9794
 msgid ""
 "The colon between an argument name and it's type must be both **preceded and"
 " followed** by a space."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:135
-#: d152608598bb4ad2ae2e9093e2825e7a
+#: 55f05c21fff7445cafed9c3b819f11e4
 msgid ""
 "Type hints should go in the call signature, not in the docstring. "
 "`Optional[Union[str, int]]` is not adequate for a docstring, it should be "
@@ -326,7 +326,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:138
-#: 6d6bd8f426a14a37a220560503f1e20b
+#: 4d8160bd5a4d4458911046d34c917aa9
 msgid ""
 "Optional parameters must be indicated with `, optional` or `, default "
 "<value>`. If the default value is of the documented type and used directly, "
@@ -337,7 +337,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:144
-#: 290ef7025a324780ab6f27664ea9b634
+#: ac893d65047d4a1caee1fb67f69896ad
 msgid ""
 "In type descriptions. We have several aliases available to keep raw "
 "docstrings short and clear while generating still a nice html page with all "
@@ -345,7 +345,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:146
-#: 7dc174ca7956420a81797d56f1252424
+#: 7d33ec1668144a618ded540ae3399237
 msgid ""
 "**`tensor_like`:** One of the most common (if not the most common) aliases. "
 "It should be used in all parameters that take an aesara tensor or any object"
@@ -355,7 +355,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:151
-#: af7d0f9be4d64a038a44bb322f27b005
+#: c87db70e370f42c3bc278dd8c1a3d9d0
 msgid ""
 "**`TensorVariable`:** Similar to `tensor_like` but should only be used for "
 "parameters that won't be converted internally and need to be Aesara tensors "
@@ -365,14 +365,14 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:155
-#: e742e1bd2cd44fe1a22c1d55f75d2ab5
+#: dfe4d27bb9ba4fc0b28aa06bdeddc1e6
 msgid ""
 "**`RandomVariable`:** Change `var`, `random var`, `aesara var` and similar "
 "concepts should be `RandomVariable`"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:156
-#: bec7a0932f504c30bec42ae0d548fcc1
+#: b9bc78d1ded44ac2bb8e1d798a7faa16
 msgid ""
 "**`array_like`:** Change `array like` or `array-like` to `array_like` with "
 "an underscore. If you encounter this in a returned parameter, note it in the"
@@ -380,14 +380,14 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:158
-#: 39f749c96a754840a7b78453063c35d7
+#: b235003b6222424dbb1cbd48f119b9f7
 msgid ""
 "**`ndarray`:** Change `np.ndarray` or `numpy.ndarray` to `ndarray`. However,"
 " if you encounter this in an input argument, note it in the PR description."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:160
-#: d06ba07fc7e345b89006dc7b741cca8d
+#: 5854649682c046508747a92180b68305
 msgid ""
 "**`Covariance`** and **`Mean`**: _within the gp module only_ `covariance`, "
 "`covariance objects`, `Covariance instances` and the like should be modified"
@@ -395,14 +395,14 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:163
-#: 13f4f317bbc14713960da38c81e493c5
+#: 6c49aaff39ce4bf2b9e5961c231eeec2
 msgid ""
 "**`InferenceData`**: change things like `arviz.InferenceData` or `inference "
 "data` to this."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:164
-#: a28491c891ec45e3907e817e6b64e39b
+#: 1d5c389cfbcb4370a335ed7fe811ce4f
 msgid ""
 "**`MultiTrace`** and **`BaseTrace`**: change anything containing this in the"
 " type to them. The most probable thing to find is "
@@ -410,26 +410,26 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:166
-#: 4cd88aa80c6a4a67b20734095c9381e2
+#: 7e5dde626e71446bbdc8a305378a662a
 msgid "**`Point`**: change `pymc.Point`, `point` and similars to this"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:167
-#: 616b689014ba4c7296a78111bfa6b742
+#: dd9115c773994bc0873445abd44b20cb
 msgid ""
 "**`SMC_kernel`**: _within the smc module_ change references to kernel, smc "
 "kernel and the like to this. Note the underscore and capitalization!"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:169
-#: 436605bd3240428c9c044b88786eb210
+#: 197aef46af134e80bfad47b47e679f99
 msgid ""
 "**`Aesara_Op`**: change `Aesara Op`, `Op` and variations to `Aesara_Op`, "
 "note the underscore and capitalization!"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:171
-#: e0603e2d58e7411e835a63e31660f001
+#: 86558e59b1c44aa1b6bf0aec3c322e00
 msgid ""
 "We might also realize we are missing an important alias thanks to your "
 "contributions. Check the [conf.py](https://github.com/pymc-"
@@ -439,17 +439,17 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:176
-#: 211f9721f84a48bf842354e03ebbd697
+#: 1942b8e48a09421a9d839fb512b05f21
 msgid "_pymc.Uniform class docstring:_"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:177
-#: 5b5e9d4b905c448dbbe00dbfff4d3c26
+#: 1ced2d0737e544a2ad5cd813575db949
 msgid "There is no space between argument name and colon"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:178
-#: 48443a093d654554859c7ebc61e59298
+#: 3e057ae25e594cca8bf7b9c7621eca94
 msgid ""
 "Both arguments are actually optional. In Distributions, this can't be seen "
 "in the class itself but in the `dist` method. In the Uniform case, it is "
@@ -458,7 +458,7 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:182
-#: 7607ab2ff76f4e289df3dea8d0a5eae2
+#: c5b7d38df60e43dba141d24b279418ae
 msgid ""
 "Input parameters to distributions can be Aesara tensors, scalars or NumPy "
 "arrays. Therefore, `tensor_like` should be used. In this case, the "
@@ -468,12 +468,12 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:188
-#: 7e75275fd91a426f813e8e936d3a7891
+#: 3b0f24da4ed441339a862ba2a331f2ae
 msgid "Returns and yields"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:189
-#: 52e3c39878ce433cbf6702b130d9ddb5
+#: d3993838fed54a59a2a6e192b0cc1507
 msgid ""
 "_General comments:_ Nothing to add to numpydoc. They follow the style of the"
 " parameters section but with the argument name being optional for single "
@@ -483,24 +483,24 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:196
-#: e8ee479dc3d748db838638f7016b9131
+#: 149ac776f53740dfb17ec822905f2d81
 msgid "Commit the changes to git and get your PR ready"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:198
-#: 219a463202824dada8722383d1464865
+#: bb3c88696fc04e47b7bc961bde0102d6
 msgid "Great! You are ready to do your PR now."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:200
-#: f2493448bca845b891720524394ed915
+#: 845bd03a1c654da7b56361e2445088f0
 msgid ""
 "You can follow the {ref}`PR Tutorial <pr_tutorial>` which explains how you "
 "can do a PR to PyMC."
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:202
-#: e61371ce445f425499bcd3eae467ba72
+#: 2a4828ddb6414f23949f1c27df9b1fdd
 msgid ""
 "Your PR will be reviewed and hopefully merged by the PyMC team. After that, "
 "you can  properly celebrate your first contribution to PyMC! Thanks for "
@@ -508,6 +508,6 @@ msgid ""
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:205
-#: 389e0d0419244170b019eeb750ec9f50
+#: 14a563fa83bc495d87898b72643108ed
 msgid "{fas}`heart;sd-fs-1 sd-text-danger`"
 msgstr ""

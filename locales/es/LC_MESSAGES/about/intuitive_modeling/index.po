@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/intuitive_modeling/index.md:2 ef0694fde24f4586befc545128e82f38
+#: ../about/intuitive_modeling/index.md:2 acbdeb324e8c4855a72fb76408d06bd2
 msgid "Intuitive Bayesian Modeling with PyMC"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:4 b6fd2fe4442543c997a4a39b9e18e015
+#: ../about/intuitive_modeling/index.md:4 e0134de4a5ca4cf1bf05834a34a6b240
 msgid "Event"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:6 653f6b8875da4f878b1b865f0586761b
+#: ../about/intuitive_modeling/index.md:6 8fde49b6d59b4b4f9b48903d530e5799
 msgid ""
 "In this task Oriol gives an overview of PyMC, and why it is beneficial to "
 "supercharge your data science skills with probabilistic programming. The "
@@ -35,41 +35,41 @@ msgid ""
 "examples of Bayesian modeling with PyMC."
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:8 020aa21f15a4454dbf193ed2eb8a6a2c
+#: ../about/intuitive_modeling/index.md:8 3b9660e896ba4629b947912b24c85aae
 msgid "Details"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:10 9af0a1582c6d49719ec7c9b2fbc38bdd
+#: ../about/intuitive_modeling/index.md:10 893e87fc852740fca49f1570e168b246
 msgid "Audience: People who are interested in probabilistic programming."
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:11 5c92404aaf8245d4b6dde0a024720541
+#: ../about/intuitive_modeling/index.md:11 f681d7d69e534d8a81e423b7b976d7e8
 msgid ""
 "This is a beginner-level presentation. It is helpful to have some knowledge "
 "of python and statistics/data science."
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:12 16c0bb6941724078949782b11cfe5c2d
+#: ../about/intuitive_modeling/index.md:12 04d991e284a545b69486a85cb32a82a9
 msgid "[Github Repo](https://github.com/OriolAbril/pymc3-data_umbrella)"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:13 a6363ee8693d4d2892f9d0e4672d2e2d
+#: ../about/intuitive_modeling/index.md:13 d6d5766fcb3d4be7a7fb64e7a09bfcb2
 msgid ""
 "[Slides for the "
 "presentation](https://oriolabril.github.io/pymc3-data_umbrella/)"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:15 41c0cb1b928c42b4a62abd3899e9a40f
+#: ../about/intuitive_modeling/index.md:15 84c82118e85c4ae099827bad14ed7334
 msgid "Speaker"
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:16 d440f1d567ea41639877ba98b0bb2d7a
+#: ../about/intuitive_modeling/index.md:16 a5843f3d98154c01bb000e1e31764659
 msgid ""
 "[Oriol Abril Pla](https://oriolabrilpla.cat/) is a Bayesian statistics and "
 "open source sofware enthusiast currently pursuing a PhD in Computer Science "
 "at Helsinki Uni. He is also a member of the ArviZ and PyMC teams."
 msgstr ""
 
-#: ../about/intuitive_modeling/index.md:18 68b2d7888fed47349cb91005e5902639
+#: ../about/intuitive_modeling/index.md:18 de1de7f9a50d4d1f827b97ed65762f20
 msgid "Video"
 msgstr ""

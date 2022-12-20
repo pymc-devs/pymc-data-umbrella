@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:1
-#: 1569d2fb5d7546729afcc0dd8f6a2bbb
+#: b1367bb7ffe6430c999df7c3fc07637c
 msgid "Organizers"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:2
-#: 483a911a6e264de39339a2b765919f03
+#: b8b27869852a49daade45c8aafb2b72d
 msgid "Data Umbrella Organizers"
 msgstr ""
 
@@ -31,14 +31,14 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/organizers.md:12
 #: ../2022-07_sprint/sprint_parties/organizers.md:74
 #: ../2022-07_sprint/sprint_parties/organizers.md:79
-#: c12abeb889114287b3f3319645edf68d 42f54b9b14f14a1783118ce59be92741
-#: 75f2c8de91e74c0fa6103d2ecf0d16d0 7846467441e44943b48ca06b869a5dea
+#: 4baf0ed58a26490abe655cafabd6d0ea 8fd074a208224f5da9c86a86b063c4cd
+#: 1a8ccf48a2de40eeaf6a00d21e0aa044 0a3e9915dcd94b68a6c9117ca4939b2e
 msgid "Reshama Shaikh"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:14
 #: ../2022-07_sprint/sprint_parties/organizers.md:81
-#: 6856a30b6b9c40b09c48ccb6c19bec6b 4e8176588bc44d7186557ed22a87e3f7
+#: 4bf62dcb18b9437e9556b280b2866be9 07c9c6532f694b6abfa00028574520e0
 msgid ""
 "[{fas}`globe`][reshama_web] [{fab}`github`][reshama_github] "
 "[{fab}`twitter`][reshama_twitter] [{fab}`linkedin-in`][reshama_linkedin]"
@@ -46,12 +46,12 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:19
 #: ../2022-07_sprint/sprint_parties/organizers.md:24
-#: 2a44aeccf18344028a0191876861226a 620f43556bb242a59f910e64be7adbfd
+#: 4c46702d7130448ab8d8eac19d020931 3c1c18e0d566447baa1235e4e1f763cd
 msgid "Beryl Kanali"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:26
-#: e6bf35841851470b89b85b24d004bed7
+#: 8caa3692783c4b27934f72889c33eb1a
 msgid ""
 "[{fab}`twitter`](https://twitter.com/BerylKanali) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/beryl-kanali-260567185/)"
@@ -59,12 +59,12 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:29
 #: ../2022-07_sprint/sprint_parties/organizers.md:34
-#: fd1777d583dc45d3ab5c27c6c298e1b9 7bdc7b632e5d4423a75e5659b4898000
+#: 4f8b72c05e8b47fcb6b83a7bedd85b1d 871eb34ac2fb4dcfa1065e31f7488050
 msgid "Sandra Meneses"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:36
-#: 23e27e91cb774ad1bb366cdb083f5e84
+#: 7f49ce84ab0c477faab4bee855bfd89a
 msgid ""
 "[{fab}`github`](https://github.com/symeneses) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/symeneses/)"
@@ -72,33 +72,33 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:39
 #: ../2022-07_sprint/sprint_parties/organizers.md:44
-#: 4bab7661690a4b478259d44f987e4390 1f782d85b80c4f989f5c5c94cb425a97
+#: 3b3862a8deea4e0e992076ed6922a65e 76e0ae5559fb486f88f127838a0d7b94
 msgid "Sandy Weng"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:46
-#: 5446d3733bb545b4946598f3418ca403
+#: b83baa9d7c2e430ca5e4b1cb2c89e368
 msgid "[{fab}`linkedin-in`](https://www.linkedin.com/in/sandy-weng-a0959762)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:48
-#: 8dc3cc3d197a43ca90f33aa9a6600206
+#: 383179f9713c4714a821d08bfdb65720
 msgid "Cristina Mulas"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:53
-#: acee7a5b74f349f6a1c945491379b3ff
+#: 3864b97f2ed64d7d832b1a3a33b899d0
 msgid "Cristina Mulas Lopez"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:55
-#: 8cb3bd97e3a0496d934acaa3113db058
+#: 1cc338e5189b49f18bf64d0d746d6477
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/cristina-mulas-00321a167/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:59
-#: 5bb5189ef1fe4ceeb45baacae40bb68d
+#: ea4b436b65434f8d83faf62ee0fb78e8
 msgid "PyMC Organizers"
 msgstr ""
 
@@ -106,14 +106,14 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/organizers.md:69
 #: ../2022-07_sprint/sprint_parties/organizers.md:116
 #: ../2022-07_sprint/sprint_parties/organizers.md:121
-#: 87de5056ea444014b134a0e8e3157895 a4118779be2a492cbeaea1a660e97a95
-#: 0c3d0c19ebbb442d889fa7681ec3bd09 9127ca6e5fba4556b75416ea2534956a
+#: c1c241a428664be09e6a37424f86531b 46367aec88c349f28cc99a69511236be
+#: 5ca8b4c177134983aacc77550fbabb21 84bb35bb63b14e888d7be2e25398ccd6
 msgid "Christian Luhmann"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:71
 #: ../2022-07_sprint/sprint_parties/organizers.md:123
-#: 73c150197d154f5ba36cf3363ca8bd35 c783f03de92c4705b20159306cac808e
+#: 55733f11e16d496ea448122a5817c461 e22ae789ea404c14b0580a51af60183a
 msgid "[{fas}`briefcase`][christian_work] [{fab}`twitter`][christian_twitter]"
 msgstr ""
 
@@ -121,14 +121,14 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/organizers.md:91
 #: ../2022-07_sprint/sprint_parties/organizers.md:126
 #: ../2022-07_sprint/sprint_parties/organizers.md:131
-#: 464ceca891874bedba8a53a072be3cfd 9b3dd35d490748bb82f16592ae22a47e
-#: cd8ce6d6a4c942fea81463f806bcc444 8f3caaec93064834a8ee19ce03076b91
+#: c086001c452e4428b42a73a223efa9f2 1668a0240f4041e0814c091d0ad9ef19
+#: 6a0f04abd4ae4a66bb9a023f40be5c2e 8b3d25ed5c3c4d06b3bb56bb831cb0dd
 msgid "Oriol Abril Pla"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:93
 #: ../2022-07_sprint/sprint_parties/organizers.md:133
-#: 4fa764fa45034423b6e29250ef78f901 a4c6aed137b0490aa7f00560599c92ab
+#: 2bb8d3251fea4090935d4dc452cfa979 c41116a46346489880f9922bfbdd7b71
 msgid ""
 "[{fas}`globe`](https://oriolabrilpla.cat) "
 "[{fab}`github`](https://github.com/oriolabril) "
@@ -137,30 +137,30 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:97
 #: ../2022-07_sprint/sprint_parties/organizers.md:102
-#: 2e8d1667136642f4937368cec0174200 ced1a790fbe0429aa0a1ac0148bba8c5
+#: 6dcabcaafec3421fac0d90d60adf1ecc d0b8481dc97a4d7285e6a9a1a5b9091a
 msgid "Thomas Wiecki"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:104
-#: 0a67f746f3c24e93b3f916bdcb5ed5e4
+#: 887731749a434c42a02c9d1bcd5193f4
 msgid ""
 "[{fas}`globe`][thomas_web] [{fas}`briefcase`][thomas_work] "
 "[{fab}`github`][thomas_github] [{fab}`twitter`][thomas_twitter]"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:111
-#: 81aa3acaf3d64328b5200e9ce448f17f
+#: 0b356e13a3484c4bb0a13f6329918252
 msgid "PyMC Mentors"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:137
 #: ../2022-07_sprint/sprint_parties/organizers.md:142
-#: e7f762d2a1de405198c526160a1be95d 184adbbec8344f568b94977038317a3d
+#: 6ccc5e713603441c9d8f1783e2a88af1 4f2bbe38785142d0bffc8748be381737
 msgid "Ravin Kumar"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:144
-#: 9f2c106e5b7f4af8a259601d28fa4272
+#: 2a9235339108441887096a832492d272
 msgid ""
 "[{fas}`globe`](https://ravinkumar.com/) "
 "[{fab}`github`](https://github.com/canyon289) "
@@ -169,12 +169,12 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:148
 #: ../2022-07_sprint/sprint_parties/organizers.md:153
-#: 80cc7bca174c45daacfdb15a899233ef 3169d4957a1149bd89eaa0a7828bbf7c
+#: 0d0f8754907749b0bc7d3ebbb687e0ee f9819830be024ab0af79909e91f91ffe
 msgid "Danh Phan"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:155
-#: 02cf06f3af3c4abc813f6a1aa59b7bbd
+#: d3552c998ed446409d7bb92dc6381aef
 msgid ""
 "[{fas}`globe`][danh_web] [{fab}`github`][danh_github] "
 "[{fab}`twitter`][danh_twitter] [{fab}`linkedin-in`][danh_linkedin]"
@@ -182,12 +182,12 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:160
 #: ../2022-07_sprint/sprint_parties/organizers.md:165
-#: f19c520ccfb24a018719ee720567b92e 7ea80fb9d68c4d148b63e40e986bc27e
+#: 081410fd1c544b9a87cff93aa86799c0 76c6b08caa244e36af04adf99a04ac5e
 msgid "Christopher Fonnesbeck"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:167
-#: 9e731e19a09249eaa8864913919f1a6b
+#: 5974afce72334c0684187ac5f23ad9d4
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-"
 "fonnesbeck-374a492a/)"
@@ -195,45 +195,45 @@ msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:169
 #: ../2022-07_sprint/sprint_parties/organizers.md:174
-#: 9cf54772196545b392ef6ee590792f75 6830600cdcf6489594ee25a64b6465b7
+#: 71a131b47de04b9596c6ecea43e8db5c a569af5e557a4fc6a38530242730fdca
 msgid "Michael Osthege"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:176
-#: e584ca4fa5a24910885c9c1d737f33c3
+#: 736b642a9d614e02b5b8a49ec1eb38f1
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:178
-#: 25a46971b005462c8e3eb191ff82d6af
+#: c7e868f0d9a840279b9abc491a090885
 msgid "Alex Andorra"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:183
-#: 83f34e74ebfb4b84a2b933f34cffa5a4
+#: 462808265ee24ac89d5b67ede4319092
 msgid "Alexandre Andorra"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:185
-#: bb03270a2dba4fffba41c159d1fde039
+#: 701a87a0a2c04cebae93bd53a0ac70cf
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:187
 #: ../2022-07_sprint/sprint_parties/organizers.md:192
-#: 5dd37acfbbd34d959fe8d8eaecafb6cb 9e755a3f153541649a6641fb0f6fbdb7
+#: be7203e9b4b749e9b53c394ce216ffe3 08b92eae388a4fc19655a4732754fc4d
 msgid "Fernando Irarrázaval"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:194
-#: 38a63dc3cdbb42d1b73a68b0da1b26dc
+#: e4e690a3d0624b3d86fa56ed8cdaf815
 msgid "[{fab}`github`](https://github.com/cuchoi)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:198
-#: 1109c8e4901f4bfc864ba04386b7b419
+#: 1f57e8eaeb4d4f57b265d244681820e0
 msgid ""
 "Additionally, we thank all the PyMC team members who contributed by "
 "reviewing pull requests and assisting with outreach as well as "
@@ -241,33 +241,33 @@ msgid ""
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:200
-#: df1cea902feb479ea3df9d5ee6ecfb2a
+#: 372615321c17460a90104f48f51539a2
 msgid "Community Contributors"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:205
-#: 56cb0ddf12a546edaa57be879f1a3616
+#: 458c7b44e2eb407dab6822a28442e895
 msgid "Cristiin Maureira-Fredes"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:210
-#: 57926f51d07a4fd6a14e340de3e09552
+#: 4e6dfc55c30d423aaff7ca460fc2c2ff
 msgid "Cristián Maureira-Fredes"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:212
-#: 08d70b614131459789aaeb18d37f4963
+#: 32e1a03620004fc6a9fb8f0a7652c769
 msgid "[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:214
 #: ../2022-07_sprint/sprint_parties/organizers.md:219
-#: d65c217dbdf149318fb755224739c687 8315900e04554ff5808ed1bf1183c837
+#: 68f0abf3e65a4402ac5ea3de9d05469b cd9e0d533aa148638c85ccb9cdc5c6af
 msgid "Lucy Jiminez"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:221
-#: 463cc06897054e47995756122bf0a886
+#: b136bab5fb514d448589d1f7867c6944
 msgid ""
 "[{fab}`github`](https://github.com/LucyJimenez) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/lucy-j/) "
@@ -275,12 +275,12 @@ msgid ""
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:227
-#: 6e5929461a4c4043908e6f3d776ed4e5
+#: 83dc2d58b1404f80adcf83a4408c1e05
 msgid "About PyMC and Data Umbrella"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:229
-#: 22a3e2699ebb47dfa24cd3f60de4c6aa
+#: 3563dec312824362963d9629b60732c8
 msgid ""
 "[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
 "underrepresented persons in data science. It is a fiscally hosted project of"
@@ -291,7 +291,7 @@ msgid ""
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/organizers.md:231
-#: 163e577b4bea494bb7d16804367981e5
+#: f8488497a73c4a93be914a431a636c80
 msgid ""
 "[PyMC](https://www.pymc.io) is a probabilistic programming package for "
 "Python that allows users to fit Bayesian models using a variety of numerical"

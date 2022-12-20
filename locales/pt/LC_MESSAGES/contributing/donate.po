@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -17,31 +17,31 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../contributing/donate.md:1 ff7f28a2a93a466c9e8a921d8c3767e1
+#: ../contributing/donate.md:1 d0f4a3dbd16e4d3d8da8c9ee2a7ac1c5
 msgid "Support us"
 msgstr ""
 
-#: ../contributing/donate.md:3 e884ccb3b68e42e690fb4cee901c80e1
+#: ../contributing/donate.md:3 f5bde7f0d80a42f79258cd03c3e49142
 msgid ""
 "If you or your company have the means to support us financially, consider a "
 "donation to support our communities."
 msgstr ""
 
-#: ../contributing/donate.md:6 0fc1abf8ef064ef6afa8a9f0461ab279
+#: ../contributing/donate.md:6 a3b1b0731e4f46709da6a0fcbb785aff
 msgid ""
 "Thanks for your interest in supporting us! {material-sharp}`favorite;2em;sd-"
 "text-danger`"
 msgstr ""
 
-#: ../contributing/donate.md:9 64f114fd0337448684ca5342f49913f4
+#: ../contributing/donate.md:9 249f32905c2d47f8bef3923718e34da4
 msgid "PyMC"
 msgstr ""
 
-#: ../contributing/donate.md:11 95b3f7e5ac8f47ef97500a30ac587710
+#: ../contributing/donate.md:11 50fbee0f887749088cf2dc4cc7746917
 msgid "PyMC is a non-profit project under NumFOCUS umbrella."
 msgstr ""
 
-#: ../contributing/donate.md:15 63fe8c75a3a7429fb7fc10be53ead69e
+#: ../contributing/donate.md:15 5657eb5208e34377bb2cf3d52e0db2c8
 msgid ""
 "Donate to PyMC <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-thumb_up\" "
@@ -52,16 +52,16 @@ msgid ""
 "10h9v2l-3 7H9V9zM1 9h4v12H1z\"></path></svg>"
 msgstr ""
 
-#: ../contributing/donate.md:22 89f0af141e984d36849495e90c34951c
+#: ../contributing/donate.md:22 76ad225f7e5b452dbfcc1934d799abaf
 msgid "Data Umbrella"
 msgstr ""
 
-#: ../contributing/donate.md:24 c631b2ab697c45468ac41593f18b29d6
+#: ../contributing/donate.md:24 e4990f2b3efc425d8d834be7579f11ea
 msgid ""
 "You can contribute to the Data Umbrella community through Open Collective."
 msgstr ""
 
-#: ../contributing/donate.md:28 0346cf4faa3f42a19a7b10052f96e034
+#: ../contributing/donate.md:28 c34e241da6b54638ac036fbbfbf25d12
 msgid ""
 "Donate to Data Umbrella <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-thumb_up\" "
