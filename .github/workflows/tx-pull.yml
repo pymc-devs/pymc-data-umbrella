@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Pull from transifex
         run: |
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
@@ -18,6 +20,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
+          author: PyMC Team <pymc.devs@gmail.com>
           commit-message: Update translations
           title: Update translations
           body: |
@@ -28,3 +31,5 @@ jobs:
             [1]: https://github.com/peter-evans/create-pull-request
           branch: update-translations
           delete-branch: true
+          reviewers: OriolAbril
+          labels: localization
