@@ -1,0 +1,9 @@
+{% extends "pydata_sphinx_theme/layout.html" %}
+
+{% block extrahead %}
+{{ super() }}
+{% set file_path = pagename + '.html' %}
+<link rel="alternate" hreflang="en" href="https://pymc-data-umbrella.xyz/en/latest/{{ file_path }}" />
+<link rel="alternate" hreflang="es" href="https://pymc-data-umbrella.xyz/es/latest/{{ file_path }}" />
+<link rel="alternate" hreflang="pt" href="https://pymc-data-umbrella.xyz/pt/latest/{{ file_path }}" />
+{% endblock extrahead %}
