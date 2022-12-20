@@ -17,11 +17,14 @@ jobs:
         run: |
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
           ./tx --token ${{ secrets.TX_TOKEN }} pull --all --use-git-timestamps
-          more locales/es/LC_MESSAGES/2022-02_sprint/index.po
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          commit-message: Update translations
+          author: oriol@pymc-devs.org
+          commit-message: |
+            Update translations
+
+            on-behalf-of: @pymc-devs <info@pymc-devs.org>
           title: Update translations
           body: |
             - Get translations from transifex and update the repo
@@ -31,5 +34,5 @@ jobs:
             [1]: https://github.com/peter-evans/create-pull-request
           branch: update-translations
           delete-branch: true
-          base: txpull_tests
           reviewers: OriolAbril
+          labels: localization
