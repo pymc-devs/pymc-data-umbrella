@@ -20,11 +20,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          author: oriol@pymc-devs.org
-          commit-message: |
-            Update translations
-
-            on-behalf-of: @pymc-devs <info@pymc-devs.org>
+          author: PyMC Team <pymc.devs@gmail.com>
+          commit-message: Update translations
           title: Update translations
           body: |
             - Get translations from transifex and update the repo
