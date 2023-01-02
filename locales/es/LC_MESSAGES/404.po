@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,16 +21,19 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../404.md:1 f563014dc1384114bf7f1a5be41c47c0
+#: ../404.md:1 b6efadde2ff24572837a66e117c772a1
 msgid "Page not found"
-msgstr ""
+msgstr "Página no encontrada"
 
-#: ../404.md:3 7273f7e48e614d6aa7c45460a1e974e0
+#: ../404.md:3 3f613484e6374a7bab4e6f81154382ef
 msgid "Sorry, we were unable to find this page."
-msgstr ""
+msgstr "Perdón, no fue posible encontrar esta página."
 
-#: ../404.md:5 ae61a363ad024703a4ecb348ebe8b9e5
+#: ../404.md:5 2a17f756319042eb9847f3010928b7e9
 msgid ""
 "If it has been moved, you can use the navigation bar on top or the search "
 "bar on the left sidebar to find it again."
 msgstr ""
+"Tal vez haya sido movida, puede usar la barra de navegación en la parte "
+"superior o la barra de búsqueda en la barra lateral izquierda para "
+"encontrarlo nuevamente."
