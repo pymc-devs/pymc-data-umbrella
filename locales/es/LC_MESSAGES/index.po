@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022
+# Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 15:59+0000\n"
-"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022\n"
+"Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,18 +40,20 @@ msgstr "Sobre PyMC"
 
 #: ../index.md:6
 msgid "Event info"
-msgstr ""
+msgstr "Información del evento"
 
 #: ../index.md:6
 msgid "Contribute"
-msgstr ""
+msgstr "Contribuir"
 
-#: ../index.md:2 28cad79981384a18a8d66c8a8fc604d8
+#: ../index.md:2 3227097361e84ad7858aad4e30492a24
 msgid "PyMC - Data Umbrella Events"
-msgstr ""
+msgstr "Eventos PyMC - Data Umbrella"
 
-#: ../index.md:4 4a4de3c132914951a4d55f1345990876
+#: ../index.md:4 35e415fca22a4131a23587889c20a5de
 msgid ""
 "DO NOT EDIT! This is only a placeholder to define the nabvar and is deleted "
 "to redirect the homepage to the current sprint schedule."
 msgstr ""
+"DO NOT EDIT! This is only a placeholder to define the nabvar and is deleted "
+"to redirect the homepage to the current sprint schedule."
