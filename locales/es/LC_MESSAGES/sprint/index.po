@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2022-12-19 03:05+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,36 +21,41 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/index.md:1 c7c3ab6aee2345fab5c68bf96b0c9a80
+#: ../sprint/index.md:1 883450391e054b2d8b3317b374e58d17
 msgid "Event info"
-msgstr ""
+msgstr "Información del evento"
 
-#: ../sprint/index.md:18 ec30879bdd3f46b0b97a69ba30119ac8
+#: ../sprint/index.md:18 08ae57bf3e4343c9b501382fd4545038
 msgid ""
 "**Wondering if the sessions are for you?** We have got just {ref}`the page "
 "<decision_tree>`"
 msgstr ""
+"**¿Preguntándote si puedes participar en las sesiones?** Tenemos está "
+"{ref}`página <decision_tree>` para ti."
 
-#: ../sprint/index.md:19 2cb4740e082949a19fb1bf8fd336d86a
+#: ../sprint/index.md:19 02512c0dc6e94b9395554b0dbd7beb7b
 msgid "**Ready to contribute?** Go to {ref}`docstring_tutorial` page"
-msgstr ""
+msgstr "**¿Listo para contribuir?** Va a la página {ref}`docstring_tutorial`"
 
-#: ../sprint/index.md:23 31c093a60f9e408b8e52fcd7dacc0964
+#: ../sprint/index.md:23 93fb6920a5f146dcbae414a75a818d18
 msgid "Open Source Working Sessions"
-msgstr ""
+msgstr "Sesiones de trabajo de código abierto"
 
-#: ../sprint/index.md:25 1ae18efdc1b541fb9b7a303f7f74debe
+#: ../sprint/index.md:25 1375568768564303a52f24fe4dbc09eb
 msgid ""
 "Data Umbrella is organizing a series of open source working sessions to "
 "contribute to the PyMC project. For more information, see {ref}`Resources "
 "<resources>` section."
 msgstr ""
+"Data Umbrella está organizando una serie de sesiones de trabajo de código "
+"abierto para contribuir al proyecto de PyMC. Para mayor información, ve a la"
+" sección {ref}`Resources `."
 
-#: ../sprint/index.md:27 71dd14f5cf68451d8f4f17a3fb496d82
+#: ../sprint/index.md:27 b6b129491a3142deba1d2248024884d8
 msgid "Goals"
-msgstr ""
+msgstr "Objetivos"
 
-#: ../sprint/index.md:29 8136172405c04f53bb88b1f1b07aa05d
+#: ../sprint/index.md:29 943fa7310da540d7a04adf7cf597c5ab
 msgid ""
 "In these sessions we’re focusing on bringing in new contributors, we "
 "sincerely hope this will be a welcoming, inclusive experience for you into "
@@ -56,109 +65,126 @@ msgid ""
 "aren’t experienced in software development no worries at all, you can "
 "contribute to documentation with knowledge of markdown or statistics."
 msgstr ""
+"En estas sesiones, nos estamos enfocando en traer nuevos colaboradores, "
+"esperamos sinceramente que esta sea una experiencia acogedora e inclusiva "
+"para ti en el mundo del software de código abierto. ¡Esperamos ayudarte de "
+"la mejor forma posible y aprender también de ti! La sesión consistirá en "
+"trabajar en problemas menores y en la documentación de PyMC, por lo que si "
+"no tienes experiencia en el desarrollo de software, no te preocupes en "
+"absoluto, puedes contribuir a la documentación con conocimientos de Markdown"
+" o Estadística."
 
-#: ../sprint/index.md:32 154039ba2f2c47ddbb539a8e430d6fbf
+#: ../sprint/index.md:32 2f0e19e5becf4608b644f9b44ca79941
 msgid "Requirements"
-msgstr ""
+msgstr "Requerimientos"
 
-#: ../sprint/index.md:34 e054523d5a564e4d918101d25d19ee56
+#: ../sprint/index.md:34 f8197d81a2634dc29d508dbafec271b8
 msgid "Get your laptop, and some stable internet connection!"
 msgstr ""
+"¡Alista tu computadora portátil y conectate a una conexión de Internet "
+"estable!"
 
-#: ../sprint/index.md:35 19771cd636ef4a858131698dbb1a3838
+#: ../sprint/index.md:35 c771dc6c489e4cec95b66b881b9f1766
 msgid "Working knowledge of terminal and git"
-msgstr ""
+msgstr "Conocimientos prácticos de comandos Bash y git"
 
-#: ../sprint/index.md:36 80d5a3a5387f4109bc7b1c6e1d521c81
+#: ../sprint/index.md:36 f6665f9af17a4901b4b143c97950a36c
 msgid "Setup a python virtual environment beforehand!"
-msgstr ""
+msgstr "Configurar un ambiente virtual de python antes de la sesión!"
 
-#: ../sprint/index.md:37 3b9cde278bd94351a3a8cc5b8aebe442
+#: ../sprint/index.md:37 9477d0092a2e418d8085ea7769612843
 msgid ""
 "Other than these two you can make different kinds of contributions with "
 "different skill sets, for example:"
 msgstr ""
 
-#: ../sprint/index.md:38 e1d16d95dd7746fb95e224e19ff4dab7
+#: ../sprint/index.md:38 044f5a7fb2ba4b928febf74e098e3ad2
 msgid ""
 "You can contribute to documentation with knowledge of markdown and maybe "
 "some basic statistics"
 msgstr ""
 
-#: ../sprint/index.md:39 f88eb0bee6cd432f948e3e4f6be544cb
+#: ../sprint/index.md:39 6275889a481648539380fce7d87bfa78
 msgid ""
 "You can contribute to CI/CD issues or Python issues with basic knowledge of "
 "programming"
 msgstr ""
 
-#: ../sprint/index.md:40 4cd03499f8ff4b92afa5e048d20bac2f
+#: ../sprint/index.md:40 2d75fd704dc542a5932b8899e93d8f77
 msgid ""
 "You can contribute to core codebase with knowledge of Python + Bayesian "
 "Statistics"
 msgstr ""
 
-#: ../sprint/index.md:41 3281fdf025e044fc864c1a4d303ef550
+#: ../sprint/index.md:41 367f8caf9de040d9849ae5f1460c5459
 msgid ""
 "Note: {ref}`Check the event cheat sheet <decision_tree>` to know a suitable "
 "area of contribution and some resources to prepare you for it"
 msgstr ""
+"Nota: {ref}`Revisa la ficha de ayuda <decision_tree>` para saber de las "
+"áreas en las que mejor podrías contribuir y algunos recursos útiles para "
+"prepararte."
 
-#: ../sprint/index.md:43 df3746d7a64f4e63a0dc85f29d2c88a9
+#: ../sprint/index.md:43 1f5254fda369482cba7a6b1d27e47256
 msgid "Target Audience"
-msgstr ""
+msgstr "Audiencia Objetiva"
 
-#: ../sprint/index.md:44 d8ace8326cf64f8a9625506589777ef1
+#: ../sprint/index.md:44 38a9607c4a58484f93fb2984c871af5d
 msgid ""
 "The following table answers the question **\"This sprint is for someone who "
 "is/has ...\"**"
 msgstr ""
+"La siguiente tabla responde a la pregunta **\"Este evento es para alguien "
+"que es/tiene...\"**"
 
-#: ../sprint/index.md:52 edbe7b4cbd0445859ca0fb02a6a08484
+#: ../sprint/index.md:52 337b9df8e8964791888bf32734dd1323
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
-#: ../sprint/index.md:53 6b16c2d4aac745289d9e4567172c7e67
+#: ../sprint/index.md:53 c5b5f089287d4763a37dc8b023dd069b
 msgid "No"
-msgstr ""
+msgstr "No"
 
-#: ../sprint/index.md:54 ec6234ef2923468c8540e14228f5037c
+#: ../sprint/index.md:54 b28357bdff624a88a5f8d9a0dfa23974
 msgid "New to Open source"
-msgstr ""
+msgstr "Nuevo a código abierto"
 
 #: ../sprint/index.md:55 ../sprint/index.md:56 ../sprint/index.md:58
 #: ../sprint/index.md:59 ../sprint/index.md:61 ../sprint/index.md:62
 #: ../sprint/index.md:64 ../sprint/index.md:65 ../sprint/index.md:68
-#: 5451ea08c34b4070ab29f128225d8e41 2e89561062824438986312515a0c0b03
-#: 2586babe354b4287bf4d38ea63610341 03400fdd5f27415498b66b688759e53f
-#: 70d95bb243cd4d889e0a66c252ace38d 1c43434ff1cb4c1aba33ca00a2d06a0c
-#: 3ef648a4cec942be89d6dd8eaa0664a9 1d95bdcf8cb84861bf0c3c2db700030b
-#: 8c01c389b83742b0913db71e8725ac23
+#: 25dc1037f1fb48e89a27bb463e95d8b9 718d74879c8144b6ae61feba11e69d8d
+#: d999112e531e4ef881fd44461b0b7ee0 ea83be41bf624e1e98fab77079b589a3
+#: 4fe47fb7731f44b8aaff27d96c60d94e c5e4dbaf54624c6abc4b231aa476cf57
+#: d076d56a3dd34b86ad7944893a1ff83f ce07ea57fec04479be5168635e1cb70a
+#: 4dc521e9118e4be1b8f0f6458ea40e99
 msgid "{fas}`check;sd-text-success`"
-msgstr ""
+msgstr "{fas}`check;sd-text-success`"
 
-#: ../sprint/index.md:57 d773e246923b46789867d5674fa25096
+#: ../sprint/index.md:57 f9d53319d9f846869e3564c6bde92e40
 msgid "Statistical background"
-msgstr ""
+msgstr "Conocimientos en Estadística"
 
-#: ../sprint/index.md:60 59f6603a0a98440d96d3ca1bf282ddda
+#: ../sprint/index.md:60 2d4f475db3fc493aaf02f9e689f2047b
 msgid "Currently working in data science/software"
-msgstr ""
+msgstr "Trabajando actualmente en ciencia de datos/software"
 
-#: ../sprint/index.md:63 3b81e414a32d4f3491a333de168af95f
+#: ../sprint/index.md:63 fca0b5a91296457ea789e67304d03d18
 msgid "Knows/uses PyMC"
-msgstr ""
+msgstr "Conoce/usa PyMC"
 
-#: ../sprint/index.md:66 230a3067aa3841f2b93e65cd46e6478a
+#: ../sprint/index.md:66 489aba53178c4f75ad303e8fcecca786
 msgid "Member of the PyMC team"
-msgstr ""
+msgstr "Miembro del equipo de PyMC"
 
-#: ../sprint/index.md:67 273f9d243c5d4635979f54c36a70da06
+#: ../sprint/index.md:67 852a633715534b1dbafb0fda3a011a6f
 msgid "{fas}`times;sd-text-danger`"
-msgstr ""
+msgstr "{fas}`times;sd-text-danger`"
 
-#: ../sprint/index.md:71 7cb8d4a893834bf5b13b55fa87c6d0cc
+#: ../sprint/index.md:71 f114baaa8dab41dda02c07a67e3fd836
 msgid ""
 "Read the {ref}`decision_tree` for more detailed answers and to see what "
 "types of contributions can you make depending on your interests and "
 "background."
 msgstr ""
+"Lee el {ref}`decision_tree` para obtener información más detalladas y ver "
+"qué tipo de contribuciones puedes hacer según sus intereses y experiencia."
