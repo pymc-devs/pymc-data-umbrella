@@ -6,6 +6,7 @@
 :hidden:
 
 self
+videos
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
 donate
