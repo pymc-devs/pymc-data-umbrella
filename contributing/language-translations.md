@@ -6,7 +6,7 @@
 - Knowledge of English and (Spanish or Portuguese)
 
 ## About
-We are using [Transifex](https://www.transifex.com/) to manage the language translations, which provides a tranlsation infrastructure with Sphinx. Transifex is *a global content repository with a REST API, SDKs, automation, and more so you can centrally manage your source content and translations and build amazing multilingual digital experiences for your users.*
+We are using [Transifex](https://www.transifex.com/) to manage the language translations, which provides a translation infrastructure with Sphinx. Transifex is *a global content repository with a REST API, SDKs, automation, and more so you can centrally manage your source content and translations and build amazing multilingual digital experiences for your users.*
 
 ## Workflow
 

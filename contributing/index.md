@@ -17,7 +17,7 @@ language-translations
 
 If you find any errors or have any suggestions, please let us know! You can either [report an issue](https://github.com/pymc-devs/pymc-data-umbrella/issues/new) or send us a pull request.
 
-1. Click in the GitHub icon in the top right corner of the page to visit the page repo.
+1. Click on the GitHub icon in the top right corner of the page to visit the page repo.
 
 2. Fork and clone the repository.
 
@@ -74,4 +74,3 @@ There are social media links and text available in our {ref}`media_kit` with inf
 We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese. For more detailed instructions on how you can submit translations, see {ref}`translations`.
 
 If you are interested in translating to another language, please open up an [issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) with any suggestions.
-
