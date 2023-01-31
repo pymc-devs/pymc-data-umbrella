@@ -10,6 +10,7 @@ self
 ../about/contributing_to_documentation/index
 donate
 ../2022-07_sprint/sprint_parties/media_kit
+language-translations
 :::
 
 ## Help us improve this website
