@@ -69,7 +69,7 @@ There are social media links and text available in our {ref}`media_kit` with inf
   to avoid "tutorials" as it can be confusing with the content of the documentation webinar.
   If you need some alternative to "webinar" consider using "event" or "workshop" before for example.
 
-## Translating content: volunteers needed 🙌
+## Language translations
 
 We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese: {ref}`translations`
 
