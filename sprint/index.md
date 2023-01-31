@@ -31,14 +31,38 @@ The session will consist of small resolvable issues and contributing to the PyMC
 
 ## Requirements
 
-- Get your laptop, and some stable internet connection!
-- Working knowledge of terminal and git
-- Setup a python virtual environment beforehand!
-- Other than these two you can make different kinds of contributions with different skill sets, for example:
+Requirements depend on the contribution you are aiming for, the only common requirements are internet access and a laptop!
+
+### Timestamps/transcripts
+* GitHub account
+* Basic git
+
+### Code and Documentation
+Note: a small subset of documentation contributions only requires a subset of these requirements, see below if interested.
+
+* GitHub account
+* Python/conda environment setup
+* Basic working knowledge of terminal and git
+
+### Documentation contributions (non-code dependent)
+That would be for example working on the glossary or adding references to docstrings.
+
+* GitHub account
+* Basic git
+* Markdown / reStructuredText (RST)
+* Raw text editor
+
+### Translations
+* [Transifex](https://www.transifex.com) account
+* English + (Spanish or Portuguese)
+* GitHub account (optional, for account authentication)
+:::{tip}
+Other than these types of contributions, you can make different kinds of contributions with different skill sets, for example:
   - You can contribute to documentation with knowledge of markdown and maybe some basic statistics
   - You can contribute to CI/CD issues or Python issues with basic knowledge of programming
   - You can contribute to core codebase with knowledge of Python + Bayesian Statistics
   - Note: {ref}`Check the event cheat sheet <decision_tree>` to know a suitable area of contribution and some resources to prepare you for it
+:::
 
 ## Target Audience
 The following table answers the question **"This sprint is for someone who is/has ..."**
