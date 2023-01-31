@@ -34,7 +34,7 @@ The session will consist of small resolvable issues and contributing to the PyMC
 Requirements depend on the contribution you are aiming for, the only common requirements are internet access and a laptop!
 
 ### Timestamps/transcripts
-* Github account
+* GitHub account
 * Basic git
 
 ### Code and Documentation
