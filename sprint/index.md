@@ -55,7 +55,7 @@ That would be for example working on the glossary or adding references to docstr
 ### Translations
 * [Transifex](https://www.transifex.com) account
 * English + (Spanish or Portuguese)
-
+* GitHub account (optional, for account authentication)
 :::{tip}
 Other than these types of contributions, you can make different kinds of contributions with different skill sets, for example:
   - You can contribute to documentation with knowledge of markdown and maybe some basic statistics
