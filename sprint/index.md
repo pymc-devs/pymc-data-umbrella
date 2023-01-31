@@ -47,7 +47,7 @@ Note: a small subset of doc contributions only requires a subset of these requir
 ### Documentation contributions (non-code dependent)
 That would be for example working on the glossary or adding references to docstrings.
 
-* Github account
+* GitHub account
 * Basic git
 * Markdown/rst
 * Raw text editor
