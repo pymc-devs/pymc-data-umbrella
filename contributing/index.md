@@ -71,8 +71,7 @@ There are social media links and text available in our {ref}`media_kit` with inf
 
 ## Translating content: volunteers needed 🙌
 
-:::{note}
-We first need to set up the translation infrastructure with sphinx. If you know how to do it or are interested in translating, please reach out.
+We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese: {ref}`translations`
 
-In the meantime, if you would to volunteer for translations, please add your information to [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99) on GitHub. We will be in touch when we are ready to move forward on this project.
-:::
+If you are interested in translating to another language, please open up an [issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) with any suggestions.
+
