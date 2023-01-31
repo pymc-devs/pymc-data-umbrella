@@ -38,7 +38,7 @@ Requirements depend on the contribution you are aiming for, the only common requ
 * Basic git
 
 ### Code and Documentation
-Note: a small subset of doc contributions only requires a subset of these requirements, see below if interested.
+Note: a small subset of documentation contributions only requires a subset of these requirements, see below if interested.
 
 * Github account
 * Python/conda environment setup
