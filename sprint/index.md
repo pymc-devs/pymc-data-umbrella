@@ -40,7 +40,7 @@ Requirements depend on the contribution you are aiming for, the only common requ
 ### Code and Documentation
 Note: a small subset of documentation contributions only requires a subset of these requirements, see below if interested.
 
-* Github account
+* GitHub account
 * Python/conda environment setup
 * Basic working knowledge of terminal and git
 
