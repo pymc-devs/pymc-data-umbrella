@@ -49,7 +49,7 @@ That would be for example working on the glossary or adding references to docstr
 
 * GitHub account
 * Basic git
-* Markdown/rst
+* Markdown / reStructuredText (RST)
 * Raw text editor
 
 ### Translations
