@@ -71,7 +71,7 @@ There are social media links and text available in our {ref}`media_kit` with inf
 
 ## Language translations
 
-We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese: {ref}`translations`
+We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese. For more detailed instructions on how you can submit translations, see {ref}`translations`.
 
 If you are interested in translating to another language, please open up an [issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) with any suggestions.
 
