@@ -30,7 +30,7 @@ Note: You can use your GitHub account to authenticate and log in to Transifex.
 There is a GitHub Actions that is configured on this repository, which turns a translation into a pull request whih is submitted to the repository. [PR #166](https://github.com/pymc-devs/pymc-data-umbrella/pull/166/files) is an example pull request. 
 :::
 
-## Translating content: volunteers needed 🙌
+## Translating content: volunteers needed
 
 :::{note}
 If you would to volunteer for translations, please select a page on [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99) on GitHub and indicate which page you will translate. A comment can be added to the issue.  This will let other contributors know so that work is not duplicated.
