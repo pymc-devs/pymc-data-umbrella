@@ -31,7 +31,7 @@ There is GitHub Actions that is configured on this repository, which turns a tra
 
 ## Translating content: volunteers needed
 
-If you would like to volunteer for translations, please select a page on [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99) on GitHub and indicate which page you will translate. A comment can be added to the issue.  This will let other contributors know so that work is not duplicated.
+If you would like to volunteer for translations, please select a page.  We have included a list of priority pages to translate on [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99). 
 
 ## Thank you 🙌
 
