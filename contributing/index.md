@@ -6,17 +6,19 @@
 :hidden:
 
 self
+videos
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
 donate
 ../2022-07_sprint/sprint_parties/media_kit
+language-translations
 :::
 
 ## Help us improve this website
 
 If you find any errors or have any suggestions, please let us know! You can either [report an issue](https://github.com/pymc-devs/pymc-data-umbrella/issues/new) or send us a pull request.
 
-1. Click in the GitHub icon in the top right corner of the page to visit the page repo.
+1. Click on the GitHub icon in the top right corner of the page to visit the page repo.
 
 2. Fork and clone the repository.
 
@@ -68,10 +70,8 @@ There are social media links and text available in our {ref}`media_kit` with inf
   to avoid "tutorials" as it can be confusing with the content of the documentation webinar.
   If you need some alternative to "webinar" consider using "event" or "workshop" before for example.
 
-## Translating content: volunteers needed 🙌
+## Language translations
 
-:::{note}
-We first need to set up the translation infrastructure with sphinx. If you know how to do it or are interested in translating, please reach out.
+We are translating the website from English to other languages. The first couple of languages we are focusing on are Spanish and Portuguese. For more detailed instructions on how you can submit translations, see {ref}`translations`.
 
-In the meantime, if you would to volunteer for translations, please add your information to [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99) on GitHub. We will be in touch when we are ready to move forward on this project.
-:::
+If you are interested in translating to another language, please open up an [issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) with any suggestions.
