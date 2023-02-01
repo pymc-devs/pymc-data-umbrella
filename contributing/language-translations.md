@@ -2,7 +2,7 @@
 # Language Translations
 
 ## Requirements
-- GitHub account
+- Transifex account (or GitHub one to log in with it) 
 - Knowledge of English
 - Knowledge of Spanish or Portuguese
 
