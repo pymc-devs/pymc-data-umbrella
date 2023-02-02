@@ -16,7 +16,7 @@ jobs:
       - name: Pull from transifex
         run: |
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
-          ./tx --token ${{ secrets.TX_TOKEN }} pull --all --use-git-timestamps
+          ./tx --token ${{ secrets.TX_TOKEN }} pull --all --use-git-timestamps --mode reviewed
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
