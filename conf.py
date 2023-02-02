@@ -104,6 +104,7 @@ html_theme_options = {
         "name": "Data Umbrella", "url": "https://www.dataumbrella.org"
     },
     ],
+    "header_links_before_dropdown": 6,
     "show_toc_level": 2,
     "icon_links": [
         {
