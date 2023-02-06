@@ -3,13 +3,18 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jose Rafael Camejo, 2023
+# Juliana Almeida, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Juliana Almeida, 2023\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,53 +22,53 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../2022-02_sprint/organizers/index.md:2 dd378ea0958b458d9cad082a250e1375
+#: ../2022-02_sprint/organizers/index.md:2 b744b05178684f709d347a106fe4fa00
 msgid "About"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:5 61a7edc1b4d54ac6b3dd11649177f93a
+#: ../2022-02_sprint/organizers/index.md:5 05c286d6a83f4fa79641d8b282710560
 msgid ""
 "Wondering if the sprint is for you? We have got just the page: "
 "{ref}`decision_tree`"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:9 9b2b2779462d4943a11a19335a07c89e
+#: ../2022-02_sprint/organizers/index.md:9 3e2f1fc032ba43f7bb94c051d3e5d8f2
 msgid "Organizers"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:14 2a01b49352aa414ba42d8f59cb5c6efa
+#: ../2022-02_sprint/organizers/index.md:14 02d0c6818980412c9cce0775336ede2a
 msgid "Meenal Jhajharia"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:22 4f2130b368d949279e1325b1bd811699
+#: ../2022-02_sprint/organizers/index.md:22 9bc9edb60d5d4dafa3afc4e59f460bec
 msgid "Meenal  Jhajharia"
 msgstr ""
 
 #: ../2022-02_sprint/organizers/index.md:24
-#: ../2022-02_sprint/organizers/index.md:32 903bccfb43f84622a72bb928b65d1e51
-#: 19df7b4070f840c5b32283f9102dcb36
+#: ../2022-02_sprint/organizers/index.md:32 a00e7f20891b4a75913b87acd47132ff
+#: a90754fd652046b1b4dc1c36ab512da2
 msgid "Reshama Shaikh"
 msgstr ""
 
 #: ../2022-02_sprint/organizers/index.md:34
-#: ../2022-02_sprint/organizers/index.md:42 a1fc25f9b4c940349b67e70bb072e2f5
-#: 3a4be3afc50e4dae904e803b8898ae53
+#: ../2022-02_sprint/organizers/index.md:42 09f7801ccfea4c8095c05189037e0586
+#: 84aa5e38aac84c11b84e16c3cff7ff4d
 msgid "Beryl Kanali"
 msgstr ""
 
 #: ../2022-02_sprint/organizers/index.md:44
-#: ../2022-02_sprint/organizers/index.md:52 326b97d199514af3ac16cfc15e79c83c
-#: d26779ea9ece407281181c53cb68421e
+#: ../2022-02_sprint/organizers/index.md:52 86af399c619e4e88af3135f6e9673521
+#: 13b3c5b731784335917203774dc5e7e9
 msgid "Sandy Weng"
 msgstr ""
 
 #: ../2022-02_sprint/organizers/index.md:54
-#: ../2022-02_sprint/organizers/index.md:62 bbfef7e4ea2a446fa128c70dc7ede60c
-#: a4d2d09085154a9aa3cabce242fd8029
+#: ../2022-02_sprint/organizers/index.md:62 b78464142ba74de7a0ef67fca99800d7
+#: e81a8bce0c8543b295ff9f3d6d82c0d0
 msgid "Oriol Abril Pla"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:66 7bd1a8321b1d40a5b27ef897b280027a
+#: ../2022-02_sprint/organizers/index.md:66 a25432dce42f4a0881d672edd1b26111
 msgid ""
 "Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), "
 "[Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo "
@@ -74,11 +79,11 @@ msgid ""
 "[NUMFOCUS](https://numfocus.org) for their support."
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:68 c05a45cd8fea479b9139c5c7db609669
+#: ../2022-02_sprint/organizers/index.md:68 3f5a6947551d4e279c40daa490dfe855
 msgid "About PyMC and Data Umbrella"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:70 4646d56abb744cf783605be9878cf8a6
+#: ../2022-02_sprint/organizers/index.md:70 7ac694a41b604f7f844e7a3e6d5991c4
 msgid ""
 "[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
 "underrepresented persons in data science. It is a fiscally hosted project of"
@@ -88,7 +93,7 @@ msgid ""
 "practices. All levels are welcome, beginners and experts."
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:72 0fc8ff4ace1f42f1814c7807bd5af1ec
+#: ../2022-02_sprint/organizers/index.md:72 9521746764bb441aade6e04b60b260e5
 msgid ""
 "[PyMC](https://docs.pymc.io/en/latest/about.html) is a probabilistic "
 "programming package for Python that allows users to fit Bayesian models "
@@ -98,11 +103,11 @@ msgid ""
 "project under NumFOCUS."
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:74 b0895349b5ba478db976ae52b8bea701
+#: ../2022-02_sprint/organizers/index.md:74 b8d806cd761a4e2f81f7547b83f78c32
 msgid "Banner code and credit"
 msgstr ""
 
-#: ../2022-02_sprint/organizers/index.md:75 f93d92c586844ae19b3185553e0086d7
+#: ../2022-02_sprint/organizers/index.md:75 d6fffb7f60334370b68ed757e407da46
 msgid ""
 "This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
 "umbrella/main/banner.png) is generated from [this "

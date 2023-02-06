@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,79 +21,79 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/prep-work.md:1 b987e9a99a5b4e89a042e9267e3c0b3a
+#: ../sprint/prep-work.md:1 557dafe82b0b406fb367ef1ed04faa9b
 msgid "Event preparation"
 msgstr "Preparación del evento"
 
-#: ../sprint/prep-work.md:12 715019d630b54dc48352c5e28999b0b5
+#: ../sprint/prep-work.md:12 38b1f2143e49425fb2fa34a23fe80e6a
 msgid "Checklist"
 msgstr "Lista de verificación"
 
-#: ../sprint/prep-work.md:19 ca323cc36727481f9f3a4a393d064d5e
+#: ../sprint/prep-work.md:19 ce815d6a106545d89967d1f44ecf2815
 msgid "*#*"
 msgstr "*#*"
 
-#: ../sprint/prep-work.md:20 22f0ad719a8441549e11b707984d1bcf
+#: ../sprint/prep-work.md:20 35ddc628340b496cb698bf8211710cd0
 msgid "Task"
 msgstr "Tarea"
 
-#: ../sprint/prep-work.md:21 8d42f190ae3440dead36502e4a7e238a
+#: ../sprint/prep-work.md:21 f4c4727e80a64ddaac3f3244f94883dc
 msgid "Status"
 msgstr "Estado"
 
-#: ../sprint/prep-work.md:22 6c1fd0d19b774cf98fe203501f58455f
+#: ../sprint/prep-work.md:22 10f565d9bddf49cda3c8f69e548b2084
 msgid "Notes"
 msgstr "Notas"
 
-#: ../sprint/prep-work.md:23 69c85f6bde1b4b9480f61de43aee74fc
+#: ../sprint/prep-work.md:23 b3d9690afe104657a335476fef5f71bb
 msgid "1"
 msgstr "1"
 
-#: ../sprint/prep-work.md:24 549392008c2e4978873a78f43d9fa360
+#: ../sprint/prep-work.md:24 7db7430c8a01482598cc42dd9b5b5258
 msgid "Do I have a GitHub account?"
 msgstr "¿Tengo una cuenta de GitHub?"
 
 #: ../sprint/prep-work.md:25 ../sprint/prep-work.md:29
 #: ../sprint/prep-work.md:33 ../sprint/prep-work.md:37
-#: ../sprint/prep-work.md:41 5d35657c81534f2da0667acdd083f191
-#: 1ed60c47c92c49d09c2021f5a2160b1c 1bbf4725180945a88542dc3f9c03195d
-#: 52b2bac3b47d4588b54b899da377d7d4 e1cbf789da8f41aa8bf776af1929c827
+#: ../sprint/prep-work.md:41 33b023e3a9cc4b9f898457e92cee10a4
+#: 987e0acfc77046cea438181910d3449d 484bba810ca7465aa7f45a558bb2b5e6
+#: 21ae42140910415486a79d7393da198b 04f3cd02f142467999b7eb57e83756c6
 msgid "{fas}`check;sd-text-success`"
 msgstr "{fas}`check;sd-text-success`"
 
-#: ../sprint/prep-work.md:27 1a4db99b7f3f49c89b9b37bdcec41402
+#: ../sprint/prep-work.md:27 24037573a5d84b24b027dd0424ef2218
 msgid "2"
 msgstr "2"
 
-#: ../sprint/prep-work.md:28 ee92f8c0c5394029a358e43a4ab9f815
+#: ../sprint/prep-work.md:28 6a79437914254d298254deb577708f23
 msgid "Did I Install Git?"
 msgstr "¿Instalé Git?"
 
-#: ../sprint/prep-work.md:31 22d965cd0c284a969ae89815dcfda395
+#: ../sprint/prep-work.md:31 2e3a261c32714bfba1e70f14372c7d0b
 msgid "3"
 msgstr "3"
 
-#: ../sprint/prep-work.md:32 14080a76fa014f9cb79a341d699672bc
+#: ../sprint/prep-work.md:32 ea2fde6202304850a12162eb124f16b3
 msgid "Did I Install Conda?"
 msgstr "¿Instalé Conda?"
 
-#: ../sprint/prep-work.md:35 d7ac4ebbf8af4e9cbc0dbda11fa8535f
+#: ../sprint/prep-work.md:35 685cd89179204e2d9d46014b8dedbfac
 msgid "4"
 msgstr "4"
 
-#: ../sprint/prep-work.md:36 4569a793694d4cb8bf15603dba0cfe10
+#: ../sprint/prep-work.md:36 01614652abd641f2a834267395b51abe
 msgid "Do I have a Text Editor?"
 msgstr "¿Tengo un editor de texto?"
 
-#: ../sprint/prep-work.md:39 36dd82035eb6405797219bf50d3891bb
+#: ../sprint/prep-work.md:39 963d98aa17e14d0e893316265d297d74
 msgid "5"
 msgstr "5"
 
-#: ../sprint/prep-work.md:40 94574d681178487c817ee48e06f1135e
+#: ../sprint/prep-work.md:40 7999fba4afa9499c89046787ed1865fc
 msgid "Did I fork the PyMC repo?"
 msgstr "¿Hice una bifurcación (fork) del repositorio de PyMC?"
 
-#: ../sprint/prep-work.md:45 3c449746420d4ed4a278dc5c206ad9fe
+#: ../sprint/prep-work.md:45 ed38d9cd986b41f5b1d8cb9fc54ff7cf
 msgid ""
 "If you need help with any of the previous steps, you will find clear "
 "instructions in the {ref}`Environment Setup <environment_setup>` section."
@@ -102,11 +102,11 @@ msgstr ""
 "instrucciones detalladas en la sección {ref}`Configuración del entorno  "
 "<environment_setup>`."
 
-#: ../sprint/prep-work.md:47 e9bffe50ce674708be5a9c10be5a8fa7
+#: ../sprint/prep-work.md:47 599aa56fc71740eca82374fd7f2f6158
 msgid "Session day"
 msgstr "Día de la sesión"
 
-#: ../sprint/prep-work.md:52 630ad2e7ff004875b2e939ba2c05135f
+#: ../sprint/prep-work.md:52 c63d9281df814eb495e3bafbe8a46165
 msgid ""
 "To communicate during the session, we will be using Discord. The [Using the "
 "Discord Server](https://youtu.be/w2A8SknM-68) introduction video contains a "
@@ -118,15 +118,15 @@ msgstr ""
 "introducción al servidor Discord de Data Umbrella con algunos consejos sobre"
 " cómo navegar por la aplicación."
 
-#: ../sprint/prep-work.md:55 8e8861c6180b49b28c8b61040e4b39a4
+#: ../sprint/prep-work.md:55 8e3425951cfa4d24bb47dfd1693e48b4
 msgid "Pair programming"
 msgstr "Programación en pareja"
 
-#: ../sprint/prep-work.md:57 5fc07c076e3b48c2a9ae256303feaafd
+#: ../sprint/prep-work.md:57 1fc2d2f5013c4de0ae093d2aef3f8854
 msgid "Live Share"
 msgstr "Live Share"
 
-#: ../sprint/prep-work.md:59 156be7e9485d4827bcf606ed4f2ba0c1
+#: ../sprint/prep-work.md:59 c7e27382da5346019556f3c71324f956
 msgid ""
 "Live Share is an extension from Visual Studio Code that allows you to "
 "collaboratively edit and debug with others in real-time. It allows you to "

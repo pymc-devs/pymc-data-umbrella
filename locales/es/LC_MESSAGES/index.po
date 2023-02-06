@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 15:59+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -46,11 +46,11 @@ msgstr "Información del evento"
 msgid "Contribute"
 msgstr "Contribuir"
 
-#: ../index.md:2 3227097361e84ad7858aad4e30492a24
+#: ../index.md:2 429c4ef0f7694b84959df368d0ae8790
 msgid "PyMC - Data Umbrella Events"
 msgstr "Eventos PyMC - Data Umbrella"
 
-#: ../index.md:4 35e415fca22a4131a23587889c20a5de
+#: ../index.md:4 d7845d9490f04f2d82dd89ecb118cbcb
 msgid ""
 "DO NOT EDIT! This is only a placeholder to define the nabvar and is deleted "
 "to redirect the homepage to the current sprint schedule."

@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Alberto Mario Ceballos-Arroyo, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,20 +23,20 @@ msgstr ""
 
 #: ../about/probabilistic_programming_with_pymc/index.md:33
 msgid "Webinar notebook"
-msgstr ""
+msgstr "Cuaderno del webinar"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:2
-#: 3a79a99c7ef945a980813ce53e093fe1
+#: 39f3b5af8ce74835bd3134732c29b402
 msgid "Introduction to Probabilistic Programming with PyMC"
-msgstr ""
+msgstr "Introducción a la programación probabilística con PyMC"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:4
-#: 9c76a82d18194a0e80b9a4413cc62a34
+#: 5665b7587f9348a68ad4a5f3e859e3eb
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:5
-#: 6b648f5ec7a6496a917e0f0efd9a6044
+#: a058af15e26041d6ad406aaa921607af
 msgid ""
 "In the last ten years, there have been a number of advancements in the study"
 " of Hamiltonian Monte Carlo and variational inference algorithms that have "
@@ -46,50 +50,70 @@ msgid ""
 "probabilistic programming makes Bayesian inference algorithms near the "
 "frontier of academic research accessible to a wide audience."
 msgstr ""
+"Durante los últimos 10 años, se han dado un número de avances en el estudio "
+"del Monte Carlo Hamiltoniano y de los algoritmos de inferencia variacional, "
+"los cuales han hecho posible la computación estadística Bayesiana de forma "
+"efectiva para modelos mucho más complicados que lo que era posible "
+"anteriormente. Estos avances algorítmicos han estado acompañados de paqutes "
+"de programación probabilística de código abierto que los hacen accesibles "
+"para las comunidades de ingeniería, estadística y ciencia de datos. PyMC es "
+"uno de esos paquetes, está escrito en Python y es patrocnado por NumFOCUS. "
+"En esta charla se dará una introducción a la programación probabilística con"
+" PyMC, con énfasis particular en cómo la programación probabilística de "
+"código abierto hace que los algoritmos Bayesianos que están en la frontera "
+"de la investigación académica sean accesibles para una audiencia más amplia."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:7
-#: fa1b9acb7b73441bab5ccf1e8e1345d7
+#: c82a1c937141494ea8490c5929d0a43b
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:9
-#: f914302a3f9f4da09b5fa1ab92559db3
+#: 7336c65f07594869885306526e1b4205
 msgid ""
 "Audience: People who are interested in PyMC, Probabilistic Programming or "
 "Bayesian Statistics"
 msgstr ""
+"Audiencia: personas interesadas en PyMC, en la programación probabilística o"
+" en la estadística Bayesiana"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:10
-#: 79a1471e93cf40e0bd496b66060b9529
+#: e1cdaceab007475c86cf5d1cb66a926f
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
 msgstr ""
+"[Repositorio de GitHub](https://github.com/pymc-devs/pymc-data-umbrella)"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:11
-#: 2ec45b3323fc4cdc879c890ce85c3e18
+#: 3911d871715a4fe3ba84164a750d3912
 msgid ""
 "All the content is available on this website, and you can run the code from "
 "the website to follow along with the webinar."
 msgstr ""
+"Todo el contenido está disponible en este sitio web y puedes ejecutar el "
+"código desde el sitio web mientras sigues el webinar."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:15
-#: a8cd068868d5455e990fedf01227832c
+#: b3588bf1f31345e7958ae1c864db639b
 msgid "Go to the webinar notebook!"
-msgstr ""
+msgstr "¡Ve al notebook del webinar!"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:23
-#: e4cd08db972443188ec268b5a383b58f
+#: 99a9813cd48e4b619b2bd953ac98f490
 msgid "Speaker"
-msgstr ""
+msgstr "Ponente"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:25
-#: 57ee3f39cdb84eaa8aa10d113003d01f
+#: 69dd09dbde974af89e3905dbd23c3ca3
 msgid ""
 "Austin Rochford is the Chief Data Scientist at Kibo Commerce. He is a "
 "recovering mathematician and is passionate about math education, Bayesian "
 "statistics, and machine learning."
 msgstr ""
+"Austin Rochford es el Científico Dato Jefe en Kibo Commerce. Es un "
+"matemático en recuperación y le apasionan la educación en matemáticas, la "
+"estadística Bayesiana y el aprendizaje automático."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:28
-#: a300dcfb5f574a98be7b861527201eac
+#: 07226ebf3eab4482add41c83824b104f
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
