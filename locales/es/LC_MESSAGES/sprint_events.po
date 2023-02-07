@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint_events.md:1 2c37cdfd70b24e8c8ab69f8409cdb68b
+#: ../sprint_events.md:1 e8b9ed60acc34090a0f02978def1271b
 msgid "Log of events"
 msgstr "Bitácora de eventos"
 
-#: ../sprint_events.md:3 250ec2338590488ba7f27a036fa9dbe8
+#: ../sprint_events.md:3 ce17bdf9a9da42d9b6adfaaa57d3d9a6
 msgid ""
 "The content for all sprint events organized by PyMC and Data Umbrella is "
 "available here:"

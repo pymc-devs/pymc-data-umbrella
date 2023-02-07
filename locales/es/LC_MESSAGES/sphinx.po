@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../_templates/cheatsheet.html:2 8e1667c360174099852c4e4bfc5e306c
+#: ../_templates/cheatsheet.html:2 7e24f79f90974237ab2c217602bd12ba
 msgid ""
 " <a href=\"%(path)s\"><i class=\"far fa-file-alt\"></i> Sprint cheat "
 "sheet</a>."
@@ -29,6 +29,6 @@ msgstr ""
 " <a href=\"%(path)s\"><i class=\"far fa-file-alt\"></i> Hoja de referencia "
 "del evento</a>."
 
-#: ../_templates/coc_notice.html:2 4229780effb14aecb7bdacb266db8420
+#: ../_templates/coc_notice.html:2 08b7bed0642f4e7c8c4954a30c5a52ff
 msgid " <a href=\"%(path)s\">Code of Conduct</a>."
 msgstr " <a href=\"%(path)s\">Código de Conducta</a>."

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/faq.md:1 03e59139232048b287f53b1abc8150bc
+#: ../sprint/faq.md:1 c08a459c63c846fc8149a15f38010420
 msgid "Frequently Asked Questions"
 msgstr "Preguntas más comunes"
 
-#: ../sprint/faq.md:3 a9b68378ccf046ab933b4b819aec186a
+#: ../sprint/faq.md:3 e75420b9ec184557af4d8e8bc71baaef
 msgid ""
 "Do I need to be a PyMC user to participate in the open source working "
 "session?"
@@ -33,7 +33,7 @@ msgstr ""
 "¿Necesito ser un usuario de PyMC para participara en la sesión de trabajo de"
 " código abierto? "
 
-#: ../sprint/faq.md:5 85ce762f06de448caf41c3739a454925
+#: ../sprint/faq.md:5 a914287cb7b747baa8cd7f8a50479262
 msgid ""
 "**Response:**  It is not necessary to be a PyMC user to contribute to this "
 "open source project. There are a number of issues where we could use your "
@@ -43,11 +43,11 @@ msgstr ""
 "proyecto de código abierto. Hay una serie de temas en las que su "
 "contribución sería de gran ayuda. Ejemplos:"
 
-#: ../sprint/faq.md:6 196493ecdcc54cb88d776a37559e9b70
+#: ../sprint/faq.md:6 97a93b86b6fb4bc0b4a01cd51f2a3265
 msgid "Adding timestamps to videos from our PyMCon conference"
 msgstr "Agregar timestamps a videos de nuestra conferencia PyMCon"
 
-#: ../sprint/faq.md:7 232bf26b720d459492bfb178ff571d6a
+#: ../sprint/faq.md:7 3cd40926b2e647faa201acbc6babd323
 msgid ""
 "Updating docstrings in documentation. We have a webinar: {ref}`example_pr`; "
 "with explanation, background and examples on how to do it."
@@ -56,7 +56,7 @@ msgstr ""
 "{ref}`example_pr`; con explicación detallada, contexto y ejemplos de como "
 "hacerlo."
 
-#: ../sprint/faq.md:8 2a6986f9d59e4b9d9e588925f7096a57
+#: ../sprint/faq.md:8 05df2d6b4451490d83f4c944450a8d5c
 msgid ""
 "Updating the style and formatting of {doc}`example notebooks <nb:gallery>`. "
 "We have a webinar: {ref}`contributing_docs`; with explanation, background "
@@ -66,11 +66,11 @@ msgstr ""
 "Tenemos un seminario web {ref}`contributing_docs`; con explicación "
 "detallada, contexto y ejemplos de como hacerlo.."
 
-#: ../sprint/faq.md:10 61f9d4fbf1584492804d468781b90fee
+#: ../sprint/faq.md:10 f70251c9cb954ef7a50c21b21df88a72
 msgid "Are we required to attend all the sessions in order to sign up?"
 msgstr "¿Es requisito atender todas las sesiones para registrarse?"
 
-#: ../sprint/faq.md:12 d3160bc624ba4fb4a188313fc2e4f7c8
+#: ../sprint/faq.md:12 442e6075969f4c8dbe0525e05adf2922
 msgid ""
 "**Response:** It is *not required* to attend all the sessions. Ideally, it "
 "is beneficial if folks can attend as many sessions as they can, to build up "
@@ -83,11 +83,11 @@ msgstr ""
 "familiarizarse con el proyecto PyMC. Algunas sesiones pueden ser más "
 "convenientes para su zona horaria."
 
-#: ../sprint/faq.md:14 25671b8faca240d2895d7594477b06fb
+#: ../sprint/faq.md:14 72b56dd0e1b64452af967cecb6c2cf11
 msgid "Is there a requirement to have attended #1 of the working session?"
 msgstr "¿Es requisito haber asistido a la #1 de la sesión de trabajo?"
 
-#: ../sprint/faq.md:16 70d4e520c6a5429e9e26b117ae652c77
+#: ../sprint/faq.md:16 28c5b4eaf6d84e3b885b445e77775a29
 msgid ""
 "**Response:** The Pre-event office hours are an opportunity for incoming "
 "contributors to ask questions for the upcoming working sessions.  It is *not"
@@ -103,7 +103,7 @@ msgstr ""
 "gente puede asistir a tantas sesiones como sea posible, para desarrollar sus"
 " habilidades de código abierto y familiarizarse con el proyecto PyMC."
 
-#: ../sprint/faq.md:18 0320b4f697a04d10b75333bf13d71ac6
+#: ../sprint/faq.md:18 24cd228525bb40298d4c2008a66a63bf
 msgid ""
 "If you are unable to attend the Pre-event office hours, you can ask your "
 "questions in one of these ways:"
@@ -111,7 +111,7 @@ msgstr ""
 "Si no puede asistir al horario de tutoría previo al evento, puede hacer sus "
 "preguntas en los siguientes medios:"
 
-#: ../sprint/faq.md:19 6a39ba26b73941eeac2caa0f08922d95
+#: ../sprint/faq.md:19 5d8888d6f4b0450ba493be7bb9163e25
 msgid ""
 "On [PyMC Discourse](https://discourse.pymc.io/new-"
 "topic?category=Questions/v4&tags=open-source-working-sessions)"
@@ -119,7 +119,7 @@ msgstr ""
 "En el [Discourse de PyMC](https://discourse.pymc.io/new-"
 "topic?category=Questions/v4&tags=open-source-working-sessions)"
 
-#: ../sprint/faq.md:20 f04060bb07304973b5d6359d44cd5375
+#: ../sprint/faq.md:20 21f39b880db6406ba2aeac6703110932
 msgid "Email us at:  [info@dataumbrella.org](mailto:info@dataumbrella.org)"
 msgstr ""
 "Envíanos un correo a:  [info@dataumbrella.org](mailto:info@dataumbrella.org)"

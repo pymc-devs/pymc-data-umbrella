@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Cristián Maureira-Fredes, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,15 +21,15 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/contributing_to_pymc/index.md:2 f375ade7e9ab46a2950d4c57d719294d
+#: ../about/contributing_to_pymc/index.md:2 5012db61f3524d0989319ac1110eeebd
 msgid "Contributing to PyMC"
-msgstr ""
+msgstr "Contribuyendo a PyMC"
 
-#: ../about/contributing_to_pymc/index.md:4 faba180243c346369dab1b01e95947df
+#: ../about/contributing_to_pymc/index.md:4 6e9fe32e31114ef7a18d9a350e0d02d8
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
-#: ../about/contributing_to_pymc/index.md:5 f39f27db06db4e5090aec4a5048caa1d
+#: ../about/contributing_to_pymc/index.md:5 1c0832c6f8cc4baca66c454bde3e7726
 msgid ""
 "From first time contributor to project maintainer. What is it like? In this "
 "testimonial, Ricardo Vieira revisits the steps of his first ever "
@@ -35,36 +39,48 @@ msgid ""
 "contributions without taking any of the magic out of them! This presentation"
 " was described as \"inspiring and authentic\"."
 msgstr ""
+"De persona que colabora por primera vez a mantener el proyecto. ¿A qué se "
+"parece? En este testimonio, Ricardo Vieira recorre los pasos de sus primeras"
+" contribuciones software de código abierto, a la biblioteca PyMC. Luego "
+"salta un año al presente y muestra cómo es revisar la contribución de otra "
+"persona por primera vez. Con suerte, esto ayudará a desmitificar las "
+"contribuciones de código abierto sin quitarles nada de magia. Esta "
+"presentación fue descrita como \"inspiradora y auténtica\"."
 
-#: ../about/contributing_to_pymc/index.md:7 01fb7a15dda844aa9f9950b5027716ce
+#: ../about/contributing_to_pymc/index.md:7 a40edad78e97416b9fde905c91f37d22
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
-#: ../about/contributing_to_pymc/index.md:9 0bd99b58d891460681f2c290c8353939
+#: ../about/contributing_to_pymc/index.md:9 74076eb92fc640a69f6e4e51cfd6d840
 msgid "Audience: People who are interested in contributing to Open source"
-msgstr ""
+msgstr "Audiencia: personas interesadas en contribuir al código abierto"
 
-#: ../about/contributing_to_pymc/index.md:10 86b23dceca854a02a8f4fb5e6893f655
+#: ../about/contributing_to_pymc/index.md:10 badbced95664498685cefdd3791812ae
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
-msgstr ""
+msgstr "[Repositorio Github](https://github.com/pymc-devs/pymc-data-umbrella)"
 
-#: ../about/contributing_to_pymc/index.md:11 36579e288f52429b94a2dd7b569ca4c2
+#: ../about/contributing_to_pymc/index.md:11 a367060ca11c467095de8d3aef2bac4e
 msgid ""
 "[Slides](https://pymc-data-"
 "umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 msgstr ""
+"[Diapositivas](https://pymc-data-"
+"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 
-#: ../about/contributing_to_pymc/index.md:13 256ba07be64848d98eadb5d52d638701
+#: ../about/contributing_to_pymc/index.md:13 122516d86f624c0f846560471e4e9062
 msgid "Speaker"
-msgstr ""
+msgstr "Ponente"
 
-#: ../about/contributing_to_pymc/index.md:14 ce95f4767b89483aa565d8fe33bd7d6b
+#: ../about/contributing_to_pymc/index.md:14 59488ef587f24362a0320dba56525098
 msgid ""
 "Ricardo Vieira is a PyMC developer and data scientist at PyMC Labs. He spent"
 " several years teaching himself Statistics and Computer Science at the "
 "expense of his official degrees in Psychology and Neuroscience."
 msgstr ""
+"Ricardo Vieira es desarrollador de PyMC y científico de datos en PyMC Labs. "
+"Dedicó varios años a la formación autodidacta de Estadística e Informática "
+"en detrimento de sus títulos oficiales de Psicología y Neurociencias."
 
-#: ../about/contributing_to_pymc/index.md:16 25e301fe2bb24d08980bb332c94e3467
+#: ../about/contributing_to_pymc/index.md:16 ce55dc9ecd324ce2874cd7f3e916f0fa
 msgid "Video"
-msgstr ""
+msgstr "Video"

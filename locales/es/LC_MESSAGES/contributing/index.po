@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Alberto Mario Ceballos-Arroyo, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,113 +21,143 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../contributing/index.md:2 f7915b63a3934524bede23acdf67042f
+#: ../contributing/index.md:2 22cf56ea9fad4ae690ae8728883b2da0
 msgid "Contribute to the events"
-msgstr ""
+msgstr "Contribuir a los eventos"
 
-#: ../contributing/index.md:15 7955f3d058b74168b6b3a079ba670525
+#: ../contributing/index.md:17 74e9a8a1576f4b76a0a80a7973589ba5
 msgid "Help us improve this website"
-msgstr ""
+msgstr "Ayúdanos a mejorar este sitio web"
 
-#: ../contributing/index.md:17 97bdb3c71a324b59933c57418f69780f
+#: ../contributing/index.md:19 e66363edd55e4bcabfaddad7e2a8f08f
 msgid ""
 "If you find any errors or have any suggestions, please let us know! You can "
 "either [report an issue](https://github.com/pymc-devs/pymc-data-"
 "umbrella/issues/new) or send us a pull request."
 msgstr ""
+"Si encuentras errores o tienes alguna sugerencia, por favor haznoslo saber. "
+"Puedes [reportar un problema](https://github.com/pymc-devs/pymc-data-"
+"umbrella/issues/new) o enviarnos un pull request."
 
-#: ../contributing/index.md:19 7b8a7d418553405bb23ecf0d1f0913be
+#: ../contributing/index.md:21 edb735d6ca4a41008e62c3d0b8987934
 msgid ""
-"Click in the GitHub icon in the top right corner of the page to visit the "
+"Click on the GitHub icon in the top right corner of the page to visit the "
 "page repo."
 msgstr ""
+"Haz clic en el ícono de GitHub en la esquina superior derecha de la página "
+"para visitar el repositorio del sitio web."
 
-#: ../contributing/index.md:21 3e8ed4aa03d6490687509c84c37bbe77
+#: ../contributing/index.md:23 aa84fdbddc2149d5aec14b6c58147a4a
 msgid "Fork and clone the repository."
-msgstr ""
+msgstr "Haz un fork y clona el repositorio."
 
-#: ../contributing/index.md:23 190d0d5f40bc49ecb70ebe1a904ba964
+#: ../contributing/index.md:25 49acd82b13494585afd7c0918ab5604c
 msgid "Install the requirements."
-msgstr ""
+msgstr "Instala los paquetes requeridos."
 
-#: ../contributing/index.md:29 3eda409a5feb49e1a167ae95d6e08893
+#: ../contributing/index.md:31 9d1f9c5c78b24ccdb4b7c8a28ea6afd1
 msgid "Build the docs locally."
-msgstr ""
+msgstr "Genera la documentación localmente."
 
-#: ../contributing/index.md:35 cae0ec55d4074aed8587b3bdcc81ad90
+#: ../contributing/index.md:37 91046bce7f8547f2b3912317b5db9973
 msgid "Make your changes to the documentation."
-msgstr ""
+msgstr "Haz cambios a la documentación."
 
-#: ../contributing/index.md:37 028bbb2038344a0fa4d0b77ce33fbfed
+#: ../contributing/index.md:39 d835648fe14b46618469ea8cab8e6bec
 msgid "Create your pull request."
-msgstr ""
+msgstr "Crea tu pull request."
 
-#: ../contributing/index.md:40 f951a3dfafd04e50bd3351d740c653cf
+#: ../contributing/index.md:42 f4a9a40cd91d4bea89a2677cebbaeee6
 msgid ""
 "You can use as reference the {ref}`PR Tutorial <pr_tutorial>` which explains"
 " how you can do a PR to PyMC."
 msgstr ""
+"Puedes utilizar como referencia el {ref}`Tutorial de PR<pr_tutorial>` , que "
+"explica cómo hacer un PR para PyMC."
 
-#: ../contributing/index.md:43 8b98985ca9434b95a46f100e3308f3c2
+#: ../contributing/index.md:45 8abbfdf5690a47a9b4dbd85b6b71ceb7
 msgid "Spread the word"
-msgstr ""
+msgstr "Difundir"
 
-#: ../contributing/index.md:45 4ce05576987f4c94bd53ce4848dced9a
+#: ../contributing/index.md:47 0ca860fcd020436cafa68169f71c6a19
 msgid ""
 "Share the announcements on social networks, within your personal networks. "
 "This will help us to reach more people."
 msgstr ""
+"Comparte los anuncios en tus redes sociales. Esto nos ayudará a alcanzar a "
+"más personas."
 
-#: ../contributing/index.md:49 ad138f635a0e46489ca6f0071432e105
+#: ../contributing/index.md:51 9f60a9a4bf934f80876fc02e93920996
 msgid "Create Tweet"
-msgstr ""
+msgstr "Crear un tuit"
 
-#: ../contributing/index.md:57 78a0f4109fb74184b76501e33148d4b0
+#: ../contributing/index.md:59 1befca3011ac43549b7b5957104f39ab
 msgid ""
 "There are social media links and text available in our {ref}`media_kit` with"
 " information for sharing with your network."
 msgstr ""
+"Hay enlaces de redes sociales y texto disponible en nuestro {ref}`media_kit`"
+" con información que puedes compartir en tus redes."
 
-#: ../contributing/index.md:59 781c1212a6054316bea3cbfba8e7a515
+#: ../contributing/index.md:61 c767a0d075b44742888a9d60b899b67c
 msgid "Some outreach related advise"
-msgstr ""
+msgstr "Algunos consejos sobre difusión"
 
-#: ../contributing/index.md:61 e8cd5c1527fd483b84c7cf4392850b03
+#: ../contributing/index.md:63 fb689a39c2ad435792560074d9429c93
 msgid ""
 "Always use [https://pymc-data-umbrella.xyz](https://pymc-data-umbrella.xyz) "
 "when linking to the general series of events, use links within this domain "
 "for specific links to single events or external links (i.e. direct link to "
 "webinar or to registration form)."
 msgstr ""
+"Siempre usa [https://pymc-data-umbrella.xyz](https://pymc-data-umbrella.xyz)"
+" cuando vayas a enlazar a la serie general de eventos, y usa enlaces dentro "
+"de este dominio para enlazar a eventos específicos o enlaces externos  (como"
+" enlaces directos al webinar o al formulario de registro)."
 
-#: ../contributing/index.md:65 9bf1ca95d0d641a59d86f76c6652d055
+#: ../contributing/index.md:67 4add5eb35b36425ab35f56aebeed231f
 msgid ""
 "Use \"events\" to refer indistinctively to any event in the series, be it "
 "one of the webinars or the sprint session."
 msgstr ""
+"Usa la palabra \"eventos\" para referirte indistintamente a cualquier evento"
+" en la serie, ya sea uno de los webinars o la sesión de sprint."
 
-#: ../contributing/index.md:67 e5035a4ef1b844fe919cee9b53e1057f
+#: ../contributing/index.md:69 cc6cd2df0f7843b4b0dd04dfcea3a62f
 msgid ""
 "Use \"webinars\" to refer to the webinars we are hosting in preparation of "
 "the sprint. Try to avoid \"tutorials\" as it can be confusing with the "
 "content of the documentation webinar. If you need some alternative to "
 "\"webinar\" consider using \"event\" or \"workshop\" before for example."
 msgstr ""
+"Usa la palabra \"webinars\" para referirte a los webinars que estamos "
+"organizando como preparación para el sprint. Intenta evitar la palabra "
+"\"tutoriales\" ya que puede confundirse con el contenido del webinar de "
+"documentación. Si necesitas algunas alternativas a la palabra \"webinar\" "
+"considera usar, por ejemplo, \"evento\" o \"taller\"."
 
-#: ../contributing/index.md:71 6d8838102616400dba09fafc737c9396
-msgid "Translating content: volunteers needed 🙌"
-msgstr ""
+#: ../contributing/index.md:73 25721d0a3623424f8ca41ee644471dda
+msgid "Language translations"
+msgstr "Traducciones a otros idiomas"
 
-#: ../contributing/index.md:74 c16e573e40294f24aeb6bed4347220cd
+#: ../contributing/index.md:75 5f52d8e7a578463782e52d1b8df9fa4e
 msgid ""
-"We first need to set up the translation infrastructure with sphinx. If you "
-"know how to do it or are interested in translating, please reach out."
+"We are translating the website from English to other languages. The first "
+"couple of languages we are focusing on are Spanish and Portuguese. For more "
+"detailed instructions on how you can submit translations, see "
+"{ref}`translations`."
 msgstr ""
+"Estamos traduciendo el sitio web del inglés a otros lenguajes. Los primeros "
+"lenguajes en los que nos estamos concentrando son español y portugués. Para "
+"acceder a instrucciones más detalladas sobre como puedes enviar "
+"traducciones, ve a {ref}`translations`."
 
-#: ../contributing/index.md:76 4cce689b04dd41d19e47fb9aeadc0144
+#: ../contributing/index.md:77 88bdfedebdde4f02af6e146cb507b650
 msgid ""
-"In the meantime, if you would to volunteer for translations, please add your"
-" information to [Issue #99](https://github.com/pymc-devs/pymc-data-"
-"umbrella/issues/99) on GitHub. We will be in touch when we are ready to move"
-" forward on this project."
+"If you are interested in translating to another language, please open up an "
+"[issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) with any "
+"suggestions."
 msgstr ""
+"Si te interesa traducir a otro lenguaje, por favor abre un "
+"[issue](https://github.com/pymc-devs/pymc-data-umbrella/issues) con tus "
+"sugerencias."

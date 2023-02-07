@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Cristián Maureira-Fredes, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,31 +21,35 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../contributing/donate.md:1 ff7f28a2a93a466c9e8a921d8c3767e1
+#: ../contributing/donate.md:1 aa6ec2752432404ca2d26208d4990b81
 msgid "Support us"
-msgstr ""
+msgstr "Apoyanos"
 
-#: ../contributing/donate.md:3 e884ccb3b68e42e690fb4cee901c80e1
+#: ../contributing/donate.md:3 5d3f576c3d3c41189827db77cf77d62d
 msgid ""
 "If you or your company have the means to support us financially, consider a "
 "donation to support our communities."
 msgstr ""
+"Si tu o tu empresa tienen los medios para apoyarnos financieramente, "
+"considera una donación para apoyar a nuestras comunidades."
 
-#: ../contributing/donate.md:6 0fc1abf8ef064ef6afa8a9f0461ab279
+#: ../contributing/donate.md:6 a8be9559c2d840d5a849dc31794af2f1
 msgid ""
 "Thanks for your interest in supporting us! {material-sharp}`favorite;2em;sd-"
 "text-danger`"
 msgstr ""
+"¡Gracias por tu interés en apoyarnos! {material-sharp}`favorite;2em;sd-text-"
+"danger`"
 
-#: ../contributing/donate.md:9 64f114fd0337448684ca5342f49913f4
+#: ../contributing/donate.md:9 41454f1d789c4ab099a7a026dfb07eec
 msgid "PyMC"
-msgstr ""
+msgstr "PyMC"
 
-#: ../contributing/donate.md:11 95b3f7e5ac8f47ef97500a30ac587710
+#: ../contributing/donate.md:11 dbed73e2346f4eae841f20fff7cff086
 msgid "PyMC is a non-profit project under NumFOCUS umbrella."
-msgstr ""
+msgstr "PyMC es un proyecto sin fines de lucro bajo el soporte de NumFOCUS."
 
-#: ../contributing/donate.md:15 63fe8c75a3a7429fb7fc10be53ead69e
+#: ../contributing/donate.md:15 9aeb2de6681b472ea551bc46ba5b24e7
 msgid ""
 "Donate to PyMC <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-thumb_up\" "
@@ -51,17 +59,26 @@ msgid ""
 " 1 7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 "
 "10h9v2l-3 7H9V9zM1 9h4v12H1z\"></path></svg>"
 msgstr ""
+"Donar a PyMC <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" height=\"2.0em\""
+" class=\"sd-material-icon sd-material-icon-thumb_up\" viewBox=\"0 0 24 24\" "
+"aria-hidden=\"true\"><path d=\"M0 0h24v24H0V0zm0 0h24v24H0V0z\" "
+"fill=\"none\"></path><path d=\"M9 21h9c.83 0 1.54-.5 "
+"1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17"
+" 1 7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 "
+"10h9v2l-3 7H9V9zM1 9h4v12H1z\"></path></svg>"
 
-#: ../contributing/donate.md:22 89f0af141e984d36849495e90c34951c
+#: ../contributing/donate.md:22 509c161979f44488ba7f6f72d20ef8ad
 msgid "Data Umbrella"
-msgstr ""
+msgstr "Data Umbrella"
 
-#: ../contributing/donate.md:24 c631b2ab697c45468ac41593f18b29d6
+#: ../contributing/donate.md:24 d351bdaa0a2342748678506863684767
 msgid ""
 "You can contribute to the Data Umbrella community through Open Collective."
 msgstr ""
+"Puedes contribuir a la comunidad de Data Umbrella a través de Open "
+"Collective."
 
-#: ../contributing/donate.md:28 0346cf4faa3f42a19a7b10052f96e034
+#: ../contributing/donate.md:28 8c6eb320bdf64d97b96e8c1a9c3c2c81
 msgid ""
 "Donate to Data Umbrella <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
 "height=\"2.0em\" class=\"sd-material-icon sd-material-icon-thumb_up\" "
@@ -71,3 +88,10 @@ msgid ""
 " 1 7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 "
 "10h9v2l-3 7H9V9zM1 9h4v12H1z\"></path></svg>"
 msgstr ""
+"Donar a Data Umbrella <svg version=\"4.0.0.63c5cb3\" width=\"2.0em\" "
+"height=\"2.0em\" class=\"sd-material-icon sd-material-icon-thumb_up\" "
+"viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0V0zm0 "
+"0h24v24H0V0z\" fill=\"none\"></path><path d=\"M9 21h9c.83 0 1.54-.5 "
+"1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17"
+" 1 7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 "
+"10h9v2l-3 7H9V9zM1 9h4v12H1z\"></path></svg>"
