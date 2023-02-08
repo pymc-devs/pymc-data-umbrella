@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../about/index.md:2 9f3eddfa3d9c4d55937c46784e34e8b7
 msgid "About PyMC"
-msgstr ""
+msgstr "Sobre o PyMC"
 
 #: ../about/index.md:4 769ce71f766848488183ac104a3ed7cc
 msgid ""
@@ -33,6 +33,12 @@ msgid ""
 "inference (VI). Its flexibility and extensibility make it applicable to a "
 "large suite of problems. PyMC is a non-profit project under NumFOCUS."
 msgstr ""
+"O [PyMC](https://www.pymc.io) é um pacote de programação probabilística para"
+" Python que permite aos usuários ajustar modelos bayesianos usando uma "
+"variedade de métodos numéricos, principalmente cadeia de Markov Monte Carlo "
+"(MCMC) e inferência variacional (VI) . Sua flexibilidade e extensibilidade o"
+" tornam aplicável a um grande conjunto de problemas. O PyMC é um projeto sem"
+" fins lucrativos da NumFOCUS."
 
 #: ../about/index.md:6 28e28c2611dd4d94aa63a3a5b7b17c18
 msgid ""
@@ -43,9 +49,17 @@ msgid ""
 "Contribute to "
 "PyMC](https://www.youtube.com/playlist?list=PLD1x-BW9UdeEPD_4E4VOcj0q66kQpdcKz)."
 msgstr ""
+"Temos abaixo uma série de vídeos sobre o PyMC e como contribuir para sua "
+"biblioteca. Encorajamos você a assistir os vídeos e adicionar a [playlist da"
+" série PyMC](https://www.youtube.com/playlist?list=PLBKcU7Ik-"
+"ir99uTvN0315hIVLuyj4Q1Gt) aos seus bookmarks. Parte desses vídeos focam em "
+"[como contribuir ao "
+"PyMC](https://www.youtube.com/playlist?list=PLD1x-BW9UdeEPD_4E4VOcj0q66kQpdcKz)."
 
 #: ../about/index.md:8 35b6b8e0f3824688a05fbeba09819b24
 msgid ""
 "Is there a video you would find helpful, but it is not available?  Let us "
 "know via {{ du_email }}."
 msgstr ""
+"Algum vídeo que seria útil mas não está disponível? Mande uma mensagem via "
+"{{ du_email }}."

@@ -5,8 +5,8 @@
 # 
 # Translators:
 # Cristián Maureira-Fredes, 2023
-# Alberto Mario Ceballos-Arroyo, 2023
 # Cristina Zenteno, 2023
+# Alberto Mario Ceballos-Arroyo, 2023
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Cristina Zenteno, 2023\n"
+"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -270,7 +270,7 @@ msgstr ""
 #: ../about/contributing_to_documentation/docs_presentation.md:75
 #: a6edb7a4e9804a589a2baf3bbc5d7cd0
 msgid "Table of contents is automatic"
-msgstr ""
+msgstr "La tabla de contenidos se genera de forma automática"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:76
 #: 2ceb1cdd9af84b7d9767cea9da60cad0
@@ -278,6 +278,9 @@ msgid ""
 "The 2 last sections with license info and citation are generated from a "
 "centralized source, with only 2 lines needed per notebook"
 msgstr ""
+"Las 2 últimas secciones con la información de licencias y citaciones se "
+"generan a partir de una fuente centralizada, y solo se necesitan 2 líneas "
+"por cuaderno"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:79
 #: c35986004a2d4005a3f8ca06c67241b2
@@ -298,7 +301,7 @@ msgstr ""
 #: ../about/contributing_to_documentation/docs_presentation.md:93
 #: 0871a88f18204e049a1d38e6fa2ff4dc 7f288b8fbb06448699cdf099151d3847
 msgid "background image"
-msgstr ""
+msgstr "imagen de fondo"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:99
 #: 69942bece7db49e6bbf8dbcd96861812
