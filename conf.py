@@ -63,7 +63,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "PyMC-Data Umbrella Sprint"
-copyright = "2021, Sprint contributors"
+copyright = "2023, Sprint contributors"
 author = "Sprint Contributors"
 pymc_url = "https://www.pymc.io/projects/docs/en/latest/"
 
