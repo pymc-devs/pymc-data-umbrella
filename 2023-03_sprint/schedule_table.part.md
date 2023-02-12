@@ -1,7 +1,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Sessions">
 <meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280×640px.png">
 
 ## Schedule
 
@@ -11,25 +11,23 @@ To take part in the upcoming Open Source Working Sessions you should:
 1. Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-pymc-os-ws`
 2. RSVP on MeetUp for the events you will be attending (links on table below)
 
-Note:   It is *not required* to attend a specific session as a prerequisite for other sessions.  Ideally, it is beneficial if folks can attend as many sessions as they can, to build up their open source skills and familiarity with the PyMC project.
 :::
 
 | Event                                     | Date               | Time                    | Duration |  RSVP       |
 |-------------------------------------------|--------------------|-------------------------|----------|-------------|
-| Open Source Pre-series Office Hours       | Jul 2 (Saturday)   |  9 ET / 13 UTC / 16 EAT | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/) |
 | Open Source Working Session #1            | Jul 9 (Saturday)   |  9 ET / 13 UTC / 16 EAT | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/) |
-| Open Source Working Session #2            | Jul 22 (Friday)    | 12 ET / 16 UTC / 19 EAT | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286628677/) |
-| Open Source Working Session #3 [^1]       | Aug 4/5 (Thur/Fri) | 19 ET / 23 UTC          | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286628723/) |
-| Open Source Post-series Office Hours [^1] | Aug 18 (Saturday)  | 19 ET / 23 UTC          | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/) |
 
-[^1]: Asia-Pacific timeslot
 
 ## Schedule with Timezones
 
 Note: You can click on the table image below to view the full spreadsheet with a larger view.
 
-[![schedule with timezones](../_static/images/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
+[NEED TO UPDATE]
+
+[![schedule with timezones](../_static/images/2023_03_timezones.png)](https://docs.google.com/spreadsheets/d/1B4x_2VyXhvGfRaz1iQe2AOZeg4JVhoDs0csLUxQXIhA/edit?usp=sharing)
 
 ## Exportable calendar
+
+[NEED TO UPDATE]
 
 <iframe src="https://calendar.google.com/calendar/embed?src=pymc.devs%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

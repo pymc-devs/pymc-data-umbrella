@@ -21,7 +21,7 @@ Social Media Kit {material-regular}`share;3em`
 
 ::::{grid} 1 1 2 2
 :::{grid-item-card}
-:link: https://www.pythonghana.org
+:link: https://nyc.pyladies.com
 :shadow: none
 :class-card: border-0
 
@@ -29,26 +29,8 @@ Social Media Kit {material-regular}`share;3em`
 
 We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
-:::{grid-item-card}
-:link: https://berlin.pyladies.com/
-:shadow: none
-:class-card: border-0
-<!-- 
-![Python Ghana](../../_static/community_partners/python_ghana.png)
 
-Python Ghana is an organisation of technology enthusiasts who seek to promote and advance the use of technology. Open to residents of all countries.
-:::
-:::{grid-item-card}
-:link: https://ghana.pyladies.com
-:shadow: none
-:class-card: border-0
-
-![PyLadies Ghana](../../_static/community_partners/pyladies_ghana.png)
-
-PyLadies Ghana aims to provide a friendly support network for women and a bridge to the larger Python world.
-:::
-
-:::{grid-item-card}
+<!-- :::{grid-item-card}
 :link: https://www.womeninanalytics.com/
 :shadow: none
 :class-card: border-0
@@ -56,38 +38,9 @@ PyLadies Ghana aims to provide a friendly support network for women and a bridge
 ![Women in Analytics](../../_static/community_partners/wia.png)
 
 An Analytics Community. Featuring Women. For Everyone.
-:::
-:::{grid-item-card}
-:link: https://nyc.pyladies.com
-:shadow: none
-:class-card: border-0 -->
+::: -->
 
-<!-- ![PyLadies Berlin](../../_static/community_partners/logo_pyladies_berlin.png)
-
-PyLadies Berlin helps women and non-binary people to become active participants and leaders in the Python community.
-:::
-
-:::{grid-item-card}
-:link: https://www.meetup.com/pyladies-tunis/
-:shadow: none
-:class-card: border-0
-
-![PyLadies Tunis](../../_static/community_partners/pyladies_tunis.png)
-
-PyLadies Tunis is an initiative under the Python Software Community. We want to maintain a friendly support network for women and all of those who are interested in Python.
-:::
-
-:::{grid-item-card}
-:link: https://www.meetup.com/pyladiesparis/
-:shadow: none
-:class-card: border-0
-
-![PyLadies Paris](../../_static/community_partners/pyladies_paris.png)
-
-We're PyLadies Paris! We organize meetups, workshops and gatherings around Python for women in Paris and online. We aim to share experience and good practices, learn, and be a friendly community for Python enthusiasts!
-:::
-
-:::{grid-item-card}
+<!-- :::{grid-item-card}
 :link: https://twitter.com/pyladies_co
 :shadow: none
 :class-card: border-0
@@ -95,9 +48,9 @@ We're PyLadies Paris! We organize meetups, workshops and gatherings around Pytho
 ![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)
 
 We are a community that motivates women to use technology and code. Everyone is welcome here, and it is a diverse and inclusive group.
-:::
+::: -->
 
-:::{grid-item-card}
+<!-- :::{grid-item-card}
 :link: https://wbds.la
 :shadow: none
 :class-card: border-0
@@ -105,19 +58,10 @@ We are a community that motivates women to use technology and code. Everyone is 
 ![Women in Bioinformatics & Data Science LA (Latin America)](../../_static/community_partners/wbds_latin_america.png)
 
 Fostering collaboration among women.
-:::
+::: -->
 
-:::{grid-item-card}
-:link: https://www.meetup.com/pyladieslondon/
-:shadow: none
-:class-card: border-0
 
-![PyLadies London](../../_static/community_partners/pyladies_london.png)
-
-We are a mentorship group for marginalized genders on a mission is to promote, educate and advance a diverse Python community.
-:::
-
-:::{grid-item-card}
+<!-- :::{grid-item-card}
 :link: https://www.pythonchile.cl
 :shadow: none
 :class-card: border-0
@@ -125,15 +69,5 @@ We are a mentorship group for marginalized genders on a mission is to promote, e
 ![Python Chile](../../_static/community_partners/pythonchile.png)
 
 Official Chilean Python Community, a place to meet, learn, and empower Chilean Python developers.
-:::
-
-:::{grid-item-card}
-:link: https://www.meetup.com/pyladieskampala/
-:shadow: none
-:class-card: border-0
-
-![PyLadies Kampala](../../_static/community_partners/pyladies_kampala.png)
-
-We are a group hosting various types of events on a range of usually Python-related tech topics.
 ::: -->
 ::::
