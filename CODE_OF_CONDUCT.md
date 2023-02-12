@@ -13,7 +13,7 @@ We are dedicated to providing a harassment-free community for everyone, regardle
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-For the complete version of the code of conduct refer to [NUMFOCUS code of conduct](https://numfocus.org/code-of-conduct)
+For the complete version of the code of conduct refer to [NumFOCUS code of conduct](https://numfocus.org/code-of-conduct)
 
 ## Reporting
 If you believe someone is violating the code of conduct, please report this in a timely manner.
