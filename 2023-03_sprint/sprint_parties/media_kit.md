@@ -25,7 +25,7 @@ Our event series can be shared in one or more of the following ways:
 - Event registration form:  https://tinyurl.com/du-pymc-os-ws
 - Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
 - LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)
-- Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png
+- Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280×640px.png
 - Meetup event: can share links or cross-post the event with your Meetup group
     | Event                         | Date             | Time    | Duration | MeetUp |
     |-------------------------------|------------------|---------|----------|--------|
@@ -44,14 +44,15 @@ Our event series can be shared in one or more of the following ways:
   Additionally, we have a series of videos where participants can watch videos and add timestamps. There are lots of ways to participate and contribute to open source.
 
   More information on joining the event:
-  a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2022-07_sprint/schedule.html
+  a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2023-03_sprint/schedule.html
   b) Complete this registration form: https://tinyurl.com/du-pymc-os-ws
   ```
 ### Channels to Share
 - Communication servers: Slack, Discord
 - Social media: Facebook, Instagram
 - Mobile communities: WhatsApp, Telegram
-- Newsletters
+- Meetup groups
+- Newsletters or mailing lists
 
 ## Logos
 - Data Umbrella: [Brand and Logo](https://github.com/data-umbrella/info)
