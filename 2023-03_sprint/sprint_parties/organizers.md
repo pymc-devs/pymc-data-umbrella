@@ -47,8 +47,8 @@ Sandy Weng
 :::
 :::{grid-item}
 :class: sd-text-center
-
-<img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle"> -->
+-->
+<img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle"> 
 
 Cristina Mulas Lopez
 
