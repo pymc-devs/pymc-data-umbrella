@@ -29,7 +29,7 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
     :::
     ```
 
-1. Open this file: `2022-07_sprint/sprint_parties/contributors.md`
+1. Open this file: `2023-03_sprint/sprint_parties/contributors.md`
 1. Paste the template to the relevant section and update it with your personal info.
 
     :::{important}
@@ -40,7 +40,7 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
       and "Contributor Location" places them in different lines when rendering.
       The _lack_ of empty line between the multiple icons places them in the same
       line when rendering the website.
-    * The image can be added to the repo ([`_static/contributors_2022_07` folder](https://github.com/pymc-devs/pymc-data-umbrella/tree/main/_static/contributors_2022_07))
+    * The image can be added to the repo ([`_static/contributors_2023_03` folder](https://github.com/pymc-devs/pymc-data-umbrella/tree/main/_static/contributors_2023_03))
       as part of the PR or be an external link like in the template.
       But it needs to be a _square image_.
     :::
