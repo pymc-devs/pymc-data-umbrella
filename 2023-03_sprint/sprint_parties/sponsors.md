@@ -23,7 +23,7 @@ The Bayesian Consultancy. We bring Bayesian methods into wide practice.
 :shadow: none
 :class-card: border-0
 
-![CZI](../../_static/sponsors/czi-logo.jpg)
+![CZI](../_static/sponsors/czi-logo.jpg)
 
 We help solve some of society’s toughest challenges — from eradicating disease and improving education, to addressing the needs of our local communities. Our mission is to build a more inclusive, just, and healthy future for everyone.
 :::
