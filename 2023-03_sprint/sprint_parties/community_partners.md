@@ -30,44 +30,4 @@ Social Media Kit {material-regular}`share;3em`
 We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
 
-<!-- :::{grid-item-card}
-:link: https://www.womeninanalytics.com/
-:shadow: none
-:class-card: border-0
-
-![Women in Analytics](../../_static/community_partners/wia.png)
-
-An Analytics Community. Featuring Women. For Everyone.
-::: -->
-
-<!-- :::{grid-item-card}
-:link: https://twitter.com/pyladies_co
-:shadow: none
-:class-card: border-0
-
-![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)
-
-We are a community that motivates women to use technology and code. Everyone is welcome here, and it is a diverse and inclusive group.
-::: -->
-
-<!-- :::{grid-item-card}
-:link: https://wbds.la
-:shadow: none
-:class-card: border-0
-
-![Women in Bioinformatics & Data Science LA (Latin America)](../../_static/community_partners/wbds_latin_america.png)
-
-Fostering collaboration among women.
-::: -->
-
-
-<!-- :::{grid-item-card}
-:link: https://www.pythonchile.cl
-:shadow: none
-:class-card: border-0
-
-![Python Chile](../../_static/community_partners/pythonchile.png)
-
-Official Chilean Python Community, a place to meet, learn, and empower Chilean Python developers.
-::: -->
 ::::
