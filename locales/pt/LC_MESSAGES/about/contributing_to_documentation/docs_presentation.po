@@ -24,12 +24,12 @@ msgstr ""
 #: ../about/contributing_to_documentation/docs_presentation.md:2
 #: f4d14d00f0bf4448be93697a2905a8ac
 msgid "Contributing to PyMC documentation"
-msgstr ""
+msgstr "Contribuindo para a documentação do PyMC"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:4
 #: 163a144115cf48ae9445ab2812b8e410
 msgid "An overview of PyMC documentation"
-msgstr ""
+msgstr "Uma visão geral da documentação do PyMC"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:5
 #: 5427f2536a584327aa5964906da6357f
@@ -37,6 +37,8 @@ msgid ""
 "The PyMC documentation is generated from two different GitHub repositories, "
 "each containing different type of documentation:"
 msgstr ""
+"A documentação do PyMC é gerada a partir de dois repositórios GitHub "
+"diferentes, cada um contendo um tipo diferente de documentação:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:8
 #: b3bc187eb7ab45a886ba7b133cec1019
@@ -46,6 +48,10 @@ msgid ""
 " object they describe), some guides about core functionality and the "
 "contributing docs."
 msgstr ""
+"[pymc](https://github.com/pymc-devs/pymc): O repositório pymc contém a maior"
+" parte do conteúdo de referência na forma de docstrings (strings anexadas ao"
+" objeto Python que descrevem), alguns guias sobre a funcionalidade principal"
+" e os documentos de contribuição."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:13
 #: d8fb523df51c43359d7fc528bb35fcda
@@ -54,6 +60,9 @@ msgid ""
 "examples repository contains a collection of over 90 notebooks with usage "
 "examples, in depth-explanations and tutorials about PyMC."
 msgstr ""
+"[pymc-examples](https://github.com/pymc-devs/pymc-examples): O repositório "
+"pymc-examples contém uma coleção de mais de 90 notebooks com exemplos de "
+"uso, explicações detalhadas e tutoriais sobre PyMC."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:18
 #: 0639a672ae7349ae878cf0ba51e5fedf
@@ -64,11 +73,16 @@ msgid ""
 " dive into using those features to write clear, pretty and well referenced "
 "technical documentation."
 msgstr ""
+"Nesta palestra, vamos nos concentrar em contribuir para pymc-examples, que "
+"contém documentação cada vez mais diversificada. Começaremos com uma "
+"descrição do recurso, seus recursos e como eles se relacionam com nossos "
+"objetivos pedagógicos e, em seguida, mergulharemos no uso desses recursos "
+"para escrever documentação técnica clara, bonita e bem referenciada."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:26
 #: e289b801c0c64171a224a885e300bfbb
 msgid "The idea: an executable book made from blogposts"
-msgstr ""
+msgstr "A ideia: um livro executável feito de blogposts"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:28
 #: d5e83bd2ffb64df0bc0033ca95385a93
@@ -76,6 +90,8 @@ msgid ""
 "We won't explain how to set up a similar website, this would take another "
 "whole talk."
 msgstr ""
+"Não explicaremos como configurar um site semelhante, isso exigiria outra "
+"conversa."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:30
 #: c41558c196a641c9b130730dca3ffded
@@ -84,17 +100,21 @@ msgid ""
 "those to then dive into our main goal for the talk: _How do you as a "
 "contributor to PyMC documentation take advantage of them_"
 msgstr ""
+"Daremos uma visão geral dos recursos disponíveis e sobre por que os "
+"escolhemos para, em seguida, mergulhar em nosso objetivo principal da "
+"palestra: _Como você, como colaborador da documentação do PyMC, pode "
+"aproveitá-los_"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:35
 #: ae4f1703b44548488cd6eb0ba46b8db7
 msgid "Our wishlist:"
-msgstr ""
+msgstr "Nossa lista de desejos:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:36
 #: ../about/contributing_to_documentation/docs_presentation.md:50
 #: 3dc48b36f5604f09995f4ccfde44c6c5 28f68259ba7249e6a9e6fbc436281f8e
 msgid "Easy to write"
-msgstr ""
+msgstr "Fácil de escrever"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:37
 #: ../about/contributing_to_documentation/docs_presentation.md:53
@@ -103,12 +123,14 @@ msgid ""
 "Easy to execute, both when writing pages and when reading them. We should be"
 " able to run the code years from now."
 msgstr ""
+"Fácil de executar, tanto ao escrever páginas quanto ao lê-las. Devemos ser "
+"capazes de executar o código daqui a alguns anos."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:39
 #: ../about/contributing_to_documentation/docs_presentation.md:58
 #: d1f50258bc5d4f8b9ada98cae6084296 a3fababe24e64a099ec913d0124911e2
 msgid "Browsable via tags and categories"
-msgstr ""
+msgstr "Navegue através de tags e categorias"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:40
 #: ../about/contributing_to_documentation/docs_presentation.md:60
@@ -116,30 +138,31 @@ msgstr ""
 msgid ""
 "Searchable by itself and searchable from the pymc library documentation"
 msgstr ""
+"Pesquisável por si só e pesquisável na documentação da biblioteca pymc"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:41
 #: ../about/contributing_to_documentation/docs_presentation.md:62
 #: 62b6cc22850e45c6ae3f27ed89636cdc 221d6aedd08a4993adb21653c6431026
 msgid "Citable resource"
-msgstr ""
+msgstr "Recurso citável"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:42
 #: ../about/contributing_to_documentation/docs_presentation.md:64
 #: 1cbfe50f37b642dcba632c09ea330891 3606cbd3b07e475490827bf2745a4f78
 msgid "Acknowledge the authors (without making it the focus)"
-msgstr ""
+msgstr "Reconhecer os autores (sem fazer disso o foco)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:43
 #: ../about/contributing_to_documentation/docs_presentation.md:66
 #: c365aa30a3394eb3a3a4ab21bd1ee40d e768acbb89b0416cb2303a5127bf3b81
 msgid "Automatic table of contents"
-msgstr ""
+msgstr "Índice automático"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:44
 #: ../about/contributing_to_documentation/docs_presentation.md:68
 #: a1b771b0a31d4de6af982e6254f2b393 f20c57094b974c8aa7caa2e38b814967
 msgid "Accessible"
-msgstr ""
+msgstr "Acessível"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:45
 #: ../about/contributing_to_documentation/docs_presentation.md:70
@@ -148,21 +171,23 @@ msgid ""
 "DRY: do not repeat yourself. Things shared between several notebooks should "
 "be done once when possible."
 msgstr ""
+"DRY: não se repita. Coisas compartilhadas entre vários notebooks devem ser "
+"feitas uma vez quando possível."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:48
 #: 1186f28ef5ca4998b901e522b160fce9
 msgid "The implementation: jupyter notebook + sphinx (+ extensions)"
-msgstr ""
+msgstr "A implementação: jupyter notebook + sphinx (+ extensões)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:51
 #: 9c0818d6f79b4ad880feae814f7dcbfc
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:52
 #: 9e8c3cfc7ca54721a7ea6f1191faea6b
 msgid "supported via sphinx+myst-parser"
-msgstr ""
+msgstr "suportado via sphinx+myst-parser"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:55
 #: 43c83cbd518b4465a6a45f0553a1f33c
@@ -170,11 +195,14 @@ msgid ""
 "Jupyter notebook combined with binder and google colab badges on top of "
 "every page"
 msgstr ""
+"Caderno Jupyter combinado com fichário e distintivos do Google Colab no topo"
+" de cada página"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:56
 #: 76294b97cd494caf9be9560224cf8b07
 msgid "supported via sphinx+myst-nb and a custom html template for the badges"
 msgstr ""
+"suportado via sphinx+myst-nb e um modelo html personalizado para os crachás"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:57
 #: 690679f3b1064253a7e15e06b13dcc1a
@@ -182,31 +210,33 @@ msgid ""
 "the environment used to run them is stored automatically thanks to the "
 "watermark library"
 msgstr ""
+"o ambiente usado para executá-los é armazenado automaticamente graças à "
+"biblioteca de marcas d'água"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:59
 #: 695ac7c0190c478a8c12698a12612e3e
 msgid "supported via sphinx+ablog"
-msgstr ""
+msgstr "suportado via sphinx+blog"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:61
 #: c2c59cb0c4744b59af0b03a034d862c9
 msgid "supported via sphinx+pydata-sphinx-theme+readthedocs"
-msgstr ""
+msgstr "suportado via sphinx+pydata-sphinx-theme+readthedocs"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:63
 #: 3f18d0b641d84ceab20ad4e54d187e61
 msgid "supported via zenodo+custom template"
-msgstr ""
+msgstr "suportado via zenodo+modelo personalizado"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:65
 #: 07f77cd3c8a94036b8d02798374121b9
 msgid "supported via ablog+custom template"
-msgstr ""
+msgstr "suportado via blog + modelo personalizado"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:67
 #: b9a79db06b4046c7b42a01bcb9a38795
 msgid "supported via sphinx+pydata-sphinx-theme"
-msgstr ""
+msgstr "suportado via sphinx+pydata-sphinx-theme"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:69
 #: be5d487acba446639d2dd0f46d66d2c8
@@ -214,6 +244,8 @@ msgid ""
 "pydata-sphinx-theme is working on the accessibility of the theme and will "
 "continue to do so"
 msgstr ""
+"pydata-sphinx-theme está trabalhando na acessibilidade do tema e continuará "
+"a fazê-lo"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:72
 #: 336c12ba4c134ded8148690a46f14434
@@ -221,21 +253,23 @@ msgid ""
 "Centralized citations thanks to sphinx-bibtex, they are referenced in the "
 "docs with 2 keywords"
 msgstr ""
+"Citações centralizadas graças ao sphinx-bibtex, elas são referenciadas nos "
+"documentos com 2 palavras-chave"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:73
 #: c908a6854ed14cffafe0c2a16a616fdf
 msgid "Badges are automatic"
-msgstr ""
+msgstr "Os crachás são automáticos"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:74
 #: da3a84a2367c49a191aad4eec941c4ed
 msgid "Tags and categories are automatic"
-msgstr ""
+msgstr "Tags e categorias são automáticas"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:75
 #: a6edb7a4e9804a589a2baf3bbc5d7cd0
 msgid "Table of contents is automatic"
-msgstr ""
+msgstr "O sumário é automático"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:76
 #: 2ceb1cdd9af84b7d9767cea9da60cad0
@@ -243,6 +277,9 @@ msgid ""
 "The 2 last sections with license info and citation are generated from a "
 "centralized source, with only 2 lines needed per notebook"
 msgstr ""
+"As 2 últimas seções com informações de licença e citação são geradas a "
+"partir de uma fonte centralizada, com apenas 2 linhas necessárias por "
+"notebook"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:79
 #: c35986004a2d4005a3f8ca06c67241b2
@@ -253,22 +290,28 @@ msgid ""
 "[PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and GSoD we have "
 "changed most of our documentation infrastructure in the last 9 months."
 msgstr ""
+"Para resumir, graças ao trabalho de várias pessoas incríveis (tanto "
+"colaboradores experientes do PyMC quanto novos membros que trabalham conosco"
+" via Outreachy e {abbr}`GSoD (Google Season of Docs)`) e os fundos que "
+"arrecadamos durante [PyMCon](https "
+"://discourse.pymc.io/c/pymcon/2020talks/15) e GSoD, mudamos a maior parte de"
+" nossa infraestrutura de documentação nos últimos 9 meses."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:84
 #: 853968ac5d0d4250a176c5dc49e90b61
 msgid "You can see a huge change already:"
-msgstr ""
+msgstr "Você já pode ver uma grande mudança:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:88
 #: ../about/contributing_to_documentation/docs_presentation.md:93
 #: 0871a88f18204e049a1d38e6fa2ff4dc 7f288b8fbb06448699cdf099151d3847
 msgid "background image"
-msgstr ""
+msgstr "imagem de fundo"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:99
 #: 69942bece7db49e6bbf8dbcd96861812
 msgid "The problem: too much docs?"
-msgstr ""
+msgstr "O problema: muitos documentos?"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:100
 #: 92c36e3e1fb74f03bbadfe58a00f5f6a
@@ -277,11 +320,14 @@ msgid ""
 "of notebooks have been updated to take advantage of them. So while we "
 "_could_ have all that, we are still far from there!"
 msgstr ""
+"Nossa **infraestrutura** oferece suporte a todos os pontos acima, mas apenas"
+" alguns notebooks foram atualizados para aproveitá-los. Portanto, embora "
+"_pudéssemos_ ter tudo isso, ainda estamos longe de lá!"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:104
 #: 10b432114027430eaefead37b5ad020c
 msgid "MyST: Markedly Structured Text"
-msgstr ""
+msgstr "MyST: Markedly Structured Text"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:105
 #: 00f39ab3ed85481f934b41b96b8a5ab6
@@ -291,6 +337,10 @@ msgid ""
 "webinar will be a myst quickstart targetted to contributing to pymc-"
 "examples."
 msgstr ""
+"Como acabamos de dizer, já configuramos a infraestrutura para todos os "
+"pontos acima, então você não precisa se preocupar com isso. O resto do "
+"webinar será um myst quickstart direcionado para contribuir com pymc-"
+"examples."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:109
 #: 65d3d238700f45d797b188967398446f

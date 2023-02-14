@@ -23,11 +23,11 @@ msgstr ""
 
 #: ../about/example_pr/index.md:2 80902d924a5649f98d16267fdc94513c
 msgid "Example Pull Request to PyMC"
-msgstr ""
+msgstr "Exemplo de pull request para o PyMC"
 
 #: ../about/example_pr/index.md:4 32d43045758b4ee39c385adb49781927
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: ../about/example_pr/index.md:5 042a390d1f6c49c9b60e4f5f58323666
 msgid ""
@@ -35,24 +35,30 @@ msgid ""
 "virtual environment, install the dependencies, build PyMC from source, make "
 "a small documentation change, and submit a pull request."
 msgstr ""
+"Neste vídeo, Reshama dá um exemplo passo-a-passo de como configurar um "
+"ambiente virtual, instalar as dependências, compilar o PyMC a partir do "
+"código fonte, fazer uma pequena mudança na documentação e submeter um pull "
+"request."
 
 #: ../about/example_pr/index.md:7 6c883d3e53e84eda850867b8bdf36b0d
 msgid "Details"
-msgstr ""
+msgstr "Detalhes"
 
 #: ../about/example_pr/index.md:9 d85d2d6ac689487f8c475022df2c2c88
 msgid ""
 "Audience: People who are interested in contributing to PyMC and who would "
 "like to see an example of a contribution."
 msgstr ""
+"Audiência: Pessoas interessadas em contribuir para o PyMC que gostariam de "
+"ver um exemplo de contribuição."
 
 #: ../about/example_pr/index.md:13 92a9df03900d4ac6a8f3d6648e96e791
 msgid "Go to the webinar material!"
-msgstr ""
+msgstr "Visite o material do webinar!"
 
 #: ../about/example_pr/index.md:21 c79eef995e7f40c38786ef42d33f3e65
 msgid "Speaker"
-msgstr ""
+msgstr "Palestrante"
 
 #: ../about/example_pr/index.md:23 fd7a7df39e6e4007a5b4ed27d89a9d50
 msgid ""
@@ -61,6 +67,10 @@ msgid ""
 "Rutgers University. She earned her M.B.A. from NYU Stern School of Business "
 "where she studied strategy, business analytics and technology management."
 msgstr ""
+"[Reshama Shaikh](https://reshamas.github.io) é uma estatística/cientista de "
+"dados situada em Nova York. Ela recebeu seu mestrado em estatística pela "
+"Rutgers University, e seu M.B.A. pela NYU Stern School of Business, onde "
+"estudou estratégias, análise de negócios e gerenciamento de tecnologias. "
 
 #: ../about/example_pr/index.md:25 a2427800185f472daf8ac6511438b99a
 msgid ""
@@ -70,7 +80,12 @@ msgid ""
 "2019](https://reshamas.github.io/on-receiving-2019-community-leadership-"
 "award-from-numfocus/)."
 msgstr ""
+"Reshama é Diretora da Data Umbrella e uma das organizadoras da PyLadies de "
+"Nova York. Ela também faz parte do time de contribuidores do scikit-learn e "
+"PyMC. Em 2019, Reshama recebeu o [Prêmio de Liderança de Comunidade pela "
+"NumFOCUS](https://reshamas.github.io/on-receiving-2019-community-leadership-"
+"award-from-numfocus/)."
 
 #: ../about/example_pr/index.md:27 25a65135c5884e4dbd0d938169652895
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"

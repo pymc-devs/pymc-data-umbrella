@@ -200,12 +200,15 @@ msgid ""
 "Before clicking on the \"Create pull request\" button, check a couple "
 "things."
 msgstr ""
+"Antes de pulsar el botón “Crear pull request”, comprueba un par de cosas."
 
 #: ../sprint/tutorials/pr_tutorial.md:132 4e4dc6057d5844bba5ad85696f01d505
 msgid ""
 "Make sure the title is informative. If you followed the advise here, it "
 "should already be as it defaults to the commit message."
 msgstr ""
+"Asegúrate de que el título sea informativo. Si has seguido los consejos "
+"aquí, ya debería serlo, ya que por defecto es el mensaje de confirmación."
 
 #: ../sprint/tutorials/pr_tutorial.md:134 6ceaf619ec9c497ab82d8d712e38ba2e
 msgid ""
@@ -213,18 +216,26 @@ msgid ""
 "the one about the release notes. Then add a link to the issue you commented "
 "on."
 msgstr ""
+"Edita la descripción. Puedes eliminar todos los puntos de la lista de "
+"comprobación excepto el de las notas de publicación. A continuación, añade "
+"un enlace al issue que has comentado."
 
 #: ../sprint/tutorials/pr_tutorial.md:136 ba516d06ef5f41f1b3262d13da3e691e
 msgid ""
 "If you have taken any notes while updating the docstring add them to the PR "
 "description."
 msgstr ""
+"Si has tomado alguna nota mientras actualizabas la cadena de documentación "
+"añádela a la descripción del PR."
 
 #: ../sprint/tutorials/pr_tutorial.md:137 84b0a4bfae344812a3bd4a5be1270beb
 msgid ""
 "Make sure the \"Allow edits and access to secrets by maintainers\" button is"
 " checked (it generally is checked by default)"
 msgstr ""
+"Asegúrate de que el botón “Permitir la edición y el acceso a los secretos "
+"por parte de los mantenedores” está marcado (suele estar marcado por "
+"defecto)."
 
 #: ../sprint/tutorials/pr_tutorial.md:140 3bbd1b7003754bd588c618d2e143238a
 msgid ""
@@ -235,16 +246,25 @@ msgid ""
 "if your second PR is to the pymc-examples repo instead, you have to read its"
 " (slightly different) `CONTRIBUTING.md`."
 msgstr ""
+"Puede que también veas un enlace al archivo `CONTRIBUTING.md`. No necesita "
+"leerlo todavía, esta guía incluye todo lo que hay en la guía de contribución"
+" que es relevante para este tipo de contribución. Si tu segundo PR está "
+"también en el repositorio pymc, entonces deberías leer la guía "
+"`CONTRIBUTING.md` allí. Sin embargo, si tu segundo PR está en el repositorio"
+" pymc-examples, tendrás que leer su (ligeramente diferente) "
+"`CONTRIBUTING.md`."
 
 #: ../sprint/tutorials/pr_tutorial.md:147 e132b9a731e24c33ac7ea420b0e07ef6
 msgid ""
 "Click on \"Create pull request\" and celebrate for a bit 🎉, but the work is "
 "not finished."
 msgstr ""
+"Haz clic en “Crear pull request” y celébralo un poco 🎉, aunque el trabajo no"
+" ha finalizado."
 
 #: ../sprint/tutorials/pr_tutorial.md:149 ec34521e3a2844498da9521055989c06
 msgid "Get ready for reviews"
-msgstr ""
+msgstr "Prepárate para las revisiones"
 
 #: ../sprint/tutorials/pr_tutorial.md:151 ecd9f1dc89984a5ab095054dfe7ad00a
 msgid ""
@@ -254,6 +274,11 @@ msgid ""
 "the session day, it will probably take several hours before someone sees it "
 "and reviews it."
 msgstr ""
+"Ahora tienes que esperar a que alguien del equipo de PyMC lo revise. Si has "
+"enviado el PR durante el horario de la sesión, nos pondremos a ello "
+"rápidamente (pero no inmediatamente, ¡podríamos estar revisando el PR de "
+"otra persona!), si estás haciendo esto antes del día de la sesión, "
+"probablemente pasarán varias horas antes de que alguien lo vea y lo revise."
 
 #: ../sprint/tutorials/pr_tutorial.md:156 79863d3540d441e592017976ea3db4f2
 msgid ""
@@ -262,6 +287,10 @@ msgid ""
 "also, there might be further improvements like adding some `See Also` "
 "references that require a lot of familiarity with the code base."
 msgstr ""
+"Probablemente haremos algunos comentarios extra sobre cosas que cambiar, "
+"esto no es una mala señal. No esperamos que lo sepas todo a la primera, y "
+"además, puede que haya otras mejoras como añadir algunas referencias `See "
+"Also` que requieran mucha familiaridad con el código base."
 
 #: ../sprint/tutorials/pr_tutorial.md:161 353b3b79576c4d6cbc577cbf99c9baaf
 msgid ""
@@ -269,16 +298,21 @@ msgid ""
 "copy of the files (still on the same branch). Once you are finished, commit "
 "again (same command but different message):"
 msgstr ""
+"Si necesitas corregir algunos comentarios, tendrás que modificar tu copia "
+"local de los archivos (aún en la misma rama). Una vez que hayas terminado, "
+"confirma de nuevo (el mismo comando pero con un mensaje diferente):"
 
 #: ../sprint/tutorials/pr_tutorial.md:169 85830769bc024d28975f2d7ce53aa66a
 msgid "Now you can push with:"
-msgstr ""
+msgstr "Ahora puedes hacer push con:"
 
 #: ../sprint/tutorials/pr_tutorial.md:175 9aaa4371dfa34c288075b581a9488ec9
 msgid ""
 "The remote and branch name are only needed the first time. After pushing you"
 " should see that the PR on GitHub has been updated."
 msgstr ""
+"El remoto y el nombre de la rama solo se necesitan la primera vez. Después "
+"de hacer push deberías ver que el PR en GitHub ha sido actualizado."
 
 #: ../sprint/tutorials/pr_tutorial.md:178 eabc398a358a431faa70b82e78be4785
 msgid ":"
@@ -289,6 +323,8 @@ msgid ""
 "Your PR will be merged as soon as possible after that and you can properly "
 "celebrate your merged PR to PyMC! Thanks for contributing!"
 msgstr ""
+"¡Tu PR será fusionado tan pronto como sea posible después de eso y podrás "
+"celebrar adecuadamente tu PR fusionado a PyMC! ¡Gracias por contribuir!"
 
 #: ../sprint/tutorials/pr_tutorial.md:201 c339f5189a964bb0aa2a586d21e2f54c
 msgid "{fas}`heart;sd-fs-1 sd-text-danger`"

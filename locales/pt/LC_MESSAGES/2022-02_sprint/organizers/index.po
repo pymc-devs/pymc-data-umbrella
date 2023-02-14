@@ -24,49 +24,51 @@ msgstr ""
 
 #: ../2022-02_sprint/organizers/index.md:2 b744b05178684f709d347a106fe4fa00
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: ../2022-02_sprint/organizers/index.md:5 05c286d6a83f4fa79641d8b282710560
 msgid ""
 "Wondering if the sprint is for you? We have got just the page: "
 "{ref}`decision_tree`"
 msgstr ""
+"Quer saber se o sprint é para você? Temos apenas a página: "
+"{ref}`decision_tree`"
 
 #: ../2022-02_sprint/organizers/index.md:9 3e2f1fc032ba43f7bb94c051d3e5d8f2
 msgid "Organizers"
-msgstr ""
+msgstr "Organizadores"
 
 #: ../2022-02_sprint/organizers/index.md:14 02d0c6818980412c9cce0775336ede2a
 msgid "Meenal Jhajharia"
-msgstr ""
+msgstr "Meenal Jhajharia"
 
 #: ../2022-02_sprint/organizers/index.md:22 9bc9edb60d5d4dafa3afc4e59f460bec
 msgid "Meenal  Jhajharia"
-msgstr ""
+msgstr "Meenal  Jhajharia"
 
 #: ../2022-02_sprint/organizers/index.md:24
 #: ../2022-02_sprint/organizers/index.md:32 a00e7f20891b4a75913b87acd47132ff
 #: a90754fd652046b1b4dc1c36ab512da2
 msgid "Reshama Shaikh"
-msgstr ""
+msgstr "Reshama Shaikh"
 
 #: ../2022-02_sprint/organizers/index.md:34
 #: ../2022-02_sprint/organizers/index.md:42 09f7801ccfea4c8095c05189037e0586
 #: 84aa5e38aac84c11b84e16c3cff7ff4d
 msgid "Beryl Kanali"
-msgstr ""
+msgstr "Beryl Kanali"
 
 #: ../2022-02_sprint/organizers/index.md:44
 #: ../2022-02_sprint/organizers/index.md:52 86af399c619e4e88af3135f6e9673521
 #: 13b3c5b731784335917203774dc5e7e9
 msgid "Sandy Weng"
-msgstr ""
+msgstr "Sandy Weng"
 
 #: ../2022-02_sprint/organizers/index.md:54
 #: ../2022-02_sprint/organizers/index.md:62 b78464142ba74de7a0ef67fca99800d7
 #: e81a8bce0c8543b295ff9f3d6d82c0d0
 msgid "Oriol Abril Pla"
-msgstr ""
+msgstr "Oriol Abril Pla"
 
 #: ../2022-02_sprint/organizers/index.md:66 a25432dce42f4a0881d672edd1b26111
 msgid ""
@@ -78,10 +80,17 @@ msgid ""
 "Luhmann](http://cluhmann.github.io/)(Volunteer) and "
 "[NUMFOCUS](https://numfocus.org) for their support."
 msgstr ""
+"Além disso, agradecemos a [Ravin Kumar](https://ravinkumar.com)(Voluntário),"
+" [Austin Rochford](https://austinrochford.com)(Palestrante), [Ricardo "
+"Vieira(](https://github. com/ricardoV94/)Palestrante), [Sayam "
+"Kumar](https://github.com/Sayam753)(Voluntário), [Thomas "
+"Wiecki](https://twiecki.io)(Voluntário), [Christian Luhmann](http "
+"://cluhmann.github.io/)(Voluntário) e [NUMFOCUS](https://numfocus.org) pelo "
+"apoio."
 
 #: ../2022-02_sprint/organizers/index.md:68 3f5a6947551d4e279c40daa490dfe855
 msgid "About PyMC and Data Umbrella"
-msgstr ""
+msgstr "Sobre PyMC e Data Umbrella"
 
 #: ../2022-02_sprint/organizers/index.md:70 7ac694a41b604f7f844e7a3e6d5991c4
 msgid ""
@@ -92,6 +101,13 @@ msgid ""
 " source, organizes sprints / hackathons, curates resources on inclusive "
 "practices. All levels are welcome, beginners and experts."
 msgstr ""
+"[Data Umbrella](https://www.dataumbrella.org/) é uma comunidade global para "
+"pessoas sub-representadas em ciência de dados. É um projeto fiscalmente "
+"hospedado pela Open Collective, uma organização sem fins lucrativos "
+"registrada 501(c)(3) com sede na Califórnia, EUA. Data Umbrella: organiza "
+"séries de palestrantes on-line sobre ciência de dados e código aberto, "
+"organiza sprints/hackathons, seleciona recursos sobre práticas inclusivas. "
+"Todos os níveis são bem-vindos, iniciantes e especialistas."
 
 #: ../2022-02_sprint/organizers/index.md:72 9521746764bb441aade6e04b60b260e5
 msgid ""
@@ -102,10 +118,16 @@ msgid ""
 "make it applicable to a large suite of problems. PyMC is a non-profit "
 "project under NumFOCUS."
 msgstr ""
+"[PyMC](https://docs.pymc.io/en/latest/about.html) é um pacote de programação"
+" probabilística para Python que permite aos usuários ajustar modelos "
+"bayesianos usando uma variedade de métodos numéricos, principalmente a "
+"cadeia de Markov Monte Carlo ( MCMC) e inferência variacional (VI). Sua "
+"flexibilidade e extensibilidade o tornam aplicável a um grande conjunto de "
+"problemas. PyMC é um projeto sem fins lucrativos da NumFOCUS."
 
 #: ../2022-02_sprint/organizers/index.md:74 b8d806cd761a4e2f81f7547b83f78c32
 msgid "Banner code and credit"
-msgstr ""
+msgstr "Código do banner e crédito"
 
 #: ../2022-02_sprint/organizers/index.md:75 d6fffb7f60334370b68ed757e407da46
 msgid ""
@@ -120,3 +142,13 @@ msgid ""
 " even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) "
 "about it!!"
 msgstr ""
+"Este [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
+"umbrella/main/banner.png) é gerado a partir de [este "
+"código](https://raw.githubusercontent.com/pymc -devs/pymc-data-"
+"umbrella/main/banner.py), o código neste link é uma customização trivial do "
+"[código original](https://github.com/pymc-devs/pymcon/blob/gh- "
+"pages/assets/make_trajectories.py) por [Colin "
+"Caroll](https://colindcarroll.com) que projetou um [banner semelhante para "
+"pymcon'20](https://pymcon.com/), Colin é incrível em material de "
+"visualização e até tem algumas "
+"[palestras](https://github.com/ColCarroll/yourplotlib) sobre isso!!"

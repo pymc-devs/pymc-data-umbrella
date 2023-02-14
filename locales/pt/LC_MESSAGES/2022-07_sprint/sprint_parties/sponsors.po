@@ -24,17 +24,17 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/sponsors.md:1
 #: 9f51e80191cc4843b0d0e2bc787a0185
 msgid "Data Umbrella Sponsors"
-msgstr ""
+msgstr "Patrocinadores de  Umbrella Sponsors"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
 #: 6d774e6fe4a843748ad1dcb97e7ee363
 msgid "![Google](../../_static/sponsors/google_color.png)"
-msgstr ""
+msgstr "![Google](../../_static/sponsors/google_color.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
 #: ba18ee0ce8bc4d71a9fb8a4eaa800e4f
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:11
 #: 6e5772475300452a992e70acee62a7cf
@@ -42,32 +42,36 @@ msgid ""
 "We bring all the value of open source to Google and all the resources of "
 "Google to open source."
 msgstr ""
+"Trazemos todo o valor do código aberto para o Google e todos os recursos do "
+"Google para o código aberto."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
 #: c75b9ef63a9c4481b79dd7cac354fe57
 msgid "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
-msgstr ""
+msgstr "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
 #: 6a4acf05996c4da5893a7912d67ad788
 msgid "PyMC Labs"
-msgstr ""
+msgstr "PyMC Labs"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:20
 #: 06e6c8f17d7c4a519d20465cea63e418
 msgid ""
 "The Bayesian Consultancy. We bring Bayesian methods into wide practice."
 msgstr ""
+"A Consultoria Bayesiana. Nós trazemos métodos bayesianos para a prática "
+"ampla."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
 #: f6381dcb12df4abfadd54118b1196f7c
 msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
-msgstr ""
+msgstr "![CZI](../../_static/sponsors/czi-logo.jpg)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
 #: 3bd7c6b2b4c34140a0eeb1c7f2aede4a
 msgid "CZI"
-msgstr ""
+msgstr "CZI"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:29
 #: 7584070b22ad4599b51551f9533ac2fe
@@ -77,3 +81,7 @@ msgid ""
 "communities. Our mission is to build a more inclusive, just, and healthy "
 "future for everyone."
 msgstr ""
+"Ajudamos a resolver alguns dos desafios mais difíceis da sociedade - desde a"
+" erradicação de doenças e melhoria da educação até o atendimento das "
+"necessidades de nossas comunidades locais. Nossa missão é construir um "
+"futuro mais inclusivo, justo e saudável para todos."

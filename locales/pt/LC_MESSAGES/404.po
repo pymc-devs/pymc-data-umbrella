@@ -23,14 +23,16 @@ msgstr ""
 
 #: ../404.md:1 f54b6e65cc1c4527bebe8207d1277da0
 msgid "Page not found"
-msgstr ""
+msgstr "página não encontrada"
 
 #: ../404.md:3 e80ab89759a3444a8cd8af36f401269d
 msgid "Sorry, we were unable to find this page."
-msgstr ""
+msgstr "Desculpe, não foi possível encontrar esta página."
 
 #: ../404.md:5 bb6a365a202646549803aba57c1239ba
 msgid ""
 "If it has been moved, you can use the navigation bar on top or the search "
 "bar on the left sidebar to find it again."
 msgstr ""
+"Se ele foi movido, você pode usar a barra de navegação na parte superior ou "
+"a barra de pesquisa na barra lateral esquerda para encontrá-lo novamente."
