@@ -23,11 +23,11 @@ msgstr ""
 
 #: ../about/contributing_to_pymc/index.md:2 5012db61f3524d0989319ac1110eeebd
 msgid "Contributing to PyMC"
-msgstr ""
+msgstr "Contribuindo para o PyMC"
 
 #: ../about/contributing_to_pymc/index.md:4 6e9fe32e31114ef7a18d9a350e0d02d8
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: ../about/contributing_to_pymc/index.md:5 1c0832c6f8cc4baca66c454bde3e7726
 msgid ""
@@ -39,28 +39,38 @@ msgid ""
 "contributions without taking any of the magic out of them! This presentation"
 " was described as \"inspiring and authentic\"."
 msgstr ""
+"De contribuidor pela primeira vez até mantenedor de projeto. Como se dá? "
+"Nesse testimonial, Ricardo Vieira revisita os passos de suas primeiras "
+"contribuições para Softwares Open Source, mais especificamente para a "
+"biblioteca do PyMC. Ele então avança um ano até o presente e nos mostra como"
+" é revisar a primeira contribuição de alguém. Esperamos que isso ajude a "
+"desmistificar as contribuições de open source sem tirar a mágica delas! Esta"
+" apresentação foi descrita como \"inspiradora e autêntica\"."
 
 #: ../about/contributing_to_pymc/index.md:7 a40edad78e97416b9fde905c91f37d22
 msgid "Details"
-msgstr ""
+msgstr "Detalhes"
 
 #: ../about/contributing_to_pymc/index.md:9 74076eb92fc640a69f6e4e51cfd6d840
 msgid "Audience: People who are interested in contributing to Open source"
 msgstr ""
+"Audiência: Pessoas interessadas em contruibuir para projetos Open Source"
 
 #: ../about/contributing_to_pymc/index.md:10 badbced95664498685cefdd3791812ae
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
-msgstr ""
+msgstr "[Repo no Github](https://github.com/pymc-devs/pymc-data-umbrella)"
 
 #: ../about/contributing_to_pymc/index.md:11 a367060ca11c467095de8d3aef2bac4e
 msgid ""
 "[Slides](https://pymc-data-"
 "umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 msgstr ""
+"[Apresentação](https://pymc-data-"
+"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 
 #: ../about/contributing_to_pymc/index.md:13 122516d86f624c0f846560471e4e9062
 msgid "Speaker"
-msgstr ""
+msgstr "Palestrante"
 
 #: ../about/contributing_to_pymc/index.md:14 59488ef587f24362a0320dba56525098
 msgid ""
@@ -68,7 +78,10 @@ msgid ""
 " several years teaching himself Statistics and Computer Science at the "
 "expense of his official degrees in Psychology and Neuroscience."
 msgstr ""
+"Ricardo Vieira é um desenvolvedor do PyMC e cientista de dados na PyMC Labs."
+" Ele passou anos aprendendo sozinho Estatística e Ciência da Computação, "
+"deixando de lado sua graduação em Psicologia e Neurociência."
 
 #: ../about/contributing_to_pymc/index.md:16 ce55dc9ecd324ce2874cd7f3e916f0fa
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"

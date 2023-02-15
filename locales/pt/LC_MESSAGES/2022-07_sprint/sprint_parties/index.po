@@ -24,4 +24,4 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/index.md:1
 #: 2e2292ef76d14d91a4dde5a9fcdba558
 msgid "About"
-msgstr ""
+msgstr "Sobre"

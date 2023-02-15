@@ -184,20 +184,26 @@ msgid ""
 " them on [PyMC Discourse](https://discourse.pymc.io/) the whole PyMC "
 "community (core contributors included) will do their best to help you out."
 msgstr ""
+"{bdg-danger}`STOP`: ¿Alguna pregunta sobre PyMC hasta ahora?  Te instamos a "
+"preguntarlas en [el discourse de PyMC](https://discourse.pymc.io/), donde la"
+" comunidad entera de PyMC (contribuidores principales inclusive) harán su "
+"mejor esfuerzo para ayudarte."
 
 #: ../sprint/sprint-cheatsheet.md:70 5687538385674bec9cf38f0b5db52d96
 msgid "Interested in contributing to code, to documentation or a bit of both?"
-msgstr ""
+msgstr "¿Te interesa contribuir código, documentación, o un poco de ambos?"
 
 #: ../sprint/sprint-cheatsheet.md:71 e1672caa73194c4399fcc03e2c4b9a95
 msgid "Before anything, thanks {octicon}`heart`"
-msgstr ""
+msgstr "Antes que nada, gracias {octicon}`heart`"
 
 #: ../sprint/sprint-cheatsheet.md:73 35aec3ace14d4b9f9d8ea577305c5c9e
 msgid ""
 "Now you should have all the context necessary to start contributing. Let's "
 "go watch the webinars preparing you to contribute."
 msgstr ""
+"Ahora deberías tener todo el contexto necesario para empezar a contribuir. "
+"Vamos a ver los webinars que te van a preparar para contribuir."
 
 #: ../sprint/sprint-cheatsheet.md:76 ad064c24d802442cbe72f3f72f3fb0bb
 msgid ""
@@ -205,18 +211,23 @@ msgid ""
 "docs or code contributions. Specific steps are separated in two columns, "
 "left for docs specific, right for code specific."
 msgstr ""
+"Desde aquí, habrán pasos en común para todo el mundo y pasos específicos "
+"para las contribuciones de documentación o código. Los pasos específicos "
+"están separados en dos columnas: a la izquierda, los que son específicos "
+"para la documentación, y a la derecha los que son específicos para el "
+"código."
 
 #: ../sprint/sprint-cheatsheet.md:84 b54fae33466845978bafb4dccc0d440b
 msgid "Watch the webinar {ref}`contributing_docs`"
-msgstr ""
+msgstr "Mira el webinar {ref}`contributing_docs`"
 
 #: ../sprint/sprint-cheatsheet.md:87 b2b6945e8cf54914b8a5cff805b46ece
 msgid "Watch the webinar {ref}`contributing_to_pymc`"
-msgstr ""
+msgstr "Mira el webinar {ref}`contributing_to_pymc`"
 
 #: ../sprint/sprint-cheatsheet.md:90 a0622ef95ef8483ea4465d19e764697d
 msgid "Have you already contributed to PyMC?"
-msgstr ""
+msgstr "¿Ya has contribuido a PyMC antes?"
 
 #: ../sprint/sprint-cheatsheet.md:91 3a5292c1ce99433d955209ea166671f9
 msgid ""
@@ -227,10 +238,16 @@ msgid ""
 " can then focus on the content of your contributions, not struggle with the "
 "tooling."
 msgstr ""
+"Si no lo has hecho, te recomendamos leer este tutorial: "
+"{ref}`docstring_tutorial`. Cubre todos los pasos desde cero hasta mandar un "
+"pull request que mejora un docstring. Creemos que esto te ayudará a "
+"familiarizarte rápidamente con Git, GitHub, y todo el proceso para "
+"contribuir para que te puedas concentrar en el contenido de tus "
+"contribuciones y no tengas problemas con las herramientas."
 
 #: ../sprint/sprint-cheatsheet.md:98 d2bbb26cd3654857848a289813b27d4d
 msgid "Planning to participate in the event?"
-msgstr ""
+msgstr "¿Planeas participar en el evento?"
 
 #: ../sprint/sprint-cheatsheet.md:100 59f3046c5d50425f8dcdb6f09bc83b99
 msgid ""
@@ -238,3 +255,7 @@ msgid ""
 "umbrella/events/283178769/), join Discord, watch [Discord intro video by "
 "DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 mins)"
 msgstr ""
+"Regístrate como asistente en el [evento de "
+"Meetup](https://www.meetup.com/data-umbrella/events/283178769/), únete a "
+"Discord, mira el [vídeo de introducción a Discord de "
+"DataUmbrella](https://www.youtube.com/watch?v=w2A8SknM-68) (10 minutos)"
