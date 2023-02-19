@@ -39,15 +39,6 @@ Sandra Meneses
 :::{grid-item}
 :class: sd-text-center
 
-<!-- <img alt="Sandy Weng" src="../../_static/people/sandy.jpg" class="rounded-circle">
-
-Sandy Weng
-
-[{fab}`linkedin-in`](https://www.linkedin.com/in/sandy-weng-a0959762)
-:::
-:::{grid-item}
-:class: sd-text-center
--->
 <img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle"> 
 
 Cristina Mulas Lopez
@@ -199,29 +190,38 @@ Additionally, we thank all the PyMC team members who contributed by reviewing pu
 
 ## Community Contributors
 
+Community contributors help with various activities such as updating the event website, outreach and more. 
+
 ::::{grid} 2 2 3 4
 :gutter: 5
 
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Cristiin Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
+<img alt="Cristian Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
 
 Cristián Maureira-Fredes
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)
 :::
+
+::::
+
+## Translators
+
+::::{grid} 2 2 3 4
+:gutter: 5
+
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Lucy Jiminez" src="../../_static/contributors_2022_07/Lucy_Jimenez.jpeg" class="rounded-circle">
+<img alt="Cristian Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
 
-Lucy Jiminez
+Cristián Maureira-Fredes
 
-[{fab}`github`](https://github.com/LucyJimenez)
-[{fab}`linkedin-in`](https://www.linkedin.com/in/lucy-j/)
-[{fab}`twitter`](https://twitter.com/JimenezLucyJ)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)
 :::
+
 ::::
 
 ## About PyMC and Data Umbrella
