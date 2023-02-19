@@ -85,18 +85,7 @@ Oriol Abril Pla
 [{fab}`github`](https://github.com/oriolabril)
 [{fab}`twitter`](https://twitter.com/oriolabril)
 :::
-<!-- :::{grid-item}
-:class: sd-text-center
 
-<img alt="Thomas Wiecki" src="../../_static/people/thomas_wiecki.jpeg" class="rounded-circle">
-
-Thomas Wiecki
-
-[{fas}`globe`][thomas_web]
-[{fas}`briefcase`][thomas_work]
-[{fab}`github`][thomas_github]
-[{fab}`twitter`][thomas_twitter]
-::: -->
 ::::
 
 ## PyMC Mentors
