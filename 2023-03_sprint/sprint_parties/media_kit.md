@@ -22,18 +22,11 @@ This is our official hashtag and can be used on social media (Twitter, LinkedIn,
 
 Our event series can be shared in one or more of the following ways:
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
-- Event registration form:  https://tinyurl.com/du-pymc-os-ws
-- Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
-- LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)
+- Event registration form:  https://tinyurl.com/du-pymc-os-ws [UPDATE]
+- Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080 [UPDATE]
+- LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/) [UPDATE]
 - Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280×640px.png
-- Meetup event: can share links or cross-post the event with your Meetup group
-    | Event                         | Date             | Time    | Duration | MeetUp |
-    |-------------------------------|------------------|---------|----------|--------|
-    | Pre-series Office Hours       | Jul 2 (Saturday) | 13 UTC  | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/) |
-    | Working Session #1            | Jul 9 (Saturday) | 13 UTC  | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/) |
-    | Working Session #2            | Jul 22 (Friday)  | 16 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628677/) |
-    | Working Session #3            | Aug 4/5 (Th/Fr)  | 23 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628723/) |
-    | Post-series Office Hours [^1] | Aug 18 (Sat)     |  23 UTC | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/) |
+- Meetup event: can share links or cross-post the event with your Meetup group [* UPDATE: add meetup link *]
 - Email copy (button to copy all text available at the top right of the code block)
 
   ```none
