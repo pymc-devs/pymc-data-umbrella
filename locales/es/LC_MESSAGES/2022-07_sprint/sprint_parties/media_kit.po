@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Leonardo <gomezgleonardob@gmail.com>, 2023
+# Anavelyz Perez, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-02-18 09:43+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Leonardo <gomezgleonardob@gmail.com>, 2023\n"
+"Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,338 +23,338 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:3
-#: 276145aa4b8a4e61bdea09db20220413
+#: 127c3e0318c441018c170848f91a8ee9
 msgid "Social Media Kit"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:5
-#: c622ffbd208f401c888248c684de6c9c
+#: 7f5e09e2800840269bbbfb3fcdfbdb1f
 msgid "Event Hashtag"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:6
-#: 693eae06968a4c14823f23c5fdf63239
+#: fec2abcce71f4283a2554bb43be6c643
 msgid ""
 "This is our official hashtag and can be used on social media (Twitter, "
 "LinkedIn, Instagram, etc.)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:9
-#: cda02bc8773141d79b5f74d07176da6d
+#: 2b33be020a9840acb9f77ce98b4d43af
 msgid "#DataUmbrellaPyMCSprint {material-sharp}`favorite;2em;sd-text-danger`"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:13
-#: 2a6837658610469d867987836196f5d8
+#: b58dbced1e144214be67c31317d02f9e
 msgid "Social Media Accounts"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: aab27e7af480421f9ab6bd1c84e0409d
+#: 7da9b46344da44b48993e130cbcab204
 msgid "Organization"
 msgstr "Organización"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 9b52dcca0b204da2be2893d0ee517986
+#: cb9d21982ef642cd8e554488ac2b2e21
 msgid "Twitter"
 msgstr "Twitter"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: e057888be37f45a59cf7909b98de1462
+#: 44c040474051472e8c5b964e4b254651
 msgid "LinkedIn"
 msgstr "Linkedin"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 04d4350dc54a47df89408f9e8cf92fc4
+#: 068b4eb6ba834bc6854e83fc6fbca41b
 msgid "Facebook"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 95c3145d4b9140feb95a3733965d358f
+#: 36500321dc9741858a282e4860f3c3c2
 msgid "Instagram"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 96561eb73c8d4ec1920abff21197f643
+#: d2dab9aec403409a860dc332a9ca13f6
 msgid "Discourse"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 19f69335143a4c9ca31fc16ca8c4af09
+#: c8a92546de42442ba6efc3c2426d8159
 msgid "Data Umbrella"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 998ab07341f5413e96324cfb75eac756
+#: 16f4df766f6141f8aa8081b6f0b68ac5
 msgid "[@DataUmbrella](https://twitter.com/DataUmbrella)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 11f3c668515348458b67983308f6fcf1
+#: 68779b82c194409ba125df21bc400aa0
 msgid "[dataumbrella](https://www.linkedin.com/company/dataumbrella/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: a46e57bb0b544884b72b01367a266d49
+#: e7d43b5d1d2f453fad1aa12b5c71c487
 msgid "[data.umbrella.dei](https://www.facebook.com/data.umbrella.dei)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 71ef69f6ef734d3a9c68f5066b03c69a
+#: ef9aeeb720864adf846917b24b696801
 msgid "[@data.umbrella](https://www.instagram.com/data.umbrella/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 96463fc6ad8c42b89d4ba42fd18f391d 8d41c7910c254a75857226505524cb3f
-#: 52563696e88a4449a59f867f549fd955
+#: 5fa5a038e9524d6a84f0371d6e810773 ac9f427473af44c588c956018f3e11cd
+#: 637fa672aa5c41c081ac520041994102
 msgid "N/A"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: c217acf0295347cdbbb7f4b311930b9c
+#: da7d3703d68449018555c7c567b3739c
 msgid "PyMC"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 386ddd6343794f28b0856350d1a781c9
+#: 8224b89c0c0b467f886da00b993d5c44
 msgid "[@pymc_devs](https://twitter.com/pymc_devs)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: b74fc602b608474fa8e9703ab339f0b1
+#: 13cdd503af444585a8440501e636b4ed
 msgid "[pymc](https://www.linkedin.com/company/pymc/mycompany/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 1e6f08c72b46409ea94efb7d76977c61
+#: 0a1a7b95577b46ea8c11bd2481874be3
 msgid "[discourse.pymc.io](https://discourse.pymc.io)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:21
-#: b05b14c59e6e42c597322337576dec4a
+#: dd2f12dea676418196885f2f76ff6394
 msgid "Share Our Events"
 msgstr "Comparte Nuestros Eventos"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:23
-#: d42fdea2b5ad41d39ff884b7d53a6c13
+#: b26df90f2dc44cde8d21e5aa6c304b7d
 msgid "Our event series can be shared in one or more of the following ways:"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:24
-#: b426ae390271463494abf826cb0a731e
+#: 610af64be1cd4ae18e070fe79fc490ae
 msgid "Event website: https://pymc-data-umbrella.xyz/en/latest/"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:25
-#: 4f443359a6b241f2b0680f571a65ce6c
+#: 0d94b8aefaf543e1a839b9adeebd8432
 msgid "Event registration form:  https://tinyurl.com/du-pymc-os-ws"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:26
-#: 992ada8f5e1440eebdde918b0be81300
+#: 6d97a3e3c3ab4b93924a699c13c42072
 msgid "Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:27
-#: 2c66b2b7ca3649968daa8b3b2ab4144b
+#: 0c6a080b9f574170aae75d24d01b12df
 msgid ""
 "LinkedIn post: "
 "[https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:28
-#: b7cd83822574428c989d3c088ad714bb
+#: 731cf2562f674940b644a9abbfca1e92
 msgid ""
 "Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-"
 "umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:29
-#: 2e1b060da4644e7283c53d74b7f9b629
+#: 01586ecabc0044e0bed341365bd92247
 msgid ""
 "Meetup event: can share links or cross-post the event with your Meetup group"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 5b4c6dfe125d49b49eacae6c6a8bb6c4
+#: ee2ad60bbb27403782fae3053d6bbae9
 msgid "Event"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 3c8ad22602fc4dfcb4c1949e965f9bb5
+#: 8c8b1fbe063c465096eb922b94dbbdc3
 msgid "Date"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: e83bbb98c7c84cf9ad001a4f44348718
+#: 82cb63849bf14519bf22cca7a18cbc74
 msgid "Time"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 7879f71732ad497f9ac8098846e13cd9
+#: 2e9d9a571795418ab437b53516866eec
 msgid "Duration"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 869b8b85759c4e1393eed016f327ff91
+#: 6cec0041e87f4a8682c6e0fee75fd2c1
 msgid "MeetUp"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 2e6988e28a2c48fd95410be0ae0db2ae
+#: e6900dc9595947dbafd03cce9ce6575a
 msgid "Pre-series Office Hours"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 05b8ef1ef9e142cea91e4100b6a66a7e
+#: 5c33c4deca6b42beb35ca3c51da2096d
 msgid "Jul 2 (Saturday)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 3bcd5b1665bf4c3399a199f5f8928126 948e816da02541569b02f463f38b831b
+#: bc73ceb54b634a8896fc4a54c6074e86 881f4926ff144c0d8468acaeda6d53c5
 msgid "13 UTC"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: d8a49d822287412ab77601261eac668d a629eb8f8efc4919b94f9461cca60fba
+#: 0165114326f548f0b92428e372f8970f 80adba174eae41e781ecc147189bd5da
 msgid "1 hour"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 7e243837c0cf4cab85296052ddfb397c
+#: 05c5b2d05e7744bfa91fb77fd68f19d7
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 94adb381c16944d98457191c3ca6e991
+#: 428d872d88c24cf29b87604a76f05f8b
 msgid "Working Session #1"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: f9c0d498b1fe4767b64baf458963db77
+#: 560ea534f7564873accbe5737fae4547
 msgid "Jul 9 (Saturday)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: dbb5b7bc477d4d69aaacf98ad5347875 06190d2ebfea46548163099f756a0ec2
-#: 548c40ae19c84acc8f1d2a928a02c50c
+#: a9824cc9d4cf486e9d3ec4349239500f 9bdd06d4e7d1484cb7a4fb35721f5c59
+#: 298118bc7b6f49a4b2b8719304facc0e
 msgid "3 hours"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 649014edba064abd82671b11107094dc
+#: f202bda794d64921adefa9bf5b22f325
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 77c8cbdf4d7048328bb4a1c3b4d54918
+#: d3f0f0e62b24495ab80b48b3afc832f6
 msgid "Working Session #2"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 5532d9f6e7d744dcb7798ff569393356
+#: 8d305d99475c446e9839ff96e987b17e
 msgid "Jul 22 (Friday)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: f1d36df4111e4881a74bd604247cfe65
+#: 074bf93f34de402498733a8696f6a5c3
 msgid "16 UTC"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: b81fbe5c56af46ce895b93ce7d872f74
+#: 7636dc1ed07748c1911c393bd4f937c6
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 63c894ded3bf47308fcf7dc4536db162
+#: 1a6e6ada23a54c9987ccd5600d0ae445
 msgid "Working Session #3"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 06159203e5b445cd98836c20831d12bd
+#: 393e2ed53cbe4be18481acceabf025c6
 msgid "Aug 4/5 (Th/Fr)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 2875725bbdc04594bec3ebb4ec835049 6e10479ee3ad4cb0a9596c289ea01421
+#: 68c32aed752d4cc397407fa3a5febd2c be04071a85bd44419280fd1b7d351eff
 msgid "23 UTC"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 8dd8589affb1496b86d473715e1c7afd
+#: 1b7cfcb62eb248a5a025be87c1b072cc
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: eb9850d78b77423da261ec8afca29ef5
+#: ef9fdcfdb4534e5cb6da14e4e63bd07c
 msgid "Post-series Office Hours [^1]"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: b06524b115554e8ab36797d8f93feaaf
+#: 8f0b61a847744fd8b72a5c2064aaed8c
 msgid "Aug 18 (Sat)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:8
-#: 5fc2c3efaf054efd9939fcc90e42aecf
+#: 08543f571f994c2083df99fd8a0ffcfb
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:37
-#: 3a07d52f9d2a4e0ba897a2e18b0ba0c9
+#: 57b359699531437ea2d7444325fe2f99
 msgid ""
 "Email copy (button to copy all text available at the top right of the code "
 "block)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:50
-#: 6f70cacaa5fa4cd29b0b975fed1fc30e
+#: 041b5d4b924c4e868920fd2701df6cc5
 msgid "Channels to Share"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:51
-#: baa590760cdb4582b9b8e0831ab94e45
+#: 16851705aee64c04841cf9d8c9e1ab9a
 msgid "Communication servers: Slack, Discord"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:52
-#: 98201b10688f426fb96ef137f6bf0818
+#: b58fa6760fd646d9b441145e39052550
 msgid "Social media: Facebook, Instagram"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:53
-#: e5fe9528489d4726b8f3fb2336f0822c
+#: 9babd067bfbf48cfbad0ac5ad5af51a8
 msgid "Mobile communities: WhatsApp, Telegram"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:54
-#: e3d7def4feae400ca6c9d3d53fab2db2
+#: b2a99935aafc4516bca4d615590d0689
 msgid "Newsletters"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:56
-#: 06f544fafc00421592759c6fa72750a2
+#: 37f3ba9d722644af831a5c27eb24890b
 msgid "Logos"
 msgstr "Logos"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:57
-#: f9aa57b238074467a0aae80a3a275272
+#: d17d6d23ba654ed98915dfd869ff746d
 msgid "Data Umbrella: [Brand and Logo](https://github.com/data-umbrella/info)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:58
-#: 508e5e93df1e45538254069670d4845c
+#: b799b8fb0f9645c18e0763b277a0585b
 msgid "PyMC Devs:  [Brand & Logo](https://github.com/pymc-devs/brand)"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:62
-#: 947358f2d029414ebed9e7e7884cc961
+#: 2d14d9904ccb4196bf67507a33c1080c
 msgid "**Acknowledgement**"
 msgstr "**Agradecimientos**"
 
 #: ../2022-07_sprint/sprint_parties/media_kit.md:64
-#: d347373da17049139138f62864357413
+#: 75c7aa22b26d4c97b3a6782e3ed04b98
 msgid ""
 "We would like to thank [Pollicy](https://pollicy.org) for sharing their "
 "[DataFest Africa](https://datafest.africa) media kit as a resource to the "
