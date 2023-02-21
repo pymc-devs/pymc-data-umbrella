@@ -11,14 +11,17 @@
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should:
 
-1. Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-pymc-os-ws`
+1. Fill the registration form: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
 2. RSVP on MeetUp for the events you will be attending (links on table below)
 
 :::
 
 | Event                                     | Date               | Time                    | Duration |  RSVP       |
 |-------------------------------------------|--------------------|-------------------------|----------|-------------|
-| Open Source Working Session            | Mar 30, 2023 (Th)   |  10am ET / 15:00 UTC  | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/) [UPDATE!] |
+| Open Source Working Session            | Mar 30, 2023 (Th)   |  10am ET / 15:00 UTC  | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/291768545/)  |
+
+### Monthly Open Source Contributing Sessions
+We have monthly open source contributing sessions, referred to as "PyMC Study Sessions". We plan to invite people who attend this event and begin work on a pull request.  Please indicate on the registration form if you would like to join these sessions.
 
 
 ## Schedule with Timezones
