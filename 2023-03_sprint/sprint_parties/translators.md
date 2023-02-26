@@ -3,7 +3,7 @@
 We would like to thank everyone who translated this event website from English to Spanish and Portuguese. If you would like to volunteer for translations, see {ref}`language-translations`.
 
 ::::{grid} 2 3 4 5
-:gutter: 1
+:gutter: 5
 
 :::{grid-item}
 
