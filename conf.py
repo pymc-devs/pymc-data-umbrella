@@ -7,7 +7,6 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
-    "myst_nb",
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_thebe",
@@ -20,7 +19,16 @@ extensions = [
 locale_dirs = ["locales"]
 gettext_uuid = True
 gettext_compact = False
+gettext_additional_targets = ["index", "image"]
 language = os.environ.get("READTHEDOCS_LANGUAGE", "en")
+
+if language != "en":
+    # do not render ipynb files for translations
+    # they break the build for no reason
+    # TODO: look into this
+    extensions.append("myst_parser")
+else:
+    extensions.append("myst_nb")
 
 # configure notfound extension to not add any prefix to the urls
 notfound_urls_prefix = f"/{language}/latest/"
@@ -75,8 +83,17 @@ release = version
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
 exclude_patterns = [
-    "build", "Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "CONTRIBUTING.md", "jupyter_execute", "**.part.md", "write_tx_config.py"
+    "build",
+    "Thumbs.db",
+    ".DS_Store",
+    ".ipynb_checkpoints",
+    "README.md",
+    "CONTRIBUTING.md",
+    "jupyter_execute",
+    "**.part.md",
+    "write_tx_config.py"
 ]
+
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = "sphinx"
