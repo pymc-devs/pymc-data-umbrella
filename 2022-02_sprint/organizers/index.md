@@ -63,7 +63,7 @@ Oriol Abril Pla
 :::
 ::::
 
-Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam Kumar](https://github.com/Sayam753)(Volunteer), [Thomas Wiecki](https://twiecki.io)(Volunteer), [Christian Luhmann](http://cluhmann.github.io/)(Volunteer) and [NUMFOCUS](https://numfocus.org) for their support.
+Additionally, we thank [Ravin Kumar](https://ravinkumar.com) (Volunteer), [Austin Rochford](https://austinrochford.com) (Speaker), [Ricardo Vieira](https://github.com/ricardoV94/) (Speaker), [Sayam Kumar](https://github.com/Sayam753) (Volunteer), [Thomas Wiecki](https://twiecki.io) (Volunteer), [Christian Luhmann](http://cluhmann.github.io/) (Volunteer) and [NumFOCUS](https://numfocus.org) for their support.
 
 ## About PyMC and Data Umbrella
 
@@ -72,4 +72,4 @@ Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), [Austin
 [PyMC](https://docs.pymc.io/en/latest/about.html) is a probabilistic programming package for Python that allows users to fit Bayesian models using a variety of numerical methods, most notably Markov chain Monte Carlo (MCMC) and variational inference (VI). Its flexibility and extensibility make it applicable to a large suite of problems. PyMC is a non-profit project under NumFOCUS.
 
 ## Banner code and credit
-This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/banner.png) is generated from [this code](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/banner.py), the code in this link is a trivial customization of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-pages/assets/make_trajectories.py) by [Colin Caroll](https://colindcarroll.com) who designed a [similar banner for pymcon'20](https://pymcon.com/), Colin is amazing at visualization stuff and even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) about it!!
+This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/2022-02_sprint/banner.png) is generated from [this code](https://github.com/pymc-devs/pymc-data-umbrella/blob/main/2022-02_sprint/banner.py), the code in this link is a trivial customization of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-pages/assets/make_trajectories.py) by [Colin Caroll](https://colindcarroll.com) who designed a [similar banner for PyMCon 2020](https://pymc-devs.github.io/pymcon/), Colin is amazing at visualization stuff and even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) about it!!
