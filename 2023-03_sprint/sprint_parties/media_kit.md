@@ -1,4 +1,5 @@
-(2022_07_media_kit)=
+(media_kit_ref)=
+(media_kit)=
 # Social Media Kit
 
 ## Event Hashtag
@@ -21,18 +22,14 @@ This is our official hashtag and can be used on social media (Twitter, LinkedIn,
 
 Our event series can be shared in one or more of the following ways:
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
-- Event registration form:  https://tinyurl.com/du-pymc-os-ws
-- Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080
-- LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/)
-- Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2022_07/2022_07_banner_1280×640px.png
-- Meetup event: can share links or cross-post the event with your Meetup group
-    | Event                         | Date             | Time    | Duration | MeetUp |
-    |-------------------------------|------------------|---------|----------|--------|
-    | Pre-series Office Hours       | Jul 2 (Saturday) | 13 UTC  | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286552154/) |
-    | Working Session #1            | Jul 9 (Saturday) | 13 UTC  | 3 hours  | [MeetUp](https://www.meetup.com/data-umbrella/events/286552452/) |
-    | Working Session #2            | Jul 22 (Friday)  | 16 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628677/) |
-    | Working Session #3            | Aug 4/5 (Th/Fr)  | 23 UTC  |  3 hours | [MeetUp](https://www.meetup.com/data-umbrella/events/286628723/) |
-    | Post-series Office Hours [^1] | Aug 18 (Sat)     |  23 UTC | 1 hour   | [MeetUp](https://www.meetup.com/data-umbrella/events/286628791/) |
+- Event registration form:  
+    - English: https://forms.gle/3LBFNpG4zoU7dMCs9
+    - Spanish: [ needs to be translated ]
+    - Portuguese: [ needs to be translated ] 
+- Tweet:  https://twitter.com/DataUmbrella/status/  [UPDATE]
+- LinkedIn post: [ ]( ) [UPDATE]
+- Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280×640px.png
+- Meetup event: can share links or cross-post the event with your Meetup group [https://www.meetup.com/data-umbrella/events/291768545/](https://www.meetup.com/data-umbrella/events/291768545/)
 - Email copy (button to copy all text available at the top right of the code block)
 
   ```none
@@ -43,14 +40,16 @@ Our event series can be shared in one or more of the following ways:
   Additionally, we have a series of videos where participants can watch videos and add timestamps. There are lots of ways to participate and contribute to open source.
 
   More information on joining the event:
-  a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2022-07_sprint/schedule.html
-  b) Complete this registration form: https://tinyurl.com/du-pymc-os-ws
+  a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2023-03_sprint/schedule.html
+  b) Complete this registration form: https://forms.gle/3LBFNpG4zoU7dMCs9
+  c) Meetup event: https://www.meetup.com/data-umbrella/events/291768545/
   ```
 ### Channels to Share
 - Communication servers: Slack, Discord
 - Social media: Facebook, Instagram
 - Mobile communities: WhatsApp, Telegram
-- Newsletters
+- Meetup groups
+- Newsletters or mailing lists
 
 ## Logos
 - Data Umbrella: [Brand and Logo](https://github.com/data-umbrella/info)

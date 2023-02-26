@@ -28,7 +28,7 @@ Note:   It is *not required* to attend a specific session as a prerequisite for 
 
 Note: You can click on the table image below to view the full spreadsheet with a larger view.
 
-[![schedule with timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
+[![schedule with timezones](../_static/images/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)
 
 ## Exportable calendar
 
