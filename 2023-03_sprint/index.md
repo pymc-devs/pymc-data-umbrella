@@ -30,7 +30,7 @@ Note: You can click on the table image below to view the full spreadsheet with a
 
 [NEED TO UPDATE]
 
-[![schedule with timezones](../_static/images/2023_03_timezones.png)](https://docs.google.com/spreadsheets/d/1B4x_2VyXhvGfRaz1iQe2AOZeg4JVhoDs0csLUxQXIhA/edit?usp=sharing)
+<!-- [![schedule with timezones](../_static/images/2023_03_timezones.png)](https://docs.google.com/spreadsheets/d/1B4x_2VyXhvGfRaz1iQe2AOZeg4JVhoDs0csLUxQXIhA/edit?usp=sharing) -->
 
 ## Calendar
 

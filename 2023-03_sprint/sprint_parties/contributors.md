@@ -53,10 +53,11 @@ read the page {ref}`pr_tutorial` and follow the steps mentioned below:
 ::::
 
 ## Returning Contributors
-Returning contributors have previously participated in a Data Umbrella or PyMC open source event or have previously contributed to PyMC. 
+Returning contributors have previously participated in a Data Umbrella or PyMC open source event or have previously contributed to PyMC.
 
 ::::{grid} 2 3 4 5
 :gutter: 1
+
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
@@ -73,6 +74,7 @@ Bangalore, India
 
 ::::{grid} 2 3 4 5
 :gutter: 1
+
 :::{grid-item}
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">

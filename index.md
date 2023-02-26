@@ -7,7 +7,7 @@ DO NOT EDIT! This is only a placeholder to define the nabvar and is deleted to r
 :maxdepth: 1
 :hidden:
 
-Mar 2023 event <2023-03_sprint/schedule>
+Mar 2023 event <2023-03_sprint/index>
 People <2023-03_sprint/sprint_parties/index>
 Log of events <sprint_events>
 About PyMC <about/index>
