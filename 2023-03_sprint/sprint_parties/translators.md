@@ -1,6 +1,6 @@
 # Translators
 
-We would like to thank everyone who translated this event website from English to Spanish and Portuguese. If you would like to volunteer for translations, see 
+We would like to thank everyone who translated this event website from English to Spanish and Portuguese. If you would like to volunteer for translations, see {ref}language-translations.
 
 ::::{grid} 2 3 4 5
 :gutter: 1
@@ -13,7 +13,7 @@ Sandra Meneses
 
 Berlin, Germany
 
-[{fab}`linkedin`](https://www.linkedin.com/in/ariel-silvionorberto-ramos-03632321/)
+[{fab}`linkedin`](https://www.linkedin.com/in/symeneses/)
 :::
 
 :::{grid-item}
@@ -39,4 +39,3 @@ Argentina
 [{fab}`linkedin`](https://www.linkedin.com/in/ariel-silvionorberto-ramos-03632321/)
 :::
 ::::
-
