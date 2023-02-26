@@ -22,9 +22,12 @@ This is our official hashtag and can be used on social media (Twitter, LinkedIn,
 
 Our event series can be shared in one or more of the following ways:
 - Event website: https://pymc-data-umbrella.xyz/en/latest/
-- Event registration form:  https://tinyurl.com/du-pymc-os-ws [UPDATE]
-- Tweet:  https://twitter.com/DataUmbrella/status/1538875289652142080 [UPDATE]
-- LinkedIn post: [https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/](https://www.linkedin.com/feed/update/urn:li:activity:6944647561630662656/) [UPDATE]
+- Event registration form:  
+    - English: https://forms.gle/3LBFNpG4zoU7dMCs9
+    - Spanish: [ needs to be translated ]
+    - Portuguese: [ needs to be translated ] 
+- Tweet:  https://twitter.com/DataUmbrella/status/  [UPDATE]
+- LinkedIn post: [ ]( ) [UPDATE]
 - Social media card:  https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280×640px.png
 - Meetup event: can share links or cross-post the event with your Meetup group [* UPDATE: add meetup link *]
 - Email copy (button to copy all text available at the top right of the code block)
@@ -38,7 +41,7 @@ Our event series can be shared in one or more of the following ways:
 
   More information on joining the event:
   a) Schedule of events: https://pymc-data-umbrella.xyz/en/latest/2023-03_sprint/schedule.html
-  b) Complete this registration form: https://tinyurl.com/du-pymc-os-ws
+  b) Complete this registration form: https://forms.gle/3LBFNpG4zoU7dMCs9
   ```
 ### Channels to Share
 - Communication servers: Slack, Discord
