@@ -12,8 +12,8 @@
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should:
 
-1. Fill the registration form: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
-2. RSVP on MeetUp for the events you will be attending (links on table below)
+1. Complete the registration form: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
+2. RSVP on MeetUp for the event: {bdg-link-primary-line}`https://www.meetup.com/data-umbrella/events/291768545/`
 
 :::
 
