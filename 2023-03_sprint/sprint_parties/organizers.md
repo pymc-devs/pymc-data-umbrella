@@ -196,22 +196,6 @@ Cristián Maureira-Fredes
 
 ::::
 
-## Translators
-
-::::{grid} 2 2 3 4
-:gutter: 5
-
-:::{grid-item}
-:class: sd-text-center
-
-<img alt="Cristian Maureira-Fredes" class="rounded-circle" src="../../_static/people/cf.jpg">
-
-Cristián Maureira-Fredes
-
-[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)
-:::
-
-::::
 
 ## About PyMC and Data Umbrella
 
