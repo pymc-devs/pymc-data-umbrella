@@ -119,12 +119,16 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
-    "secondary_sidebar_items": ["page-toc", "searchbox", "edit-this-page", "sourcelink", "cheatsheet"],
+    "secondary_sidebar_items": [
+        "page-toc", "searchbox", "edit-this-page", "sourcelink", "cheatsheet"
+    ],
     "navbar_start": ["navbar-logo", "version-switcher"],
     "navbar_end": ["navbar-icon-links"],
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
-    "google_analytics_id": "G-8YL5S5CGYD",
+    "analytics": {
+        "google_analytics_id": "G-8YL5S5CGYD",
+    },
     "switcher": {
         "json_url": "https://pymc-data-umbrella.xyz/en/latest/_static/switcher.json",
         "version_match": language
