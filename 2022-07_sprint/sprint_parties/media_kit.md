@@ -1,7 +1,3 @@
----
-orphan:
----
-
 (2022_07_media_kit)=
 # Social Media Kit
 
