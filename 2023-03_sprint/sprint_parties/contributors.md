@@ -60,13 +60,13 @@ Returning contributors have previously participated in a Data Umbrella or PyMC o
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2023_03/cf2.jpg" class="rounded-circle">
 
-Sangam
+Cristián Maureira-Fredes
 
-Bangalore, India
+Berlin, Germany
 
-[{fab}`github`](https://github.com/SangamSwadiK)
+[{fab}`linkedin`](https://www.linkedin.com/in/cmaureir)
 :::
 ::::
 
