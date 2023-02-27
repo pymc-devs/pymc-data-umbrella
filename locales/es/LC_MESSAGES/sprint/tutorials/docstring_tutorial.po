@@ -1,15 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Anavelyz Perez, 2023
+# Alberto Mario Ceballos-Arroyo, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,50 +23,64 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../sprint/tutorials/docstring_tutorial.md:2
-#: 0c1323a602b54174906b52723177ed61
+#: 53945cf67cd54e6eb05b79029ba275fa
 msgid "Your first contribution to PyMC"
-msgstr ""
+msgstr "Tu primera contribución a PyMC"
 
 #: ../sprint/tutorials/docstring_tutorial.md:3
-#: af1b995cbca34440ba96dcba4e5e7bac
+#: f9b789b513df41559944fe5b483b69d2
 msgid ""
 "This tutorial will guide you in submitting your first {abbr}`PR (Pull "
 "Request)` to the [pymc](https://github.com/pymc-devs/pymc) repository. We "
 "have tried to cover all of the steps and to be clear with the expected "
 "result at each step is."
 msgstr ""
+"Este tutorial te guiará en el envío de tu primer {abbr}`PR (Pull Request)` "
+"al repositorio [pymc](https://github.com/pymc-devs/pymc). Hemos tratado de "
+"cubrir todos los pasos y ser claros con el resultado esperado en cada uno de"
+" ellos."
 
 #: ../sprint/tutorials/docstring_tutorial.md:7
-#: fcd28229edc348bc8a2bdc4689f7b835
+#: 87b43ecc947f4b7dbbb7cd80e7adb086
 msgid ""
 "You will start cloning the pymc repository, installing the requirements "
 "you'll need to contribute, making some changes to a docstring of your choice"
 " and submitting a pull request."
 msgstr ""
+"Empezarás clonando el repositorio pymc, instalando los requisitos que "
+"necesitarás para contribuir, haciendo algunos cambios en una cadena de "
+"documentación de tu elección y enviando un pull request."
 
 #: ../sprint/tutorials/docstring_tutorial.md:11
-#: 7318e7cfa8ce4b05a0a4de74935f2026
+#: b0bbfb4cbbce465a8eecc0f351aceba6
 msgid "Disclaimer"
-msgstr ""
+msgstr "Descargo de responsabilidad"
 
 #: ../sprint/tutorials/docstring_tutorial.md:12
-#: 0083b904669d46268faf819af447fefc
+#: 7f5e259692064704903ab30a7e0b80d4
 msgid ""
 "This is a tutorial as defined in [diataxis](https://diataxis.fr/tutorials/)."
 " Here are some things to take into account:"
 msgstr ""
+"Se trata de un tutorial tal y como se define en "
+"[diataxis](https://diataxis.fr/tutorials/). Aquí hay algunas cosas a tener "
+"en cuenta:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:15
-#: 036bf917482c441798f00199e3b3ecf0
+#: 59de4698b1d84da7800882d0fce3757f
 msgid ""
 "**Do I need to follow each step exactly as explained?** No, but we strongly "
 "recommend you follow them. Once you have submitted your first PR and feel "
 "comfortable with the process then you can start experimenting and making it "
 "your own."
 msgstr ""
+"**¿Tengo que seguir cada paso exactamente como se explica?** No, pero te "
+"recomendamos encarecidamente que los sigas. Una vez que hayas enviado tu "
+"primer PR y te sientas cómodo con el proceso, puedes empezar a experimentar "
+"y personalizarlo."
 
 #: ../sprint/tutorials/docstring_tutorial.md:18
-#: bf95a2882cd847c6b06f386ee60977f1
+#: 0964956f3bdb4eb3b98e2db828e7aa8d
 msgid ""
 "**Do I need to submit a docstring edit as my first PR?** No, but again, we "
 "strongly recommend you do. This will allow you to separate the contribution "
@@ -72,128 +91,176 @@ msgid ""
 "environments, GitHub PRs and {abbr}`CI (Continuous Integration)`) as quickly"
 " as possible so you can then focus on the content of your next PRs."
 msgstr ""
+"**¿Debo enviar una edición de la cadena de documentación como primer PR?** "
+"No, pero te recomendamos encarecidamente que lo hagas. Esto te permitirá "
+"separar el flujo de trabajo de la contribución del contenido de la "
+"contribución. Podremos ayudarte mucho mejor a lo largo del proceso si sigues"
+" estos pasos, ya que tendremos una idea clara de tu situación en todo "
+"momento. Creemos que esto te ayudará a sentirte cómodo con las herramientas "
+"y la infraestructura (git, entornos virtuales, GitHub PRs y {abbr}`CI "
+"(Integración Continua)`) lo antes posible para que luego puedas centrarte en"
+" el contenido de tus próximos PRs."
 
 #: ../sprint/tutorials/docstring_tutorial.md:25
-#: 32a0d6f48396473aa04616b102bea27b
+#: 32a861f454c54a828b86fb3716564e80
 msgid ""
 "**Will I understand the reasons for each step?** No, the goal of this "
 "tutorial is to teach you to do and through doing."
 msgstr ""
+"**¿Comprenderé las razones de cada paso?** No, el objetivo de este tutorial "
+"es enseñarte a hacer a través del hacer."
 
 #: ../sprint/tutorials/docstring_tutorial.md:29
-#: 17baab2ecbd84a71a9b51370d2b6c484
+#: 0bce6932af3b412da9cb2f6a547ad469
 msgid ""
 "If you prefer video to written content you can watch {ref}`Reshama "
 "<organizers>` go over this guide and submit a PR to PyMC in the following "
 "video:"
 msgstr ""
+"Si prefieres vídeo en lugar de contenido escrito, puedes ver a "
+"{ref}`Reshama<organizers>` repasar esta guía y enviar un PR a PyMC en el "
+"siguiente vídeo:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:35
-#: a9ca77dfde384677ba46a8a18291ac7a
+#: 5b1686e94df7404faf24df4b30baa21f
 msgid "Prepare your environment"
-msgstr ""
+msgstr "Prepara tu entorno virtual"
 
 #: ../sprint/tutorials/docstring_tutorial.md:37
-#: 1bc93115e2c7405da95ab7eb1a974fe2
+#: dde1dcc3def74adc919ce378d63b9010
 msgid ""
 "If you don't have your system configured yet, you can follow the "
 "instructions in the {ref}`environment_setup` tutorial."
 msgstr ""
+"Si aún no tienes configurado tu sistema, puedes seguir las instrucciones del"
+" tutorial {ref}`environment_setup`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:39
-#: 01c6a0f925a444258c938db6a27d13cd
+#: c04bae19a219422289d5bf94978c6aba
 msgid "Choose a docstring"
-msgstr ""
+msgstr "Escoge una cadena de documentación"
 
 #: ../sprint/tutorials/docstring_tutorial.md:40
-#: 101d33e5006d4aa5835ff8f8517d4a3b
+#: 9fdbc0ae1b3b43158360798397fb1559
 msgid ""
 "Go to the [PyMC API "
 "documentation](https://www.pymc.io/projects/docs/en/latest/api.html), click "
 "on the module (and submodule if needed) that calls you the most and choose a"
 " docstring on which to work."
 msgstr ""
+"Ve a [la documentación de la API de PyMC "
+"API](https://www.pymc.io/projects/docs/en/latest/api.html), haz clic en el "
+"módulo (y submódulo si es necesario) que más te interese y elige una cadena "
+"de documentación (docstring) sobre el que trabajar."
 
 #: ../sprint/tutorials/docstring_tutorial.md:45
-#: cc748cbaa7644ad4a8b5ccb0492a9dfe
+#: 2ea7d77c6c26458fb19b675d79893695
 msgid ""
 "This tutorial follows the process of updating `pymc.Uniform` and pairs "
 "general comments about updating docstrings with specific comments about "
 "applying those changes to `pymc.Uniform`."
 msgstr ""
+"Este tutorial sigue el proceso de actualización de `pymc.Uniform` y combina "
+"comentarios generales sobre la actualización de cadenas de documentación con"
+" comentarios específicos sobre la aplicación de esos cambios a "
+"`pymc.Uniform`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:49
-#: d6b829852c0543d1b9eef17916492d1d
+#: 979ee5c61dea4e40b4dffe24a2cd7bcf
 msgid ""
 "The docstring is available at the {ref}`sample_docstring` page, I updated "
 "the docstring in PyMC while writing this guide."
 msgstr ""
+"La cadena de documentación está disponible en la página "
+"{ref}`sample_docstring`, he actualizado la cadena de documentación en PyMC "
+"mientras escribía esta guía."
 
 #: ../sprint/tutorials/docstring_tutorial.md:53
-#: 97ed018483004ac98775f9f46462379a
+#: 434cbda9c5bc4745850b0823d4f545c0
 msgid ""
 "Once you have chosen, go to our [issue tracker](https://github.com/pymc-"
 "devs/pymc/issues/5459), check nobody is already working on it and comment "
 "that you are going to update it."
 msgstr ""
+"Una vez que hayas elegido, ve a nuestro [issue "
+"tracker](https://github.com/pymc-devs/pymc/issues/5459), comprueba que nadie"
+" esté trabajando ya en ello y comenta que vas a actualizarlo."
 
 #: ../sprint/tutorials/docstring_tutorial.md:57
-#: b44d272dde6647c8a39e3aa70af34c17
+#: 0d1940ecaa054fb294412b5aedb4d089
 msgid ""
 "Remember that function and keep the tab open (or save the link for later)"
 msgstr ""
+"Recuerda esa función y mantén la pestaña abierta (o guarda el enlace para "
+"más tarde)"
 
 #: ../sprint/tutorials/docstring_tutorial.md:60
-#: ec533d23d57d4a6db0d69189262f6379
+#: 513872522bba402e89e1214beba20372
 msgid "Open the file with your text editor"
-msgstr ""
+msgstr "Abre el archivo con tu editor de texto"
 
 #: ../sprint/tutorials/docstring_tutorial.md:61
-#: 052f235bd6494c4b8bcb624787d9b079
+#: 92d9d4c686104a45abffd6f9b4395b18
 msgid ""
 "Open the file containing the docstring you chose to edit with your text "
 "editor. The file will be inside the `pymc` folder, but it probably won't be "
 "straightforward to guess just from the name of the function or class."
 msgstr ""
+"Abre el archivo que contiene la cadena de documentación que elegiste para "
+"editar con tu editor de texto. El archivo estará dentro de la carpeta "
+"`pymc`, pero probablemente no será fácil de adivinar solo por el nombre de "
+"la función o clase."
 
 #: ../sprint/tutorials/docstring_tutorial.md:65
-#: d79d5eb51d3e4926897a10b01fbd6cd3
+#: 753f5b2b1b584bb890076af315651fef
 msgid ""
 "Go back to the API page and click on the \"[source]\" button at the right of"
 " the call signature."
 msgstr ""
+"Vuelve a la página de la API y haz clic en el botón \"[source]\" a la "
+"derecha de la firma de la función."
 
 #: ../sprint/tutorials/docstring_tutorial.md:68
-#: cd1107cc988047cea830bf891bb7b94a
+#: 299e044fad6d41bb85979949aa117ba6
 msgid "![source_button](../images/source_button.png)"
-msgstr ""
+msgstr "![source_button](../images/source_button.png)"
 
 #: ../sprint/tutorials/docstring_tutorial.md:68
-#: 7ccbc305001a460f9d58682209194062
+#: b6dc04359b704810b4c9dcff58e7a22f
 msgid "source_button"
+msgstr "source_button"
+
+#: ../sprint/tutorials/docstring_tutorial.md:68
+#: b6dc04359b704810b4c9dcff58e7a22f
+msgid ".. image:: sprint/images/source_button.png"
 msgstr ""
 
 #: ../sprint/tutorials/docstring_tutorial.md:70
-#: e9f35b25f1f24064a34e326e0ffe5605
+#: 39d267f5b7a841b58020b293fd65d53a
 msgid ""
 "Now take a look at the url. Here is what it shows for {class}`pymc.Uniform`:"
 msgstr ""
+"Ahora échale un vistazo al enlace. Esto es lo que muestra para "
+"{class}`pymc.Uniform`:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:76
-#: 8161ac095a4e4d938f6a002e2feb0b18
+#: 13b7f5f2e28b45d5aa0230541f065024
 msgid ""
 "The file with the definition of the `Uniform` class and its docstring is "
 "`pymc/distributions/continuous.py`, the path that comes after `_modules` "
 "with a `.py` extension."
 msgstr ""
+"El archivo con la definición de la clase `Uniform` y su cadena de "
+"docuemntación es `pymc/distributions/continuous.py`, la ruta que viene "
+"después de `_modules` con extensión `.py`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:80
-#: 9a2c5b265f4d4448872ac55e31c6234f
+#: 3d97335c95c04fa2b75f99f519645f3b
 msgid "Edit the docstring"
-msgstr ""
+msgstr "Edita la cadena de documentación"
 
 #: ../sprint/tutorials/docstring_tutorial.md:81
-#: 44de3afda05b44c5b5cab11ab4a48251
+#: 6b2073998a6e411cac066fdb57c70014
 msgid ""
 "The changes you have to do are making sure that the docstring is following "
 "[numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html#sections) "
@@ -201,18 +268,29 @@ msgid ""
 "explained here but they are only relevant for some sections, most of the "
 "time you'll follow numpydoc directly."
 msgstr ""
+"Los cambios que tienes que hacer son asegurarte de que la cadena de "
+"documentación sigue la convención de "
+"[numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html#sections). "
+"Tenemos algunas convenciones adicionales, que he explicado aquí, pero solo "
+"son relevantes para algunas secciones, la mayor parte del tiempo seguirás "
+"numpydoc directamente."
 
 #: ../sprint/tutorials/docstring_tutorial.md:86
-#: 0f695ca568de44f68ecd713033919d3a
+#: 1f6c4373988e49d18761e85a88d0aeab
 msgid ""
 "Open the [numpydoc style "
 "guide](https://numpydoc.readthedocs.io/en/latest/format.html#sections) side "
 "by side or in a different window. I am updating the docstring of "
 "{ref}`pymc.Uniform <sample_docstring>` as an example."
 msgstr ""
+"Abre la [guía de estilo "
+"numpydoc](https://numpydoc.readthedocs.io/en/latest/format.html#sections) "
+"una al lado de la otra o en una ventana diferente. Estoy actualizando la "
+"cadena de documentación de {ref}`pymc.Uniform <sample_docstring>` como "
+"ejemplo."
 
 #: ../sprint/tutorials/docstring_tutorial.md:90
-#: 0081f1d3c41b43b2af958cac32145cbb
+#: bcdc30ce9b0e404988eacf11b9d94696
 msgid ""
 "You have to review section by section to make sure everything is well "
 "documented. If you have chosen a class that is not a distribution (unlike "
@@ -222,111 +300,147 @@ msgid ""
 "only on the function or class docstring. We will therefore ignore the "
 "docstrings of the `logcdf`, `get_moment` and `dist` methods."
 msgstr ""
+"Tienes que revisar sección por sección para asegurarte de que todo está bien"
+" documentado. Si has elegido una clase que no es una distribución (a "
+"diferencia de este ejemplo en el que estamos trabajando en la distribución "
+"`pymc.Uniform`), debes revisar las cadenas de documentación de todos los "
+"métodos (aunque solo si ya existen, no es necesario escribir las cadenas de "
+"documentación que faltan). De lo contrario, deberías trabajar solo en la "
+"cadena de documentación de la función o de la clase. Por lo tanto, "
+"ignoraremos las cadenas de documentación de los métodos `logcdf`, "
+"`get_moment` y `dist`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:97
-#: a156a52ddd55441886ad259bf85f2a95
+#: 28a0298ac8c84881b5f574533f292633
 msgid "Section independent comments"
-msgstr ""
+msgstr "Comentarios que no están relacionados con ninguna sección"
 
 #: ../sprint/tutorials/docstring_tutorial.md:98
-#: 84241f9d6fcf427a9bb3d422d022afb9
+#: e9f29263f3a94154bb125d776a784c2f
 msgid ""
 "Only the short summary section is required. The rest should be used when "
 "relevant. As a rule, if a section is missing, ignore it for now. If you "
 "think it should be added, take a note and let us know when you open the PR."
 msgstr ""
+"Solo es necesario un breve resumen. El resto debe utilizarse cuando sea "
+"pertinente. Por regla general, si falta una sección, ignórala por ahora. Si "
+"crees que debería añadirse, toma nota y comunícalo cuando abras el PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:102
-#: b90bc10f36cf4055b02878cdf3ee44c2
+#: f7e4fbf707c64af09ba96094b08e0a92
 msgid ""
 "If you find instances of the plot directive `.. plot::`, make sure they are "
 "either on the extended summary or examples section and that they use the "
 "`close-figs` context. It should look like:"
 msgstr ""
+"Si encuentras instancias de la directiva para graficar `..plot::`, asegúrate"
+" de que estén ya sea en el resumen extendido o en la sección de ejemplos y "
+"de que usen el contexto `close-figs`. Debería lucir así:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:113
-#: 6dacca65c43e4b8ba02216162e14fb1a
+#: b6ce96bbd9694a26be5b7a67bb20a2f5
 msgid "Short summary"
-msgstr ""
+msgstr "Breve resumen"
 
 #: ../sprint/tutorials/docstring_tutorial.md:114
-#: b5e6c141858f459794818a34c256452a
+#: ad1125ab4a7c45a6a0685e64d14b7776
 msgid ""
 "_General comments:_ Make sure there is a (preferably single line) short "
 "description of the object. In most cases you'll need to ignore the \"not use"
 " variable names or the function name\" rule."
 msgstr ""
+"_Comentarios generales:_ Asegúrate de que haya una descripción corta (de "
+"preferencia una sola línea) del objeto. En la mayoría de casos tendrás que "
+"ignorar la regla de “no usar los nombres de las variables o de la función”."
 
 #: ../sprint/tutorials/docstring_tutorial.md:117
 #: ../sprint/tutorials/docstring_tutorial.md:123
 #: ../sprint/tutorials/docstring_tutorial.md:194
-#: e7a7c02e321f49cba3a54af7970c33a6 65f2ce0c79bc46518d727372d9513d38
-#: 1077d780b1f7486c864119d46e425a8d
+#: 67c818a1a90f4bf0b386512fdff3497c 5e252f68930c4119af2bb919e9142fa5
+#: 1095b5d7980243d2b75a3f6ef3810e4f
 msgid "_pymc.Uniform class docstring:_ {fas}`check`"
-msgstr ""
+msgstr "_Cadena de documentación de la clase pymc.Uniform:_ {fas}`check`"
 
 #: ../sprint/tutorials/docstring_tutorial.md:119
-#: 08d075c2bde5460fb5b90953c13bf129
+#: 48551821fb9f4c86a9a3bd84ccc78a58
 msgid "Deprecation warning"
-msgstr ""
+msgstr "Advertencia de depreciación"
 
 #: ../sprint/tutorials/docstring_tutorial.md:120
-#: 2af06d3647cc4558ad805e9bf72854d5
+#: 89b3ba6a3f254a6fb9b3cc1229c88635
 msgid ""
 "_General comments:_ There should be no deprecation warnings, we use a "
 "decorator for that. If you find a docstring with one, take a note, do not "
 "modify it and let us know when you open the PR."
 msgstr ""
+"_Comentarios generales:_ No debería haber advertencias de caducidad, usamos "
+"un decorador para eso. Si encuentras una cadena de documentación con una, "
+"toma nota, no lo modifiques y avísanos cuando abras el PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:125
-#: a4fa9aca92234c488e3dd46d4db49c9b
+#: a97459f80c9647ccbeee62f340c7c6ff
 msgid "Extended summary"
-msgstr ""
+msgstr "Resumen extendido"
 
 #: ../sprint/tutorials/docstring_tutorial.md:126
-#: 859603b19ed94cd599de56c368de5f68
+#: f2ec3103c6614288ab7eeb060e3e687b
 msgid ""
 "_General comments:_ This section is quite free and will probably need no "
 "modifications other than maybe directive updates or moving some code to the "
 "notes section."
 msgstr ""
+"_Comentarios generales:_ Esta sección ya lleva bastante avance y "
+"probablemente no necesite muchas modificaciones además de, tal vez, "
+"actualizar directivas o mover algo de código a la sección de notas."
 
 #: ../sprint/tutorials/docstring_tutorial.md:128
-#: 3123c26e411b49ff94a06f820798467d
+#: 5b6b7d081e7647ca887c9963d81f93bb
 msgid ""
 "_pymc.Uniform class docstring:_ Missing close figs in the plot directive."
 msgstr ""
+"_Cadena de documentación de la clase pymc.Uniform class docstring:_ Faltó "
+"cerrar figs en la directiva de gráficos."
 
 #: ../sprint/tutorials/docstring_tutorial.md:130
-#: ed6f07f1fb954c27aa61f62f8a2dcc7d
+#: 3a5aeecc86ee4568a874cea81a468d8a
 msgid "Parameters"
-msgstr ""
+msgstr "Parámetros "
 
 #: ../sprint/tutorials/docstring_tutorial.md:131
-#: 2a49e8bda29c4ff39f2bc87f312dd677
+#: f210c7de08c243329c0f2540d42ec944
 msgid ""
 "_General comments:_ This is the section that will most probably need more "
 "work. Points to add or emphasize in addition to the advise on numpydoc:"
 msgstr ""
+"_Comentarios generales:_ Esta es la sección que, probablemente, tomará la "
+"mayor cantidad de trabajo. Algunos aspectos clave a tener en cuenta además "
+"de los mencionados en los consejos sobre numpydoc:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:133
-#: e9c32dcb2a814159ba5a7165be29dbef
+#: 4064803aec3d4c6b91a7c6adac861417
 msgid ""
 "The colon between an argument name and it's type must be both **preceded and"
 " followed** by a space."
 msgstr ""
+"Los dos puntos entre un nombre de argumento y su tipo deben llevar espacios "
+"**antes y después**."
 
 #: ../sprint/tutorials/docstring_tutorial.md:135
-#: d152608598bb4ad2ae2e9093e2825e7a
+#: e3d403b5e2694cc0be4c4935e3d19187
 msgid ""
 "Type hints should go in the call signature, not in the docstring. "
 "`Optional[Union[str, int]]` is not adequate for a docstring, it should be "
 "`str or int, optional`. Type hints target machines, docstrings target "
 "humans."
 msgstr ""
+"Las pistas de tipado deberían ir en la firma de la función, no en la cadena "
+"de documentación. `Optional[Union[str, int]]` no es un contenido adecuado "
+"para una cadena de documentación, debería ser `str or int, optional`. Las "
+"pistas de tipado son para las computadoras, las cadenas de documentación son"
+" para las personas."
 
 #: ../sprint/tutorials/docstring_tutorial.md:138
-#: 6d6bd8f426a14a37a220560503f1e20b
+#: 404462f5605b4b1789eeb50c7d586fee
 msgid ""
 "Optional parameters must be indicated with `, optional` or `, default "
 "<value>`. If the default value is of the documented type and used directly, "
@@ -335,17 +449,27 @@ msgid ""
 "common to use `None` for kwarg type arguments) then optional should be used,"
 " explaining the default in the description."
 msgstr ""
+"Los parámetros opcionales deben indicarse con `, optional` o `, default "
+"<value>`. Si el valor por defecto es del tipo documentado y se utiliza "
+"directamente, es preferible utilizar default en lugar de optional. Sin "
+"embargo, si el valor por defecto depende de otros parámetros o es un "
+"marcador de posición (por ejemplo, es muy común usar `None` para argumentos "
+"de tipo kwarg) entonces debe usarse optional, explicando el valor por "
+"defecto en la descripción."
 
 #: ../sprint/tutorials/docstring_tutorial.md:144
-#: 290ef7025a324780ab6f27664ea9b634
+#: f20d410214724105a634de5acc8b6e84
 msgid ""
 "In type descriptions. We have several aliases available to keep raw "
 "docstrings short and clear while generating still a nice html page with all "
 "the correct links:"
 msgstr ""
+"En las descripciones de tipos. Tenemos varios alias disponibles para "
+"mantener las cadenas de documentación sin procesar cortos y claros mientras "
+"se genera una página html agradable con todos los enlaces correctos:"
 
 #: ../sprint/tutorials/docstring_tutorial.md:146
-#: 7dc174ca7956420a81797d56f1252424
+#: 2a5437081636406abaaeeec3747ca2d3
 msgid ""
 "**`tensor_like`:** One of the most common (if not the most common) aliases. "
 "It should be used in all parameters that take an aesara tensor or any object"
@@ -353,9 +477,14 @@ msgid ""
 "`aesara tensor` (including combinations with different capitalization, dot "
 "or hyphen in between) to `tensor_like`."
 msgstr ""
+"**`tensor_like`:** Uno de los alias más comunes (si no el más común). Debe "
+"usarse en todos los parámetros que tomen un tensor aesara o cualquier objeto"
+" que pueda convertirse en él. En general, tendrás que cambiar `tensor`, "
+"`aesara tensor` (incluyendo combinaciones con diferentes mayúsculas, punto o"
+" guion en medio) por `tensor_like`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:151
-#: af7d0f9be4d64a038a44bb322f27b005
+#: 86d93d2156ad45f995d6b6c193147a3d
 msgid ""
 "**`TensorVariable`:** Similar to `tensor_like` but should only be used for "
 "parameters that won't be converted internally and need to be Aesara tensors "
@@ -363,73 +492,98 @@ msgid ""
 "quotes or backticks. Ask if you are unsure about using `tensor_like` or "
 "`TensorVariable`."
 msgstr ""
+"**`TensorVariable`:** Similar a `tensor_like` pero solo debe usarse para "
+"parámetros que no serán convertidos internamente y necesitan ser tensores de"
+" Aesara antes de pasarlos a los argumentos. Utiliza `TensorVariable`, sin "
+"comillas extra o backticks. Pregunta si no estás seguro sobre el uso de "
+"`tensor_like` o `TensorVariable`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:155
-#: e742e1bd2cd44fe1a22c1d55f75d2ab5
+#: 99a2c103c6a143d0a526c3efab8ff4c2
 msgid ""
 "**`RandomVariable`:** Change `var`, `random var`, `aesara var` and similar "
 "concepts should be `RandomVariable`"
 msgstr ""
+"**`RandomVariable`:** Cambia `var`, `random var`, `aesara var` y conceptos "
+"similares, deberían ser `RandomVariable`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:156
-#: bec7a0932f504c30bec42ae0d548fcc1
+#: 25cdce8293574abba18ec77dca79105f
 msgid ""
 "**`array_like`:** Change `array like` or `array-like` to `array_like` with "
 "an underscore. If you encounter this in a returned parameter, note it in the"
 " PR description."
 msgstr ""
+"**`array_like`:** Cambia `array like` o `array-like` por `array_like` con "
+"guion bajo. Si encuentras esto en un parámetro devuelto, anótalo en la "
+"descripción del PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:158
-#: 39f749c96a754840a7b78453063c35d7
+#: fcfdb637c1384542acf9253635e4aa8d
 msgid ""
 "**`ndarray`:** Change `np.ndarray` or `numpy.ndarray` to `ndarray`. However,"
 " if you encounter this in an input argument, note it in the PR description."
 msgstr ""
+"**`ndarray`:** Cambia `np.ndarray` o `numpy.ndarray` por `ndarray`. Sin "
+"embargo, si encuentras esto en un argumento de entrada, anótalo en la "
+"descripción del PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:160
-#: d06ba07fc7e345b89006dc7b741cca8d
+#: e84c7899a0b74bada04821034deeb5cf
 msgid ""
 "**`Covariance`** and **`Mean`**: _within the gp module only_ `covariance`, "
 "`covariance objects`, `Covariance instances` and the like should be modified"
 " to this. Same for `Mean`"
 msgstr ""
+"**`Covariance`** and **`Mean`**: _solo dentro del módulo gp_ `covariance`, "
+"`covariance objects`, `Covariance instances` y similares deben modificarse a"
+" `Covariance`. Lo mismo para `Mean`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:163
-#: 13f4f317bbc14713960da38c81e493c5
+#: 5fff57eb0b554341b1067b5f6bbb1cb3
 msgid ""
 "**`InferenceData`**: change things like `arviz.InferenceData` or `inference "
 "data` to this."
 msgstr ""
+"**`InferenceData`**: cambia cosas como `arviz.InferenceData` o `inference "
+"data` por esto."
 
 #: ../sprint/tutorials/docstring_tutorial.md:164
-#: a28491c891ec45e3907e817e6b64e39b
+#: 07f9f73c0ef7478f992c3b11ab5ef7b4
 msgid ""
 "**`MultiTrace`** and **`BaseTrace`**: change anything containing this in the"
 " type to them. The most probable thing to find is "
 "`pymc.backends.base.MultiTrace`"
 msgstr ""
+"**`MultiTrace`** y **`BaseTrace`**: cambia cualquier cosa que contenga esto "
+"en el tipo a ellos. Lo más probable es encontrar "
+"`pymc.backends.base.MultiTrace`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:166
-#: 4cd88aa80c6a4a67b20734095c9381e2
+#: 4f26c2271cc34d50aee33411b231857f
 msgid "**`Point`**: change `pymc.Point`, `point` and similars to this"
-msgstr ""
+msgstr "**`Point`**: cambia `pymc.Point`, `point` y parecidos por esto"
 
 #: ../sprint/tutorials/docstring_tutorial.md:167
-#: 616b689014ba4c7296a78111bfa6b742
+#: 6ebf447380134a548a19de9d9bad28f6
 msgid ""
 "**`SMC_kernel`**: _within the smc module_ change references to kernel, smc "
 "kernel and the like to this. Note the underscore and capitalization!"
 msgstr ""
+"**`SMC_kernel`**: _dentro del módulo smc_ cambia las referencias a kernel, "
+"smc kernel y similares por esto. Fíjate en el guion bajo y las mayúsculas."
 
 #: ../sprint/tutorials/docstring_tutorial.md:169
-#: 436605bd3240428c9c044b88786eb210
+#: 5a1cd23ba7ac4494922662ea9012533e
 msgid ""
 "**`Aesara_Op`**: change `Aesara Op`, `Op` and variations to `Aesara_Op`, "
 "note the underscore and capitalization!"
 msgstr ""
+"**`Aesara_Op`**: cambia `Aesara Op`, `Op` y variaciones por `Aesara_Op`, "
+"¡ten cuidado con el guión bajo y las mayúsculas!"
 
 #: ../sprint/tutorials/docstring_tutorial.md:171
-#: e0603e2d58e7411e835a63e31660f001
+#: c81736de46914f68bd4fb35a1690de6d
 msgid ""
 "We might also realize we are missing an important alias thanks to your "
 "contributions. Check the [conf.py](https://github.com/pymc-"
@@ -437,28 +591,38 @@ msgid ""
 "there are new aliases not explained here. Aliases are defined in the "
 "`numpydoc_xref_aliases` dict."
 msgstr ""
+"También podríamos darnos cuenta de que nos falta un alias importante gracias"
+" a tus contribuciones. Revisa el archivo [conf.py](https://github.com/pymc-"
+"devs/pymc/blob/main/docs/source/conf.py) de vez en cuando para ver si hay "
+"nuevos alias no explicados aquí. Los alias se definen en el diccionario "
+"`numpydoc_xref_aliases`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:176
-#: 211f9721f84a48bf842354e03ebbd697
+#: 31ffd41816ac40a58deba50ba56d5520
 msgid "_pymc.Uniform class docstring:_"
-msgstr ""
+msgstr "_Cadena de documentación de la clase pymc.Uniform:_"
 
 #: ../sprint/tutorials/docstring_tutorial.md:177
-#: 5b5e9d4b905c448dbbe00dbfff4d3c26
+#: 1a86159ecccb425e962099a80c42dd53
 msgid "There is no space between argument name and colon"
 msgstr ""
+"No debe haber espacios entre el nombre de un argumento y los dos puntos."
 
 #: ../sprint/tutorials/docstring_tutorial.md:178
-#: 48443a093d654554859c7ebc61e59298
+#: 2b6085a281a045fba456b47beac226c3
 msgid ""
 "Both arguments are actually optional. In Distributions, this can't be seen "
 "in the class itself but in the `dist` method. In the Uniform case, it is "
 "`dist(cls, lower=0, upper=1, **kwargs)`. Therefore they are both optional "
 "with defaults to 0 and 1 respectively."
 msgstr ""
+"Ambos argumentos son, de hecho, opcionales. En Distributions, esto no se "
+"puede ver en la clase como tal sino en el método `dist`. En el caso de "
+"Uniform, tendremos `dist(cls, lower=0, upper=1, **kwargs)`. Por tanto, los "
+"dos son opcionales y tienen valores por defecto de 0 y 1, respectivamente."
 
 #: ../sprint/tutorials/docstring_tutorial.md:182
-#: 7607ab2ff76f4e289df3dea8d0a5eae2
+#: dcd684b20f654b80a10e768f137a2cb7
 msgid ""
 "Input parameters to distributions can be Aesara tensors, scalars or NumPy "
 "arrays. Therefore, `tensor_like` should be used. In this case, the "
@@ -466,14 +630,19 @@ msgid ""
 "example) so we will use `tensor_like of float`. For discrete parameters we "
 "would use `tensor_like of int`."
 msgstr ""
+"Los parámetros de entrada a las distribuciones pueden ser tensores Aesara, "
+"escalares o arreglos NumPy. Por lo tanto, se debe utilizar `tensor_like`. En"
+" este caso, los parámetros de la distribución son números reales (en lugar "
+"de discretos, por ejemplo) por lo que utilizaremos `tensor_like of float`. "
+"Para parámetros discretos usaríamos `tensor_like of int`."
 
 #: ../sprint/tutorials/docstring_tutorial.md:188
-#: 7e75275fd91a426f813e8e936d3a7891
+#: c5bf73d37dac4d85b2716ae42e5ee269
 msgid "Returns and yields"
-msgstr ""
+msgstr "Salidas y rendimientos"
 
 #: ../sprint/tutorials/docstring_tutorial.md:189
-#: 52e3c39878ce433cbf6702b130d9ddb5
+#: d6fcdfc0cde749aa836616aff0f71a31
 msgid ""
 "_General comments:_ Nothing to add to numpydoc. They follow the style of the"
 " parameters section but with the argument name being optional for single "
@@ -481,33 +650,43 @@ msgid ""
 "plus making sure that the type (plus name if any) and the description are on"
 " different lines."
 msgstr ""
+"_Comentarios generales:_ Nada que añadir a numpydoc. Siguen el estilo de la "
+"sección de parámetros pero con el nombre del argumento siendo opcional para "
+"salidas únicas. Deberías buscar las mismas cosas detalladas en la sección de"
+" parámetros además de asegurarte de que el tipo (más el nombre si lo hay) y "
+"la descripción están en líneas diferentes."
 
 #: ../sprint/tutorials/docstring_tutorial.md:196
-#: e8ee479dc3d748db838638f7016b9131
+#: 8548f1882c9a491c85a4b2f121ea3c65
 msgid "Commit the changes to git and get your PR ready"
-msgstr ""
+msgstr "Confirma tus cambios en git y prepara tu PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:198
-#: 219a463202824dada8722383d1464865
+#: 3e232b37789d494390099fda1650aef4
 msgid "Great! You are ready to do your PR now."
-msgstr ""
+msgstr "¡Fantástico! Ya estás listo para hacer tu PR."
 
 #: ../sprint/tutorials/docstring_tutorial.md:200
-#: f2493448bca845b891720524394ed915
+#: 5b3793f3ff634c97ba31ddffb558a2a2
 msgid ""
 "You can follow the {ref}`PR Tutorial <pr_tutorial>` which explains how you "
 "can do a PR to PyMC."
 msgstr ""
+"Puedes seguir el {ref}`PR Tutorial <pr_tutorial>` que explica cómo puedes "
+"hacer un PR a PyMC."
 
 #: ../sprint/tutorials/docstring_tutorial.md:202
-#: e61371ce445f425499bcd3eae467ba72
+#: bf37ac53bdf2405091d626535177bab0
 msgid ""
 "Your PR will be reviewed and hopefully merged by the PyMC team. After that, "
 "you can  properly celebrate your first contribution to PyMC! Thanks for "
 "contributing!"
 msgstr ""
+"Tu PR será revisado y, con suerte, fusionado por el equipo de PyMC. Después "
+"de eso, podrás celebrar tu primera contribución a PyMC. ¡Gracias por "
+"contribuir!"
 
 #: ../sprint/tutorials/docstring_tutorial.md:205
-#: 389e0d0419244170b019eeb750ec9f50
+#: a302fd5b74fa40beaa50420b00ded5de
 msgid "{fas}`heart;sd-fs-1 sd-text-danger`"
-msgstr ""
+msgstr "{fas}`heart;sd-fs-1 sd-text-danger`"
