@@ -1,4 +1,5 @@
 name: Read the Docs Pull Request Preview
+
 on:
   pull_request_target:
     types:
@@ -15,15 +16,15 @@ jobs:
         language: [en, es, pt]
         include:
           - language: en
-            slug: ""
+            project: "pymc-data-umbrella"
           - language: es
-            slug: "-es"
+            project: "pymc-data-umbrella-es"
           - language: pt
-            slug: "-pt"
+            project: "pymc-data-umbrella-pt"
     runs-on: ubuntu-latest
     steps:
       - uses: readthedocs/actions/preview@v1
         with:
-          project-slug: "pymc-data-umbrella${{ matrix.suffix }}"
+          project-slug: "${{ matrix.project }}"
           message-template: ":books: Documentation preview ${{ matrix.language }} :books:: {docs-pr-index-url}"
           project-language: ${{ matrix.language }}
