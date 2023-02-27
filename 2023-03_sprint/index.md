@@ -1,6 +1,8 @@
 (2023_03/schedule)=
 (current_sprint)=
-# March 2023 Open Source Working Session
+# March 2023 Open Source Working Session: Latin America
+
+This event is focused on the Latin America region. If you are available on the event day to be a translator for Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to the website translations, please see {ref}`translations`.
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Session">
@@ -12,8 +14,11 @@
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should:
 
-1. Complete the registration form: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
-2. RSVP on MeetUp for the event: {bdg-link-primary-line}`https://www.meetup.com/data-umbrella/events/291768545/`
+1. Complete the registration form: 
+   - English: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
+   - Spanish: needs to be translated
+   - Portuguese: needs to be translated
+1. RSVP on MeetUp for the event: {bdg-link-primary-line}`https://www.meetup.com/data-umbrella/events/291768545/`
 
 :::
 
