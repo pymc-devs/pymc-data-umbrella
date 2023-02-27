@@ -8,7 +8,7 @@ From first time contributor to project maintainer. What is it like? In this test
 
 - Audience: People who are interested in contributing to Open source
 - [Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)
-- [Slides](https://pymc-data-umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)
+- [Slides](https://pymc-data-umbrella.xyz/en/latest/about/contributing_to_pymc/contributing_to_pymc_slides.pdf)
 
 ## Speaker
 Ricardo Vieira is a PyMC developer and data scientist at PyMC Labs. He spent several years teaching himself Statistics and Computer Science at the expense of his official degrees in Psychology and Neuroscience.
