@@ -259,3 +259,66 @@ source_file   = gettext/about/probabilistic_programming_with_pymc/index.pot
 type          = PO
 minimum_perc  = 0
 resource_name = about/probabilistic_programming_with_pymc/index
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_language-translations]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/language-translations.po
+source_file   = gettext/contributing/language-translations.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/language-translations
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_videos]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/videos.po
+source_file   = gettext/contributing/videos.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/videos
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_index]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/index.po
+source_file   = gettext/2023-03_sprint/index.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/index
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_media_kit]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/media_kit.po
+source_file   = gettext/2023-03_sprint/sprint_parties/media_kit.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/media_kit
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_index]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/index.po
+source_file   = gettext/2023-03_sprint/sprint_parties/index.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/index
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_community_partners]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/community_partners.po
+source_file   = gettext/2023-03_sprint/sprint_parties/community_partners.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/community_partners
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_contributors]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/contributors.po
+source_file   = gettext/2023-03_sprint/sprint_parties/contributors.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/contributors
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_organizers]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/organizers.po
+source_file   = gettext/2023-03_sprint/sprint_parties/organizers.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/organizers
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_sponsors]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/sponsors.po
+source_file   = gettext/2023-03_sprint/sprint_parties/sponsors.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/sponsors
