@@ -1,4 +1,4 @@
-(language-translations)=
+(translations)=
 # Language Translations
 
 ## Requirements

@@ -1,6 +1,6 @@
 # Translators
 
-We would like to thank everyone who translated this event website from English to Spanish and Portuguese. If you would like to volunteer for translations, see {ref}`language-translations`.
+We would like to thank everyone who translated this event website from English to Spanish and Portuguese. If you would like to volunteer for translations, see {ref}`translations`.
 
 ::::{grid} 2 2 3 5
 :gutter: 3
