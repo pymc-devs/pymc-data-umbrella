@@ -1,15 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Anavelyz Perez, 2023
+# Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,108 +23,135 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:1
-#: 2ffe5946cad54633b6c7bf632b45ee1a
+#: 5ade5293a331442ea1b4a2333bdd7573
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:0
-#: 14eec7c0870e4efdbfa4b6c8ee275f80
+#: 4ddc3701c4764113abc09b3f5bf1a709
 msgid "Add yourself as a contributor to the OS Working Session"
 msgstr ""
+"Únete como colaborador a la sesión de trabajo sobre el sistema operativo"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:7
-#: 40678e1468da413aac805b3a20af12ab
+#: cc98f6b2e3ed476891fbde68ffe0dffa
 msgid ""
 "The template shown rendered below for the Data Umbrella logo is available "
 "here to help you copy it and add yourself to the contributor list."
 msgstr ""
+"La plantilla que se muestra a continuación para el logotipo de Data Umbrella"
+" está disponible aquí para que puedas copiarla y sumarte a la lista de "
+"colaboradores."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:10
-#: d6eb3f324e54487fbfee361eb234e1dc
+#: e8db277eb3654a879dc745c724cb59d5
 msgid ""
 "Steps to follow are only mentioned here. For an extensive tutorial you can "
 "read the page {ref}`pr_tutorial` and follow the steps mentioned below:"
 msgstr ""
+"Los pasos a seguir solo se mencionan aquí. Para un tutorial más extenso "
+"puedes leer la página {ref}`pr_tutorial` y seguir los pasos que se mencionan"
+" a continuación:"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:13
-#: ae3c7ba8112643d48648faa2de1ca0c5
+#: a282c1d7de2d4b1f892f39c7fc35d2ba
 msgid ""
 "Fork and clone the repo. You can get to the repo on GitHub with the icon on "
 "the top right of the page"
 msgstr ""
+"Crea un fork y clona el repositorio. Puedes acceder al repositorio en GitHub"
+" con el icono de la parte superior derecha de la página"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:14
-#: b8011785a1f941d4a2d1a00b09cb3c44
+#: f3f60dba76654431a90dc2c0e8424019
 msgid "Create a feature branch."
-msgstr ""
+msgstr "Crea una rama feature."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:15
-#: bd069c58bf2e49acadc93a3b267d3c84
+#: 94307e79fc9d4d38a2758a04624e02f4
 msgid "Copy the contributor card template:"
-msgstr ""
+msgstr "Copia la plantilla de la tarjeta de colaborador:"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:33
-#: aaa843b6bd2340c0bfd14637ef78168b
+#: 1333ab8f7bca4829bcf498c4c69a5255
 msgid "Open this file: `2022-07_sprint/sprint_parties/contributors.md`"
-msgstr ""
+msgstr "Abre este archivo: `2022-07_sprint/sprint_parties/contributors.md`"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:34
-#: b0fa18153d3f44d8ba335008894cd953
+#: 96f92e909be6478ca4dd57e026d9d0b2
 msgid ""
 "Paste the template to the relevant section and update it with your personal "
 "info."
 msgstr ""
+"Pega la plantilla en la sección correspondiente y actualízala con tus datos "
+"personales."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:37
-#: d4c21b450a944863a6093551387c022e
+#: 05851d0834e64e1d8d1180cb9144f615
 msgid ""
 "Copy everything. The opening and closing _3 colon fences_ (`:::`) are "
 "necessary"
 msgstr ""
+"Copia todo. Los _3 dos puntos_ de apertura y cierre (`:::`) son necesarios"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:38
-#: 31fe7b541077441db884aa0b96d67582
+#: 54507bcb9b514c4ea316894f2c6be6d1
 msgid ""
 "Paste your card **under** the last card available (that is, after the last "
 "`:::`) but **above** the end of the grid (that is, before the one with 4 "
 "colons `::::`)"
 msgstr ""
+"Pega tu tarjeta **debajo** de la última tarjeta disponible (es decir, "
+"después del último `:::`) pero **por encima** del final de la cuadrícula (es"
+" decir, antes de la que tiene 4 dos puntos `::::`)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:40
-#: 2cc5cefb06604879b7f2e2bed0c932f2
+#: 84135b70e5b8413185a5b7244a021570
 msgid ""
 "Empty lines are important for rendering. The empty line between "
 "\"Contributor Name\" and \"Contributor Location\" places them in different "
 "lines when rendering. The _lack_ of empty line between the multiple icons "
 "places them in the same line when rendering the website."
 msgstr ""
+"Las líneas vacías son importantes para la renderización. La línea vacía "
+"entre \"Nombre del colaborador\" y \"Ubicación del colaborador\" los coloca "
+"en líneas diferentes al renderizar. La _ausencia_ de línea vacía entre los "
+"múltiples iconos los coloca en la misma línea al renderizar el sitio web."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:44
-#: 76b91c820b2643d8af4a81411ad38132
+#: 3cbb01899b6d453392da01289b984331
 msgid ""
 "The image can be added to the repo ([`_static/contributors_2022_07` "
 "folder](https://github.com/pymc-devs/pymc-data-"
 "umbrella/tree/main/_static/contributors_2022_07)) as part of the PR or be an"
 " external link like in the template. But it needs to be a _square image_."
 msgstr ""
+"La imagen puede añadirse al repositorio ([`_static/contributors_2022_07` "
+"folder](https://github.com/pymc-devs/pymc-data-"
+"umbrella/tree/main/_static/contributors_2022_07)) como parte del PR o ser un"
+" enlace externo como en la plantilla. Pero tiene que ser una _imagen "
+"cuadrada_."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:49
-#: f680aee3529b4d5eb9306e3a0f7c6d59
+#: 292c311290cc43fb859e3f75fd908916
 msgid ""
 "If you do not want to share a website, GitHub, Twitter and/or LinkedIn,  "
 "those lines can be deleted, keeping an eye on not leaving empty lines "
 "between icons+links."
 msgstr ""
+"Si no deseas compartir un sitio web, GitHub, Twitter y/o LinkedIn, se pueden"
+" eliminar esas líneas, procurando no dejar líneas vacías entre "
+"iconos+enlaces."
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:52
-#: ceba0d0d3219436783c21b517c85f57f
+#: eba163b70c5747a7b1f2a788695eee79
 msgid "Commit your changes and open a Pull Request"
-msgstr ""
+msgstr "Confirma tus cambios y abre un Pull Request"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:55
-#: ebb45e9dd5d64d8b99b844834f22a486
+#: 1139275d85ec4229bf2aa7e62ec29796
 msgid "Returning Contributors"
-msgstr ""
+msgstr "Colaboradores recurrentes"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:60
 #: ../2022-07_sprint/sprint_parties/contributors.md:71
@@ -143,342 +175,462 @@ msgstr ""
 #: ../2022-07_sprint/sprint_parties/contributors.md:273
 #: ../2022-07_sprint/sprint_parties/contributors.md:285
 #: ../2022-07_sprint/sprint_parties/contributors.md:293
-#: 81d963a9e29046a3a14e1d5bd8a51b25 7da3b2aba32b4a2cae7cf67034c0b386
-#: 75f4121a0820458d83b4414f26a70a64 1b83a98f678444539a9e7828d1d83499
-#: ac1ac12a9b7c49c4b796aa6e095d6292 7efc1189934b47aeae03b5f9deffc521
-#: 2ea786b6c9904807ad294ff939cead95 8638b11e6bc54623a10c924364f7ecbd
-#: 5b397f55099b4f0e849aa19af8d25ccd bb199b674aca47c38be1d7b6c6c9be2c
-#: 6eed836bc4c349f081ef92f6032d85ea b95241c5de924efa825068325bfb6156
-#: d080d3ba685e4768afc1beaa1410a33b 8b4bf8100d6941ce8962feefa54b197f
-#: f5e825345f4e42b98091410507e02e27 dfb80561886a4d828957e3ba4189cefd
-#: 6e152c0bec8e4cff8c3ef1f6359cd278 5f02cc7284554167af3041f48e7ee6b2
-#: 8250943d3a664643b18043313956c64c b69a512d5ddc4f1e8435156954577737
-#: f99cfc5e198d4584b529423dadcc32f2 d5dab47db0dc48ed9909f34e22a24cda
+#: a07d3fac76074839836a3dbea4dd3848 5cc528fc3d1d47df8b9aa1af725e50ba
+#: 6d442e67dbf7427ba8b3c175a3e74917 0fe80906f153411ca0e5e625759a0376
+#: fb04c328a0f7403b8effab131bf8ca37 5fd8bfb2781b4dbeb6753cd9415a2815
+#: 1b624f466280465fb87bd58e04fb0c2d 1466f4eb9453469cab47dd8e83ed55c3
+#: c83e8fc6f6714eef8b970a1a92ce378d 681e4f8d4d084bd3a1e815772cfc3f5e
+#: 43cf6f3c338d41668ea70816043551d1 5f2ddfb1b0dc4500820ea5b03b4aa0eb
+#: 9bc86661c9224bc3a06516d218790b21 00da67e00e834db699914290d92b2e23
+#: e3fa3f0d4c7546559017f6f4cda0525a fb6a4acf43aa4fe9b255a72691a280bb
+#: 3543f0658b8d49b4ba0cf979181551e6 25d9553ec8364d31b4b3d5e99c9705aa
+#: 6c1bf94358f14486b5f54835b3f17c20 cf22b340bbc14e33a511fcc05ddaa570
+#: ffbf39ef019f4ed0a2e51b2428c2ddca 70e8f5e67dc947188173e35b6108c914
 msgid "Image for contributor template"
+msgstr "Imagen para la plantilla de colaborador"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:60
+#: a07d3fac76074839836a3dbea4dd3848
+msgid ".. image:: _static/contributors_2022_07/Lucy_Jimenez.jpeg"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:64
-#: 1dfe0808162f4211a0c466b0991405d1
+#: b93b8cbd903f418b9a2d655a7e204936
 msgid "Lucy Jimenez"
-msgstr ""
+msgstr "Lucy Jimenez"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:66
-#: 37561701012d4f85b7a1d8601904a460
+#: c1c4a53e02a0445194e17b6c5c319ada
 msgid ""
 "[{fab}`github`](https://github.com/LucyJimenez) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/lucy-j/) "
 "[{fab}`twitter`](https://twitter.com/JimenezLucyJ)"
 msgstr ""
+"[{fab}`github`](https://github.com/LucyJimenez) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/lucy-j/) "
+"[{fab}`twitter`](https://twitter.com/JimenezLucyJ)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:71
+#: ../2022-07_sprint/sprint_parties/contributors.md:80
+#: ../2022-07_sprint/sprint_parties/contributors.md:222
+#: ../2022-07_sprint/sprint_parties/contributors.md:230
+#: ../2022-07_sprint/sprint_parties/contributors.md:242
+#: ../2022-07_sprint/sprint_parties/contributors.md:254
+#: ../2022-07_sprint/sprint_parties/contributors.md:265
+#: ../2022-07_sprint/sprint_parties/contributors.md:273
+#: ../2022-07_sprint/sprint_parties/contributors.md:285
+#: ../2022-07_sprint/sprint_parties/contributors.md:293
+#: 5cc528fc3d1d47df8b9aa1af725e50ba 6d442e67dbf7427ba8b3c175a3e74917
+#: e3fa3f0d4c7546559017f6f4cda0525a fb6a4acf43aa4fe9b255a72691a280bb
+#: 3543f0658b8d49b4ba0cf979181551e6 25d9553ec8364d31b4b3d5e99c9705aa
+#: 6c1bf94358f14486b5f54835b3f17c20 cf22b340bbc14e33a511fcc05ddaa570
+#: ffbf39ef019f4ed0a2e51b2428c2ddca 70e8f5e67dc947188173e35b6108c914
+msgid ".. image:: _static/contributors/blank_person.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:75
-#: b0285d14b40d453dad9a2eee3e54624b
+#: 593ec222787548c3b01644cb6fa57318
 msgid "Alihan Zihna"
-msgstr ""
+msgstr "Alihan Zihna"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:77
-#: 3bc5b08adb8b4b17a70fb8fd2348686b
+#: 837b7f484cec45509e22d21762b966bf
 msgid "Dublin (Ireland)"
-msgstr ""
+msgstr "Dublín (Irlanda)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:84
-#: b7201137cafa4aef8a7b989bc9f86027
+#: cafbbe8f58f342c3940a1c44a605b020
 msgid "Juan Pablo Ibieta Jimenez"
-msgstr ""
+msgstr "Juan Pablo Ibieta Jimenez"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:86
-#: 09640283354f4249b29f9c9680c8328a
+#: 468e9f8f05684c52909c3c515efcb093
 msgid "São Paulo, SP (Brasil)"
-msgstr ""
+msgstr "São Paulo, SP (Brasil)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:88
-#: b999c562dce54862827c171d59c3dc28
+#: 09c9366cea824d2a92d3f78dfcf73151
 msgid ""
 "[{fab}`github`](https://www.github.com/pibieta) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/pibieta) "
 "[{fab}`twitter`](https://twitter.com/pabloibieta)"
 msgstr ""
+"[{fab}`github`](https://www.github.com/pibieta) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/pibieta) "
+"[{fab}`twitter`](https://twitter.com/pabloibieta)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:94
-#: 8af8e1a7af6f4e07974ef2bfce8199ac
+#: 88cd27f265b94b868862137b131231b4
 msgid "New Contributors"
+msgstr "Nuevos colaboradores"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:99
+#: 0fe80906f153411ca0e5e625759a0376
+msgid ".. image:: _static/contributors_2022_07/carlo_dll.jpeg"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:103
-#: 754e857ecf3047c494707693d159bbca
+#: 6cba5078566c46ecbef4f36375aa7886
 msgid "Carlo Domenico Longo de Lemos"
-msgstr ""
+msgstr "Carlo Domenico Longo de Lemos"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:105
-#: 23c1bb9a4d8d45e59c46af6ffd75406c
+#: 9c55475f4e364797a05fcb147f68bdf7
 msgid "São Paulo, São Paulo (Brazil)"
-msgstr ""
+msgstr "São Paulo, São Paulo (Brasil)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:107
-#: 354fe03f5d7a4faea913a179c2f1d0f6
+#: b753a87fa9e34954a6598f0b1314ccd0
 msgid ""
 "[{fab}`github`](https://github.com/vitaliset) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/carlo-lemos)"
 msgstr ""
+"[{fab}`github`](https://github.com/vitaliset) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/carlo-lemos)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:111
+#: fb04c328a0f7403b8effab131bf8ca37
+msgid ""
+".. image:: "
+"https://avatars.githubusercontent.com/u/17055910?s=400&u=a4cb6008a4140e337670321f94d1130fb6378b6a&v"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:115
-#: c0472d4828c64d9583c14f63a574858f
+#: ae377f3bb44c4cf1b9fa9754903b15fc
 msgid "Zoe Braiterman"
-msgstr ""
+msgstr "Zoe Braiterman"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:117
-#: 06b1c898bf214ba5aa8707e8e49716fc
+#: 6c14e05ecac748cdab4f262d71593876
 msgid "New York, New York (USA)"
-msgstr ""
+msgstr "New York, New York (EE.UU)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:119
-#: db7b6ff720114d6cafa7d77b95ac1292
+#: a0a59321e76b46dda50fd02519624186
 msgid ""
 "[{fab}`github`](https://github.com/zbraiterman) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/zoebraiterman/) "
 "[{fab}`twitter`](https://twitter.com/zbraiterman)"
 msgstr ""
+"[{fab}`github`](https://github.com/zbraiterman) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/zoebraiterman/) "
+"[{fab}`twitter`](https://twitter.com/zbraiterman)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:123
+#: 5fd8bfb2781b4dbeb6753cd9415a2815
+msgid ".. image:: _static/contributors_2022_07/Igor_Kuvychko.png"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:127
-#: 5226d66723fa4e97b726229e98bca3ec
+#: c7bc24c01c944234a6b08f82b21c0764
 msgid "Igor Kuvychko"
-msgstr ""
+msgstr "Igor Kuvychko"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:129
-#: 07cbb707d0314542952cfa1a0fba2661
+#: fe561193091b4a28a760e7857db56791
 msgid "Portland, OR (USA)"
-msgstr ""
+msgstr "Portland, OR (EE.UU.)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:131
-#: 28749f3dc15d416fa6379a184686dc59
+#: 023b16bcef4b4a248caa1ec529ba216b
 msgid ""
 "[{fab}`github`](https://github.com/kuvychko) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/igor-kuvychko-09ba759/) "
 "[{fab}`twitter`](https://twitter.com/IgorKuvychko)"
 msgstr ""
+"[{fab}`github`](https://github.com/kuvychko) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/igor-kuvychko-09ba759/) "
+"[{fab}`twitter`](https://twitter.com/IgorKuvychko)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:135
+#: 1b624f466280465fb87bd58e04fb0c2d
+msgid ".. image:: _static/contributors_2022_07/Arun_Ravi.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:139
-#: d5ed46ac1f5b4cca89d496126f2793b4
+#: 5e5a801be30a4af3bee51d1c1d762aab
 msgid "Arun Ravi"
-msgstr ""
+msgstr "Arun Ravi"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:141
-#: b43c6ae81a81471f9ebe2f3c63d57af0
+#: 858ffccfabb446439a974146d722ab3d
 msgid "Pune, Maharashtra (India)"
-msgstr ""
+msgstr "Pune, Maharashtra (India)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:143
-#: d58f7f6d401f41e08ca51d6c8286213d
+#: 4b4697294bca434299da755f3425d954
 msgid ""
 "[{fab}`github`](https://github.com/haricash) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/haricash/) "
 "[{fab}`twitter`](https://twitter.com/haricash)"
 msgstr ""
+"[{fab}`github`](https://github.com/haricash) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/haricash/) "
+"[{fab}`twitter`](https://twitter.com/haricash)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:147
+#: 1466f4eb9453469cab47dd8e83ed55c3
+msgid ".. image:: _static/contributors_2022_07/Jonathan_Lindbloom.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:151
-#: c7d26d9ca44b41dead7ac4a4be010799
+#: 11ddb3df31f849e2b5dd0fe7cd32bcfd
 msgid "Jonathan Lindbloom"
-msgstr ""
+msgstr "Jonathan Lindbloom"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:153
-#: 05ad538a862c47739a1aa2febd2a0b1a
+#: 3e904cbabfdd451b903b515d89dfb8cd
 msgid "Los Alamos, NM (USA)"
-msgstr ""
+msgstr "Los Alamos, NM (EE.UU.)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:155
-#: c3410ebd912f4779bae0b77eb4635206
+#: f1bc0b8b17694f2f96ddcf8e39b694b8
 msgid ""
 "[{fab}`github`](https://github.com/jlindbloom) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/jonathanlindbloom-77232917/) "
 "[{fab}`twitter`](https://twitter.com/qed404)"
 msgstr ""
+"[{fab}`github`](https://github.com/jlindbloom) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/jonathanlindbloom-77232917/) "
+"[{fab}`twitter`](https://twitter.com/qed404)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:160
+#: c83e8fc6f6714eef8b970a1a92ce378d
+msgid ".. image:: _static/contributors_2022_07/Rowan_S.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:165
-#: 9ff09d25954b40b49c61d255a8ee0ac9
+#: e1a30fb4e873447fa32adc6844c1823b
 msgid "Rowan Gayle Schaefer"
+msgstr "Rowan Gayle Schaefer"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:167
+#: 681e4f8d4d084bd3a1e815772cfc3f5e
+msgid ".. image:: _static/contributors_2022_07/Dustin_Burt.jpeg"
 msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:171
-#: 623cc698047b490a8b02462c95c35291
+#: 78858902d04b4ffda5f90c549d862906
 msgid "Dustin Burt"
-msgstr ""
+msgstr "Dustin Burt"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:173
-#: 24a119d38be04c67bba06ead71e59a86
+#: 8b7f680e25fd4eaebc27650b9a04e575
 msgid "Columbus, Ohio (USA)"
-msgstr ""
+msgstr "Columbus, Ohio (EE.UU.)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:175
-#: 36d0137b7d4a45d988d15b774af95615
+#: 2bb30511ee6f4a69ab97f698cb8bdf04
 msgid ""
 "[{fab}`github`](https://github.com/dmburt) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/dustin-matthew-burt-760b112/)"
 msgstr ""
+"[{fab}`github`](https://github.com/dmburt) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/dustin-matthew-burt-760b112/)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:178
+#: 43cf6f3c338d41668ea70816043551d1
+msgid ".. image:: _static/contributors_2022_07/Vikas_Vishwakarma.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:182
-#: 1832e59d256044ba856a61160281a3c4
+#: f61c930ed41a47ce863a42493c67ff39
 msgid "Vikas Vishwakarma"
-msgstr ""
+msgstr "Vikas Vishwakarma"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:184
-#: aef52a74013a469cb2aa13a2dcef7f8c
+#: ef7f5ca0c39d4a0b8895af85693fe6f0
 msgid "Bhopal, Madhya Pradesh, India"
-msgstr ""
+msgstr "Bhopal, Madhya Pradesh, India"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:186
-#: 092f58bafaa74f2887536ecdf43f6c77
+#: e7561dffc906435db9d27d7e307489f5
 msgid ""
 "[{fab}`github`](https://github.com/Icyshaman) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)"
 msgstr ""
+"[{fab}`github`](https://github.com/Icyshaman) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/vikas-vishwakarma-04b738193/)"
 
-#: ../2022-07_sprint/sprint_parties/contributors.md:193
-#: b5cd3530ae054919a8297001d470983d
-msgid "Daniel Saunders"
+#: ../2022-07_sprint/sprint_parties/contributors.md:189
+#: 5f2ddfb1b0dc4500820ea5b03b4aa0eb
+msgid ".. image:: _static/contributors_2022_07/daniel_saunders.jpg"
 msgstr ""
 
+#: ../2022-07_sprint/sprint_parties/contributors.md:193
+#: 357c1dc2939d4c9c8461cbb066b4f831
+msgid "Daniel Saunders"
+msgstr "Daniel Saunders"
+
 #: ../2022-07_sprint/sprint_parties/contributors.md:195
-#: e3712204cee74009909312817a7635c2
+#: 7068fe857dca492ba733a68bd401da25
 msgid ""
 "[{fab}`github`](https://github.com/daniel-saunders-phil) "
 "[{fab}`twitter`](https://twitter.com/carolbasknrobns)"
 msgstr ""
+"[{fab}`github`](https://github.com/daniel-saunders-phil) "
+"[{fab}`twitter`](https://twitter.com/carolbasknrobns)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:198
+#: 9bc86661c9224bc3a06516d218790b21
+msgid ".. image:: _static/contributors_2022_07/Prince_Asiedu.jpg"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:202
-#: 326bd73a9a0f4678b12b96615aaf4070
+#: ec2705f6067e4c5d90f370059d56abda
 msgid "Prince Asiedu"
-msgstr ""
+msgstr "Prince Asiedu"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:204
-#: 9b9aaa1adae8441d91c5e462b1a90a6c
+#: 8731094c14be4c60a47bc57053c4bced
 msgid "Accra, Ghana"
-msgstr ""
+msgstr "Accra, Ghana"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:206
-#: 2f3d8f3162b04b299c7289b25ba93539
+#: 71f373fbf0ba42bf8a247308c2483b07
 msgid ""
 "[{fab}`github`](https://github.com/PrinceAsiedu) "
 "[{fab}`twitter`](https://twitter.com/PrinceA13827013) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/princeoforhasiedu/)"
 msgstr ""
+"[{fab}`github`](https://github.com/PrinceAsiedu) "
+"[{fab}`twitter`](https://twitter.com/PrinceA13827013) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/princeoforhasiedu/)"
+
+#: ../2022-07_sprint/sprint_parties/contributors.md:211
+#: 00da67e00e834db699914290d92b2e23
+msgid ".. image:: _static/contributors_2022_07/Rohan_Sharma.webp"
+msgstr ""
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:215
-#: 7840a8c93944431eaf90110c6fd2417d
+#: 4b82b5e1a4aa4d44bb3def3b8b771763
 msgid "Rohan Sharma"
-msgstr ""
+msgstr "Rohan Sharma"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:217
 #: ../2022-07_sprint/sprint_parties/contributors.md:248
-#: 9ae9c4b8557c4212bfdf742553f3fe42 7cea966f83e14ef6a50b938e8241b91b
+#: a252d5a8a79c45b1a94ea0d6f378ba86 c0b41e417f21450a8e5249c42dffe77b
 msgid "Delhi, India"
-msgstr ""
+msgstr "Delhi, India"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:219
-#: 10d1f4b0262140af883ff0ad19e7fb01
+#: 767a1b89100544d29b92e3dc201ef540
 msgid ""
 "[{fab}`github`](https://github.com/Rohanfizz) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/rohanfizz/)"
 msgstr ""
+"[{fab}`github`](https://github.com/Rohanfizz) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/rohanfizz/)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:226
-#: 818ef150cf754b998f582b7dad7d0b47
+#: 18a1fdbdeccc43a2955bc57e0e4b69f0
 msgid "Yuan Li"
-msgstr ""
+msgstr "Yuan Li"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:228
-#: 461af8dbc7da45408c18f59f96c5a6f1
+#: 2198f0967def482798993a90c5e9dc5a
 msgid "New York"
-msgstr ""
+msgstr "New York"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:234
-#: 537eed19ad684e4dbdc529e8a652cdc8
+#: 833e04440383448a8f297d9b22e835fa
 msgid "Sangam"
-msgstr ""
+msgstr "Sangam"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:236
-#: 0b3b7c5b67b64feca0171043bd69055c
+#: 343298007c674e3f9d8b3b4740a2172f
 msgid "Bangalore"
-msgstr ""
+msgstr "Bangalore"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:239
-#: 59f762329557492d8dd521bcb5f02582
+#: de604331236f438e9decf2520bfe3185
 msgid "[{fab}`github`](https://github.com/SangamSwadiK)"
-msgstr ""
+msgstr "[{fab}`github`](https://github.com/SangamSwadiK)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:246
-#: 99c0ac20ce0b41549945ce6a9cd6d74c
+#: 595ffcfb5a37444287b4fbec1e5f7aa4
 msgid "Ashutosh Negi"
-msgstr ""
+msgstr "Ashutosh Negi"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:250
-#: d6252083446548d9b9f659600c76b47f
+#: b3138a44806f4b9faad1c88d4a7bb24c
 msgid ""
 "[{fab}`github`](https://github.com/adkood/) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/ashutosh-negi-b08a32193/)"
 msgstr ""
+"[{fab}`github`](https://github.com/adkood/) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/ashutosh-negi-b08a32193/)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:258
-#: bfc2e73278e44996acba65e8d66461a9
+#: fd1768615cd443f1ab4d4f10f744bb8e
 msgid "Mariya"
-msgstr ""
+msgstr "Mariya"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:260
-#: f10e699e2ce4471195f374e0e07823af
+#: 6d429b3c032a456d86ff8c028b3e399c
 msgid "(USA)"
-msgstr ""
+msgstr "(EE.UU.)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:262
-#: 50afac6394ce4c3e97c52da737cd64f8
+#: 242d1c564b4a496bbe6ca221384e301a
 msgid ""
 "[{fab}`github`](https://github.com/mariyayb) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/mariya-b/)"
 msgstr ""
+"[{fab}`github`](https://github.com/mariyayb) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/mariya-b/)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:269
-#: e68e318136a64653b7a902865a6ac70a
+#: df23d50ee92e40aaa0966c267548baa1
 msgid "Benjamin Senst"
-msgstr ""
+msgstr "Benjamin Senst"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:271
-#: d8e2ed6d304c499aba976c6330b048a6
+#: ba7375c7f8c24b27b19dc5d659c788b5
 msgid "Berlin (Germany)"
-msgstr ""
+msgstr "Berlín (Alemania)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:277
-#: f58048ff66b34d108b097cf6332511bf
+#: 3dbbad4513594bc9970bdbaeb40c8c17
 msgid "Saurabh Egham"
-msgstr ""
+msgstr "Saurabh Egham"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:279
-#: 13577338fc744c158f122f37fdc31e0e
+#: ae745b31c4824ee9b8a4396ddca7cb59
 msgid "Surrey\tEgham, Surrey (UK)"
-msgstr ""
+msgstr "Surrey\tEgham, Surrey (Reino Unido)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:281
-#: 93a36b9e20b945d88f9d0f37801910bd
+#: 2f1293d151f14d5cb27563eea2b2e523
 msgid ""
 "[{fab}`github`](https://www.github.com/saurbhc) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/saurabhchopraa/) "
 "[{fab}`twitter`](https://twitter.com/saurabhchopraa)"
 msgstr ""
+"[{fab}`github`](https://www.github.com/saurbhc) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/saurabhchopraa/) "
+"[{fab}`twitter`](https://twitter.com/saurabhchopraa)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:289
-#: a4d3a4d248db454685ba4d066c2b4191
+#: 305914ca4b2b456daf54994d68686853
 msgid "Safalta Kundra"
-msgstr ""
+msgstr "Safalta Kundra"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:291
-#: 9545d1a92af04655a8c030452219ad64
+#: 712ce715bca34b21a9d80345c2f9f041
 msgid "Nagpur, Maharashtra (India)"
-msgstr ""
+msgstr "Nagpur, Maharashtra (India)"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:297
-#: 16a988f5aa504a09bc6f73233b5ee115
+#: 6bd51597a9164d6c81132556f02cf341
 msgid "Benjamin Datko"
-msgstr ""
+msgstr "Benjamin Datko"
 
 #: ../2022-07_sprint/sprint_parties/contributors.md:299
-#: 99be6c4c4f814312b2d56b29570496a2
+#: d79999d016f441738ef1b3bb35705fa8
 msgid ""
 "[{fab}`github`](https://github.com/bdatko) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/bdatko-23802891/)"
 msgstr ""
+"[{fab}`github`](https://github.com/bdatko) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/bdatko-23802891/)"

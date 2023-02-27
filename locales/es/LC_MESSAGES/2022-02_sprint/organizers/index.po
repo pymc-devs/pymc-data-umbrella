@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -22,11 +22,11 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../2022-02_sprint/organizers/index.md:2 b744b05178684f709d347a106fe4fa00
+#: ../2022-02_sprint/organizers/index.md:2 9a552cf562f24a2bb3df21ccb094a1e3
 msgid "About"
 msgstr "Contenido"
 
-#: ../2022-02_sprint/organizers/index.md:5 05c286d6a83f4fa79641d8b282710560
+#: ../2022-02_sprint/organizers/index.md:5 02b425944ca14432946ebc732f3397c5
 msgid ""
 "Wondering if the sprint is for you? We have got just the page: "
 "{ref}`decision_tree`"
@@ -34,66 +34,78 @@ msgstr ""
 "¿Te preguntas si el evento es para ti? Puedes encontrar la respuesta en: "
 "{ref}`decision_tree`"
 
-#: ../2022-02_sprint/organizers/index.md:9 3e2f1fc032ba43f7bb94c051d3e5d8f2
+#: ../2022-02_sprint/organizers/index.md:9 6bc28c73588e4e3d844b1aca22510107
 msgid "Organizers"
 msgstr "Organizadores"
 
-#: ../2022-02_sprint/organizers/index.md:14 02d0c6818980412c9cce0775336ede2a
+#: ../2022-02_sprint/organizers/index.md:14 c6c7c9ba25e0481b8a0dc2284f275594
 msgid "Meenal Jhajharia"
 msgstr "Meenal Jhajharia"
 
-#: ../2022-02_sprint/organizers/index.md:22 9bc9edb60d5d4dafa3afc4e59f460bec
+#: ../2022-02_sprint/organizers/index.md:14 c6c7c9ba25e0481b8a0dc2284f275594
+msgid ".. image:: _static/people/meenal.jpg"
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:22 ffbee387347a4fc780b67cf881a5b934
 msgid "Meenal  Jhajharia"
 msgstr "Meenal  Jhajharia"
 
 #: ../2022-02_sprint/organizers/index.md:24
-#: ../2022-02_sprint/organizers/index.md:32 a00e7f20891b4a75913b87acd47132ff
-#: a90754fd652046b1b4dc1c36ab512da2
+#: ../2022-02_sprint/organizers/index.md:32 ec9bce81184e4608ba2b54b1c16d1bc6
+#: 7728fb4ee3954ae985d250dea278661c
 msgid "Reshama Shaikh"
 msgstr "Reshama Shaikh"
 
+#: ../2022-02_sprint/organizers/index.md:24 ec9bce81184e4608ba2b54b1c16d1bc6
+msgid ".. image:: _static/people/reshama.jpg"
+msgstr ""
+
 #: ../2022-02_sprint/organizers/index.md:34
-#: ../2022-02_sprint/organizers/index.md:42 09f7801ccfea4c8095c05189037e0586
-#: 84aa5e38aac84c11b84e16c3cff7ff4d
+#: ../2022-02_sprint/organizers/index.md:42 5cb2555a4dc24bf5a5c84f614b73a02e
+#: a48d8748c3a94d53a95fe3dd579d83de
 msgid "Beryl Kanali"
 msgstr "Beryl Kanali"
 
+#: ../2022-02_sprint/organizers/index.md:34 5cb2555a4dc24bf5a5c84f614b73a02e
+msgid ".. image:: _static/people/beryl.JPG"
+msgstr ""
+
 #: ../2022-02_sprint/organizers/index.md:44
-#: ../2022-02_sprint/organizers/index.md:52 86af399c619e4e88af3135f6e9673521
-#: 13b3c5b731784335917203774dc5e7e9
+#: ../2022-02_sprint/organizers/index.md:52 7046eab3dde941f48e9e2831b7c8102d
+#: 91273fdc72924a189e27fe3e8fe8cbf5
 msgid "Sandy Weng"
 msgstr "Sandy Weng"
 
+#: ../2022-02_sprint/organizers/index.md:44 7046eab3dde941f48e9e2831b7c8102d
+msgid ".. image:: _static/people/sandy.jpg"
+msgstr ""
+
 #: ../2022-02_sprint/organizers/index.md:54
-#: ../2022-02_sprint/organizers/index.md:62 b78464142ba74de7a0ef67fca99800d7
-#: e81a8bce0c8543b295ff9f3d6d82c0d0
+#: ../2022-02_sprint/organizers/index.md:62 2285a7448c7b44fe85e4070203bfcb6d
+#: 6c2a80f34deb4cada640db2a5c119743
 msgid "Oriol Abril Pla"
 msgstr "Oriol Abril Pla"
 
-#: ../2022-02_sprint/organizers/index.md:66 a25432dce42f4a0881d672edd1b26111
-msgid ""
-"Additionally, we thank [Ravin Kumar](https://ravinkumar.com)(Volunteer), "
-"[Austin Rochford](https://austinrochford.com)(Speaker), [Ricardo "
-"Vieira(](https://github.com/ricardoV94/)Speaker), [Sayam "
-"Kumar](https://github.com/Sayam753)(Volunteer), [Thomas "
-"Wiecki](https://twiecki.io)(Volunteer), [Christian "
-"Luhmann](http://cluhmann.github.io/)(Volunteer) and "
-"[NUMFOCUS](https://numfocus.org) for their support."
+#: ../2022-02_sprint/organizers/index.md:54 2285a7448c7b44fe85e4070203bfcb6d
+msgid ".. image:: _static/people/oriol.jpg"
 msgstr ""
-"Además, expresamos nuestro agradecimiento a [Ravin "
-"Kumar](https://ravinkumar.com)(Voluntario), [Austin "
-"Rochford](https://austinrochford.com)(Orador), [Ricardo "
-"Vieira](https://github.com/ricardoV94/)(Orador), [Sayam "
-"Kumar](https://github.com/Sayam753)(Voluntario), [Thomas "
-"Wiecki](https://twiecki.io)(Voluntario), [Christian "
-"Luhmann](http://cluhmann.github.io/)(Voluntario) y a  "
-"[NUMFOCUS](https://numfocus.org) por su apoyo."
 
-#: ../2022-02_sprint/organizers/index.md:68 3f5a6947551d4e279c40daa490dfe855
+#: ../2022-02_sprint/organizers/index.md:66 8ed0b31139e04a2b9097ac1c06fa3c55
+msgid ""
+"Additionally, we thank [Ravin Kumar](https://ravinkumar.com) (Volunteer), "
+"[Austin Rochford](https://austinrochford.com) (Speaker), [Ricardo "
+"Vieira](https://github.com/ricardoV94/) (Speaker), [Sayam "
+"Kumar](https://github.com/Sayam753) (Volunteer), [Thomas "
+"Wiecki](https://twiecki.io) (Volunteer), [Christian "
+"Luhmann](http://cluhmann.github.io/) (Volunteer) and "
+"[NumFOCUS](https://numfocus.org) for their support."
+msgstr ""
+
+#: ../2022-02_sprint/organizers/index.md:68 e1fd1a48caca4b3b9e6f67ad421d489f
 msgid "About PyMC and Data Umbrella"
 msgstr "Acerca de PyMC y Data Umbrella"
 
-#: ../2022-02_sprint/organizers/index.md:70 7ac694a41b604f7f844e7a3e6d5991c4
+#: ../2022-02_sprint/organizers/index.md:70 ee35b328a12542a6a034058461359039
 msgid ""
 "[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
 "underrepresented persons in data science. It is a fiscally hosted project of"
@@ -111,7 +123,7 @@ msgstr ""
 "prácticas inclusivas. Todos los niveles son bienvenidos, principiantes y "
 "expertos."
 
-#: ../2022-02_sprint/organizers/index.md:72 9521746764bb441aade6e04b60b260e5
+#: ../2022-02_sprint/organizers/index.md:72 3b473a356a544df9bbc428ce797027c6
 msgid ""
 "[PyMC](https://docs.pymc.io/en/latest/about.html) is a probabilistic "
 "programming package for Python that allows users to fit Bayesian models "
@@ -127,30 +139,20 @@ msgstr ""
 "Su flexibilidad y extensibilidad lo hacen aplicable a un amplio abanico de "
 "problemas. PyMC es un proyecto sin ánimo de lucro de NumFOCUS."
 
-#: ../2022-02_sprint/organizers/index.md:74 b8d806cd761a4e2f81f7547b83f78c32
+#: ../2022-02_sprint/organizers/index.md:74 d59d60945f194bfa8309a89d49f31a4a
 msgid "Banner code and credit"
 msgstr "Código de banner y crédito"
 
-#: ../2022-02_sprint/organizers/index.md:75 d6fffb7f60334370b68ed757e407da46
+#: ../2022-02_sprint/organizers/index.md:75 e7f3683aa59441c38682cece42bc8ca8
 msgid ""
 "This [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
-"umbrella/main/banner.png) is generated from [this "
-"code](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
-"umbrella/main/banner.py), the code in this link is a trivial customization "
-"of the [original code](https://github.com/pymc-devs/pymcon/blob/gh-"
-"pages/assets/make_trajectories.py) by [Colin "
-"Caroll](https://colindcarroll.com) who designed a [similar banner for "
-"pymcon'20](https://pymcon.com/), Colin is amazing at visualization stuff and"
-" even has a couple of [talks](https://github.com/ColCarroll/yourplotlib) "
-"about it!!"
+"umbrella/main/2022-02_sprint/banner.png) is generated from [this "
+"code](https://github.com/pymc-devs/pymc-data-"
+"umbrella/blob/main/2022-02_sprint/banner.py), the code in this link is a "
+"trivial customization of the [original code](https://github.com/pymc-"
+"devs/pymcon/blob/gh-pages/assets/make_trajectories.py) by [Colin "
+"Caroll](https://colindcarroll.com) who designed a [similar banner for PyMCon"
+" 2020](https://pymc-devs.github.io/pymcon/), Colin is amazing at "
+"visualization stuff and even has a couple of "
+"[talks](https://github.com/ColCarroll/yourplotlib) about it!!"
 msgstr ""
-"Este [banner](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
-"umbrella/main/banner.png) se genera a partir de [este "
-"código](https://raw.githubusercontent.com/pymc-devs/pymc-data-"
-"umbrella/main/banner.py), el código en este enlace es una personalización "
-"trivial del [código original](https://github.com/pymc-devs/pymcon/blob/gh-"
-"pages/assets/make_trajectories.py) por [Colin "
-"Caroll](https://colindcarroll.com) que diseñó un [banner similar para la "
-"pymcon'20](https://pymcon.com/), Colin es increíble en cosas de "
-"visualización e incluso tiene un par de "
-"[charlas](https://github.com/ColCarroll/yourplotlib) ¡¡sobre ello!!"

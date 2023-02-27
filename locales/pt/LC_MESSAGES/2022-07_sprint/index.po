@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Jose Rafael Camejo, 2023\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
@@ -21,23 +21,23 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../2022-07_sprint/index.md:2 d006c6e630ab4f18be9ef6be939ccc28
+#: ../2022-07_sprint/index.md:2 51cb623283e54283b725c36d87da6f63
 msgid "July 2022 Open Source Working Session"
 msgstr "Sessão de trabalho de código aberto de julho de 2022"
 
-#: ../2022-07_sprint/schedule_table.part.md:7 2a13296483854dd29a72adb03eed9ee9
+#: ../2022-07_sprint/schedule_table.part.md:7 e71f27584f03494ab65d25018bbed696
 msgid "Schedule"
 msgstr "Agendar"
 
 #: ../2022-07_sprint/schedule_table.part.md:10
-#: 70e0745f341e469aa7173ffb24e854c9
+#: 0c3bbe9a9a2e45c9bdcd39a1b9e47c1e
 msgid "To take part in the upcoming Open Source Working Sessions you should:"
 msgstr ""
 "Para participar das próximas sessões de trabalho de código aberto, você "
 "deve:"
 
 #: ../2022-07_sprint/schedule_table.part.md:12
-#: 70b23ce4c6e04e23aa08c86abea19d2b
+#: d42942dfff364e35af514148ec0b1e94
 msgid ""
 "Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-"
 "pymc-os-ws`"
@@ -46,7 +46,7 @@ msgstr ""
 "line}`https://tinyurl.com/du-pymc-os-ws`"
 
 #: ../2022-07_sprint/schedule_table.part.md:13
-#: 1698f927631a4a2b970258a185a104de
+#: f51ce44280494629bafeecc757898655
 msgid ""
 "RSVP on MeetUp for the events you will be attending (links on table below)"
 msgstr ""
@@ -54,7 +54,7 @@ msgstr ""
 "(links na tabela abaixo)"
 
 #: ../2022-07_sprint/schedule_table.part.md:15
-#: d60a0211f54447bdbc366b8ff9e42154
+#: f76f51446f34411e9b36994920046b31
 msgid ""
 "Note:   It is *not required* to attend a specific session as a prerequisite "
 "for other sessions.  Ideally, it is beneficial if folks can attend as many "
@@ -66,117 +66,117 @@ msgstr ""
 "participar de quantas sessões puderem, para desenvolver suas habilidades de "
 "código aberto e familiaridade com o projeto PyMC."
 
-#: ../2022-07_sprint/index.md:9 bb08e24e7b364439a296cd9192feb2da
+#: ../2022-07_sprint/index.md:9 1701f09b9f56499883896387ce578d26
 msgid "Event"
 msgstr "Evento"
 
-#: ../2022-07_sprint/index.md:9 badd9f6401bf4cce9fa9281362c89761
+#: ../2022-07_sprint/index.md:9 97af6bcf4a414ddf998df29444dc8e54
 msgid "Date"
 msgstr "Data"
 
-#: ../2022-07_sprint/index.md:9 f916f20b2fc04406a7a459d73bb27c1c
+#: ../2022-07_sprint/index.md:9 e3e5875afbe5402f98f1cffbc5ccea5f
 msgid "Time"
 msgstr "Hora"
 
-#: ../2022-07_sprint/index.md:9 b2bc8d033c184379927c603c92acbde5
+#: ../2022-07_sprint/index.md:9 d94c4c3124114ea0a0d63c74d634cda9
 msgid "Duration"
 msgstr "Duração"
 
-#: ../2022-07_sprint/index.md:9 cbc65c8a69234ca4bd25dc60f5d6f17b
+#: ../2022-07_sprint/index.md:9 3b80f3b4e49b4321909e5ed3689c04f7
 msgid "RSVP"
 msgstr "RSVP"
 
-#: ../2022-07_sprint/index.md:9 220c5c0800c948568e4e3d6fe2ad5bb1
+#: ../2022-07_sprint/index.md:9 de1a0c78a0f9462481ac56e7eea69676
 msgid "Open Source Pre-series Office Hours"
 msgstr "Horário de atendimento da pré-série de código aberto"
 
-#: ../2022-07_sprint/index.md:9 db631981426a4a34905053e35ea0a4bb
+#: ../2022-07_sprint/index.md:9 0f4581562afb49088b501de9a46f9c17
 msgid "Jul 2 (Saturday)"
 msgstr "2 de julho (Sábado)"
 
-#: ../2022-07_sprint/index.md:9 8a39a3641f2d49caaa4484baaa574b1d
-#: ebdc68e2ae7940f081b75970c6279e1c
+#: ../2022-07_sprint/index.md:9 c5d6f419823e44d88d0ebf3c64aac12d
+#: 9d8033f42ff24a99856403b1cf302a7c
 msgid "9 ET / 13 UTC / 16 EAT"
 msgstr "9 ET / 13 UTC / 16 EAT / 10 BRASÍLIA"
 
-#: ../2022-07_sprint/index.md:9 ea214f4f673840ae9267717de343a182
-#: da9d0febef1c4840a7da27347817d147
+#: ../2022-07_sprint/index.md:9 7ed23924ffd74b2fb2aec63ed10e514d
+#: 42341a5a483f4c7ea73e60b000b3b547
 msgid "1 hour"
 msgstr "1 hora"
 
-#: ../2022-07_sprint/index.md:9 c6ed07a57b8a4f0bae8b842871ee6395
+#: ../2022-07_sprint/index.md:9 0e710c2ac1c1437ea940f6395322ea66
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)"
 msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)"
 
-#: ../2022-07_sprint/index.md:9 e039124998f64511a0f01026727297ec
+#: ../2022-07_sprint/index.md:9 6d0e32796d974941a35a39cf9de91eec
 msgid "Open Source Working Session #1"
 msgstr "Sessão de trabalho de código aberto nº 1"
 
-#: ../2022-07_sprint/index.md:9 8310b55adbca4e74958e229bba4eb8b9
+#: ../2022-07_sprint/index.md:9 326cb45cfb7b4c8989d9693b0d7a5146
 msgid "Jul 9 (Saturday)"
 msgstr "9 de julho (Sábado)"
 
-#: ../2022-07_sprint/index.md:9 992ca3bc245c494fba1e4b1d70961f1a
-#: 2432f3d4b7e54032a9639e7ee54d7184 69e66de5a6484b1ba1c2970c69e49a75
+#: ../2022-07_sprint/index.md:9 6f3807fdd7dd441e83ba4636ff642ae6
+#: a736f0a59adb4b5682ba56667972f35e 3e026da55fcc4c908a50725617cf8242
 msgid "3 hours"
 msgstr "3 horas"
 
-#: ../2022-07_sprint/index.md:9 dbe389af19f746ec9bd8151611d204c4
+#: ../2022-07_sprint/index.md:9 2687b8586c344ef395172ce24b7f090f
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)"
 msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)"
 
-#: ../2022-07_sprint/index.md:9 788cc5dfe61943ff884e8887c3302d2e
+#: ../2022-07_sprint/index.md:9 58ed270f93a34030aa9ccd2ea57412d9
 msgid "Open Source Working Session #2"
 msgstr "Sessão de trabalho de código aberto nº 2"
 
-#: ../2022-07_sprint/index.md:9 73b9614862cd455cad1da87bf52cea19
+#: ../2022-07_sprint/index.md:9 f2ace54c9659491287fe17cb9da75d5b
 msgid "Jul 22 (Friday)"
 msgstr "22 de Julho (Sexta-feira)"
 
-#: ../2022-07_sprint/index.md:9 b4f547f6c0fb41e39fc388ed3c256090
+#: ../2022-07_sprint/index.md:9 4284530c2dc441f0a973be5ca57a5598
 msgid "12 ET / 16 UTC / 19 EAT"
 msgstr "12 ET / 16 UTC / 19 EAT / 13:00 BRASÍLIA "
 
-#: ../2022-07_sprint/index.md:9 dcd61f28c19c46e1aa9c129c6b6f3d44
+#: ../2022-07_sprint/index.md:9 9ecd9ded538b49e4a410c32bdcc468eb
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)"
 msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)"
 
-#: ../2022-07_sprint/index.md:9 5191b79cf3774b539b14e4e602ad942e
+#: ../2022-07_sprint/index.md:9 009c7f6b33984158a51742b5dc25d36b
 msgid "Open Source Working Session #3 [^1]"
 msgstr "Sessão de Trabalho de Código Aberto #3 [^1]"
 
-#: ../2022-07_sprint/index.md:9 7bb537b8a51449ffaed7e8be51c36a75
+#: ../2022-07_sprint/index.md:9 75379598cfaa469fa82c5f80b54335b5
 msgid "Aug 4/5 (Thur/Fri)"
 msgstr "4/5 de agosto (Quinta/Sexta)"
 
-#: ../2022-07_sprint/index.md:9 b9302383eb684bc0abd40e4057da6db1
-#: 29244c40dbd94aae8d9e2ee7743fbffc
+#: ../2022-07_sprint/index.md:9 55fab368919443fa80f5a572c567309c
+#: 07d1f5d408a448819ab62ef900031f61
 msgid "19 ET / 23 UTC"
 msgstr "19 ET / 23 UTC / 16 BRASÍLIA"
 
-#: ../2022-07_sprint/index.md:9 10e8ecee033c4bfc95385a08a875afed
+#: ../2022-07_sprint/index.md:9 53efd1f621cb4c71a45829f30a04b45c
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)"
 msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)"
 
-#: ../2022-07_sprint/index.md:9 fba3d87c24ad48c1a1ac4bb2bb43a898
+#: ../2022-07_sprint/index.md:9 dfeff92d7ec24fd7b8b4432e83dca2cf
 msgid "Open Source Post-series Office Hours [^1]"
 msgstr "Horário comercial pós-série de código aberto [^1]"
 
-#: ../2022-07_sprint/index.md:9 78c5a220fdb7438e965ed2655771c146
+#: ../2022-07_sprint/index.md:9 46fe21015b1d486e89491ed67d96ff74
 msgid "Aug 18 (Saturday)"
 msgstr "18 de agosto(Sábado)"
 
-#: ../2022-07_sprint/index.md:9 397e9ecd2dcb437c93619cbc0de9afa9
+#: ../2022-07_sprint/index.md:9 dd726ac58f4145f8b0d86d49e6e16b7b
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)"
 msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)"
 
 #: ../2022-07_sprint/schedule_table.part.md:28
-#: 7e181eab6666470281ad90460fbcbd7e
+#: 6903932a6fb14760a2d02a212d2376f7
 msgid "Schedule with Timezones"
 msgstr "Agendar com fusos horários"
 
 #: ../2022-07_sprint/schedule_table.part.md:30
-#: 89219b0322f341aabc7976710e0bf84c
+#: 8509159323c44e82bc3855bc868d481b
 msgid ""
 "Note: You can click on the table image below to view the full spreadsheet "
 "with a larger view."
@@ -185,24 +185,27 @@ msgstr ""
 " completa com uma visão maior."
 
 #: ../2022-07_sprint/schedule_table.part.md:32
-#: b2e4da91d3a54686928b4f17d1f816c5
+#: 91ee16ad7f1449d086416ceb56c1b0b1
 msgid ""
 "[![schedule with "
-"timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)"
+"timezones](../_static/images/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)"
 msgstr ""
-"[![schedule with "
-"timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)"
 
 #: ../2022-07_sprint/schedule_table.part.md:32
-#: 4e954281fbf14b2da47a827db8788d90
+#: 903b0b5df6aa4346a6c6d4c98ab7eb64
 msgid "schedule with timezones"
 msgstr "Agendar com fusos horários"
 
+#: ../2022-07_sprint/schedule_table.part.md:32
+#: 903b0b5df6aa4346a6c6d4c98ab7eb64
+msgid ".. image:: _static/images/2022_07_timezones.png"
+msgstr ""
+
 #: ../2022-07_sprint/schedule_table.part.md:34
-#: af8784f0b04f4cd2805bcd2bd458a27b
+#: 1e1e5875f7fc43a69a2d13d99dfb5db3
 msgid "Exportable calendar"
 msgstr "Calendário exportável"
 
-#: ../2022-07_sprint/index.md:26 4e76b3ec47d54067bc3fb7a2931df466
+#: ../2022-07_sprint/index.md:26 b19a3e92c3924266ac5d3141ae8f32be
 msgid "Asia-Pacific timeslot"
 msgstr "Intervalo de tempo Ásia-Pacífico"
