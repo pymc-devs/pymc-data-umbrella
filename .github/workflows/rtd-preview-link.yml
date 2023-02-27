@@ -25,5 +25,5 @@ jobs:
       - uses: readthedocs/actions/preview@v1
         with:
           project-slug: "pymc-data-umbrella${{ matrix.suffix }}"
-          message-template: :books: Documentation preview ${{ matrix.language }} :books:: {docs-pr-index-url}
+          message-template: ":books: Documentation preview ${{ matrix.language }} :books:: {docs-pr-index-url}"
           project-language: ${{ matrix.language }}
