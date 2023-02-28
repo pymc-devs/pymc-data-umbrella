@@ -62,10 +62,10 @@ msgstr "[Repositorio Github](https://github.com/pymc-devs/pymc-data-umbrella)"
 #: ../about/contributing_to_pymc/index.md:11 a367060ca11c467095de8d3aef2bac4e
 msgid ""
 "[Slides](https://pymc-data-"
-"umbrella.xyz/en/latest/about/contributing_to_pymc/contributing_to_pymc_slides.pdf)"
+"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 msgstr ""
 "[Diapositivas](https://pymc-data-"
-"umbrella.xyz/en/latest/about/contributing_to_pymc/contributing_to_pymc_slides.pdf)"
+"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
 
 #: ../about/contributing_to_pymc/index.md:13 122516d86f624c0f846560471e4e9062
 msgid "Speaker"
