@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Juliana Almeida, 2023
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Juliana Almeida, 2023\n"
+"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,15 +22,15 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/contributing_to_pymc/index.md:2 5012db61f3524d0989319ac1110eeebd
+#: ../about/contributing_to_pymc/index.md:2 be6c8fa86c004fafb4b2f5ecddba0f6b
 msgid "Contributing to PyMC"
 msgstr "Contribuindo para o PyMC"
 
-#: ../about/contributing_to_pymc/index.md:4 6e9fe32e31114ef7a18d9a350e0d02d8
+#: ../about/contributing_to_pymc/index.md:4 2c0a659fffa34dbdb7083c2fb33f161c
 msgid "Event"
 msgstr "Evento"
 
-#: ../about/contributing_to_pymc/index.md:5 1c0832c6f8cc4baca66c454bde3e7726
+#: ../about/contributing_to_pymc/index.md:5 670c6316d0cc472d97d57e1198616373
 msgid ""
 "From first time contributor to project maintainer. What is it like? In this "
 "testimonial, Ricardo Vieira revisits the steps of his first ever "
@@ -47,32 +48,28 @@ msgstr ""
 "desmistificar as contribuições de open source sem tirar a mágica delas! Esta"
 " apresentação foi descrita como \"inspiradora e autêntica\"."
 
-#: ../about/contributing_to_pymc/index.md:7 a40edad78e97416b9fde905c91f37d22
+#: ../about/contributing_to_pymc/index.md:7 63fbbab6223e4443a71c58f76fd84c11
 msgid "Details"
 msgstr "Detalhes"
 
-#: ../about/contributing_to_pymc/index.md:9 74076eb92fc640a69f6e4e51cfd6d840
+#: ../about/contributing_to_pymc/index.md:9 511bd5c211f04089a250bbb39a6a096f
 msgid "Audience: People who are interested in contributing to Open source"
 msgstr ""
 "Audiência: Pessoas interessadas em contruibuir para projetos Open Source"
 
-#: ../about/contributing_to_pymc/index.md:10 badbced95664498685cefdd3791812ae
+#: ../about/contributing_to_pymc/index.md:10 0d05d33dc8364f1591ebb90e8ac62231
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
 msgstr "[Repo no Github](https://github.com/pymc-devs/pymc-data-umbrella)"
 
-#: ../about/contributing_to_pymc/index.md:11 a367060ca11c467095de8d3aef2bac4e
-msgid ""
-"[Slides](https://pymc-data-"
-"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
-msgstr ""
-"[Apresentação](https://pymc-data-"
-"umbrella.xyz/en/latest/_static/contributing_to_pymc_slides.pdf)"
+#: ../about/contributing_to_pymc/index.md:11 62b57e78c24645b8a34d7a3646db1efc
+msgid "{download}`Slides <contributing_to_pymc_slides.pdf>`"
+msgstr "{download}`Apresentação <contributing_to_pymc_slides.pdf>`"
 
-#: ../about/contributing_to_pymc/index.md:13 122516d86f624c0f846560471e4e9062
+#: ../about/contributing_to_pymc/index.md:13 d24e67e9abb84b1f917c62f5746db6e3
 msgid "Speaker"
 msgstr "Palestrante"
 
-#: ../about/contributing_to_pymc/index.md:14 59488ef587f24362a0320dba56525098
+#: ../about/contributing_to_pymc/index.md:14 3307948894f8444fb365152a34b479bb
 msgid ""
 "Ricardo Vieira is a PyMC developer and data scientist at PyMC Labs. He spent"
 " several years teaching himself Statistics and Computer Science at the "
@@ -82,6 +79,6 @@ msgstr ""
 " Ele passou anos aprendendo sozinho Estatística e Ciência da Computação, "
 "deixando de lado sua graduação em Psicologia e Neurociência."
 
-#: ../about/contributing_to_pymc/index.md:16 ce55dc9ecd324ce2874cd7f3e916f0fa
+#: ../about/contributing_to_pymc/index.md:16 99806ce6f6d443d88bd1b0a2c5449d02
 msgid "Video"
 msgstr "Vídeo"

@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:1
+#: 8bc562cc283a4783b5919ba0479bc658
+msgid "Contributors"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:0
+#: ca2f09f59f2a4d4991ccae3726c06684
+msgid "Add yourself as a contributor to the OS Working Session"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:7
+#: 0db6d8ba1de34cb08125987838670310
+msgid ""
+"The template shown rendered below for the Data Umbrella logo is available "
+"here to help you copy it and add yourself to the contributor list."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:10
+#: 6c00e7a92c0141d5a45f06d123910b7e
+msgid ""
+"Steps to follow are only mentioned here. For an extensive tutorial you can "
+"read the page {ref}`pr_tutorial` and follow the steps mentioned below:"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:13
+#: 03a6f43cc8584fbba1355901beb6b4a3
+msgid ""
+"Fork and clone the repo. You can get to the repo on GitHub with the icon on "
+"the top right of the page"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:14
+#: 8aa19ad5cf93422b9ee63c46c3733a71
+msgid "Create a feature branch."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:15
+#: f4df7eea602f4e63a1aa1847b59231ff
+msgid "Copy the contributor card template:"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:33
+#: 279346b7ecb84676b3387f73ae09c7f9
+msgid "Open this file: `2023-03_sprint/sprint_parties/contributors.md`"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:34
+#: dbfaa48ae2e74227b18e3dea002fa5ff
+msgid ""
+"Paste the template to the relevant section and update it with your personal "
+"info."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:37
+#: d4731ce64dfb4cb297ec639aff1a64b2
+msgid ""
+"Copy everything. The opening and closing _3 colon fences_ (`:::`) are "
+"necessary"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:38
+#: cba67e49a06c4b829938d50cc811a58d
+msgid ""
+"Paste your card **under** the last card available (that is, after the last "
+"`:::`) but **above** the end of the grid (that is, before the one with 4 "
+"colons `::::`)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:40
+#: 1c40eca46e4b4a4295af20ca339d8d9a
+msgid ""
+"Empty lines are important for rendering. The empty line between "
+"\"Contributor Name\" and \"Contributor Location\" places them in different "
+"lines when rendering. The _lack_ of empty line between the multiple icons "
+"places them in the same line when rendering the website."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:44
+#: 6d205d47c0c3470aab3e723176b4ec13
+msgid ""
+"The image can be added to the repo ([`_static/contributors_2023_03` "
+"folder](https://github.com/pymc-devs/pymc-data-"
+"umbrella/tree/main/_static/contributors_2023_03)) as part of the PR or be an"
+" external link like in the template. But it needs to be a _square image_."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:49
+#: d96746e3ea254faa9f23a426584ab212
+msgid ""
+"If you do not want to share a website, GitHub, Twitter and/or LinkedIn,  "
+"those lines can be deleted, keeping an eye on not leaving empty lines "
+"between icons+links."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:52
+#: 7b84150ff1ce4fe391a2fef983a1747d
+msgid "Commit your changes and open a Pull Request"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:55
+#: 1824eed1ba5a48c883795c0781a975dc
+msgid "Returning Contributors"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:56
+#: 5a719129d444407ab4a543a8be044492
+msgid ""
+"Returning contributors have previously participated in a Data Umbrella or "
+"PyMC open source event or have previously contributed to PyMC."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:61
+#: ../2023-03_sprint/sprint_parties/contributors.md:78
+#: 20622de4a1864ddb9c244448afe6c66b 7e32f90b36cd464693596e011e50f748
+msgid "Image for contributor template"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:61
+#: 20622de4a1864ddb9c244448afe6c66b
+msgid ".. image:: _static/contributors_2023_03/cf2.jpg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:65
+#: aaaa9a6443c24fb690b2e5fbd3bb0fc0
+msgid "Cristián Maureira-Fredes"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:67
+#: 54ed9b71311e4f3e87e15c71777cfe6f
+msgid "Berlin, Germany"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:69
+#: e31973522eb64276a38dd7a06def3889
+msgid "[{fab}`linkedin`](https://www.linkedin.com/in/cmaureir)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:73
+#: fe5236ce768b431b9b50ff9a5434ad2e
+msgid "New Contributors"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:78
+#: 7e32f90b36cd464693596e011e50f748
+msgid ".. image:: _static/contributors/blank_person.jpg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:82
+#: 40d3d9c1f2fb4094ab6304c036e18a74
+msgid "Sangam"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:84
+#: 992de86da51c4fb2805931968f157302
+msgid "Bangalore, India"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/contributors.md:86
+#: b6c61fc866544216874ce81a4e9f08d4
+msgid "[{fab}`github`](https://github.com/SangamSwadiK)"
+msgstr ""
