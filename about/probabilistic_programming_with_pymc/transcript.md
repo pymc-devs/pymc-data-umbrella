@@ -1,4 +1,8 @@
-Note: this "draft" transcript has been downloaded from YouTube and needs to be polished.
+# Video transcript
+
+:::{note}
+This "draft" transcript has been downloaded from YouTube and needs to be polished.
+:::
 
 Video:  [Introduction to Probabilistic Programming with PyMC](https://youtu.be/Qu6-_AnRCs8)
 
@@ -12,29 +16,36 @@ There are various ways that you can support Data Umbrella -- the first and forem
 
  we also have a discord where you can
 join and ask and answer general questions and share events or information
-uh we're also on the open collective um so um if you would like feel free to donate if you work for a corporation
+
+we're also on the open collective um so um if you would like feel free to donate if you work for a corporation
 that uses benevidi this is a company match platform um you can also find us on benevite
 we have various video um playlists on youtube and one of them is contributing to open source
 um and you can see here that we have um videos for numpy and core python and scikit-learn and pandas
+
 we also have a playlist on career advice we've had four fabulous speakers so
 check that out if you are looking for that and these are all the playlists that we
 have we have career advice data visualization data science beginner friendly videos contributing to open
 source scikit-learn sprint and we have just started a new playlist for the pi mc series and this will
 be added to that one and this is just a sampling of some of the videos that we have on our youtube
+
 we also have a lot of resources on our website uh related to using inclusive language allyship burnout ai ethics you
 can check those out on your own we are on all social media platforms as
 data umbrella the ones that i have highlighted twitter linkedin um are the most active um meetup is the
 place to join to find out about upcoming events and um updates
 um and we have a blog as well and we have a monthly newsletter so i will share the link to that feel free to sign
 up we only send a newsletter once a month and we will not we promise not to spam you in any way
-um so if you'd like to sign up for that that's also helpful um so we use big marker for our webinar
+um so if you'd like to sign up for that that's also helpful
+
+we use big marker for our webinar
 platforms and there is live captioning available so if you go to the very top there is should be a button set that
 says cc and you can turn on the live captioning from the feedback that i've heard the
 english live captioning is pretty good you can try the other languages i think they're not
 they're not quite as accurate um
+
 our upcoming event that we have is automating workflows with github actions that's going to be on january 18th oops
 lost my slides um hang on just a minute sorry about that
 all right um oh there we go
+
 um yeah sorry i don't know what's going on um today's talk introduction to probabilistic programming with pi m c
 with austin rushford um austin is the chief data scientist at kibo commerce
 he is a recovering mathematician who is passionate about math education bayesian statistics and machine learning and you

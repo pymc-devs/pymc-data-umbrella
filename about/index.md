@@ -13,7 +13,6 @@ Is there a video you would find helpful, but it is not available?  Let us know v
 intuitive_modeling/index
 intro_to_array_operations/index
 probabilistic_programming_with_pymc/index
-probabilistic_programming_with_pymc/transcript
 contributing_to_pymc/index
 contributing_to_documentation/index
 example_pr/index
