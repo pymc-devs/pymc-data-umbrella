@@ -26,8 +26,8 @@ Our event series can be shared in one or more of the following ways:
     - English: https://forms.gle/3LBFNpG4zoU7dMCs9
     - Spanish: [ needs to be translated ]
     - Portuguese: [ needs to be translated ] 
-- Tweet:  https://twitter.com/DataUmbrella/status/  [UPDATE]
-- LinkedIn post: [ ]( ) [UPDATE]
+- Tweet:  https://twitter.com/DataUmbrella/status/1631300676994097154
+- LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:7037049981739900931/
 - Social media card: https://github.com/pymc-devs/pymc-data-umbrella/blob/main/_static/banner_2023_03/2023_03_banner_1280_640px.png
 - Meetup event: can share links or cross-post the event with your Meetup group [https://www.meetup.com/data-umbrella/events/291768545/](https://www.meetup.com/data-umbrella/events/291768545/)
 - Email copy (button to copy all text available at the top right of the code block)
