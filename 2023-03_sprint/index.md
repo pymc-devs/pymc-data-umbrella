@@ -9,6 +9,18 @@ This event is focused on the Latin America region. If you are available on the e
 <meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/pymc-devs/pymc-data-umbrella/main/_static/banner_2023_03/2023_03_banner_1280_640px.png">
 
+## Inspirational Tips on Contributing to Open Source
+Check out this 3-minute video by [Mariatta Wijaya](https://www.linkedin.com/in/mariatta/). She has been a Python core developer since 2017, and she shares a few inspirational remarks for those beginning or continuing their journey in contributing to open source.
+
+- "I wish someone had told me earlier how amazing open source is and I had become involved earlier."
+- Participating in and influencing decisions in the open source community is important.
+- Open source lets us learn about: continuous integration, unit tests, documentation, packaging
+
+## Video
+
+:::{youtube} NpWdYEp8-u4
+:::
+
 ## Schedule
 
 :::{important}
