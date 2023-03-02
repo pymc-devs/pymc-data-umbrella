@@ -1,15 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Cristina Mulas Lopez, 2023
+# Anavelyz Perez, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,175 +22,190 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../2022-07_sprint/schedule.md:2 7d4c38e0a1a34f8f8d31f519ab2693a0
+#: ../2022-07_sprint/schedule.md:5 9ae81163ea0a478189239dc39e8eef97
 msgid "PyMC-Data Umbrella Open Source Working Session"
-msgstr ""
+msgstr "PyMC-Data Umbrella Open Source Sesion de Trabajo"
 
-#: ../2022-07_sprint/schedule_table.part.md:7 0eabe4f091494f978474ac68d56a5623
+#: ../2022-07_sprint/schedule_table.part.md:7 694aeb4792004a43bfc689503415178d
 msgid "Schedule"
-msgstr ""
+msgstr "Programa"
 
 #: ../2022-07_sprint/schedule_table.part.md:10
-#: 4c77ed2992d94874acd81381306df803
+#: f2b9f10a550d48edb3db0e28113e74ae
 msgid "To take part in the upcoming Open Source Working Sessions you should:"
 msgstr ""
+"Para participar en las próximas sesiones de trabajo de Open Source debes:"
 
 #: ../2022-07_sprint/schedule_table.part.md:12
-#: 7e10818d292c4743881b76e5fdd674b7
+#: 338b7033ec6b4520a39596c3be8014ef
 msgid ""
 "Fill the registration form: {bdg-link-primary-line}`https://tinyurl.com/du-"
 "pymc-os-ws`"
 msgstr ""
+"Llenar el formulario de inscripción: {bdg-link-primary-"
+"line}`https://tinyurl.com/du-pymc-os-ws`"
 
 #: ../2022-07_sprint/schedule_table.part.md:13
-#: 9cccb3074e6b4f7980041a2736297e5f
+#: 4a1105551b3e40598be8ce4c2e35bf92
 msgid ""
 "RSVP on MeetUp for the events you will be attending (links on table below)"
 msgstr ""
+"Confirmar en MeetUp los eventos a los que asistirás (los enlaces en la tabla"
+" de abajo)"
 
 #: ../2022-07_sprint/schedule_table.part.md:15
-#: b729c6c2d0cf4a5a809b2b05250330b4
+#: 6aa4fea8f88041e2b928dddf1f5b9877
 msgid ""
 "Note:   It is *not required* to attend a specific session as a prerequisite "
 "for other sessions.  Ideally, it is beneficial if folks can attend as many "
 "sessions as they can, to build up their open source skills and familiarity "
 "with the PyMC project."
 msgstr ""
+"Nota: No es *obligatorio* asistir a una sesión específica como prerrequisito"
+" para otras sesiones. Lo ideal sería que las personas asistieran a tantas "
+"sesiones como pudieran, para aumentar sus conocimientos de código abierto y "
+"su familiaridad con el proyecto PyMC."
 
-#: ../2022-07_sprint/schedule.md:9 795f3ba39ddf41fba84397a7ae1cd7e5
+#: ../2022-07_sprint/schedule.md:9 112c367c393e47958b4da6a81fc84b09
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
-#: ../2022-07_sprint/schedule.md:9 36be57eb07484490aa7559a87db9871b
+#: ../2022-07_sprint/schedule.md:9 c841718fe44143b8b0f5c2c67159e608
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
-#: ../2022-07_sprint/schedule.md:9 40e4d2986b8b4682be34f9cc56791d82
+#: ../2022-07_sprint/schedule.md:9 71afd4e56d414d7fa3d7ba783bd16b20
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
-#: ../2022-07_sprint/schedule.md:9 e61f7858a42c4729813c406ffb2fb187
+#: ../2022-07_sprint/schedule.md:9 1c8a67f79ed848f394b7e9f9a7815c30
 msgid "Duration"
-msgstr ""
+msgstr "Duración"
 
-#: ../2022-07_sprint/schedule.md:9 acc70d3c6d73493697cbfc531bcb9f02
+#: ../2022-07_sprint/schedule.md:9 b01c85fbac4b48f78b3856c5afd6af04
 msgid "RSVP"
-msgstr ""
+msgstr "Confirmación de asistencia"
 
-#: ../2022-07_sprint/schedule.md:9 be6384b67e7c4307afc0e43e0049d1de
+#: ../2022-07_sprint/schedule.md:9 0f7b8e829a1a4c288436c2f56318dda2
 msgid "Open Source Pre-series Office Hours"
-msgstr ""
+msgstr "Horas de oficina previas a la serie de código abierto"
 
-#: ../2022-07_sprint/schedule.md:9 be98441180f14605af0a8de535ff754f
+#: ../2022-07_sprint/schedule.md:9 16986cf595e747c598a5ec4b9b78a669
 msgid "Jul 2 (Saturday)"
-msgstr ""
+msgstr "2 de julio (sábado)"
 
-#: ../2022-07_sprint/schedule.md:9 ../2022-07_sprint/schedule.md:9
-#: 957fc5202163465fa8fa39c7ed7e3a9e 41f1e049372c4548aaf6af87dc3b7278
+#: ../2022-07_sprint/schedule.md:9 43f9295e6bfc4781952b69d28dd6681d
+#: 186a2cc9c73748c9bcc6fa387a5a1239
 msgid "9 ET / 13 UTC / 16 EAT"
-msgstr ""
+msgstr "9 ET / 13 UTC / 16 EAT"
 
-#: ../2022-07_sprint/schedule.md:9 ../2022-07_sprint/schedule.md:9
-#: ec318e66f5534f7489c8ac8f8acbfec6 163eee2397074d61ac83412fa1ad97c9
+#: ../2022-07_sprint/schedule.md:9 406ac6ef101f43a98b61237fae04da69
+#: 3f13506e91e946ea8e14e32ae61a3b8d
 msgid "1 hour"
-msgstr ""
+msgstr "1 hora"
 
-#: ../2022-07_sprint/schedule.md:9 c42e0e583b0b49b9bbf3afd54aa2d20d
+#: ../2022-07_sprint/schedule.md:9 093673df636d4cbbae7e23e6a35f1384
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286552154/)"
 
-#: ../2022-07_sprint/schedule.md:9 fbcdd3c1859c450b89630d59b65f7b00
+#: ../2022-07_sprint/schedule.md:9 10297de6cc8543d1b6aed205226c5d52
 msgid "Open Source Working Session #1"
-msgstr ""
+msgstr "Sesión de trabajo sobre código abierto #1"
 
-#: ../2022-07_sprint/schedule.md:9 647aa3bb4179476b8e19da8e79f9a634
+#: ../2022-07_sprint/schedule.md:9 7d8ff0a3899b4497bbdde732fe085c2d
 msgid "Jul 9 (Saturday)"
-msgstr ""
+msgstr "9 de julio (sábado)"
 
-#: ../2022-07_sprint/schedule.md:9 ../2022-07_sprint/schedule.md:9
-#: ../2022-07_sprint/schedule.md:9 36ab550d970e46eda68a3a1ab75d0733
-#: db47504d432f4d58b8030e0ea394b297 147d8a2e3cc8436aad9e74b0de5c68b5
+#: ../2022-07_sprint/schedule.md:9 be0510b05177424c98d936121cd8e099
+#: d3d012898b014967912368e79ad47aec 7a0a155a2be34de5ae7e895d0c5c6dd1
 msgid "3 hours"
-msgstr ""
+msgstr "3 horas"
 
-#: ../2022-07_sprint/schedule.md:9 81e3cc0d0d3e4a4eb4ddabf45466c6c7
+#: ../2022-07_sprint/schedule.md:9 e933e8ca2b914d3e909c118529ca42c8
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286552452/)"
 
-#: ../2022-07_sprint/schedule.md:9 6a54943d56e24368a3293ca1ce4b5878
+#: ../2022-07_sprint/schedule.md:9 c4bbce471c7149daa117d21735059f0f
 msgid "Open Source Working Session #2"
-msgstr ""
+msgstr "Sesión de trabajo sobre código abierto #2"
 
-#: ../2022-07_sprint/schedule.md:9 88e35b759e3b40c09232fab8efcfde78
+#: ../2022-07_sprint/schedule.md:9 fcbc8d720fb444468419881ce5d3fe77
 msgid "Jul 22 (Friday)"
-msgstr ""
+msgstr "22 de julio (viernes)"
 
-#: ../2022-07_sprint/schedule.md:9 a8581400bb1b4c6397d83ea4d452fb4b
+#: ../2022-07_sprint/schedule.md:9 1fd838889373493080a3a05ed2baadbf
 msgid "12 ET / 16 UTC / 19 EAT"
-msgstr ""
+msgstr "12 ET / 16 UTC / 19 EAT"
 
-#: ../2022-07_sprint/schedule.md:9 0e6b80f100274340a3653b4c082d7dc1
+#: ../2022-07_sprint/schedule.md:9 48edfa06839d4a2c92546cebe1a7ea1a
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628677/)"
 
-#: ../2022-07_sprint/schedule.md:9 5f3e3ce9930649dda86d5e988945a051
+#: ../2022-07_sprint/schedule.md:9 05800cb418a74b7f9c2f068aa619c069
 msgid "Open Source Working Session #3 [^1]"
-msgstr ""
+msgstr "Sesión de trabajo sobre código abierto #3 [^1]"
 
-#: ../2022-07_sprint/schedule.md:9 66fd75c7a4c048cdb87d1b393bcf83fd
+#: ../2022-07_sprint/schedule.md:9 ccfd1176da6f4812827b3d31cc6b7f32
 msgid "Aug 4/5 (Thur/Fri)"
-msgstr ""
+msgstr "4/5 de agosto (jueves/viernes)"
 
-#: ../2022-07_sprint/schedule.md:9 ../2022-07_sprint/schedule.md:9
-#: 61e670232466464fb93f6c5e172efdcb 947dc9cc78254808b76712db58de1022
+#: ../2022-07_sprint/schedule.md:9 2c3db9c619844dc186fee66e0bed4c87
+#: f0e0c2b0bbd34bcd83dc4b7486147022
 msgid "19 ET / 23 UTC"
-msgstr ""
+msgstr "19 ET / 23 UTC"
 
-#: ../2022-07_sprint/schedule.md:9 77a39d4f529e4168b23a96862ac64a9d
+#: ../2022-07_sprint/schedule.md:9 ca4b1fde27e4414395e6d83e496697be
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628723/)"
 
-#: ../2022-07_sprint/schedule.md:9 9a03002d57824f918ef660897a6dd0aa
+#: ../2022-07_sprint/schedule.md:9 8c847069a84f4931871a5892197b78cf
 msgid "Open Source Post-series Office Hours [^1]"
-msgstr ""
+msgstr "Horas de oficina Post-serie de código abierto [^1]"
 
-#: ../2022-07_sprint/schedule.md:9 9a05d2d1905b470ab5d50148d11d75c7
+#: ../2022-07_sprint/schedule.md:9 72321ab762d7473789a5300f9b3f5851
 msgid "Aug 18 (Saturday)"
-msgstr ""
+msgstr "18 de agosto (sábado)"
 
-#: ../2022-07_sprint/schedule.md:9 dae335af5b2f4e5e87c3a86cb25525dd
+#: ../2022-07_sprint/schedule.md:9 a576a2d24ca94c01baa2f30c4593cf54
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/286628791/)"
 
 #: ../2022-07_sprint/schedule_table.part.md:28
-#: c43118fe195b402d8d92d48b9e22cafa
+#: dedd155f9f1e4696bb9285f38ba497eb
 msgid "Schedule with Timezones"
-msgstr ""
+msgstr "Programación con husos horarios"
 
 #: ../2022-07_sprint/schedule_table.part.md:30
-#: bb3709ca34de45da953509c6f4656048
+#: 269f3994ffd84ea9bab23a14249ae237
 msgid ""
 "Note: You can click on the table image below to view the full spreadsheet "
 "with a larger view."
 msgstr ""
+"Nota: Puedes hacer clic en la imagen de la tabla para ver la hoja de cálculo"
+" completa con una vista ampliada."
 
 #: ../2022-07_sprint/schedule_table.part.md:32
-#: cc534bb719f140c990d27bc975499ccf
+#: 7b46b647d9b24457949550fafd82146e
 msgid ""
 "[![schedule with "
-"timezones](../_static/2022_07/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)"
+"timezones](../_static/images/2022_07_timezones.png)](https://docs.google.com/spreadsheets/d/1oO9OhsTh9PFcqKI7Exj_ZcH0GvunQVHtM4aqUh0kjTk/edit?usp=sharing)"
 msgstr ""
 
 #: ../2022-07_sprint/schedule_table.part.md:32
-#: 2360f5bbdd584955a1be0d9777788b20
+#: 94135f06060c492c9d4797b17fd67db8
 msgid "schedule with timezones"
+msgstr "programación con husos horarios"
+
+#: ../2022-07_sprint/schedule_table.part.md:32
+#: 94135f06060c492c9d4797b17fd67db8
+msgid ".. image:: _static/images/2022_07_timezones.png"
 msgstr ""
 
 #: ../2022-07_sprint/schedule_table.part.md:34
-#: b262c748c9b64da3825ae8d466df6261
+#: ffdde2f1529a49349fb69569939de51c
 msgid "Exportable calendar"
-msgstr ""
+msgstr "Calendario exportable"
 
-#: ../2022-07_sprint/schedule.md:26 993bd7c42c3644ccb4222287b76d2047
+#: ../2022-07_sprint/schedule.md:26 b57c0a74e67f4b469f5e50c51feb4951
 msgid "Asia-Pacific timeslot"
-msgstr ""
+msgstr "Horario Asia-Pacífico"

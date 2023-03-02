@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jose Rafael Camejo, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Jose Rafael Camejo, 2023\n"
 "Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,58 +22,66 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:1
-#: 723694fa8fd5414b96eeb939237795ab
+#: 9f51e80191cc4843b0d0e2bc787a0185
 msgid "Data Umbrella Sponsors"
-msgstr ""
+msgstr "Patrocinadores de  Umbrella Sponsors"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: 3840164654b8404e9d78126ae6ed3da5
+#: 6d774e6fe4a843748ad1dcb97e7ee363
 msgid "![Google](../../_static/sponsors/google_color.png)"
-msgstr ""
+msgstr "![Google](../../_static/sponsors/google_color.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: b3b8460ebd3e48a3bf5ef7f2a0a1f16f
+#: ba18ee0ce8bc4d71a9fb8a4eaa800e4f
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:11
-#: 18fd74ea90f84e259be1721df22d4374
+#: 6e5772475300452a992e70acee62a7cf
 msgid ""
 "We bring all the value of open source to Google and all the resources of "
 "Google to open source."
 msgstr ""
+"Trazemos todo o valor do código aberto para o Google e todos os recursos do "
+"Google para o código aberto."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: 1c8bfd22f8db4dfb941fcfa6ac5a3423
+#: c75b9ef63a9c4481b79dd7cac354fe57
 msgid "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
-msgstr ""
+msgstr "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: 81731110e0a54a4b90d2116f2c0c2104
+#: 6a4acf05996c4da5893a7912d67ad788
 msgid "PyMC Labs"
-msgstr ""
+msgstr "PyMC Labs"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:20
-#: ca6d0b75e1dc43b4863474b63f4fe20a
+#: 06e6c8f17d7c4a519d20465cea63e418
 msgid ""
 "The Bayesian Consultancy. We bring Bayesian methods into wide practice."
 msgstr ""
+"A Consultoria Bayesiana. Nós trazemos métodos bayesianos para a prática "
+"ampla."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: 2145ca629752452eba291d09b3fcaa8a
+#: f6381dcb12df4abfadd54118b1196f7c
 msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
-msgstr ""
+msgstr "![CZI](../../_static/sponsors/czi-logo.jpg)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: 171ac5864af245c98e84fa9cb655b22e
+#: 3bd7c6b2b4c34140a0eeb1c7f2aede4a
 msgid "CZI"
-msgstr ""
+msgstr "CZI"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:29
-#: a179364fd14e45e4b93835f616306d9f
+#: 7584070b22ad4599b51551f9533ac2fe
 msgid ""
 "We help solve some of society’s toughest challenges — from eradicating "
 "disease and improving education, to addressing the needs of our local "
 "communities. Our mission is to build a more inclusive, just, and healthy "
 "future for everyone."
 msgstr ""
+"Ajudamos a resolver alguns dos desafios mais difíceis da sociedade - desde a"
+" erradicação de doenças e melhoria da educação até o atendimento das "
+"necessidades de nossas comunidades locais. Nossa missão é construir um "
+"futuro mais inclusivo, justo e saudável para todos."

@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/index.md:3 71da63fa7d1c491b803b01a79f538e0b
+msgid "March 2023 Open Source Working Session: Latin America"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:5 7a1baf60b99248cdabf362cbf42b70a9
+msgid ""
+"This event is focused on the Latin America region. If you are available on "
+"the event day to be a translator for Spanish or Portuguese, please contact "
+"us ({{ du_email }}). To contribute to the website translations, please see "
+"{ref}`translations`."
+msgstr ""
+
+#: ../2023-03_sprint/index.md:12 58c0db1a33ad4359bc12344e9fff5c8c
+msgid "Inspirational Tips on Contributing to Open Source"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:13 615612a32899488b80bab2469e840ccb
+msgid ""
+"Check out this 3-minute video by [Mariatta "
+"Wijaya](https://www.linkedin.com/in/mariatta/). She has been a Python core "
+"developer since 2017, and she shares a few inspirational remarks for those "
+"beginning or continuing their journey in contributing to open source."
+msgstr ""
+
+#: ../2023-03_sprint/index.md:15 935093b8f0364d8d9bb2bd23cb21410e
+msgid ""
+"\"I wish someone had told me earlier how amazing open source is and I had "
+"become involved earlier.\""
+msgstr ""
+
+#: ../2023-03_sprint/index.md:16 783120d008fa4b7ba9fbbc69a39cb3d9
+msgid ""
+"Participating in and influencing decisions in the open source community is "
+"important."
+msgstr ""
+
+#: ../2023-03_sprint/index.md:17 4c5323fc1e7f4c20927d08d456e66acf
+msgid ""
+"Open source lets us learn about: continuous integration, unit tests, "
+"documentation, packaging"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:19 2e5a3f1db2cf4d7591688d88bd456bf4
+msgid "Video"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:24 aab4b4b7c76143488962d276a67ffa0e
+msgid "Schedule"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:27 78642bef22b54584a64c72c6aafed117
+msgid "To take part in the upcoming Open Source Working Sessions you should:"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:29 06a522dd149b43e487ba093dd7634472
+msgid "Complete the registration form:"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:30 a83a58d7dded4b678d2eaac927a966cc
+msgid "English: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:31 dbd3945cc9b443d9be6c4a87e967205e
+msgid "Spanish: needs to be translated"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:32 2d1c69dcb25c41c2b5521dfb925072b5
+msgid "Portuguese: needs to be translated"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:33 4e0762efae974aba8d05443940b58158
+msgid ""
+"RSVP on MeetUp for the event: {bdg-link-primary-"
+"line}`https://www.meetup.com/data-umbrella/events/291768545/`"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 8893c50fca8943ceb7590394f8a9cd86
+msgid "Event"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 f3b1891fd27c46fab624563a1ba171e3
+msgid "Date"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 527158c56b9f473e89bfc073e1264b8f
+msgid "Time"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 a4b119b14f414b4982a4403c1bf501f7
+msgid "Duration"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 3afc600579974d038eeac57f46c597f5
+msgid "RSVP"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 b92e0e094c494bb89a82e65c0af91bf0
+msgid "Open Source Working Session"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 ad548738593647d3ab38ef9fdc12de1a
+msgid "Mar 30, 2023 (Th)"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 65dc7f8f25dd4eabbd515e69bc55ab26
+msgid "10am ET / 15:00 UTC"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 8daaa40f37e748f5bbf4044fe6f52d15
+msgid "3 hours"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:26 95fc0254358a409a9c56a4db6a332763
+msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/291768545/)"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:41 e941563678ad47d189a8a06abad57888
+msgid "Monthly Open Source Contributing Sessions"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:42 05fa25d936ff49e39e71f3caac2d9a6c
+msgid ""
+"We have monthly open source contributing sessions, referred to as \"PyMC "
+"Study Sessions\". We plan to invite people who attend this event and begin "
+"work on a pull request.  Please indicate on the registration form if you "
+"would like to join these sessions."
+msgstr ""
+
+#: ../2023-03_sprint/index.md:45 0410a8094f724961ac4df6a0aac828fa
+msgid "Schedule with Timezones"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:47 28d76ede12814f178736274c70b3266a
+msgid ""
+"Note: You can click on the table image below to view the full spreadsheet "
+"with a larger view."
+msgstr ""
+
+#: ../2023-03_sprint/index.md:49 0efbf6fa76fb44c28652f192d1250a11
+msgid "[NEED TO UPDATE]"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:53 924e975d9d364c0fb61c7b889f4b5a6a
+msgid "Calendar"
+msgstr ""
+
+#: ../2023-03_sprint/index.md:55 69e4738111be4ab981b7cba7bce9f9e9
+msgid ""
+"Note: Once you RSVP to the Meetup event, it can be added to your calendar "
+"that way as well."
+msgstr ""

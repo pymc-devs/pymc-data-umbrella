@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:1
+#: 4078fb21e561446ea36c84b95f27fd38
+msgid "Community Partnership"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:4
+#: f9a4e39077404b1e834757305535a5e6
+msgid "Become a Community Partner"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:6
+#: cb0eb342cbdb4e819a03511491b1193e
+msgid ""
+"Community Partners are organizations who support our mission and share our "
+"event for outreach.  Data Umbrella will add the Name, Logo and Website Link "
+"to this page to bring visibility to your community.  If you would like to be"
+" a community partner, please contact us ({{ du_email }})."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:8
+#: e0a4d38e7a2b41c8896a49b9171c010e
+msgid ""
+"We are providing a social media kit with information for sharing with your "
+"community:"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:12
+#: 02a89b234dd14cad85aeacfe890b9007
+msgid ""
+"Social Media Kit <svg version=\"4.0.0.63c5cb3\" width=\"3.0em\" "
+"height=\"3.0em\" class=\"sd-material-icon sd-material-icon-share\" "
+"viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" "
+"fill=\"none\"></path><path d=\"M18 16.08c-.76 0-1.44.3-1.96.77L8.91 "
+"12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 "
+"1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31"
+" 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 "
+"4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 "
+"2.92-2.92s-1.31-2.92-2.92-2.92z\"></path></svg>"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:20
+#: d523778308024f90b81157135015a483
+msgid "Community Partners"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:30
+#: de7b449a3d28402bae51ca1a83ef1409
+msgid ""
+"![New York City PyLadies](../../_static/community_partners/nyc_pyladies.jpg)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:30
+#: 89eadd3a82bb447c8c8eb10e6d87af3c
+msgid "New York City PyLadies"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:30
+#: 89eadd3a82bb447c8c8eb10e6d87af3c
+msgid ".. image:: _static/community_partners/nyc_pyladies.jpg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:32
+#: 08553ea815ae417c8982eddc0d9e934a
+msgid ""
+"We are the New York City chapter of PyLadies, an international community of "
+"women and non-binary people in tech."
+msgstr ""

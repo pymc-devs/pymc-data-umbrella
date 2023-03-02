@@ -1,0 +1,30 @@
+name: Read the Docs Pull Request Preview
+
+on:
+  pull_request_target:
+    types:
+      - opened
+
+permissions:
+  pull-requests: write
+
+jobs:
+  documentation-links:
+    strategy:
+      max-parallel: 1
+      matrix:
+        language: [en, es, pt]
+        include:
+          - language: en
+            project: "pymc-data-umbrella"
+          - language: es
+            project: "pymc-data-umbrella-es"
+          - language: pt
+            project: "pymc-data-umbrella-pt"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: readthedocs/actions/preview@v1
+        with:
+          project-slug: "${{ matrix.project }}"
+          message-template: ":books: Documentation preview ${{ matrix.language }} :books:: {docs-pr-index-url}"
+          project-language: ${{ matrix.language }}

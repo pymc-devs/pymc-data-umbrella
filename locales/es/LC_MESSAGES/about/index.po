@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022
+# Cristián Maureira-Fredes, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2022\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,11 +22,11 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../about/index.md:2 73b8beaa35d14b5690ace22273a12dc6
+#: ../about/index.md:2 9f3eddfa3d9c4d55937c46784e34e8b7
 msgid "About PyMC"
 msgstr "Sobre PyMC"
 
-#: ../about/index.md:4 941a29b183f14522836d97f9e10390bd
+#: ../about/index.md:4 769ce71f766848488183ac104a3ed7cc
 msgid ""
 "[PyMC](https://www.pymc.io) is a probabilistic programming package for "
 "Python that allows users to fit Bayesian models using a variety of numerical"
@@ -41,7 +42,7 @@ msgstr ""
 "hacen aplicable a un gran numero de problemas. PyMC es un proyecto sin ánimo"
 " de lucro parte de la fundación NumFOCUS."
 
-#: ../about/index.md:6 f0cd5143cc2f4a1785a200000cef9f50
+#: ../about/index.md:6 28e28c2611dd4d94aa63a3a5b7b17c18
 msgid ""
 "Below we have a series of videos on PyMC and contributing to the library. We"
 " encourage you to watch the videos and bookmark the [PyMC Series "
@@ -58,8 +59,10 @@ msgstr ""
 " a "
 "PyMC](https://www.youtube.com/playlist?list=PLD1x-BW9UdeEPD_4E4VOcj0q66kQpdcKz)."
 
-#: ../about/index.md:8 4f0c1ced32c24dd5bf69be52cb427b41
+#: ../about/index.md:8 35b6b8e0f3824688a05fbeba09819b24
 msgid ""
 "Is there a video you would find helpful, but it is not available?  Let us "
 "know via {{ du_email }}."
 msgstr ""
+"¿Hay algún video que le resultaría útil, pero no está disponible? Háganos "
+"saber a través de {{ du_email }}."

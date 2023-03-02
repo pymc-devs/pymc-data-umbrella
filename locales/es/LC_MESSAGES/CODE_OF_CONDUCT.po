@@ -1,15 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Cristián Maureira-Fredes, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-26 22:57+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,63 +21,85 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../CODE_OF_CONDUCT.md:6 f4e29767cda44067ba52beae36ec0638
+#: ../CODE_OF_CONDUCT.md:6 1490c581f3be45118aaa002c30920365
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Código de Conducta"
 
-#: ../CODE_OF_CONDUCT.md:8 aa139b8bfd2c48a5bac4e3465e57b715
+#: ../CODE_OF_CONDUCT.md:8 adb35d1808534f27a26ff69cd9a59969
 msgid ""
 "Be kind to others. Do not insult or put down others. Behave professionally. "
 "Remember that harassment and sexist, racist, or exclusionary jokes are not "
 "appropriate for PyMC - Data Umbrella events being held."
 msgstr ""
+"Se amable con otras personas. No insultes ni menosprecies a las demás "
+"personas. Compórtate profesionalmente. Recuerda que el acoso y las bromas "
+"sexistas, racistas o excluyentes no son apropiadas para los eventos de PyMC "
+"- Data Umbrella que se celebren."
 
-#: ../CODE_OF_CONDUCT.md:10 ef708a0d306242be92f3f8f96e83a2dc
+#: ../CODE_OF_CONDUCT.md:10 84a1ad6d9de4459bb2ba665cc6d3cf8c
 msgid ""
 "All communication should be appropriate for a professional audience "
 "including people of many different backgrounds. Sexual language and imagery "
 "is not appropriate."
 msgstr ""
+"Toda la comunicación debe ser apropiada para una audiencia profesional que "
+"incluya personas de diferentes orígenes. El lenguaje y las imágenes sexuales"
+" no son apropiados."
 
-#: ../CODE_OF_CONDUCT.md:12 c093372824ff4cffab76b57b95726a5a
+#: ../CODE_OF_CONDUCT.md:12 c0044c00a8c1413281bfabb002061836
 msgid ""
 "We are dedicated to providing a harassment-free community for everyone, "
 "regardless of gender, sexual orientation, gender identity and expression, "
 "disability, physical appearance, body size, race, or religion. We do not "
 "tolerate harassment of community members in any form."
 msgstr ""
+"Tenemos dedicación a brindar una comunidad libre de acoso para todas las "
+"personas, independientemente de su género, orientación sexual, identidad y "
+"expresión de género, discapacidad, apariencia física, tamaño corporal, raza "
+"o religión. No toleramos el acoso de las personas pertenecientes a la "
+"comunidad de ninguna forma."
 
-#: ../CODE_OF_CONDUCT.md:14 9afc277998814f4a84188f258f864a30
+#: ../CODE_OF_CONDUCT.md:14 2e55f567796c414da65169038339e3d4
 msgid ""
 "Thank you for helping make this a welcoming, friendly community for all."
 msgstr ""
+"Gracias por ayudar a hacer de esta una comunidad acogedora y amistosa para "
+"todas las personas."
 
-#: ../CODE_OF_CONDUCT.md:16 c05a948daa7f44dda3af0c57691d13b6
+#: ../CODE_OF_CONDUCT.md:16 4a8b7819b2534e21aaa5b77190592714
 msgid ""
-"For the complete version of the code of conduct refer to [NUMFOCUS code of "
-"conduct](https://numfocus.org/code-of-conduct)"
+"For the complete version of the code of conduct refer to [NumFOCUS code of "
+"conduct](https://numfocus.org/code-of-conduct)."
 msgstr ""
 
-#: ../CODE_OF_CONDUCT.md:18 d450579fdd824686a602b9f5ede47581
+#: ../CODE_OF_CONDUCT.md:18 6ffa3ba7e40b422992350d74ba622a40
 msgid "Reporting"
-msgstr ""
+msgstr "Reportando"
 
-#: ../CODE_OF_CONDUCT.md:19 b0c3cc81c2ef4f868bb10951ef6b0338
+#: ../CODE_OF_CONDUCT.md:19 03ada54c7e66405d98e3aa24a5074524
 msgid ""
 "If you believe someone is violating the code of conduct, please report this "
 "in a timely manner. Code of conduct violations reduce the value of the "
 "community for everyone and we take them seriously."
 msgstr ""
+"Si crees que alguien está violando el código de conducta, infórmalo de "
+"manera oportuna. Las violaciones del código de conducta reducen el valor de "
+"la comunidad para todas las personas y las tomamos en serio."
 
-#: ../CODE_OF_CONDUCT.md:22 d7807d3295ff4221b81cbf9473a1c2dd
+#: ../CODE_OF_CONDUCT.md:22 e65ae2c118714c5887c9eb42e8e648db
 msgid ""
 "An anonymous report form is available at "
 "[https://numfocus.typeform.com/to/ynjGdT](https://numfocus.typeform.com/to/ynjGdT)"
 msgstr ""
+"Un formulario de informe anónimo está disponible en "
+"[https://numfocus.typeform.com/to/ynjGdT](https://numfocus.typeform.com/to/ynjGdT)"
 
-#: ../CODE_OF_CONDUCT.md:24 69fd2ffe22e74ed7a7dcb3af53186343
+#: ../CODE_OF_CONDUCT.md:24 5f55c6f124ec4d9eaac9749346e30a2a
 msgid ""
 "You can also make a personal report by email to organizers at "
 "[info@dataumbrella.org](mailto:info@dataumbrella.org), they will respond "
 "promptly."
 msgstr ""
+"También puedes enviar un informe personal por correo electrónico al equipo "
+"organizador a [info@dataumbrella.org](mailto:info@dataumbrella.org), el "
+"equipo responderá a la brevedad."

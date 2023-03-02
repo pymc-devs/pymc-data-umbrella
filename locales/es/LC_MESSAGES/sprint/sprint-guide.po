@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 03:05+0000\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/sprint-guide.md:2 3c6b90531ac246b0ab37bd2fd8e954e2
+#: ../sprint/sprint-guide.md:2 fcc8cb68474644a5963af0e17840c7f3
 msgid "Event Guide"
 msgstr "Guía del evento"
 
-#: ../sprint/sprint-guide.md:4 a95be1d9cc424b3c880da48c9923f20e
+#: ../sprint/sprint-guide.md:4 237c7a6195fa469daf9ab5ee2d307695
 msgid ""
 "Here are some guidelines and suggestions about the event for participants "
 "and volunteers!"
@@ -33,38 +33,38 @@ msgstr ""
 "Aquí encontraras algunos lineamientos y sugerencias sobre el evento para "
 "participantes y voluntarios."
 
-#: ../sprint/sprint-guide.md:6 d4353febdf5f411f940ae8c6aa592a94
+#: ../sprint/sprint-guide.md:6 df06e1b0461f43da890fc8b25fbd44af
 msgid "General Information"
 msgstr "Información general"
 
-#: ../sprint/sprint-guide.md:8 bb5ab456fff042539c2df8e638c19722
+#: ../sprint/sprint-guide.md:8 94b5665c60b14a9ba03d28e42232c1da
 msgid "Be Polite"
 msgstr "Sé amable"
 
-#: ../sprint/sprint-guide.md:9 d85875ba86734ce4b33b9ba5f60bef3a
+#: ../sprint/sprint-guide.md:9 9a2d5528003d40dfb2703ef65c0eae99
 msgid "Ask questions"
 msgstr "Haz preguntas"
 
-#: ../sprint/sprint-guide.md:10 54718ef9a6a243f0944529737da94f0c
+#: ../sprint/sprint-guide.md:10 e572392845fe444cb1b44c7c5ea2371e
 msgid "Don't use any discriminatory terms"
 msgstr "No uses términos que puedan ser discriminatorios"
 
-#: ../sprint/sprint-guide.md:11 b2b349a674184f299822e51c25c36181
+#: ../sprint/sprint-guide.md:11 6fb1d9c630424d64984b7eb7fa2d42ac
 msgid ""
 "Use gender neutral pronouns unless you know someone's preferred pronouns"
 msgstr ""
 "Use pronombres neutrales de género a menos que sepa los pronombres "
 "preferidos de alguien"
 
-#: ../sprint/sprint-guide.md:12 1167cc9509724d89aea7da19000aea30
+#: ../sprint/sprint-guide.md:12 a609b3f525e34bd091b9c501178c3f7c
 msgid "Don't use words like \"guys\", instead say \"folks\" or \"people\""
 msgstr "Usa términos incluyentes"
 
-#: ../sprint/sprint-guide.md:13 44b3c27451a346f48f68597bdc08d05a
+#: ../sprint/sprint-guide.md:13 23cedefda8564869a1fbecbda54c176d
 msgid "Be inclusive and kind"
 msgstr "Sé inclusivo y amable"
 
-#: ../sprint/sprint-guide.md:15 948285a54c024c3182ff9858f8bdfdf8
+#: ../sprint/sprint-guide.md:15 04799b2476eb45da800c974b58f4a722
 msgid ""
 "The sign up instructions are available on Meetup, please try to join on the "
 "starting time so you can receive proper help and guidance for the session."
@@ -73,11 +73,11 @@ msgstr ""
 "unirse a la hora de inicio para que puedas recibir la ayuda y orientación "
 "adecuadas para la sesión."
 
-#: ../sprint/sprint-guide.md:17 c01bb9cccb464a268f4e23fbb1e06aa6
+#: ../sprint/sprint-guide.md:17 1eae381b92a34c4eb4cbc294d0fbfa25
 msgid "We will have separate channels (or \"rooms\"):"
 msgstr "Tendremos canales separadas (\"channels\" o \"rooms\")"
 
-#: ../sprint/sprint-guide.md:18 5a3acaae93d449068089ee7a8efde642
+#: ../sprint/sprint-guide.md:18 85dd88efa4f84217881ef1a4dc1e7e3e
 msgid ""
 "Women and Non binary folks: this breakout room is specifically for women and"
 " non binary folks, we hope you have a meaningful space here where you're "
@@ -87,7 +87,7 @@ msgstr ""
 " mujeres y personas no binarias, ¡esperamos que tenga un espacio "
 "significativo aquí donde te escuchen!"
 
-#: ../sprint/sprint-guide.md:19 42af18b7a02e4141ae5745052846becb
+#: ../sprint/sprint-guide.md:19 54af79ab70ed4614a792afffc49a4ba6
 msgid ""
 "New to open source: this breakout room is for newcomers to open source so "
 "you can get suitable help"
@@ -95,7 +95,7 @@ msgstr ""
 "Nuevo en código abierto: esta sala de trabajo es para los recién llegados al"
 " código abierto para que pueda obtener la ayuda adecuada"
 
-#: ../sprint/sprint-guide.md:20 685fbe50251b4cf3886c1c6bc66d12a7
+#: ../sprint/sprint-guide.md:20 a5adae0eb85b45e5a6ee3fcc26131b8b
 msgid ""
 "Code related PR: If you are making a code related contribution then you'll "
 "be assigned to this breakout room"
@@ -103,7 +103,7 @@ msgstr ""
 "Contribuciones de Código: si está haciendo una contribución relacionada con "
 "código, se le asignará a esta sala de trabajo"
 
-#: ../sprint/sprint-guide.md:21 02aaf162e4ff4c60973bb0bdd1e35939
+#: ../sprint/sprint-guide.md:21 e26762b417234028bd0ba12e1861b081
 msgid ""
 "Documentation related PR: If you are making a Documentation related "
 "contribution then you'll be assigned to this breakout room"
@@ -111,7 +111,7 @@ msgstr ""
 "Contribuciones de Documentación: si está haciendo una contribución "
 "relacionada con documentación, se le asignará a esta sala de trabajo"
 
-#: ../sprint/sprint-guide.md:22 22425a957f774c139025eb56a3033197
+#: ../sprint/sprint-guide.md:22 226a20d317334008961bae426ea8f538
 msgid ""
 "Spanish Speaker: Please let us know if you prefer this. We will ensure we "
 "have a Spanish-speaking mentor available."
@@ -119,7 +119,7 @@ msgstr ""
 "Sala de Español: Háganos saber si prefiere esto. Nos aseguraremos de tener "
 "un mentor que hable español disponible."
 
-#: ../sprint/sprint-guide.md:24 0159b2c8c3344d8aa75580409f59982d
+#: ../sprint/sprint-guide.md:24 6e54cab7667147e6a70ca5711ab71dea
 msgid ""
 "These breakout channels/rooms aren't rigid, you can choose which one you "
 "wish to be in, they're created solely to help us help you!"
@@ -127,11 +127,11 @@ msgstr ""
 "Estos canales/salas de grupo no son rígidos, puedes elegir en cuál deseas "
 "estar, ¡se crearon únicamente para ayudarnos a ayudarte!"
 
-#: ../sprint/sprint-guide.md:26 25b6a768995b4102b2248bb137e80afd
+#: ../sprint/sprint-guide.md:26 e128eacce22549dc9f73926be9a25407
 msgid "Volunteer Guide"
 msgstr "Guía para los voluntarios"
 
-#: ../sprint/sprint-guide.md:28 95c4cd2d7ef14f62bc7459b571e875e5
+#: ../sprint/sprint-guide.md:28 cf95666c4eb94f83b43c4e8c58161939
 msgid ""
 "Be patient and kind to session participants, if you feel unable to help "
 "someone with a doubt or issue, redirect it to another volunteer or PyMC team"
@@ -143,11 +143,11 @@ msgstr ""
 "voluntario o miembro del equipo PyMC si hay alguien disponible. Si eso no "
 "funciona, considera sugerir un nuevo problema al participante."
 
-#: ../sprint/sprint-guide.md:29 c58d3f9d7d404a9a8daacbe96d51102c
+#: ../sprint/sprint-guide.md:29 4d457b0e82464e2a8f0b644ea0ca93a0
 msgid "Encourage people to introduce themselves and ask questions."
 msgstr "Anima a las personas a presentarse y a hacer preguntas."
 
-#: ../sprint/sprint-guide.md:30 e7f89511e3814ec58eabb7de5699d407
+#: ../sprint/sprint-guide.md:30 c933f701f17f4abc9ff18ebbc0221533
 msgid ""
 "Do flag any (really ANY) inappropriate behaviour. Warn the participant or "
 "remove them from the platform in these cases:"
@@ -155,23 +155,23 @@ msgstr ""
 "Señala cualquier (realmente CUALQUIER) comportamiento inapropiado. Avisa al "
 "participante o sácalo de la plataforma en estos casos"
 
-#: ../sprint/sprint-guide.md:32 72c7b2b751214e37b01eb6e9c90cc8c1
+#: ../sprint/sprint-guide.md:32 934e8cca4f1142e2a2d4b31520729d3a
 msgid "They make a discriminatory remark"
 msgstr "Si hacen un comentario discriminatorio"
 
-#: ../sprint/sprint-guide.md:33 8900b4d39ed640dd8efbaa2346543262
+#: ../sprint/sprint-guide.md:33 1fe98cb5dffa48dd8e7f2dfa4765b049
 msgid "They are being persistently rude"
 msgstr "Si son persistentemente groseros"
 
-#: ../sprint/sprint-guide.md:34 474307c8897d4165819634ca965fc060
+#: ../sprint/sprint-guide.md:34 2365dbea10094b4aaefb3b51f4ec7e34
 msgid "They are a spammer"
 msgstr "Si son un spammer"
 
-#: ../sprint/sprint-guide.md:36 2fc3a8d88eab4250a92452d74c191148
+#: ../sprint/sprint-guide.md:36 de96c43b3d1348e68b761e607ab666fa
 msgid "Tentative Structure of the Session"
 msgstr "Estructura tentativa de la sesión"
 
-#: ../sprint/sprint-guide.md:38 d09a04a871ef4019a03db8a48589de4b
+#: ../sprint/sprint-guide.md:38 c843b4a67fc04766a486d070bd34e58c
 msgid ""
 "All participants join, the first 10-15 mins are spent with everyone "
 "introducing and saying hi"
@@ -179,7 +179,7 @@ msgstr ""
 "Todos los participantes se unen, los primeros 10-15 minutos se dedican a que"
 " todos se presenten y saluden."
 
-#: ../sprint/sprint-guide.md:39 58d8feeb7cca4a6489e01396579bc149
+#: ../sprint/sprint-guide.md:39 c620fd1e1fc84730847067e9a091fa32
 msgid ""
 "Participants are redirected to the board consisting of available issues that"
 " they can choose [from here](https://github.com/pymc-devs/pymc/projects/4)"
@@ -188,7 +188,7 @@ msgstr ""
 "devs/pymc/projects/4) [from here](https://github.com/pymc-"
 "devs/pymc/projects/4) con los problemas disponibles para poder elegir"
 
-#: ../sprint/sprint-guide.md:40 6b51600211ef4ceeb75772612dd99b2c
+#: ../sprint/sprint-guide.md:40 3a75a65d537e4e9f87558703cffce3aa
 msgid ""
 "If a participant doesn't find a suitable issue here they're encouraged to "
 "ask the volunteers for help, who will suggest an issue or task based on "
@@ -198,7 +198,7 @@ msgstr ""
 "pedir ayuda a los voluntarios, quienes sugerirán un problema o tarea en "
 "función de sus habilidades."
 
-#: ../sprint/sprint-guide.md:41 60204af4e241420cbfd3e44ba2faa306
+#: ../sprint/sprint-guide.md:41 e55e4d3811e646f183e4eac6dd4f54a7
 msgid ""
 "Participants go to breakout rooms and work on their issues, they should make"
 " a comment on the issue they're interested in, after which volunteers will "
@@ -209,7 +209,7 @@ msgstr ""
 "trabajar, después de lo cual los voluntarios actualizarán el estado del "
 "problema para mayor claridad."
 
-#: ../sprint/sprint-guide.md:42 e442c47700f044068662502b60d40d85
+#: ../sprint/sprint-guide.md:42 4b44cd351c99474895233349b8376c03
 msgid ""
 "Volunteers keep alternating between breakout rooms to checkup on "
 "Participants, to see if they need help"
@@ -217,7 +217,7 @@ msgstr ""
 "Los voluntarios van alternando entre las salas para dar acompañamiento a los"
 " participantes y ver si necesitan ayuda."
 
-#: ../sprint/sprint-guide.md:43 8310c3fc50f540ae9ea4799987fbf79c
+#: ../sprint/sprint-guide.md:43 e2a362df0c2f4b31a88481d5c22be1f9
 msgid ""
 "Participants can go to the \"help-desk\" channel/room if they have a "
 "question"
@@ -225,11 +225,11 @@ msgstr ""
 "Los participantes pueden dirigirse al canal/sala del \"help-desk\" si tienen"
 " alguna pregunta"
 
-#: ../sprint/sprint-guide.md:45 cf88d07397d44a1f94d7eb56f99bd0fe
+#: ../sprint/sprint-guide.md:45 7fd779c0c92245169443f012639f9525
 msgid "Cheers, have fun folks!"
 msgstr "Saludos, que se diviertan!"
 
-#: ../sprint/sprint-guide.md:47 e3510590953f4ae8adde87c3894ec6bf
+#: ../sprint/sprint-guide.md:47 28a8ea47126d450fb83e613e876bd8dd
 msgid "[Event Organizers](https://github.com/pymc-devs/pymc/projects/4)"
 msgstr ""
 "[Organizadores del evento](https://github.com/pymc-devs/pymc/projects/4)"

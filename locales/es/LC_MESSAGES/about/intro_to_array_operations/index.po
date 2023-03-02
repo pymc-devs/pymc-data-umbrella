@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Alberto Mario Ceballos-Arroyo, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-08 16:14+0100\n"
+"POT-Creation-Date: 2023-02-02 14:37+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
+"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,82 +23,98 @@ msgstr ""
 
 #: ../about/intro_to_array_operations/index.md:39
 msgid "Webinar notebook"
-msgstr ""
+msgstr "Cuaderno del webinar"
 
 #: ../about/intro_to_array_operations/index.md:2
-#: 908bd6540923476185af9d426988fa23
+#: 31b2157fc21b4f4da39814b5fad7e826
 msgid "Introduction to Array Operations in Python"
-msgstr ""
+msgstr "Introducción a las operaciones con arreglos en Python"
 
 #: ../about/intro_to_array_operations/index.md:4
-#: 2937aea1daec44ad9aac06844dc70831
+#: bb5d999054dd4fe3b89d5d7c8bc204fb
 msgid ""
 "This is a ~40 minute session to introduce you to array manipulation and "
 "basics of Python, which will be useful to contribute to computational open "
 "source libraries in Python. We have some specific aims in mind:"
 msgstr ""
+"Esta es una sesión de ~40 minutos para introducirte a la manipulación de "
+"arreglos y a los aspectos básicos de Python, lo que será útil para "
+"contribuir a librerías computacionales de código abierto en Python. Tenemos "
+"algunas metas específicas en mente:"
 
 #: ../about/intro_to_array_operations/index.md:6
-#: a7d76e07443443fb9c7b80f3e391f757
+#: 633e1d3e42d94063a8f9987be386b017
 msgid "Understanding basics of arrays, lists and datatypes in Python"
 msgstr ""
+"Entender los aspectos básicos de los arreglos, listas y tipos de datos en "
+"Python"
 
 #: ../about/intro_to_array_operations/index.md:8
-#: 02338662e9b941a1b0153813418886d9
+#: def6efc570fb4b1188d35367cd994f93
 msgid "Using Python with Numpy"
-msgstr ""
+msgstr "Usar Python con Numpy"
 
 #: ../about/intro_to_array_operations/index.md:10
-#: 787c8ffb7a71487e907d349b0733e917
+#: 0feb8d8b873c47039dffeb98309c21cb
 msgid ""
 "Motivating you to contribute to PyMC, and hopefully also to other open "
 "source libraries"
 msgstr ""
+"Motivarte a contribuir a PyMC, y esperamos que también a otras librerías de "
+"código abierto"
 
 #: ../about/intro_to_array_operations/index.md:12
-#: 2416de283ce54add98756fe22697d3dd
+#: b063165f8e964fffb11fb203858f97f4
 msgid ""
 "This event is a part of a larger series of PyMC - Data Umbrella events, "
 "which are aimed at helping you contribute to PyMC (Open source library for "
 "Probabilistic Programming in Python)"
 msgstr ""
+"Este evento es parte de una serie más amplía de eventos de PyMC - Data "
+"Umbrella, cuyo objetivo es ayudarte a contribuir a PyMC (una librería de "
+"código abierto para programación probabilística en Python)"
 
 #: ../about/intro_to_array_operations/index.md:14
-#: 7e6e0452de82451ebe42b6163c9a7be9
+#: d5320c1c6cb0428ca1c1e6019c81b736
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #: ../about/intro_to_array_operations/index.md:16
-#: 3bdfda57f55345be846e9d924ddc865e
+#: 44be9d5dc15040ca88ce79df454bed40
 msgid ""
 "Audience: people who don't know Python but have some basic programming "
 "knowlege"
 msgstr ""
+"Audiencia: personas que no conocen Python pero que tienen conocimientos "
+"básicos en programación"
 
 #: ../about/intro_to_array_operations/index.md:17
-#: 87c20d02faec4ad9b63e57e09b03cca1
+#: 770d356f1da04139bcaed134a15db4cb
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
 msgstr ""
+"[Repositorio de Github](https://github.com/pymc-devs/pymc-data-umbrella)"
 
 #: ../about/intro_to_array_operations/index.md:18
-#: a542bc487c084c85ba8f0819ab3dd02a
+#: 9c3d9fc6fc424259a7eaaa952d3f845b
 msgid ""
 "All the content is available on this website, and you can run the code from "
 "the website to follow along with the webinar."
 msgstr ""
+"Todo el contenido está disponible en este sitio web, y puedes ejecutar el "
+"código desde el sitio web mientras miras el webinar."
 
 #: ../about/intro_to_array_operations/index.md:22
-#: c241ad37c6134b0f8a2763855be9f90e
+#: 5670f31c24cc4b018246464be41ab544
 msgid "Go to the webinar notebook!"
-msgstr ""
+msgstr "¡Ve al notebook del webinar!"
 
 #: ../about/intro_to_array_operations/index.md:30
-#: bcfb97b7ec9c482b91d2e96be5df4e29
+#: 0e4bbd82846844ebaf34dd91c8b58e83
 msgid "Speaker"
-msgstr ""
+msgstr "Ponente"
 
 #: ../about/intro_to_array_operations/index.md:32
-#: 8623d88850ff4fb0b2b9f1c8a6b5a83e
+#: 30195195039d45849cfe64004f52f765
 msgid ""
 "[Meenal Jhajharia](https://mjhajharia.com) is a computer science and "
 "mathematics undergraduate in junior year. She has been working on Bayesian "
@@ -102,8 +122,14 @@ msgid ""
 " Google Summer of Code’21 student . Generally she is interested in "
 "Probabilistic Programming, NLP, and algorithms."
 msgstr ""
+"[Meenal Jhajharia](https://mjhajharia.com)  es una estudiante de tercer año "
+"de pregrado en ciencias de la computación y matemáticas. Ha estado "
+"trabajando en modelos de estimación de series de tiempo con PyMC desde que "
+"participó como estudiante en el Google Summer of Code de 2021. En general, "
+"le interesan la programación probabilística, el procesamiento de lenguaje "
+"natural y los algoritmos."
 
 #: ../about/intro_to_array_operations/index.md:34
-#: 137da66d0ab146d184f56391817276d2
+#: 1a0894235685402ca6c2248379c25c45
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"

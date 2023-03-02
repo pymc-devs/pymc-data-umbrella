@@ -7,7 +7,6 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
-    "myst_nb",
     "sphinx_copybutton",
     "sphinx_design",
     "sphinx_thebe",
@@ -20,7 +19,16 @@ extensions = [
 locale_dirs = ["locales"]
 gettext_uuid = True
 gettext_compact = False
+gettext_additional_targets = ["index", "image"]
 language = os.environ.get("READTHEDOCS_LANGUAGE", "en")
+
+if language != "en":
+    # do not render ipynb files for translations
+    # they break the build for no reason
+    # TODO: look into this
+    extensions.append("myst_parser")
+else:
+    extensions.append("myst_nb")
 
 # configure notfound extension to not add any prefix to the urls
 notfound_urls_prefix = f"/{language}/latest/"
@@ -52,7 +60,7 @@ rediraffe_redirects = {
     "webinars/intro_to_array_operations/index.md": "about/intro_to_array_operations/index.md",
     "webinars/probabilistic_programming_with_pymc/index.md": "about/probabilistic_programming_with_pymc/index.md",
     "sprint/docstring_tutorial.md": "sprint/tutorials/docstring_tutorial.md",
-    "index.md": "2022-07_sprint/schedule.md",
+    "index.md": "2023-03_sprint/index.md",
 }
 
 # use numbered figures
@@ -63,7 +71,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "PyMC-Data Umbrella Sprint"
-copyright = "2021, Sprint contributors"
+copyright = "2021-2023, Sprint contributors"
 author = "Sprint Contributors"
 pymc_url = "https://www.pymc.io/projects/docs/en/latest/"
 
@@ -75,8 +83,17 @@ release = version
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
 exclude_patterns = [
-    "build", "Thumbs.db", ".DS_Store", ".ipynb_checkpoints", "README.md", "CONTRIBUTING.md", "jupyter_execute", "**.part.md", "write_tx_config.py"
+    "build",
+    "Thumbs.db",
+    ".DS_Store",
+    ".ipynb_checkpoints",
+    "README.md",
+    "CONTRIBUTING.md",
+    "jupyter_execute",
+    "**.part.md",
+    "write_tx_config.py"
 ]
+
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = "sphinx"
@@ -119,12 +136,16 @@ html_theme_options = {
         }
     ],
     "use_edit_page_button": True,
-    "secondary_sidebar_items": ["page-toc", "searchbox", "edit-this-page", "sourcelink", "cheatsheet"],
+    "secondary_sidebar_items": [
+        "page-toc", "searchbox", "edit-this-page", "sourcelink", "cheatsheet"
+    ],
     "navbar_start": ["navbar-logo", "version-switcher"],
     "navbar_end": ["navbar-icon-links"],
     "search_bar_text": "Search...",
     "footer_items": ["coc_notice", "copyright", "sphinx-version"],
-    "google_analytics_id": "G-8YL5S5CGYD",
+    "analytics": {
+        "google_analytics_id": "G-8YL5S5CGYD",
+    },
     "switcher": {
         "json_url": "https://pymc-data-umbrella.xyz/en/latest/_static/switcher.json",
         "version_match": language
@@ -150,13 +171,13 @@ html_css_files = ['custom.css']
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_static/logo.png"
+html_logo = "_static/images/du-pymc-logo.png"
 
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = "_static/favicon.ico"
+html_favicon = "_static/images/favicon.ico"
 
 # Example configuration for intersphinx
 intersphinx_mapping = {

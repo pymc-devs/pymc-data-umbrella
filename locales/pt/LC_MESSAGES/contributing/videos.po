@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/videos.md:2 fd56b44ca2e34788932a0ee64c553f8e
+msgid "Contribute timestamps to videos"
+msgstr ""
+
+#: ../contributing/videos.md:4 36cbc66be0824334939fc206bb9c4c30
+msgid "Requirements"
+msgstr ""
+
+#: ../contributing/videos.md:5 16d0f0369dd34f9fad1ff0eec55be15d
+msgid "GitHub account"
+msgstr ""
+
+#: ../contributing/videos.md:6 da8d6f6a80264bfdbc170dd5475e6041
+msgid "Markdown"
+msgstr ""
+
+#: ../contributing/videos.md:8 9d2968546a404934b6f37d171fdd5028
+msgid "About: why we are adding timestamps"
+msgstr ""
+
+#: ../contributing/videos.md:10 b8dc26907b9b4d4ebe43b2cea38e6203
+msgid ""
+"We have a collection of videos on YouTube from PyMCon 2020 and PyMCon Web "
+"Series."
+msgstr ""
+
+#: ../contributing/videos.md:12 8d0629049d424a2eb7901bcc4b977b76
+msgid ""
+"We are adding timestamps to the PyMC YouTube videos.  When timestamps are "
+"available:"
+msgstr ""
+
+#: ../contributing/videos.md:13 4311edc49c9f4ddfa12c00dfa24f3d2b
+msgid ""
+"It makes it easy for viewers to get to the part in the video they are "
+"interested in."
+msgstr ""
+
+#: ../contributing/videos.md:14 45f0de226f1442d1b11c7c9c253a741d
+msgid ""
+"It also helps potential viewers find the video based on their search terms."
+msgstr ""
+
+#: ../contributing/videos.md:16 1c5ea5cd1f33405b85da0bc5383d535c
+msgid "Workflow"
+msgstr ""
+
+#: ../contributing/videos.md:18 9d5390ac621e47e1a6e7e5e57c3ceded
+msgid ""
+"Complete instructions are available in [Issue 11: adding timestamps to "
+"videos](https://github.com/pymc-devs/video-timestamps/issues/11)."
+msgstr ""

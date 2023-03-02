@@ -7,4 +7,5 @@ organizers
 community_partners
 sponsors
 contributors
+media_kit
 :::

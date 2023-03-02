@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/language-translations.md:2 a97b81e4b97542acb13ce1f9b21f065a
+msgid "Language Translations"
+msgstr ""
+
+#: ../contributing/language-translations.md:4 7d1a1493b537423ba90a0471f01fa004
+msgid "Requirements"
+msgstr ""
+
+#: ../contributing/language-translations.md:5 101c4b86b3f34466845cf69f7e2478aa
+msgid "Transifex account (or GitHub one to log in with it)"
+msgstr ""
+
+#: ../contributing/language-translations.md:6 5748a355fabc485ba333244c23375a6d
+msgid "Knowledge of English"
+msgstr ""
+
+#: ../contributing/language-translations.md:7 248ed3a2873549b08a508402f6cb423b
+msgid "Knowledge of Spanish or Portuguese"
+msgstr ""
+
+#: ../contributing/language-translations.md:9 c7724c36b798428cbe49948f640e7b08
+msgid "About"
+msgstr ""
+
+#: ../contributing/language-translations.md:10
+#: 45c1c8ed63384276be983112d3e377f0
+msgid ""
+"We are using [Transifex](https://www.transifex.com/) to manage the language "
+"translations, which provides a translation infrastructure with Sphinx. "
+"Transifex is *a global content repository with a REST API, SDKs, automation,"
+" and more so you can centrally manage your source content and translations "
+"and build amazing multilingual digital experiences for your users.*"
+msgstr ""
+
+#: ../contributing/language-translations.md:12
+#: 5d7a8cf3fa49496d8e4e1d611abdeb28
+msgid "Languages"
+msgstr ""
+
+#: ../contributing/language-translations.md:14
+#: 0c62b0fc2cc44032abbca2718efe545c
+msgid ""
+"This translation is maintained by Spanish and Portuguese speakers from all "
+"around the globe. We don't want to tie it to any region in particular and we"
+" believe this is an extra value of its own diversity. You will find sections"
+" in different styles and tones, we only ask not changing the style every "
+"paragraph nor using very specific regionalisms."
+msgstr ""
+
+#: ../contributing/language-translations.md:16
+#: e59cba0e23d041dd8291bdfcabdb1f34
+msgid ""
+"**Language codes**:  we are using \"es\" and \"pt\" codes which are the "
+"general language codes and are not tied to any region."
+msgstr ""
+
+#: ../contributing/language-translations.md:18
+#: d624d682910e4572984f23716f7d6534
+msgid ""
+"The languages text is borrowed from: Python Documentation [Guía para "
+"contribuir en la traducción](https://python-docs-"
+"es.readthedocs.io/es/3.11/CONTRIBUTING.html#a-tener-en-cuenta)."
+msgstr ""
+
+#: ../contributing/language-translations.md:20
+#: cc34fd803aee44188c4a2a65e979aa20
+msgid "Workflow"
+msgstr ""
+
+#: ../contributing/language-translations.md:22
+#: 6669f7ffaac84068b6d757bce2fc2506
+msgid ""
+"Create a [Transifex account](https://www.transifex.com/signin/).  Note: You "
+"can use your GitHub account to authenticate and log in to Transifex."
+msgstr ""
+
+#: ../contributing/language-translations.md:24
+#: 6749e4942067471180cdbd9d3a912055
+msgid ""
+"Navigate to our project website:  [pymc/data-umbrella-sprints-"
+"website](https://www.transifex.com/pymc/data-umbrella-sprints-website/)"
+msgstr ""
+
+#: ../contributing/language-translations.md:26
+#: faeddaa6a1824367b8c78c8914e7f97e
+msgid ""
+"Click on \"Editor\" in the top menu which will bring you to a list of pages "
+"of the website to translate:  https://www.transifex.com/pymc/data-umbrella-"
+"sprints-website/translate/"
+msgstr ""
+
+#: ../contributing/language-translations.md:28
+#: e5cbabcee9074d558af3c3e3bb1f86df
+msgid "In the top menu, choose \"Select a language\". Current options are:"
+msgstr ""
+
+#: ../contributing/language-translations.md:29
+#: 7fc2aadeec034aed8529df709c56b366
+msgid "Portuguese (pt)"
+msgstr ""
+
+#: ../contributing/language-translations.md:30
+#: d49cd2a8987a4a5989be4a0a9e154f95
+msgid "Spanish (es)"
+msgstr ""
+
+#: ../contributing/language-translations.md:32
+#: 5ea5633bb64e48beb8415929ebe5dd8c
+msgid ""
+"Pages to translate is a sub-menu under \"Editor.\"  Currently, these pages "
+"are being prioritized for translation:  [priority "
+"pages](https://github.com/pymc-devs/pymc-data-umbrella/issues/99)"
+msgstr ""
+
+#: ../contributing/language-translations.md:34
+#: ac1997e87d8f48bfafbd4d1b459d40b0
+msgid "You can translate sub-sections and select \"Save translation.\""
+msgstr ""
+
+#: ../contributing/language-translations.md:37
+#: f7c408c6ddaa448589dfa71936a0fed6
+msgid ""
+"There is GitHub Actions that is configured on this repository, which turns a"
+" translation into a pull request which is submitted to the repository. [PR "
+"#166](https://github.com/pymc-devs/pymc-data-umbrella/pull/166/files) is an "
+"example pull request."
+msgstr ""
+
+#: ../contributing/language-translations.md:40
+#: fe418ab6458940dab8048280aa4f0d31
+msgid "Translating content: volunteers needed"
+msgstr ""
+
+#: ../contributing/language-translations.md:42
+#: 7fbb9c3a316f481bafa505f2395151fe
+msgid ""
+"If you would like to volunteer for translations, please select a page.  We "
+"have included a list of priority pages to translate on [Issue "
+"#99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99)."
+msgstr ""
+
+#: ../contributing/language-translations.md:44
+#: 5cfda6be23174ef2b674bd45529d2a41
+msgid "Thank you 🙌"
+msgstr ""
+
+#: ../contributing/language-translations.md:46
+#: dd63c5ad3132490eb893a4670c972136
+msgid ""
+"Thank you for your contributions and making this website accessible to more "
+"users."
+msgstr ""
