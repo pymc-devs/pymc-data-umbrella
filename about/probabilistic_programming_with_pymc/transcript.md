@@ -2,18 +2,15 @@ Note: this "draft" transcript has been downloaded from YouTube and needs to be p
 
 Video:  [Introduction to Probabilistic Programming with PyMC](https://youtu.be/Qu6-_AnRCs8)
 
-hey everyone welcome to data umbrella's webinar i'm going to do a brief introduction
-about data umbrella and then austin will do his talk and um during the talk you are free to ask any questions in the
-chat and then we will answer them you know just like whenever it's a good time either every 10 minutes or towards the
-end this webinar is being recorded it will be placed on our youtube typically within 24 hours and i will post the link
-to our youtube in the chat once i finish my brief presentation
-a little bit about data umbrella we are a community for underrepresented persons in data science
-about me i am a statistician uh slash data scientist um i'm based in new york
-city as you can hear the sirens that is quite normal from here um you can find me on twitter linkedin
-and github at regismas uh we have a code of conduct and thank
-you for helping make this a welcoming friendly professional community for all of us
-there are various ways that you can support data umbrella the first and foremost is to follow our code of conduct and continue contribute to
-making it a really you know welcoming collaborative space where people want to return we also have a discord where you can
+Speakers: Austin Rochford (AR), Reshama Shaikh (RS)
+
+RS: Hey, everyone. Welcome to Data Umbrella's webinar. I'm going to do a brief introduction about Data Umbrella and then austin will do his talk and during the talk you are free to ask any questions in the
+chat and then we will answer them,  you know just like whenever it's a good time either every 10 minutes or towards the end. This webinar is being recorded it will be placed on our YouTube typically within 24 hours and I will post the link to our YouTube in the chat once I finish my brief presentation.
+
+RS: A little bit about Data Umbrella. We are a community for underrepresented persons in data science. About me: I am a statistician slash data scientist. I'm based in New York City as you can hear the sirens. That is quite normal from here. You you can find me on Twitter, LinkedIn and GitHub at reshamas. We have a code of conduct and thank you for helping make this a welcoming friendly professional community for all of us. 
+There are various ways that you can support Data Umbrella -- the first and foremost is to follow our code of conduct and contribute to making it a really you know welcoming collaborative space where people want to return.
+
+ we also have a discord where you can
 join and ask and answer general questions and share events or information
 uh we're also on the open collective um so um if you would like feel free to donate if you work for a corporation
 that uses benevidi this is a company match platform um you can also find us on benevite
@@ -44,14 +41,11 @@ he is a recovering mathematician who is passionate about math education bayesian
 can find austin on linkedin twitter and github at austin rushford i don't know
 if i'm pronouncing the name right but um austin will let us know when when he speaks um and feel free to tweet about
 the event our twitter is at data umbrella and with that i am going to turn off my
-mic and camera and hand it over to austin
-thank you reishma for that introduction and thank you
-um for organizing this event together with all of the other data umbrella folks on
-your team for organizing and promoting and it takes a lot of work to put an event together and thanks to the folks
-on the pyeomc side who's who have been coordinating with reishma and her team with data umbrella so thank
-you mean all for asking me to speak here today i'm excited uh to share something
-i care a lot about with all of you and oriole as well and everyone else who is contributing to that effort
-so my goal today is to introduce the idea of both probabilistic
+mic and camera and hand it over to Austin.
+
+AR: Thank you Reshama for that introduction and thank you for organizing this event together with all of the other Data Umbrella folks on your team for organizing and promoting and it takes a lot of work to put an event together. And thanks to the folks on the PyMC side who's who have been coordinating with Reshama and her team with Data Umbrella so thank you for asking me to speak here today. I'm excited to share something I care a lot about with all of you and Oriol as well and everyone else who is contributing to that effort.
+
+So my goal today is to introduce the idea of both probabilistic
 programming and how it works in pi mc kind of from a knowledge of python a
 little bit of numpy um up to an actually interesting application to give you an idea of what
 is probabilistic programming why do we at pi mc find it exciting
