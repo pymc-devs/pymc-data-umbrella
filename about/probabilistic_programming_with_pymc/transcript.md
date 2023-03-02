@@ -8,53 +8,27 @@ Video:  [Introduction to Probabilistic Programming with PyMC](https://youtu.be/Q
 
 Speakers: Austin Rochford (AR), Reshama Shaikh (RS)
 
-RS: Hey, everyone. Welcome to Data Umbrella's webinar. I'm going to do a brief introduction about Data Umbrella and then austin will do his talk and during the talk you are free to ask any questions in the
-chat and then we will answer them,  you know just like whenever it's a good time either every 10 minutes or towards the end. This webinar is being recorded it will be placed on our YouTube typically within 24 hours and I will post the link to our YouTube in the chat once I finish my brief presentation.
+**RS:** Hello, everyone. Welcome to Data Umbrella's webinar. I'm going to do a brief introduction about Data Umbrella and then Austin will do his talk and during the talk you are free to ask any questions in the
+chat and then we will answer them, you know just like whenever it's a good time, either every 10 minutes or towards the end. This webinar is being recorded it will be placed on our YouTube typically within 24 hours and I will post the link to our YouTube in the chat once I finish my brief presentation.
 
-RS: A little bit about Data Umbrella. We are a community for underrepresented persons in data science. About me: I am a statistician slash data scientist. I'm based in New York City as you can hear the sirens. That is quite normal from here. You you can find me on Twitter, LinkedIn and GitHub at reshamas. We have a code of conduct and thank you for helping make this a welcoming friendly professional community for all of us. 
-There are various ways that you can support Data Umbrella -- the first and foremost is to follow our code of conduct and contribute to making it a really you know welcoming collaborative space where people want to return.
+A little bit about Data Umbrella. We are a community for underrepresented persons in data science. About me: I am a statistician slash data scientist. I'm based in New York City as you can hear the sirens. That is quite normal from here. You can find me on Twitter, LinkedIn and GitHub at reshamas. We have a code of conduct and thank you for helping make this a welcoming friendly professional community for all of us. There are various ways that you can support Data Umbrella -- the first and foremost is to follow our code of conduct and contribute to making it a really you know welcoming collaborative space where people want to return.
 
- we also have a discord where you can
-join and ask and answer general questions and share events or information
+We also have a discord where you can join and ask and answer general questions and share events or information. We're also on Open Collective so if you would like, feel free to donate.  If you work for a corporation
+that uses Benevity, this is a company match platform, you can also find us on Benevity. We have various video playlists on YouTube. And one of them is contributing to open source and you can see here that we have videos for numpy and core python and scikit-learn and pandas.
 
-we're also on the open collective um so um if you would like feel free to donate if you work for a corporation
-that uses benevidi this is a company match platform um you can also find us on benevite
-we have various video um playlists on youtube and one of them is contributing to open source
-um and you can see here that we have um videos for numpy and core python and scikit-learn and pandas
+We also have a playlist on career advice. We've had four fabulous speakers so check that out if you are looking for that and these are all the playlists that we have. We have career advice, data visualization, data science beginner friendly videos, contributing to open source, scikit-learn sprint. And we have just started a new playlist for the PyMC series and this will be added to that one and this is just a sampling of some of the videos that we have on our YouTube.
 
-we also have a playlist on career advice we've had four fabulous speakers so
-check that out if you are looking for that and these are all the playlists that we
-have we have career advice data visualization data science beginner friendly videos contributing to open
-source scikit-learn sprint and we have just started a new playlist for the pi mc series and this will
-be added to that one and this is just a sampling of some of the videos that we have on our youtube
+We also have a lot of resources on our website related to using inclusive language, allyship, burnout, AI ethics. You can check those out on your own. We are on all social media platforms as data umbrella. The ones that I have highlighted, Twitter, LinkedIn, are the most active. Meetup is the place to join to find out about upcoming events and updates. And we have a blog as well and we have a monthly newsletter so I will share the link to that. Feel free to sign up. We only send a newsletter once a month and we promise not to spam you in any way, so if you'd like to sign up for that that's also helpful.
 
-we also have a lot of resources on our website uh related to using inclusive language allyship burnout ai ethics you
-can check those out on your own we are on all social media platforms as
-data umbrella the ones that i have highlighted twitter linkedin um are the most active um meetup is the
-place to join to find out about upcoming events and um updates
-um and we have a blog as well and we have a monthly newsletter so i will share the link to that feel free to sign
-up we only send a newsletter once a month and we will not we promise not to spam you in any way
-um so if you'd like to sign up for that that's also helpful
+We use BigMarker for our webinar platforms and there is live captioning available so if you go to the very top there is should be a button set that says cc and you can turn on the live captioning. From the feedback that I've heard the English live captioning is pretty good. You can try the other languages, I think they're not
+they're not quite as accurate.
 
-we use big marker for our webinar
-platforms and there is live captioning available so if you go to the very top there is should be a button set that
-says cc and you can turn on the live captioning from the feedback that i've heard the
-english live captioning is pretty good you can try the other languages i think they're not
-they're not quite as accurate um
+Our upcoming event that we have is "Automating Workflows with GitHub actions." That's going to be on January 18th, oops, lost my slides. Hang on just a minute, sorry about that, all right, there we go. Yeah sorry I don't know what's going on.
 
-our upcoming event that we have is automating workflows with github actions that's going to be on january 18th oops
-lost my slides um hang on just a minute sorry about that
-all right um oh there we go
-
-um yeah sorry i don't know what's going on um today's talk introduction to probabilistic programming with pi m c
-with austin rushford um austin is the chief data scientist at kibo commerce
-he is a recovering mathematician who is passionate about math education bayesian statistics and machine learning and you
-can find austin on linkedin twitter and github at austin rushford i don't know
-if i'm pronouncing the name right but um austin will let us know when when he speaks um and feel free to tweet about
-the event our twitter is at data umbrella and with that i am going to turn off my
+Today's talk is Introduction to Probabilistic Programming with PyMC with Austin Rochford. Austin is the chief data scientist at Kibo Commerce. He is a recovering mathematician who is passionate about math education,  Bayesian statistics and machine learning, and you can find Austin on Linkedin, Twitter and GiHub at austinrochford. I don't know if I'm pronouncing the name right but Austin will let us know when when he speaks. And feel free to tweet about the event. Our twitter is at data umbrella and with that I am going to turn off my
 mic and camera and hand it over to Austin.
 
-AR: Thank you Reshama for that introduction and thank you for organizing this event together with all of the other Data Umbrella folks on your team for organizing and promoting and it takes a lot of work to put an event together. And thanks to the folks on the PyMC side who's who have been coordinating with Reshama and her team with Data Umbrella so thank you for asking me to speak here today. I'm excited to share something I care a lot about with all of you and Oriol as well and everyone else who is contributing to that effort.
+**AR:** Thank you Reshama for that introduction and thank you for organizing this event together with all of the other Data Umbrella folks on your team for organizing and promoting and it takes a lot of work to put an event together. And thanks to the folks on the PyMC side who's who have been coordinating with Reshama and her team with Data Umbrella so thank you for asking me to speak here today. I'm excited to share something I care a lot about with all of you and Oriol as well and everyone else who is contributing to that effort.
 
 So my goal today is to introduce the idea of both probabilistic
 programming and how it works in pi mc kind of from a knowledge of python a
