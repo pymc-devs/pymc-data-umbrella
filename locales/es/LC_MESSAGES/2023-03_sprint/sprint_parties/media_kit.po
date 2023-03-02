@@ -1,0 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:3
+#: 1a42f71672f546c6b49c239f9205ab69
+msgid "Social Media Kit"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:5
+#: 2ae411f4b0d74f9793ed7c4459ac8e35
+msgid "Event Hashtag"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:6
+#: b742cb2782f542699da37a95d9496829
+msgid ""
+"This is our official hashtag and can be used on social media (Twitter, "
+"LinkedIn, Instagram, etc.)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:9
+#: d0970d9bb67a4481bbe7dadde36fee4e
+msgid "#DataUmbrellaPyMCSprint {material-sharp}`favorite;2em;sd-text-danger`"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:13
+#: 5587a80b77544438bac51c684796759c
+msgid "Social Media Accounts"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 35935462620241cb94b8a3269621893f
+msgid "Organization"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 1116fc862dba48ba860108657cf1aef8
+msgid "Twitter"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: bc1d944cd5ea4653b1222f40e05233cf
+msgid "LinkedIn"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 66f7d375a41e4c5595c800d7274261f0
+msgid "Facebook"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 70664250b86c447597c69f7576190461
+msgid "Instagram"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: ef511cf73c3a4c9dbb2d5b83de0c3a48
+msgid "Discourse"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: f6f06297466e4eea99fe68e9ee48de51
+msgid "Data Umbrella"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: a03f7ba2d0ca449b8da9d4dc7171514e
+msgid "[@DataUmbrella](https://twitter.com/DataUmbrella)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 389924032a1f4306bca8eed3384c50b3
+msgid "[dataumbrella](https://www.linkedin.com/company/dataumbrella/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: d744e9fd7b994e04a10623a21607b42c
+msgid "[data.umbrella.dei](https://www.facebook.com/data.umbrella.dei)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: cd8450b43e9c43f2aa4f5b7ae7206fc4
+msgid "[@data.umbrella](https://www.instagram.com/data.umbrella/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 52021151d80744c186746620934fc239 4a81d9813e6545c09875d76912d7594f
+#: bcfc558c34944ca4a20e94055ce0b671
+msgid "N/A"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 7202b531c51945ac9f16eeb35d26bb8b
+msgid "PyMC"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: e0702577ac6446ed8444a8cbb20728b0
+msgid "[@pymc_devs](https://twitter.com/pymc_devs)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 6f77b2a92bf643248c9025b179cd12c7
+msgid "[pymc](https://www.linkedin.com/company/pymc/mycompany/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:8
+#: 0b9b96c7b576404d900399e7fc6c6f77
+msgid "[discourse.pymc.io](https://discourse.pymc.io)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:21
+#: 6b1b30fe65c340f7963a2cfd7d47a190
+msgid "Share Our Events"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:23
+#: 8ed6722442874a0d9de47982f090718c
+msgid "Our event series can be shared in one or more of the following ways:"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:24
+#: f09612321f5641b6adea854a658532ca
+msgid "Event website: https://pymc-data-umbrella.xyz/en/latest/"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:25
+#: 21f0a31676f24032a6e6b9b5071e1f7e
+msgid "Event registration form:"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:26
+#: 3580d5c920b143ba9428ebda2cccb023
+msgid "English: https://forms.gle/3LBFNpG4zoU7dMCs9"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:27
+#: 9fffaac8b4c84b80bb7bddc7b7451332
+msgid "Spanish: [ needs to be translated ]"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:28
+#: 96d9281ad512403392a31949730a5e10
+msgid "Portuguese: [ needs to be translated ]"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:29
+#: d26db48b4d9d4c6987137bfea3d2a3e2
+msgid "Tweet:  https://twitter.com/DataUmbrella/status/  [UPDATE]"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:30
+#: cd99c4bd941641369eba855de48e2010
+msgid "LinkedIn post: [ ]( ) [UPDATE]"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:31
+#: f244dd73206b4c3798386ac90ca89672
+msgid ""
+"Social media card: https://github.com/pymc-devs/pymc-data-"
+"umbrella/blob/main/_static/banner_2023_03/2023_03_banner_1280_640px.png"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:32
+#: bc15d493562d4399aa5133ddb563f19d
+msgid ""
+"Meetup event: can share links or cross-post the event with your Meetup group"
+" [https://www.meetup.com/data-"
+"umbrella/events/291768545/](https://www.meetup.com/data-"
+"umbrella/events/291768545/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:33
+#: f5fd34fcaf31403eb814e82dda7c7d2b
+msgid ""
+"Email copy (button to copy all text available at the top right of the code "
+"block)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:47
+#: 688c12a07b3c4ca18bfa2c0d4517ec3f
+msgid "Channels to Share"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:48
+#: a12f5bac77b1419388a916a8ae841ac0
+msgid "Communication servers: Slack, Discord"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:49
+#: 44642d7ddb4f4a06ae07bd635b172937
+msgid "Social media: Facebook, Instagram"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:50
+#: 354e1096756b4f64bea89e4b37929920
+msgid "Mobile communities: WhatsApp, Telegram"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:51
+#: 68e82150c1aa499f90e0a648df51564c
+msgid "Meetup groups"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:52
+#: 9c64819e0fbf49579e7e6860e344f2d3
+msgid "Newsletters or mailing lists"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:54
+#: 5aa860e90e67441d8abcab77906d6041
+msgid "Logos"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:55
+#: 4e9a5491340e4f9f9097c59d6260b189
+msgid "Data Umbrella: [Brand and Logo](https://github.com/data-umbrella/info)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:56
+#: 55969e594c984d97bbf05407bb4849a5
+msgid "PyMC Devs:  [Brand & Logo](https://github.com/pymc-devs/brand)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:60
+#: a71ae44bd8d74577ad3e03eee4b0605a
+msgid "**Acknowledgement**"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/media_kit.md:62
+#: 4ae6b11be312403f934c0fde3477ee67
+msgid ""
+"We would like to thank [Pollicy](https://pollicy.org) for sharing their "
+"[DataFest Africa](https://datafest.africa) media kit as a resource to the "
+"community."
+msgstr ""
