@@ -14,7 +14,7 @@ This event is focused on the Latin America region. If you are available on the e
 
 :::
 :::{grid-item-card}
-
+::::
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Session">

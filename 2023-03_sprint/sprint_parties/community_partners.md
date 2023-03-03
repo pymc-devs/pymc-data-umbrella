@@ -21,13 +21,31 @@ Social Media Kit {material-regular}`share;3em`
 
 ::::{grid} 1 1 2 2
 :::{grid-item-card}
+:link: https://twitter.com/pyladies_co
+:shadow: none
+:class-card: border-0
+
+![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)
+
+**PyLadies Colombia:** We are a community that motivates women to use technology and code. Everyone is welcome here, and it is a diverse and inclusive group.
+:::
+:::{grid-item-card}
+:link: https://www.pythonchile.cl
+:shadow: none
+:class-card: border-0
+
+![Python Chile](../../_static/community_partners/pythonchile.png)
+
+**Python Chile:** Official Chilean Python Community, a place to meet, learn, and empower Chilean Python developers.
+:::
+:::{grid-item-card}
 :link: https://nyc.pyladies.com
 :shadow: none
 :class-card: border-0
 
 ![New York City PyLadies](../../_static/community_partners/nyc_pyladies.jpg)
 
-We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
+**New York PyLadies:** We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
 
 ::::
