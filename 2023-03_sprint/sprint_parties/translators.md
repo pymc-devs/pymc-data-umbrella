@@ -31,11 +31,21 @@ Berlin, Germany
 
 <img alt="Image for contributor template" src="../../_static/contributors/blank_person.jpg" class="rounded-circle">
 
-
 Ariel Silvio Norberto Ramos
 
 Argentina
 
 [{fab}`linkedin`](https://www.linkedin.com/in/ariel-silvionorberto-ramos-03632321/)
+:::
+
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors_2023_03/alberto.jpeg" class="rounded-circle">
+
+Alberto Mario Ceballos Arroyo
+
+USA
+
+[{fab}`linkedin`](https://www.linkedin.com/in/alberto-mario-ceballos-arroyo/)
 :::
 ::::
