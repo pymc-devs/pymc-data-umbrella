@@ -4,6 +4,18 @@
 
 This event is focused on the Latin America region. If you are available on the event day to be a translator for Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to the website translations, please see {ref}`translations`.
 
+::::{grid} 1 1 1 1
+:::{grid-item-card}
+:link: https://www.meetup.com/data-umbrella/events/291768545/
+:shadow: none
+:class-card: border-0
+
+![du-pymc-os-ws](../../_static/banner_2023_03/cps_2023_03.png)
+
+:::
+:::{grid-item-card}
+::::
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="PyMC - Data Umbrella: Open Source Working Session">
 <meta name="twitter:description" content="Beginner friendly working sessions to get started contributing to PyMC">
