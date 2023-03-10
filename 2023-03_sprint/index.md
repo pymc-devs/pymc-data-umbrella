@@ -2,7 +2,11 @@
 (current_sprint)=
 # March 2023 Open Source Working Session: Latin America
 
-This event is focused on the Latin America region. If you are available on the event day to be a translator for Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to the website translations, please see {ref}`translations`.
+This event is an online hands-on working session to contribute to PyMC, a Python probabilistic programming language. Knowledge of PyMC is not required, and it is beginner-friendly. There is a range of possible contributions, from adding timestamps to videos, to documentation, to running Jupyter notebooks in the latest version of PyMC, to more advanced code contributions.
+
+This event is focused on the LATAM region.  However, we welcome folks from all regions. Please indicate on the registration form if you will need a translator.  
+
+Volunteers:  If you are available on the event day to be a translator for Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to the website translations, please see {ref}`translations`.
 
 ::::{grid} 1 1 1 1
 :::{grid-item-card}
