@@ -52,8 +52,8 @@ Social Media Kit {material-regular}`share;3em`
 :shadow: none
 :class-card: border-0
 
-![Metadocencia](../../_static/community_partners/metadocencia.png)
+![Metadocencia](../../_static/community_partners/metadocencia_logo_vert.png)
 
-**Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking regions. An international community of researchers and educators dedicated to equipping individuals and organizations from Spanish-speaking regions and beyond by providing open science resources, delivering professional development training, and supporting infrastructure design and implementation.
+**Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking regions.
 :::
 ::::
