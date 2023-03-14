@@ -47,5 +47,13 @@ Social Media Kit {material-regular}`share;3em`
 
 **New York PyLadies:** We are the New York City chapter of PyLadies, an international community of women and non-binary people in tech.
 :::
+:::{grid-item-card}
+:link: https://www.metadocencia.org/en/
+:shadow: none
+:class-card: border-0
 
+![Metadocencia](../../_static/community_partners/metadocencia.png)
+
+**Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking regions. An international community of researchers and educators dedicated to equipping individuals and organizations from Spanish-speaking regions and beyond by providing open science resources, delivering professional development training, and supporting infrastructure design and implementation.
+:::
 ::::
