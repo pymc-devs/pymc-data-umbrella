@@ -3,13 +3,18 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Anavelyz Perez, 2023
+# Cristián Maureira-Fredes, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,52 +23,58 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:1
-#: 20a41aba2ebd49fabe93333eebc7ddd8
+#: 3587fa297cc94df1afe7eb9b51a03731
 msgid "Data Umbrella Sponsors"
-msgstr ""
+msgstr "Patrocinantes de Data Umbrella"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:10
-#: 58e163089be6416387370755bc81fa99
+#: 70e354f35cb149249215e4589abc0fc5
 msgid "![Google](../../_static/sponsors/google_color.png)"
-msgstr ""
+msgstr "![Google](../../_static/sponsors/google_color.png)"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:10
-#: a80c831fb1ee495fb8c415381390ae23
+#: ddbb6d23f6484eac938ab82adc764932
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:10
-#: a80c831fb1ee495fb8c415381390ae23
+#: ddbb6d23f6484eac938ab82adc764932
 msgid ".. image:: _static/sponsors/google_color.png"
-msgstr ""
+msgstr ".. image:: _static/sponsors/google_color.png"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:12
-#: 566c8d048c04464291459c573160f742
+#: ce6ab9e4b256428fae53afe35c8f058e
 msgid ""
 "We bring all the value of open source to Google and all the resources of "
 "Google to open source."
 msgstr ""
+"Aportamos todo el valor del código abierto a Google y todos los recursos de "
+"Google al código abierto."
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:19
-#: a89393445e3843bf86d56b88ad3ea3cc
+#: 276e97968d3a452db8fce490874fccca
 msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
-msgstr ""
+msgstr "![CZI](../../_static/sponsors/czi-logo.jpg)"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:19
-#: d277a55c7d444402856485d7fe9cf04b
+#: ea8cd34f08654c36b27544b1f91b0e75
 msgid "CZI"
-msgstr ""
+msgstr "CZI"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:19
-#: d277a55c7d444402856485d7fe9cf04b
+#: ea8cd34f08654c36b27544b1f91b0e75
 msgid ".. image:: _static/sponsors/czi-logo.jpg"
-msgstr ""
+msgstr ".. image:: _static/sponsors/czi-logo.jpg"
 
 #: ../2023-03_sprint/sprint_parties/sponsors.md:21
-#: f44f691e8b5945b2a6f6a78b0331f4d0
+#: b498ff26f54a4a0d854fdbcb5889017f
 msgid ""
 "We help solve some of society’s toughest challenges — from eradicating "
 "disease and improving education, to addressing the needs of our local "
 "communities. Our mission is to build a more inclusive, just, and healthy "
 "future for everyone."
 msgstr ""
+"Ayudamos a resolver algunos de los desafíos más difíciles de la sociedad, "
+"desde erradicar enfermedades y mejorar la educación hasta abordar las "
+"necesidades de nuestras comunidades locales. Nuestra misión es construir un "
+"futuro más inclusivo, justo y saludable para todos."

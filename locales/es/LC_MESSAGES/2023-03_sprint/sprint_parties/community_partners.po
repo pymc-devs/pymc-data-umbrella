@@ -3,13 +3,20 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Anavelyz Perez, 2023
+# Cristián Maureira-Fredes, 2023
+# César Herrera, 2023
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,33 +25,40 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:1
-#: 4078fb21e561446ea36c84b95f27fd38
+#: 960a534035fd4265b2c60b8422dafd6c
 msgid "Community Partnership"
-msgstr ""
+msgstr "Asociación con la Comunidad"
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:4
-#: f9a4e39077404b1e834757305535a5e6
+#: 594610c459394d2fa2d201905afdad0e
 msgid "Become a Community Partner"
-msgstr ""
+msgstr "Hazte socio (partner) de la Comunidad"
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:6
-#: cb0eb342cbdb4e819a03511491b1193e
+#: 405265b755d44893b062ab6b5bb36c59
 msgid ""
 "Community Partners are organizations who support our mission and share our "
 "event for outreach.  Data Umbrella will add the Name, Logo and Website Link "
 "to this page to bring visibility to your community.  If you would like to be"
 " a community partner, please contact us ({{ du_email }})."
 msgstr ""
+"Los socios de la comunidad son organizaciones que apoyan nuestra misión y "
+"comparten nuestro evento de divulgación. Data Umbrella añadirá el nombre, "
+"logotipo y enlace al sitio web a esta página para dar visibilidad a tu "
+"comunidad. Si deseas ser socio de la comunidad, ponte en contacto con "
+"nosotros ({{ du_email }})."
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:8
-#: e0a4d38e7a2b41c8896a49b9171c010e
+#: bbca08eff05b435498cc7b4a7be70e16
 msgid ""
 "We are providing a social media kit with information for sharing with your "
 "community:"
 msgstr ""
+"Proporcionamos un conjunto de recursos para las redes sociales con "
+"información para compartir con tu comunidad:"
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:12
-#: 02a89b234dd14cad85aeacfe890b9007
+#: a7ef70ba822a41869fac752167c6a46e
 msgid ""
 "Social Media Kit <svg version=\"4.0.0.63c5cb3\" width=\"3.0em\" "
 "height=\"3.0em\" class=\"sd-material-icon sd-material-icon-share\" "
@@ -56,31 +70,121 @@ msgid ""
 "4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 "
 "2.92-2.92s-1.31-2.92-2.92-2.92z\"></path></svg>"
 msgstr ""
+"Conjunto de recursos para las redes sociales <svg version=\"4.0.0.63c5cb3\" "
+"width=\"3.0em\" height=\"3.0em\" class=\"sd-material-icon sd-material-icon-"
+"share\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\""
+" fill=\"none\"></path><path d=\"M18 16.08c-.76 0-1.44.3-1.96.77L8.91 "
+"12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 "
+"1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31"
+" 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 "
+"4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 "
+"2.92-2.92s-1.31-2.92-2.92-2.92z\"></path></svg>"
 
 #: ../2023-03_sprint/sprint_parties/community_partners.md:20
-#: d523778308024f90b81157135015a483
+#: 16dd9a72ee9f43a1a3ef7472dee58fd3
 msgid "Community Partners"
-msgstr ""
+msgstr "Socios de la Comunidad"
 
-#: ../2023-03_sprint/sprint_parties/community_partners.md:30
-#: de7b449a3d28402bae51ca1a83ef1409
+#: ../2023-03_sprint/sprint_parties/community_partners.md:29
+#: ca1fc9b798354acf80b8aefeaa5404d1
+msgid ""
+"![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)"
+msgstr ""
+"![PyLadies Colombia](../../_static/community_partners/pyladies_colombia.png)"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:29
+#: 7934a6ffd67e4d50921053fdfd134450
+msgid "PyLadies Colombia"
+msgstr "PyLadies Colombia"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:29
+#: 7934a6ffd67e4d50921053fdfd134450
+msgid ".. image:: _static/community_partners/pyladies_colombia.png"
+msgstr ".. image:: _static/community_partners/pyladies_colombia.png"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:31
+#: 51f8c75bfe964dbda03643c7369a4931
+msgid ""
+"**PyLadies Colombia:** We are a community that motivates women to use "
+"technology and code. Everyone is welcome here, and it is a diverse and "
+"inclusive group."
+msgstr ""
+"**PyLadies Colombia:** Somos una comunidad que motiva mujeres a usar "
+"tecnología y código. Todas son bienvenidas acá, y somos un grupo diverso e "
+"inclusivo."
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:38
+#: 17ad1be068334c0da861a46d0a095f1a
+msgid "![Python Chile](../../_static/community_partners/pythonchile.png)"
+msgstr "![Python Chile](../../_static/community_partners/pythonchile.png)"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:38
+#: 2a06ad95927e45ea96d7c25447352377
+msgid "Python Chile"
+msgstr "Python Chile"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:38
+#: 2a06ad95927e45ea96d7c25447352377
+msgid ".. image:: _static/community_partners/pythonchile.png"
+msgstr ".. image:: _static/community_partners/pythonchile.png"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:40
+#: fb14cec069844524903a8e6dffeeabcd
+msgid ""
+"**Python Chile:** Official Chilean Python Community, a place to meet, learn,"
+" and empower Chilean Python developers."
+msgstr ""
+"**Python Chile:** Comunidad Chilena Oficial de Python, un lugar para "
+"reunirse, aprender, y empoderar desarrolladores Chilenos de Python."
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:47
+#: c958046b049a4fd3868e97d08d748740
 msgid ""
 "![New York City PyLadies](../../_static/community_partners/nyc_pyladies.jpg)"
 msgstr ""
+"![New York City PyLadies](../../_static/community_partners/nyc_pyladies.jpg)"
 
-#: ../2023-03_sprint/sprint_parties/community_partners.md:30
-#: 89eadd3a82bb447c8c8eb10e6d87af3c
+#: ../2023-03_sprint/sprint_parties/community_partners.md:47
+#: 014005273ebd4fa1ae7a1b2743ce02d9
 msgid "New York City PyLadies"
-msgstr ""
+msgstr "New York City PyLadies"
 
-#: ../2023-03_sprint/sprint_parties/community_partners.md:30
-#: 89eadd3a82bb447c8c8eb10e6d87af3c
+#: ../2023-03_sprint/sprint_parties/community_partners.md:47
+#: 014005273ebd4fa1ae7a1b2743ce02d9
 msgid ".. image:: _static/community_partners/nyc_pyladies.jpg"
-msgstr ""
+msgstr ".. image:: _static/community_partners/nyc_pyladies.jpg"
 
-#: ../2023-03_sprint/sprint_parties/community_partners.md:32
-#: 08553ea815ae417c8982eddc0d9e934a
+#: ../2023-03_sprint/sprint_parties/community_partners.md:49
+#: 30bb3b7c9d0646c888cf9a0bb406b37a
 msgid ""
-"We are the New York City chapter of PyLadies, an international community of "
-"women and non-binary people in tech."
+"**New York PyLadies:** We are the New York City chapter of PyLadies, an "
+"international community of women and non-binary people in tech."
 msgstr ""
+"**New York PyLadies:** Somos el capítulo de Nueva York de PyLadies, una "
+"comunidad internacional de mujeres y personas no binarias en tecnología. "
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:56
+#: 97c0acc75b404e57877810b6bbac754b
+msgid ""
+"![Metadocencia](../../_static/community_partners/metadocencia_logo_vert.png)"
+msgstr ""
+"![Metadocencia](../../_static/community_partners/metadocencia_logo_vert.png)"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:56
+#: 5b8fef0f71584b84899ee65a75e762a6
+msgid "Metadocencia"
+msgstr "Metadocencia"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:56
+#: 5b8fef0f71584b84899ee65a75e762a6
+msgid ".. image:: _static/community_partners/metadocencia_logo_vert.png"
+msgstr ".. image:: _static/community_partners/metadocencia_logo_vert.png"
+
+#: ../2023-03_sprint/sprint_parties/community_partners.md:58
+#: a844a85db22644eb8c9972ea07f69b5e
+msgid ""
+"**Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking "
+"regions."
+msgstr ""
+"**Metadocencia:** Co-creación de redes, espacios de aprendizaje y recursos "
+"accesibles para comunidades hispanohablantes."

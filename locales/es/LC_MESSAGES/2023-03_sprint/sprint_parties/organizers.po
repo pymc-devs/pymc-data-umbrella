@@ -3,13 +3,18 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Anavelyz Perez, 2023
+# Cristián Maureira-Fredes, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,306 +23,331 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:1
-#: 439a2174d96f4901aff97f360710369a
+#: 960907af83f24db1a25d42dbfafaf4ee
 msgid "Organizers"
-msgstr ""
+msgstr "Organizadores"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:2
-#: 365db722ac3d4da7a95a0c20be04d773
+#: 22474c859b454485a632e42df15e6c40
 msgid "Data Umbrella Organizers"
-msgstr ""
+msgstr "Organizadores de Data Umbrella"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:7
 #: ../2023-03_sprint/sprint_parties/organizers.md:12
 #: ../2023-03_sprint/sprint_parties/organizers.md:66
 #: ../2023-03_sprint/sprint_parties/organizers.md:71
-#: 14a3f018da63499eab5a6ecceab98b8e f8ebe6e1d8f743a38e51fe0b37b2a16b
-#: 06b664f965df477bbf50d40c22a68e87 2c4b19b86418444a9c2e2408728d5d1d
+#: 8aa8741003024f01a9c9f6eb44b4ddcc 3e7ca29b43ba4edcb03e8b390bb74189
+#: 9b0d6a065c634f519506a562a0f0a117 d0b6affd79704add90284ca0a02d2e29
 msgid "Reshama Shaikh"
-msgstr ""
+msgstr "Reshama Shaikh"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:7
 #: ../2023-03_sprint/sprint_parties/organizers.md:66
-#: 14a3f018da63499eab5a6ecceab98b8e 06b664f965df477bbf50d40c22a68e87
+#: 8aa8741003024f01a9c9f6eb44b4ddcc 9b0d6a065c634f519506a562a0f0a117
 msgid ".. image:: _static/people/reshama.jpg"
-msgstr ""
+msgstr ".. image:: _static/people/reshama.jpg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:14
 #: ../2023-03_sprint/sprint_parties/organizers.md:73
-#: 7a4feca85e94454191b19b291a607409 f14cd3ee2e6440418bb2da7725e280a3
+#: 2266701d8e8c4eb99c7868169e0ac6d8 7a3e81ec58fd4616b92721de8ef17f05
 msgid ""
 "[{fas}`globe`][reshama_web] [{fab}`github`][reshama_github] "
 "[{fab}`twitter`][reshama_twitter] [{fab}`linkedin-in`][reshama_linkedin]"
 msgstr ""
+"[{fas}`globe`][reshama_web] [{fab}`github`][reshama_github] "
+"[{fab}`twitter`][reshama_twitter] [{fab}`linkedin-in`][reshama_linkedin]"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:19
 #: ../2023-03_sprint/sprint_parties/organizers.md:24
-#: a831b6c0ad5c41d3ab7b63efb346c285 f9454cc5441949afa579ed27f9f52518
+#: 58f7fbc5be6542988e1be6a8e9720958 808df0969b634c86be8131cc7f9d49cb
 msgid "Beryl Kanali"
-msgstr ""
+msgstr "Beryl Kanali"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:19
-#: a831b6c0ad5c41d3ab7b63efb346c285
+#: 58f7fbc5be6542988e1be6a8e9720958
 msgid ".. image:: _static/people/beryl.JPG"
-msgstr ""
+msgstr ".. image:: _static/people/beryl.JPG"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:26
-#: 532791e8134e42a1a0efeec5bde5df69
+#: 3a7e79b03cd84e5db9a1e9275f1437c8
 msgid ""
 "[{fab}`twitter`](https://twitter.com/BerylKanali) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/beryl-kanali-260567185/)"
 msgstr ""
+"[{fab}`twitter`](https://twitter.com/BerylKanali) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/beryl-kanali-260567185/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:29
 #: ../2023-03_sprint/sprint_parties/organizers.md:34
-#: 81633282a7104d37a4e05da3ed671d82 6a7efd239f23448a9da967dacdfa6cb2
+#: 6d7b4c8d28d341f2a2028bd92f9a4732 3c53189d367d4dc78b3b24342dd0d38e
 msgid "Sandra Meneses"
-msgstr ""
+msgstr "Sandra Meneses"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:29
-#: 81633282a7104d37a4e05da3ed671d82
+#: 6d7b4c8d28d341f2a2028bd92f9a4732
 msgid ".. image:: _static/people/sandra_meneses.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/sandra_meneses.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:36
-#: 2bf984e94d2540a58d3d05ee91436db4
+#: efed99f087df48e1b8111979c70a395c
 msgid ""
 "[{fab}`github`](https://github.com/symeneses) [{fab}`linkedin-"
 "in`](https://www.linkedin.com/in/symeneses/)"
 msgstr ""
+"[{fab}`github`](https://github.com/symeneses) [{fab}`linkedin-"
+"in`](https://www.linkedin.com/in/symeneses/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:39
-#: dfa68f6c496c41cf88bdd3b01ebf732c
+#: 2090415299f846a88a14b65d50b354b2
 msgid "Cristina Mulas"
-msgstr ""
+msgstr "Cristina Mulas"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:39
-#: dfa68f6c496c41cf88bdd3b01ebf732c
+#: 2090415299f846a88a14b65d50b354b2
 msgid ".. image:: _static/people/cristina.jpg"
-msgstr ""
+msgstr ".. image:: _static/people/cristina.jpg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:44
-#: 9b910a7fc0834c3cbdeb227629232391
+#: 9e17a63c1b624626abd9563e31b72579
 msgid "Cristina Mulas Lopez"
-msgstr ""
+msgstr "Cristina Mulas Lopez"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:46
-#: 36d28a53c6ad43c382364c0251b1731f
+#: c09a00a70e75496db51c0cb3870daa22
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/cristina-mulas-00321a167/)"
 msgstr ""
+"[{fab}`linkedin-in`](https://www.linkedin.com/in/cristina-mulas-00321a167/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:50
-#: a99d4f72eaf24da5a9f0592c2c8ca530
+#: 9356ad2b93224336bb40e755e12552c3
 msgid "PyMC Organizers"
-msgstr ""
+msgstr "Organizadores de PyMC"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:56
 #: ../2023-03_sprint/sprint_parties/organizers.md:61
 #: ../2023-03_sprint/sprint_parties/organizers.md:96
 #: ../2023-03_sprint/sprint_parties/organizers.md:101
-#: 99731cc3fa5d40faa0cb2e6f8ad83e10 d85feca392274657af3905439b8572a6
-#: 101515ae573443f884ff8561e0fed6b0 989244e5c0464de4823e516254642a43
+#: 7df56dd5cb404558bc8bc8e61fe45b76 86b6f32c988c47259e6c906e923daa4d
+#: 9c93f498acee41c4b7329ee6ad82353c 0346e2716e4746f08e8af422fcd7b4bd
 msgid "Christian Luhmann"
-msgstr ""
+msgstr "Christian Luhmann"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:56
 #: ../2023-03_sprint/sprint_parties/organizers.md:96
-#: 99731cc3fa5d40faa0cb2e6f8ad83e10 101515ae573443f884ff8561e0fed6b0
+#: 7df56dd5cb404558bc8bc8e61fe45b76 9c93f498acee41c4b7329ee6ad82353c
 msgid ".. image:: _static/people/cluhmann.jpg"
-msgstr ""
+msgstr ".. image:: _static/people/cluhmann.jpg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:63
 #: ../2023-03_sprint/sprint_parties/organizers.md:103
-#: 419afc54fd114bf79da299cd00d5b6e9 3ebb9e8a63584491a4040c2fbf7a80ed
+#: 55dfdf3cacda4090831bb778af96ff2e 4bc5dece3cdd4272b4abb6a87140c323
 msgid "[{fas}`briefcase`][christian_work] [{fab}`twitter`][christian_twitter]"
 msgstr ""
+"[{fas}`briefcase`][christian_work] [{fab}`twitter`][christian_twitter]"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:78
 #: ../2023-03_sprint/sprint_parties/organizers.md:83
 #: ../2023-03_sprint/sprint_parties/organizers.md:106
 #: ../2023-03_sprint/sprint_parties/organizers.md:111
-#: 5b9e95716578491f93dc70a5a2c3b79b c78e2f29737c46b0b6a941dff2c836fb
-#: 8d6a0ababb9949cfbdb29ef0c2d78bd4 7f17bdfd59c440feb7800554b8a64e64
+#: e7b55a6a144540d29f8158a811a81c66 421c114e3b474f8491bd61f19bd6e866
+#: 389b4e4e8d104d2cb08c939b7afbe2b5 e67cf2dc38ba4fd1998ba553c66cdf44
 msgid "Oriol Abril Pla"
-msgstr ""
+msgstr "Oriol Abril Pla"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:78
 #: ../2023-03_sprint/sprint_parties/organizers.md:106
-#: 5b9e95716578491f93dc70a5a2c3b79b 8d6a0ababb9949cfbdb29ef0c2d78bd4
+#: e7b55a6a144540d29f8158a811a81c66 389b4e4e8d104d2cb08c939b7afbe2b5
 msgid ".. image:: _static/people/oriol.jpg"
-msgstr ""
+msgstr ".. image:: _static/people/oriol.jpg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:85
 #: ../2023-03_sprint/sprint_parties/organizers.md:113
-#: c429586ab7574682ad45d9b11f342181 a7abcbfc6c274342b87089531af0505c
+#: 8bbe2d66a5cd464180471d44a0b85ae0 99d6f4d51775467f9faeecc88e3d6e85
 msgid ""
 "[{fas}`globe`](https://oriolabrilpla.cat) "
 "[{fab}`github`](https://github.com/oriolabril) "
 "[{fab}`twitter`](https://twitter.com/oriolabril)"
 msgstr ""
+"[{fas}`globe`](https://oriolabrilpla.cat) "
+"[{fab}`github`](https://github.com/oriolabril) "
+"[{fab}`twitter`](https://twitter.com/oriolabril)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:91
-#: da5919d477bc494b890852d15fb0e057
+#: d6040bf19f0d4ea686d6b59073d43e3f
 msgid "PyMC Mentors"
-msgstr ""
+msgstr "Mentores de PyMC"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:117
 #: ../2023-03_sprint/sprint_parties/organizers.md:122
-#: 5925f6bee5254c808fdde5911417a5cf 33d52e0c4c9849fbbc52859b6c2469d6
+#: 85870c3bb0ba4e578f404e26e00c3d22 d09db19f70b4412198b2735a0234b457
 msgid "Ravin Kumar"
-msgstr ""
+msgstr "Ravin Kumar"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:117
-#: 5925f6bee5254c808fdde5911417a5cf
+#: 85870c3bb0ba4e578f404e26e00c3d22
 msgid ".. image:: _static/people/ravin_kumar.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/ravin_kumar.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:124
-#: 040b5534003f4183911acc74e1e271ca
+#: 0d173511b65a48588ef1808547ccb322
 msgid ""
 "[{fas}`globe`](https://ravinkumar.com/) "
 "[{fab}`github`](https://github.com/canyon289) "
 "[{fab}`twitter`](https://twitter.com/canyon289)"
 msgstr ""
+"[{fas}`globe`](https://ravinkumar.com/) "
+"[{fab}`github`](https://github.com/canyon289) "
+"[{fab}`twitter`](https://twitter.com/canyon289)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:128
 #: ../2023-03_sprint/sprint_parties/organizers.md:133
-#: 7f3ee91dbaa34e9cba78c2c8e6f423f3 93342fc949b54b95a451e81c8bc10d73
+#: 727ffc9c47d6465d846f27778d577a26 1f0f57e6b2f848adbf4692be73145c5c
 msgid "Danh Phan"
-msgstr ""
+msgstr "Danh Phan"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:128
-#: 7f3ee91dbaa34e9cba78c2c8e6f423f3
+#: 727ffc9c47d6465d846f27778d577a26
 msgid ".. image:: _static/people/danh_phan.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/danh_phan.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:135
-#: 02304e61bfdc4dd9bbece8e34d37488f
+#: 750a4a01f6be4f699c23d76a866dbca9
 msgid ""
 "[{fas}`globe`][danh_web] [{fab}`github`][danh_github] "
 "[{fab}`twitter`][danh_twitter] [{fab}`linkedin-in`][danh_linkedin]"
 msgstr ""
+"[{fas}`globe`][danh_web] [{fab}`github`][danh_github] "
+"[{fab}`twitter`][danh_twitter] [{fab}`linkedin-in`][danh_linkedin]"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:140
 #: ../2023-03_sprint/sprint_parties/organizers.md:145
-#: 680f8352cf164f74a840ebdea74bdec4 d22116188af146879d4b0ad11407d878
+#: 546d66b196124ab2a2b36587175a2663 5fb87cbade514bf4a8206056fb007a03
 msgid "Christopher Fonnesbeck"
-msgstr ""
+msgstr "Christopher Fonnesbeck"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:140
-#: 680f8352cf164f74a840ebdea74bdec4
+#: 546d66b196124ab2a2b36587175a2663
 msgid ".. image:: _static/people/chris_f.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/chris_f.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:147
-#: a82d1c0caddf48ab83b0212e2700ab44
+#: 31825f3c586e4561ac8ca6b6cb07cc90
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-"
 "fonnesbeck-374a492a/)"
 msgstr ""
+"[{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-"
+"fonnesbeck-374a492a/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:149
 #: ../2023-03_sprint/sprint_parties/organizers.md:154
-#: a1970a1dda724daeb4364fa207bb3ecc 1140e948b8b040059c2b101cb33d50a5
+#: 3021e266dd16423aa0726c51b6a56b17 9339275ab23e4259be75b8bd28d769dc
 msgid "Michael Osthege"
-msgstr ""
+msgstr "Michael Osthege"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:149
-#: a1970a1dda724daeb4364fa207bb3ecc
+#: 3021e266dd16423aa0726c51b6a56b17
 msgid ".. image:: _static/people/michael_o.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/michael_o.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:156
-#: a7b97399791a4cc7b31920b8a0f9e5bc
+#: 9a3a5834966242559dca05c3a9977e31
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)"
 msgstr ""
+"[{fab}`linkedin-in`](https://www.linkedin.com/in/michael-osthege-7987a6130/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:158
-#: fc39591234a344cb83a4b35a33ce37a5
+#: 73dfb3b6c17f4733bd6bd5fed5df964c
 msgid "Alex Andorra"
-msgstr ""
+msgstr "Alex Andorra"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:158
-#: fc39591234a344cb83a4b35a33ce37a5
+#: 73dfb3b6c17f4733bd6bd5fed5df964c
 msgid ".. image:: _static/people/alex_a.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/alex_a.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:163
-#: d067536dab0743d29c75852f2cec7d87
+#: 297bba3bc16c4cffb7edfe0d563385ce
 msgid "Alexandre Andorra"
-msgstr ""
+msgstr "Alexandre Andorra"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:165
-#: a933ed10be324a13ae47f65e784b144c
+#: 4bf9939fc20b45a3ac46ad226f539736
 msgid ""
 "[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition/)"
 msgstr ""
+"[{fab}`linkedin-in`](https://www.linkedin.com/in/aandorra-pollsposition/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:167
 #: ../2023-03_sprint/sprint_parties/organizers.md:172
-#: f143df7733ef4b64a1c062c52e3d44fb 7ad7f22f84db42908dae8c7daf832484
+#: 6eb81a3beac44f37bdea0261db705091 4ee6dd0e6efa48d28c9707e8c1d60d6f
 msgid "Fernando Irarrázaval"
-msgstr ""
+msgstr "Fernando Irarrázaval"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:167
-#: f143df7733ef4b64a1c062c52e3d44fb
+#: 6eb81a3beac44f37bdea0261db705091
 msgid ".. image:: _static/people/fernando_i.jpeg"
-msgstr ""
+msgstr ".. image:: _static/people/fernando_i.jpeg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:174
-#: de880c648dfd42e3a187b40313ae6d18
+#: 61cee7f79e014a8e87a6b675a3ac289b
 msgid "[{fab}`github`](https://github.com/cuchoi)"
-msgstr ""
+msgstr "[{fab}`github`](https://github.com/cuchoi)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:178
-#: 4489330b5fca4c069485acccda69d622
+#: f487890fa3aa4269baf4a8a221c17b9b
 msgid ""
 "Additionally, we thank all the PyMC team members who contributed by "
 "reviewing pull requests and assisting with outreach as well as "
 "[NumFOCUS](https://numfocus.org) for their support."
 msgstr ""
+"Además, agradecemos a todos los miembros del equipo de PyMC que "
+"contribuyeron revisando los pull requests y ayudando con la difusión, así "
+"como a [NumFOCUS](https://numfocus.org) por su apoyo."
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:180
-#: 4e5d2ecf37a442cb99ec267e33352fbb
+#: 8d0ad667a0e44e968798b4d6cc0eca18
 msgid "Community Contributors"
-msgstr ""
+msgstr "Colaboradores de la comunidad"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:182
-#: 1a957d78fdc24a7191d10b5afb884bc4
+#: 033b03464b604b6b9e0153530313679c
 msgid ""
 "Community contributors help with various activities such as updating the "
 "event website, outreach and more."
 msgstr ""
+"Quienes colaboran con la comunidad ayudan con diversas actividades, como la "
+"actualización del sitio web del evento, la divulgación y más."
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:188
-#: aa8e15f9ed1e49e8b544423b157e7c4f
+#: bdb954ab2652477b82ba844cd3905e37
 msgid "Cristian Maureira-Fredes"
-msgstr ""
+msgstr "Cristián Maureira-Fredes"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:188
-#: aa8e15f9ed1e49e8b544423b157e7c4f
+#: bdb954ab2652477b82ba844cd3905e37
 msgid ".. image:: _static/people/cf.jpg"
-msgstr ""
+msgstr ".. image:: _static/people/cf.jpg"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:193
-#: 113766a8cac2477699b5c3bb9fc48859
+#: 5593868e8db94ff18870a8fb1b926c7e
 msgid "Cristián Maureira-Fredes"
-msgstr ""
+msgstr "Cristián Maureira-Fredes"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:195
-#: e573876c24bf46bea8e89ee3e125e2d8
+#: 09ddcf18a929453c801ec5bf9486052c
 msgid "[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)"
-msgstr ""
+msgstr "[{fab}`linkedin-in`](https://www.linkedin.com/in/cmaureir/)"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:200
-#: ec610e65f49b49eab8e5a60d38872840
+#: 15d43612096348cdbd411835063cd559
 msgid "About PyMC and Data Umbrella"
-msgstr ""
+msgstr "Acerca de PyMC y Data Umbrella"
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:202
-#: c70a14c3100f4296ad14cb3eee35fe53
+#: 9a5ef42a2f864553854a83bc982f38b3
 msgid ""
 "[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
 "underrepresented persons in data science. It is a fiscally hosted project of"
@@ -326,9 +356,17 @@ msgid ""
 " source, organizes sprints / hackathons, curates resources on inclusive "
 "practices. All levels are welcome, beginners and experts."
 msgstr ""
+"[Data Umbrella](https://www.dataumbrella.org/) es una comunidad global para "
+"personas poco representadas en la ciencia de datos. Se trata de un proyecto "
+"financiado por Open Collective, una organización sin ánimo de lucro "
+"registrada como 501(c)(3) con sede en California, EE.UU.. Data Umbrella: "
+"organiza ciclos de conferencias en línea sobre la ciencia de datos y el "
+"código abierto, organiza sprints / hackathons, conserva recursos sobre "
+"prácticas inclusivas. Todos los niveles son bienvenidos, principiantes y "
+"expertos."
 
 #: ../2023-03_sprint/sprint_parties/organizers.md:204
-#: 0ddc4ca5322c438eb0688b999cf9fc2d
+#: 0254a6c5f1e641928b5e32c4ce33e3e1
 msgid ""
 "[PyMC](https://www.pymc.io) is a probabilistic programming package for "
 "Python that allows users to fit Bayesian models using a variety of numerical"
@@ -336,3 +374,9 @@ msgid ""
 "inference (VI). Its flexibility and extensibility make it applicable to a "
 "large suite of problems. PyMC is a non-profit project under NumFOCUS."
 msgstr ""
+"[PyMC](https://docs.pymc.io/en/latest/about.html) es un paquete de "
+"programación probabilística para Python que permite a los usuarios ajustar "
+"modelos bayesianos utilizando diversos métodos numéricos, entre los que "
+"destacan Markov chain Monte Carlo (MCMC) y la inferencia variacional (VI). "
+"Su flexibilidad y extensibilidad lo hacen aplicable a un amplio abanico de "
+"problemas. PyMC es un proyecto sin ánimo de lucro de NumFOCUS."

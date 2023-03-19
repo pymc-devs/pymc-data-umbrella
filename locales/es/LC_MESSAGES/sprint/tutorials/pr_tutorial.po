@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
 "Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
@@ -21,15 +21,15 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../sprint/tutorials/pr_tutorial.md:2 2b8b93781f7d4561b04b617d9e0963fa
+#: ../sprint/tutorials/pr_tutorial.md:2 dc20e9b4f4664481a6d3fb7f900c95bb
 msgid "Creating a Pull Request"
 msgstr "Creación de un Pull Request"
 
-#: ../sprint/tutorials/pr_tutorial.md:4 4f424fe489464d11b61281df833e6c4e
+#: ../sprint/tutorials/pr_tutorial.md:4 333e4550b6414973be3b4e545ae68864
 msgid "In this guide we will be creating a pull request for the PyMC project."
 msgstr "En esta guía vamos a crear un pull request para el proyecto PyMC."
 
-#: ../sprint/tutorials/pr_tutorial.md:7 c674ba7ae537427fbf2a1b48418b7a4c
+#: ../sprint/tutorials/pr_tutorial.md:7 9b2f9f5329cc4c9286824c056766ffe5
 msgid ""
 "To follow this tutorial you will need to have your environment set up "
 "**and** have an idea of the changes you are planning to do."
@@ -37,7 +37,7 @@ msgstr ""
 "Para seguir este tutorial necesitarás que tengas tu entorno configurado "
 "**y** la idea de los cambios que planeas hacer."
 
-#: ../sprint/tutorials/pr_tutorial.md:10 5842c57919904e5b93cfa22f91f587fe
+#: ../sprint/tutorials/pr_tutorial.md:10 99b69c62e1ad46989b805e3955511941
 msgid ""
 "To set up your environment you can follow the {ref}`environment_setup` "
 "tutorial."
@@ -45,7 +45,7 @@ msgstr ""
 "Para configurar tu entorno puedes seguir el tutorial "
 "{ref}`environment_setup`."
 
-#: ../sprint/tutorials/pr_tutorial.md:11 35e65bdc782a4e938d25673ad75577ff
+#: ../sprint/tutorials/pr_tutorial.md:11 ef3a3cb0e0dd4240b5a79335424da719
 msgid ""
 "If you haven't yet chosen an issue to work on, we recommend following the "
 "{ref}`docstring_tutorial` tutorial."
@@ -53,17 +53,17 @@ msgstr ""
 "Si aún no has elegido un issue en el que trabajar, te recomendamos que sigas"
 " el tutorial  {ref}`docstring_tutorial`."
 
-#: ../sprint/tutorials/pr_tutorial.md:14 3b20a22a7e7b495385f8f15aa12edf49
+#: ../sprint/tutorials/pr_tutorial.md:14 589cbe88262644cd9e484dedc37075f0
 msgid "Create a feature branch"
 msgstr "Crea una rama feature"
 
-#: ../sprint/tutorials/pr_tutorial.md:19 49cc373ebdc341ad9169ed9253d60b92
+#: ../sprint/tutorials/pr_tutorial.md:19 59d0d84b4e914722a9f4aa7f7468e274
 msgid "and check git indicates you the branch change was successful:"
 msgstr ""
 "y comprueba que git te indica que el cambio de rama se ha realizado "
 "correctamente:"
 
-#: ../sprint/tutorials/pr_tutorial.md:25 5f37809c3e6949799a7684bfd1cae8e8
+#: ../sprint/tutorials/pr_tutorial.md:25 0e359b2f63fd40ae87369c27aec572ae
 msgid ""
 "Keep your branch names informative, use one branch per PR and **never** work"
 " on `main`."
@@ -72,14 +72,14 @@ msgstr ""
 "trabajes en `main`."
 
 #: ../sprint/tutorials/pr_tutorial.md:29
-#: ../sprint/tutorials/pr_tutorial.md:180 e089588026e9471da8366fba9debbf68
-#: ce529a37bae847f085f04ae040de8abd
+#: ../sprint/tutorials/pr_tutorial.md:180 0dad55eb81e84968b52d147f231fee26
+#: 4ccdb783d2484ea388b9f1f0b9a616e4
 msgid "Getting ready for the 2nd PR?"
 msgstr "¿Preparándote para el 2º PR?"
 
 #: ../sprint/tutorials/pr_tutorial.md:32
-#: ../sprint/tutorials/pr_tutorial.md:183 dd4284c286424361963230b88ad7b409
-#: 646d1443ce994d4d9e6ea2778552646a
+#: ../sprint/tutorials/pr_tutorial.md:183 4be03c902b9b4fa78490e47fb8f218a7
+#: 83a07442425e4058948e1f5f99b171a2
 msgid ""
 "If you haven't changed to a different branch, you'll still be in the "
 "`docstring_update` one, but you don't want to work there! Remember, one "
@@ -90,8 +90,8 @@ msgstr ""
 "PR."
 
 #: ../sprint/tutorials/pr_tutorial.md:35
-#: ../sprint/tutorials/pr_tutorial.md:186 64ad1176db5e47059776befe45c89abd
-#: 8dd42da452fa428e9e507ca0b0e6995e
+#: ../sprint/tutorials/pr_tutorial.md:186 7703ca2b84974ba09c38fb44d5110f3e
+#: cbb6a44f19fc47e68616c51f3d82377a
 msgid ""
 "_Before_ starting to work on the new changes, move back to main, update your"
 " local copy and then create the new branch."
@@ -99,11 +99,11 @@ msgstr ""
 "_Antes_ de empezar a trabajar en los nuevos cambios, vuelve a main, "
 "actualiza tu copia local y luego crea la nueva rama."
 
-#: ../sprint/tutorials/pr_tutorial.md:46 e5cdbe69fbdc48e6afc0b64df546e578
+#: ../sprint/tutorials/pr_tutorial.md:46 d0960faf83a64693ac9c5221af722f0d
 msgid "Commit the changes to git"
 msgstr "Envía los cambios a git (commit)"
 
-#: ../sprint/tutorials/pr_tutorial.md:48 ee6cfc98d9c64d199b7d1732b6eaeb9a
+#: ../sprint/tutorials/pr_tutorial.md:48 e66df207ec8f4ac283dc281ed6e10fbe
 msgid ""
 "Add the changes to your local copy and give a name to the changes. Keep the "
 "name short yet informative, for example:"
@@ -111,7 +111,7 @@ msgstr ""
 "Añade los cambios a tu copia local y dales un nombre. Que el nombre sea "
 "corto pero informativo, por ejemplo:"
 
-#: ../sprint/tutorials/pr_tutorial.md:54 d24e5ea1f469431fa64efefc8490d4f5
+#: ../sprint/tutorials/pr_tutorial.md:54 e7d5c87ecc95422d9c3b559c01b6d683
 msgid ""
 "pre-commit will check and fix common formatting issues, and before doing "
 "this it needs to set up. So this can take a bit."
@@ -119,21 +119,21 @@ msgstr ""
 "pre-commit comprobará y corregirá problemas comunes de formato, y antes de "
 "hacerlo necesita configurarse. Así que esto puede tardar un poco."
 
-#: ../sprint/tutorials/pr_tutorial.md:57 7b9095f5b81e46b6ae46b9658c1e43e1
+#: ../sprint/tutorials/pr_tutorial.md:57 c9584688b50d42338658c5e1cc3c0db2
 msgid "If all the checks pass, the end of the printed output will look like:"
 msgstr ""
 "Si se superan todas las comprobaciones, el final de la salida será algo "
 "parecido a:"
 
-#: ../sprint/tutorials/pr_tutorial.md:66 58994c492e594cfab21791d0c176d45c
+#: ../sprint/tutorials/pr_tutorial.md:66 98d4bd10820341a5a29dccb5d1520131
 msgid "If some checks fail, there are two options:"
 msgstr "Si fallan algunas comprobaciones, hay dos opciones:"
 
-#: ../sprint/tutorials/pr_tutorial.md:68 9f999dcea3cb4c3f97b607328e6e8cc5
+#: ../sprint/tutorials/pr_tutorial.md:68 00addd6307e34939ad56d11884ec58b2
 msgid "pre-commit is able to fix the file"
 msgstr "pre-commit es capaz de arreglar el archivo"
 
-#: ../sprint/tutorials/pr_tutorial.md:77 b3f31a6818694f9faadc05fb5410ae37
+#: ../sprint/tutorials/pr_tutorial.md:77 8d0895032c6a43cd9f97dc7c814f78e5
 msgid ""
 "If this is the case for all fails, you only need to run the same command "
 "again, and now checks will pass:"
@@ -141,11 +141,11 @@ msgstr ""
 "Si este es el caso de todos los fallos, sólo tienes que volver a ejecutar el"
 " mismo comando, y ahora las comprobaciones pasarán:"
 
-#: ../sprint/tutorials/pr_tutorial.md:83 1d78991d1f024a1ba1074221fa6c8602
+#: ../sprint/tutorials/pr_tutorial.md:83 63ad5180af004ad5a09394c4d421fc11
 msgid "pre-commit is not able to fix the file"
 msgstr "pre-commit no es capaz de arreglar el archivo"
 
-#: ../sprint/tutorials/pr_tutorial.md:92 d76251ff9a164fe2abed179a407077c5
+#: ../sprint/tutorials/pr_tutorial.md:92 3fa70e12e2a540c3b0975fad4af91c45
 msgid ""
 "If some fail has this message then it needs manual input. Ask on Discourse "
 "sharing this piece copied from your terminal. It needs to include the check "
@@ -156,23 +156,23 @@ msgstr ""
 "terminal. Es necesario que incluyas el nombre de la comprobación y todos los"
 " mensajes de fallo."
 
-#: ../sprint/tutorials/pr_tutorial.md:96 9fab1c6e0fbb4e7da7eb74c990f30bba
+#: ../sprint/tutorials/pr_tutorial.md:96 1fb7c36bc24243d88d2f96f70a135c72
 msgid "Upload (push) the changes to GitHub"
 msgstr "Sube (push) los cambios a GitHub"
 
-#: ../sprint/tutorials/pr_tutorial.md:98 cfaac70fb06f4035baf6ab369cdf85a8
+#: ../sprint/tutorials/pr_tutorial.md:98 028d553d192141ec92920944ebafcd60
 msgid "Then push the changes to your GitHub account with:"
 msgstr "A continuación, sube (push) los cambios a tu cuenta de GitHub con:"
 
-#: ../sprint/tutorials/pr_tutorial.md:103 fb36a16563924ceaad4959478e7e127f
+#: ../sprint/tutorials/pr_tutorial.md:103 e677dd693ce1410f832de207bc2c8756
 msgid "The output will look like:"
 msgstr "El resultado será el siguiente:"
 
-#: ../sprint/tutorials/pr_tutorial.md:121 4c130e076c7a4d7987ffa3e593043219
+#: ../sprint/tutorials/pr_tutorial.md:121 7b9e705313b04b438f229e36434b58dc
 msgid "Create a Pull Request"
 msgstr "Crea un Pull Request"
 
-#: ../sprint/tutorials/pr_tutorial.md:122 d53ee59037f94a1e9926e47e0909e7cc
+#: ../sprint/tutorials/pr_tutorial.md:122 7a092995733e42f19c767b6cec07908e
 msgid ""
 "You will have noticed that the message already indicates how to open a PR "
 "and even provides a link. Click on the link (you might need to use right "
@@ -183,26 +183,30 @@ msgstr ""
 " el botón derecho del ratón más \"Abrir enlace\") y echa un vistazo a la "
 "página que se muestra en tu navegador"
 
-#: ../sprint/tutorials/pr_tutorial.md:126 32bbe04f5e8142d88808f2e05eb6c2e6
+#: ../sprint/tutorials/pr_tutorial.md:126 942477ebbe9541118803f14f6d2a014c
 msgid "Your screen at this point will be similar to:"
 msgstr "Tu pantalla en este punto será similar a:"
 
-#: ../sprint/tutorials/pr_tutorial.md:128 b28ac44a831a4343a1ad82b55690cc9d
+#: ../sprint/tutorials/pr_tutorial.md:128 0118b072aac2486eaff71ad31076b5ec
 msgid "![pr_screen](../images/pr_screen.png)"
 msgstr "![pr_screen](../images/pr_screen.png)"
 
-#: ../sprint/tutorials/pr_tutorial.md:128 3ff17523d9af4a72a134dfda95d045d1
+#: ../sprint/tutorials/pr_tutorial.md:128 708827038a614a33a642d01b453637d7
 msgid "pr_screen"
 msgstr "pr_screen"
 
-#: ../sprint/tutorials/pr_tutorial.md:130 35b8c6e4220f43b78618c6054ff43cf5
+#: ../sprint/tutorials/pr_tutorial.md:128 708827038a614a33a642d01b453637d7
+msgid ".. image:: sprint/images/pr_screen.png"
+msgstr ".. image:: sprint/images/pr_screen.png"
+
+#: ../sprint/tutorials/pr_tutorial.md:130 03b96c52c0d94597b7793add82cf5d80
 msgid ""
 "Before clicking on the \"Create pull request\" button, check a couple "
 "things."
 msgstr ""
 "Antes de pulsar el botón “Crear pull request”, comprueba un par de cosas."
 
-#: ../sprint/tutorials/pr_tutorial.md:132 4e4dc6057d5844bba5ad85696f01d505
+#: ../sprint/tutorials/pr_tutorial.md:132 fae2119fea4b4f178becc4cf28db0497
 msgid ""
 "Make sure the title is informative. If you followed the advise here, it "
 "should already be as it defaults to the commit message."
@@ -210,7 +214,7 @@ msgstr ""
 "Asegúrate de que el título sea informativo. Si has seguido los consejos "
 "aquí, ya debería serlo, ya que por defecto es el mensaje de confirmación."
 
-#: ../sprint/tutorials/pr_tutorial.md:134 6ceaf619ec9c497ab82d8d712e38ba2e
+#: ../sprint/tutorials/pr_tutorial.md:134 293ec209ed064b1ab25693b2a01a8bda
 msgid ""
 "Edit the description. You can remove all the points in the checklist except "
 "the one about the release notes. Then add a link to the issue you commented "
@@ -220,7 +224,7 @@ msgstr ""
 "comprobación excepto el de las notas de publicación. A continuación, añade "
 "un enlace al issue que has comentado."
 
-#: ../sprint/tutorials/pr_tutorial.md:136 ba516d06ef5f41f1b3262d13da3e691e
+#: ../sprint/tutorials/pr_tutorial.md:136 8737d56b57cd4722a427d3996793e11e
 msgid ""
 "If you have taken any notes while updating the docstring add them to the PR "
 "description."
@@ -228,7 +232,7 @@ msgstr ""
 "Si has tomado alguna nota mientras actualizabas la cadena de documentación "
 "añádela a la descripción del PR."
 
-#: ../sprint/tutorials/pr_tutorial.md:137 84b0a4bfae344812a3bd4a5be1270beb
+#: ../sprint/tutorials/pr_tutorial.md:137 3e3a19144b5f45d6947020477b26cfab
 msgid ""
 "Make sure the \"Allow edits and access to secrets by maintainers\" button is"
 " checked (it generally is checked by default)"
@@ -237,7 +241,7 @@ msgstr ""
 "por parte de los mantenedores” está marcado (suele estar marcado por "
 "defecto)."
 
-#: ../sprint/tutorials/pr_tutorial.md:140 3bbd1b7003754bd588c618d2e143238a
+#: ../sprint/tutorials/pr_tutorial.md:140 db57b7a0fe514dd58d40780436f9d9c6
 msgid ""
 "You might also see a link to the `CONTRIBUTING.md` file. You don't need to "
 "read it yet, this guide includes everything in the contributing guide that "
@@ -254,7 +258,7 @@ msgstr ""
 " pymc-examples, tendrás que leer su (ligeramente diferente) "
 "`CONTRIBUTING.md`."
 
-#: ../sprint/tutorials/pr_tutorial.md:147 e132b9a731e24c33ac7ea420b0e07ef6
+#: ../sprint/tutorials/pr_tutorial.md:147 988790860bdf48fdb9d9d4619a7e4558
 msgid ""
 "Click on \"Create pull request\" and celebrate for a bit 🎉, but the work is "
 "not finished."
@@ -262,11 +266,11 @@ msgstr ""
 "Haz clic en “Crear pull request” y celébralo un poco 🎉, aunque el trabajo no"
 " ha finalizado."
 
-#: ../sprint/tutorials/pr_tutorial.md:149 ec34521e3a2844498da9521055989c06
+#: ../sprint/tutorials/pr_tutorial.md:149 d588b55c991d4e118083f0cdcca6f816
 msgid "Get ready for reviews"
 msgstr "Prepárate para las revisiones"
 
-#: ../sprint/tutorials/pr_tutorial.md:151 ecd9f1dc89984a5ab095054dfe7ad00a
+#: ../sprint/tutorials/pr_tutorial.md:151 115f1cec0e654c6f979b4c3aa89e31af
 msgid ""
 "Now you have to wait for someone on the PyMC team to review. If you have "
 "sent the PR during session hours, we'll get to it fast (but not immediately,"
@@ -280,7 +284,7 @@ msgstr ""
 "otra persona!), si estás haciendo esto antes del día de la sesión, "
 "probablemente pasarán varias horas antes de que alguien lo vea y lo revise."
 
-#: ../sprint/tutorials/pr_tutorial.md:156 79863d3540d441e592017976ea3db4f2
+#: ../sprint/tutorials/pr_tutorial.md:156 8505a333009d4e1cba0b0b4ba20a2967
 msgid ""
 "We'll probably make some extra comments about things to change, this is not "
 "a bad sign. We don't expect you to know everything on the first try, and "
@@ -292,7 +296,7 @@ msgstr ""
 "además, puede que haya otras mejoras como añadir algunas referencias `See "
 "Also` que requieran mucha familiaridad con el código base."
 
-#: ../sprint/tutorials/pr_tutorial.md:161 353b3b79576c4d6cbc577cbf99c9baaf
+#: ../sprint/tutorials/pr_tutorial.md:161 e1ee8fa8102a4cac93745c8d975e4de6
 msgid ""
 "If you need to address some comments, you will have to modify your local "
 "copy of the files (still on the same branch). Once you are finished, commit "
@@ -302,11 +306,11 @@ msgstr ""
 "local de los archivos (aún en la misma rama). Una vez que hayas terminado, "
 "confirma de nuevo (el mismo comando pero con un mensaje diferente):"
 
-#: ../sprint/tutorials/pr_tutorial.md:169 85830769bc024d28975f2d7ce53aa66a
+#: ../sprint/tutorials/pr_tutorial.md:169 3acbfb56a1764843992f855518f21509
 msgid "Now you can push with:"
 msgstr "Ahora puedes hacer push con:"
 
-#: ../sprint/tutorials/pr_tutorial.md:175 9aaa4371dfa34c288075b581a9488ec9
+#: ../sprint/tutorials/pr_tutorial.md:175 dfda8c0bd27449cab3e2268a93c0a9ce
 msgid ""
 "The remote and branch name are only needed the first time. After pushing you"
 " should see that the PR on GitHub has been updated."
@@ -314,11 +318,11 @@ msgstr ""
 "El remoto y el nombre de la rama solo se necesitan la primera vez. Después "
 "de hacer push deberías ver que el PR en GitHub ha sido actualizado."
 
-#: ../sprint/tutorials/pr_tutorial.md:178 eabc398a358a431faa70b82e78be4785
+#: ../sprint/tutorials/pr_tutorial.md:178 cd75119bae2b4ef684624a83c30e772e
 msgid ":"
 msgstr ":"
 
-#: ../sprint/tutorials/pr_tutorial.md:197 0687db70e71a4fdeafec1278f3bc81ff
+#: ../sprint/tutorials/pr_tutorial.md:197 0232f4e9327d4bfca0808e512c04d77c
 msgid ""
 "Your PR will be merged as soon as possible after that and you can properly "
 "celebrate your merged PR to PyMC! Thanks for contributing!"
@@ -326,6 +330,6 @@ msgstr ""
 "¡Tu PR será fusionado tan pronto como sea posible después de eso y podrás "
 "celebrar adecuadamente tu PR fusionado a PyMC! ¡Gracias por contribuir!"
 
-#: ../sprint/tutorials/pr_tutorial.md:201 c339f5189a964bb0aa2a586d21e2f54c
+#: ../sprint/tutorials/pr_tutorial.md:201 c6d41839105346989e4f6b83d0a507de
 msgid "{fas}`heart;sd-fs-1 sd-text-danger`"
 msgstr "{fas}`heart;sd-fs-1 sd-text-danger`"

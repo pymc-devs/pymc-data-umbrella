@@ -3,13 +3,18 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Anavelyz Perez, 2023
+# Cristián Maureira-Fredes, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,163 +23,192 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:1
-#: 8bc562cc283a4783b5919ba0479bc658
+#: 72b76d844b854357baed61ba3693ac67
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:0
-#: ca2f09f59f2a4d4991ccae3726c06684
+#: 4007c8aee16e42af80a02055c98b65ce
 msgid "Add yourself as a contributor to the OS Working Session"
 msgstr ""
+"Únete como colaborador a la sesión de trabajo sobre el sistema operativo"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:7
-#: 0db6d8ba1de34cb08125987838670310
+#: 926943f8163648149c1d8f08df1e71cc
 msgid ""
 "The template shown rendered below for the Data Umbrella logo is available "
 "here to help you copy it and add yourself to the contributor list."
 msgstr ""
+"La plantilla que se muestra a continuación para el logotipo de Data Umbrella"
+" está disponible aquí para que puedas copiarla y sumarte a la lista de "
+"colaboradores."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:10
-#: 6c00e7a92c0141d5a45f06d123910b7e
+#: 51e7195c894a49a1b5ce33ca4404809a
 msgid ""
 "Steps to follow are only mentioned here. For an extensive tutorial you can "
 "read the page {ref}`pr_tutorial` and follow the steps mentioned below:"
 msgstr ""
+"Los pasos a seguir solo se mencionan aquí. Para un tutorial más extenso "
+"puedes leer la página {ref}`pr_tutorial` y seguir los pasos que se mencionan"
+" a continuación:"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:13
-#: 03a6f43cc8584fbba1355901beb6b4a3
+#: 6fd03f85fcb7443cbc25ed412f17964a
 msgid ""
 "Fork and clone the repo. You can get to the repo on GitHub with the icon on "
 "the top right of the page"
 msgstr ""
+"Crea un fork y clona el repositorio. Puedes acceder al repositorio en GitHub"
+" con el icono de la parte superior derecha de la página"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:14
-#: 8aa19ad5cf93422b9ee63c46c3733a71
+#: 993d3193eeb943469f776793a53ea860
 msgid "Create a feature branch."
-msgstr ""
+msgstr "Crea una rama feature."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:15
-#: f4df7eea602f4e63a1aa1847b59231ff
+#: 18660b1dec1343888b81e70654cc759d
 msgid "Copy the contributor card template:"
-msgstr ""
+msgstr "Copia la plantilla de la tarjeta de colaboración:"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:33
-#: 279346b7ecb84676b3387f73ae09c7f9
+#: 8107e6531475497095802bddbd66932d
 msgid "Open this file: `2023-03_sprint/sprint_parties/contributors.md`"
-msgstr ""
+msgstr "Abre este archivo: `2023-03_sprint/sprint_parties/contributors.md`"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:34
-#: dbfaa48ae2e74227b18e3dea002fa5ff
+#: e0243721b09147088e43759509d5b832
 msgid ""
 "Paste the template to the relevant section and update it with your personal "
 "info."
 msgstr ""
+"Pega la plantilla en la sección correspondiente y actualízala con tus datos "
+"personales."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:37
-#: d4731ce64dfb4cb297ec639aff1a64b2
+#: 7a3c970240344ba38d60045a9a56943f
 msgid ""
 "Copy everything. The opening and closing _3 colon fences_ (`:::`) are "
 "necessary"
 msgstr ""
+"Copia todo. Los _3 dos puntos_ de apertura y cierre (`:::`) son necesarios"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:38
-#: cba67e49a06c4b829938d50cc811a58d
+#: b07d95fb349f4dba8f86ba2267535322
 msgid ""
 "Paste your card **under** the last card available (that is, after the last "
 "`:::`) but **above** the end of the grid (that is, before the one with 4 "
 "colons `::::`)"
 msgstr ""
+"Pega tu tarjeta **debajo** de la última tarjeta disponible (es decir, "
+"después del último `:::`) pero **por encima** del final de la cuadrícula (es"
+" decir, antes de la que tiene 4 dos puntos `::::`)"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:40
-#: 1c40eca46e4b4a4295af20ca339d8d9a
+#: 46033cd386e14cb5a530efccfa65a7cd
 msgid ""
 "Empty lines are important for rendering. The empty line between "
 "\"Contributor Name\" and \"Contributor Location\" places them in different "
 "lines when rendering. The _lack_ of empty line between the multiple icons "
 "places them in the same line when rendering the website."
 msgstr ""
+"Las líneas vacías son importantes para la renderización. La línea vacía "
+"entre \"Nombre del colaborador\" y \"Ubicación del colaborador\" los coloca "
+"en líneas diferentes al renderizar. La _ausencia_ de línea vacía entre los "
+"múltiples iconos los coloca en la misma línea al renderizar el sitio web."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:44
-#: 6d205d47c0c3470aab3e723176b4ec13
+#: ebaa6fd170bb4cd893f16fe4c870caa8
 msgid ""
 "The image can be added to the repo ([`_static/contributors_2023_03` "
 "folder](https://github.com/pymc-devs/pymc-data-"
 "umbrella/tree/main/_static/contributors_2023_03)) as part of the PR or be an"
 " external link like in the template. But it needs to be a _square image_."
 msgstr ""
+"La imagen puede añadirse al repositorio ([`_static/contributors_2023_03` "
+"folder](https://github.com/pymc-devs/pymc-data-"
+"umbrella/tree/main/_static/contributors_2023_03)) como parte del PR o ser un"
+" enlace externo como en la plantilla. Pero tiene que ser una _imagen "
+"cuadrada_."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:49
-#: d96746e3ea254faa9f23a426584ab212
+#: 94be657d23524104998692ebf7ae52b7
 msgid ""
 "If you do not want to share a website, GitHub, Twitter and/or LinkedIn,  "
 "those lines can be deleted, keeping an eye on not leaving empty lines "
 "between icons+links."
 msgstr ""
+"Si no deseas compartir un sitio web, GitHub, Twitter o LinkedIn, se pueden "
+"eliminar esas líneas, procurando no dejar líneas vacías entre "
+"iconos+enlaces."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:52
-#: 7b84150ff1ce4fe391a2fef983a1747d
+#: 471ce300ac6546a2ac401a7b0e42d6f4
 msgid "Commit your changes and open a Pull Request"
-msgstr ""
+msgstr "Confirma tus cambios y abre un Pull Request"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:55
-#: 1824eed1ba5a48c883795c0781a975dc
+#: 851062b8699e43aa81270239c407d42b
 msgid "Returning Contributors"
-msgstr ""
+msgstr "Colaboradores que regresan"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:56
-#: 5a719129d444407ab4a543a8be044492
+#: 9a4077a77e1149deabef8dfd0eec401b
 msgid ""
 "Returning contributors have previously participated in a Data Umbrella or "
 "PyMC open source event or have previously contributed to PyMC."
 msgstr ""
+"Los colaboradores que regresan han participado previamente en un evento de "
+"código abierto de Data Umbrella o PyMC o han contribuido previamente a PyMC."
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:61
 #: ../2023-03_sprint/sprint_parties/contributors.md:78
-#: 20622de4a1864ddb9c244448afe6c66b 7e32f90b36cd464693596e011e50f748
+#: e76ce2dd2e28467e857fefe11aa95d33 f1a855e6363f40b2a33c5fe9143dc3b5
 msgid "Image for contributor template"
-msgstr ""
+msgstr "Imagen para la plantilla de colaboración"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:61
-#: 20622de4a1864ddb9c244448afe6c66b
+#: e76ce2dd2e28467e857fefe11aa95d33
 msgid ".. image:: _static/contributors_2023_03/cf2.jpg"
-msgstr ""
+msgstr ".. image:: _static/contributors_2023_03/cf2.jpg"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:65
-#: aaaa9a6443c24fb690b2e5fbd3bb0fc0
+#: 47ec56af289849d69de6c383dd9ff27f
 msgid "Cristián Maureira-Fredes"
-msgstr ""
+msgstr "Cristián Maureira-Fredes"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:67
-#: 54ed9b71311e4f3e87e15c71777cfe6f
+#: 880f4ca6faae4c56a6805a24b741a8bb
 msgid "Berlin, Germany"
-msgstr ""
+msgstr "Berlín, Alemania"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:69
-#: e31973522eb64276a38dd7a06def3889
+#: f9d2b93b9ddf49dba61057489c9d290c
 msgid "[{fab}`linkedin`](https://www.linkedin.com/in/cmaureir)"
-msgstr ""
+msgstr "[{fab}`linkedin`](https://www.linkedin.com/in/cmaureir)"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:73
-#: fe5236ce768b431b9b50ff9a5434ad2e
+#: 6b50f301719446949e3434f4c621f6c9
 msgid "New Contributors"
-msgstr ""
+msgstr "Nuevos colaboradores"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:78
-#: 7e32f90b36cd464693596e011e50f748
+#: f1a855e6363f40b2a33c5fe9143dc3b5
 msgid ".. image:: _static/contributors/blank_person.jpg"
-msgstr ""
+msgstr ".. image:: _static/contributors/blank_person.jpg"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:82
-#: 40d3d9c1f2fb4094ab6304c036e18a74
+#: 3945ada801d64e2280c6776996c82da9
 msgid "Sangam"
-msgstr ""
+msgstr "Sangam"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:84
-#: 992de86da51c4fb2805931968f157302
+#: fd7d6a0965f245fc91f5a3a116b00255
 msgid "Bangalore, India"
-msgstr ""
+msgstr "Bangalore, India"
 
 #: ../2023-03_sprint/sprint_parties/contributors.md:86
-#: b6c61fc866544216874ce81a4e9f08d4
+#: a7de55bf088c4b9a92ec1b58186aea24
 msgid "[{fab}`github`](https://github.com/SangamSwadiK)"
-msgstr ""
+msgstr "[{fab}`github`](https://github.com/SangamSwadiK)"
