@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Anavelyz Perez, 2023
 # Alberto Mario Ceballos-Arroyo, 2023
+# Anavelyz Perez, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-26 22:57+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
+"Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,82 +23,84 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:10003
-#: c5613cb3d14644b5b84778346166e464
+#: 79e129fd490543569afe15ebf6fc4735
 msgid "Webinar notebook"
 msgstr "Cuaderno del webinar"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:0
-#: 1bf8469169c446f597b0cb0d6544c2e2
+#: e2646e50be8d4daea990a15142318a72
 msgid ""
 ".. image:: https://secure-content.meetupstatic.com/images/classic-"
 "events/500978458/1352x760.webp"
 msgstr ""
+".. image:: https://secure-content.meetupstatic.com/images/classic-"
+"events/500978458/1352x760.webp"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:90002
-#: a7bb3ccd54ec43bcb16332dc367ecd67
+#: c7a69075f6534b56b164976fac5e5dcc
 msgid "About this talk"
 msgstr "Sobre esta charla"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100002
-#: a8804c9f3c464fb18dc9e1833a8cdeab
+#: 9d65246b5c454041a445bda96e9d6418
 msgid "Agenda"
 msgstr "Agenda"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100004
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:120002
-#: d355c27fd429440f86ae5cce922726f7 59abac803e3744af9c3b53df06de53cc
+#: 61c6af2b115e454f87b76d47fd3054e9 06ab4f4583e442ffa8ddb92303f92cfc
 msgid "Probabilistic programming from two perspectives"
 msgstr "La programación probabilística desde dos perspectivas"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100005
-#: 61f4f377ce9a4407a5aa1b0492f1deeb
+#: 35ff393ffc314eceaf520cdb4bf5d918
 msgid "Philosophical: storytelling with data"
 msgstr "Filosófica: contar historias con datos"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100006
-#: 47b96592eb0f4419a750cf7bb549d2db
+#: 3b7762ddc9c04cf686876bcad8223b5c
 msgid "Mathematical: Monte Carlo methods"
 msgstr "Matemáticas: Métodos Monte Carlo"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100007
-#: 47196b01e2f6431184035c79b794dcc5
+#: d20a599855684daea60318840f6eb80c
 msgid "Probabilistic programming with PyMC"
 msgstr "Programación probabilística con PyMC"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100008
-#: 5ab6896bdbff407aa51f62ae82db2744
+#: c42e36297b2f42a390496e3419614046
 msgid "The Monty Hall problem"
 msgstr "El problema de Monty Hall"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100009
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:690002
-#: 0d834666ee5e46e19d25fa36f808ccca a045b2d6ae12456092a47e22d8ef8489
+#: d0afc3082ab74288a67c7941d35b7531 11e9b79b3bd446fdb8d61bb30477d4a9
 msgid "Robust regression"
 msgstr "Regresión robusta"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100010
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:790002
-#: 164953a9a0b64331a82f064187ca447e 281399dc6fb641c9a18803c246c5e830
+#: b278b478c360441686c4ad4bd1946a86 d0b4f2f46a6648d2955e2b492ce96f4c
 msgid "Hamiltonian Monte Carlo"
 msgstr "Monte Carlo hamiltoniano"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100011
-#: b9a9727988f840139c33554d147a406e
+#: c2ae753315ab40a18807398d242473e2
 msgid "Aesara"
 msgstr "Aesara"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100012
-#: 31905a6c099744f084dab4639c0d30c2
+#: 8b577a7adde744feba4e3c211e2685f0
 msgid "Lego? example"
 msgstr "¿Lego? ejemplo"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:100013
-#: 8693be715f9e4890957e1d3e2d8b38b3
+#: e395c7e3e7f14005b0a836cc1eeef86f
 msgid "Next Steps"
 msgstr "Próximos pasos"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:110002
-#: 252b981657f54f34a44678dd31cb7218
+#: ebfc268213484512a27cdd3e421f5dcb
 msgid ""
 "All the code that is shown in this webinar can be executed from its website."
 " Therefore you have two ways to follow along:"
@@ -107,7 +109,7 @@ msgstr ""
 "página web. Por lo tanto, tienes dos maneras de seguirlo:"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:110004
-#: 220c64aee8bf46b8839f2f13bd506b56
+#: 21ef8cf67d8b45d7aeef58d9383fb9f3
 msgid ""
 "Click on the run code button and execute the code straight from this page"
 msgstr ""
@@ -115,7 +117,7 @@ msgstr ""
 "desde esta página"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:110010
-#: 272fa35067de44688389c0cde25c26eb
+#: ae70b11707e24b3f804dc45c2e75d461
 msgid ""
 "Clone the GitHub repo: [pymc-devs/pymc-data-"
 "umbrella](https://github.com/pymc-devs/pymc-data-umbrella) and follow along "
@@ -126,53 +128,53 @@ msgstr ""
 "localmente usando Jupyter"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:120004
-#: d5d6f1ab669f4359a966d981a044effd
+#: 253f3f343ed74f70989d608680aafef7
 msgid "Philosophical"
 msgstr "Filosófica"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:120006
-#: 26d74ec5a9d847b198fcacd404f8f581
+#: 3f63a4f22a3849fc8e468712850d8ea5
 msgid "(Classical) Data science —— inference enables story telling"
 msgstr "(Clásica) Ciencia de datos —— la inferencia permite contar historias"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:130002
-#: 69f498559a05486f976504d372997ddf
+#: afe33522146347a38df38f7a8841ea90
 msgid "Probabilistic programming —— story telling enables inference"
 msgstr ""
 "Programación probabilística —— contar historias permite hacer inferencias"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:140002
-#: 2668d36c5bd0430a864abd885e28ea4c
+#: 7cce2b30059b431382c8adaf594d1323
 msgid "Bayesian inference —— quantifying uncertainty"
 msgstr "Inferencia Bayesiana —— cuantificando la incertidumbre"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:150002
-#: 0768f67ef4564c89bc38dfca7cd63206
+#: 2ecd909349ef40f3ade56fa9191c7f38
 msgid "Mathematical"
 msgstr "Matemática"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:150004
-#: 612ab7fd520f4b6f9be7acd4d8f4a261
+#: 69b30dc4d5bf426790ad3d27c1667189
 msgid "Monte Carlo methods"
 msgstr "Métodos de Monte Carlo"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:240002
-#: 039c31507a6541949f853a012658c111
+#: eb37dd39b1db4ad18d5daede9fa0545e
 msgid "Monte Carlo methods —— approximating (intractible) integrals"
 msgstr "Métodos de Monte Carlo —— apróximando integrales difíciles de manejar"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:240004
-#: 52e3b7189e6b4364baeedcd7ce0970c1
+#: b1a973d003184f7ebae0a31218b4bdba
 msgid "\\pi = 4 \\int_0^1 \\sqrt{1 - x^2}\\ dx"
 msgstr "\\pi = 4 \\int_0^1 \\sqrt{1 - x^2}\\ dx"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:270002
-#: 611a112f59a343ceb2fdf478b8f09002
+#: 41277941e94549618d424eee6110ef44
 msgid "Bayes' Theorem —— (often) intractible integrals"
 msgstr "Teorema de Bayes ——  (a menudo) integrales difíciles de manejar"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:270004
-#: 5562c12d982f42e1a4e54a9e189152c1
+#: 38d42aa68ff74331aaa47a52d475b500
 msgid ""
 "f(\\theta\\ |\\ \\mathcal{D}) = \\frac{f(\\mathcal{D}\\ |\\ \\theta) \\cdot "
 "f(\\theta)}{\\color{red}{\\int f(\\mathcal{D}\\ |\\ \\theta) \\cdot "
@@ -183,7 +185,7 @@ msgstr ""
 "f(\\theta)\\ d\\theta}}"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:270006
-#: c7639b5192584a0e935bf25dff12d058
+#: 9f86955dea1347c7a97b81727dbf2abf
 msgid ""
 "Forcing <span style=\"color:red;\">this term</span> to be analytically "
 "tractible drastically limits the richness of the models we can consider."
@@ -193,22 +195,22 @@ msgstr ""
 "considerar."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:280002
-#: 9864728979c744a7977c2c66087e70d7
+#: 634e67aeca20426aa968f41d6351086e
 msgid "Probabilistic Programming with PyMC"
 msgstr "Programación probabilística con PyMC"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:280004
-#: eafffe9b7d6345abb10a5c24da58f0a3
+#: ee82336177bf403383498780ea433f31
 msgid "The Monty Hall Problem"
 msgstr "El problema de Monty Hall"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:290002
-#: 7a02d357549948dbbc6a5e75337058a7
+#: dac1ba76c322497db59502bbccc6a545
 msgid "Mathematical solution"
 msgstr "Solución matemática"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:290004
-#: ba1467c9971b49b1ab91a91ac01c5e1f
+#: 42a78430d6444db99429c9656416e434
 msgid ""
 "\n"
 "\\begin{align*}\n"
@@ -241,12 +243,12 @@ msgstr ""
 "\\end{align*}\n"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:300002
-#: 52cb7d6d270948aa8ff323511f182b32
+#: 05aa7beee9f648aaa6b77d6d924f9a14
 msgid "PyMC solution"
 msgstr "Solución con PyMC"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:300004
-#: cc3e72cfae8448d6b663f8335b6aac2c
+#: eb995aa3672b42d5a7d5619b5e488899
 msgid ""
 "Initially, we have no information about which door the prize is behind."
 msgstr ""
@@ -254,22 +256,22 @@ msgstr ""
 "encuentra el premio."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:320002
-#: e8bfdffa321b48b08ccedd538ececf7f
+#: 971ccdc35813474fb610e260ee316be5
 msgid "If we choose the first door:"
 msgstr "Si escogemos la primera puerta:"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:350002
-#: b367cb5c8df5427e9f151d64c536d923
+#: d970f9399c1d4998b78006fbdbaa77b3
 msgid "Monty opened the third door, revealing a goat."
 msgstr "Monty abrió la tercera puerta y descubrió una cabra."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:420002
-#: 57ad4d8e9c674db9a03ccf8694faa564
+#: e0c8c6653b394b5f8daf774231ff2ecf
 msgid "Two key components"
 msgstr "Dos componentes clave"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:420004
-#: f04b8b38b8d44343885c96014344be72
+#: b6325a75a16f4e05a833d4d52728d7f9
 msgid ""
 "[PyMC distributions](https://docs.pymc.io/en/latest/api/distributions.html)"
 msgstr ""
@@ -277,7 +279,7 @@ msgstr ""
 "PyMC](https://docs.pymc.io/en/latest/api/distributions.html)"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430011
-#: 2a44c2f4378546afa461e905f907e993
+#: bd1ecf5deef94d9db4f0301486a87f5e
 msgid ""
 "Aesara is a Python library that allows you to define, optimize, and evaluate"
 " mathematical expressions involving multi-dimensional arrays efficiently. "
@@ -288,7 +290,7 @@ msgstr ""
 "dimensionales. Aesara tiene:"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430013
-#: ad190ec8a1bf4428bd1a0f2696f55171
+#: 2bc234d7f8be44f69ce6b6191b336461
 msgid ""
 "Tight integration with NumPy – Use numpy.ndarray in Aesara-compiled "
 "functions."
@@ -297,7 +299,7 @@ msgstr ""
 "funciones compiladas por Aesara."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430014
-#: 023185c529c448d79238726b0c3c5149
+#: b7d05abe5dc04f90a406a4865c3428c9
 msgid ""
 "**Efficient symbolic differentiation – Aesara does your derivatives for "
 "functions with one or many inputs.**"
@@ -306,7 +308,7 @@ msgstr ""
 "funciones con una o más variables de entrada.**"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430015
-#: 1368364cfe1b4316a1f72ee9f1c87f41
+#: f5c87a4bf0294b42b1987ca8f4237d11
 msgid ""
 "Speed and stability optimizations – Get the right answer for log(1+x) even "
 "when x is really tiny."
@@ -315,14 +317,14 @@ msgstr ""
 "correcta para log(1+x) incluso cuando x es muy pequeño."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430016
-#: b812a4d804e7412aa282d198eb96b22d
+#: ced9130b87c6496698bb576ab854766f
 msgid "Dynamic C/JAX/Numba code generation – Evaluate expressions faster."
 msgstr ""
 "Generación dinámica de código de C/JAX/Numba - Evalúa expresiones más "
 "rápido."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:430018
-#: 00f8f3d1995846969e1d11eabdd253ca
+#: 12623c0e15fb4072be33e0ceb60d0c6b
 msgid ""
 "Aesara is based on Theano, which has been powering large-scale "
 "computationally intensive scientific investigations since 2007."
@@ -332,12 +334,12 @@ msgstr ""
 "desde 2007."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:440002
-#: ed248af082a84cbabe12c1231a57eb7e
+#: aba7fb4b02b4423abea9db86fe3f0aaf
 msgid "Robust Regression"
 msgstr "Regresión robusta"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:440004
-#: 1503149c86184bae840ef45b525def4e
+#: 9a9fae8a54694fde97cccae0e7cd7a67
 msgid ""
 "[Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)"
 msgstr ""
@@ -345,7 +347,7 @@ msgstr ""
 "Anscombe](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:450002
-#: ecd8f0d74e9f4b9584062c98af42a7bb
+#: a5d88956bf5c414a8df463b3d1eafaa6
 msgid ""
 "This code for plotting Anscombe's quartet is adapted from the [`matplotlib` "
 "documentation](https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html)."
@@ -355,12 +357,12 @@ msgstr ""
 "`matplotlib`](https://matplotlib.org/stable/gallery/specialty_plots/anscombe.html)."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:480002
-#: f6b06a50d9c946ec835143011f5ce2fc
+#: 664f74d19284496cb46ee4d714737917
 msgid "Ordinary least squares"
 msgstr "Mínimos cuadrados ordinarios"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:480004
-#: 5c8de0a242eb43a5b4f6ce35643b6c46
+#: 8e0aaa0adb384b9f86f1b665d82c9120
 msgid ""
 "**Assumption:** All values of $m, b \\in \\mathbb{R}$, $\\sigma > 0$ are "
 "equally likely"
@@ -369,27 +371,27 @@ msgstr ""
 "son igualmente verosímiles"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:500002
-#: 6fad951a83364fe5904a5c10e9be385d
+#: 5d6b05cacacc495d9820a8e366c05729
 msgid "y\\ |\\ x = m x + b + \\varepsilon,\\ \\varepsilon \\sim N(0, \\sigma^2)"
 msgstr "y\\ |\\ x = m x + b + \\varepsilon,\\ \\varepsilon \\sim N(0, \\sigma^2)"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:510002
-#: 9550e1a780e84d1b8fe8bab88741e252
+#: 6d1a441435014b97a20fe0241bc0b83e
 msgid "This is equivalent to"
 msgstr "Esto es equivalente a"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:510004
-#: ad11bf6614244ba3a9e4d0264ca22db4
+#: 3fb96049615f4b6fbafaac452430048a
 msgid "y\\ |\\ x \\sim N(m x + b, \\sigma^2)"
 msgstr "y\\ |\\ x \\sim N(m x + b, \\sigma^2)"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:560002
-#: bbdb2ae928864524a6b1bab5716c9f55
+#: aa61a25e713a474492bb8d115200c0ea
 msgid "Two more key components"
 msgstr "Otros dos componentes clave"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:560013
-#: ab20ba6a199c4675bc9d2e66de4d3a91
+#: 9b4574c9f5cf4aa884ae614f50c4dacb
 msgid ""
 "ArviZ is a Python package for exploratory analysis of Bayesian models. "
 "Includes functions for posterior analysis, data storage, sample diagnostics,"
@@ -400,7 +402,7 @@ msgstr ""
 "datos, diagnósticos de muestras, verificación de modelos y comparaciones."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:560015
-#: e31dcbffcbf14e8d9fd7e6c032592baa
+#: 970292926d5145e1be025ec53ddca74a
 msgid ""
 "The goal is to provide backend-agnostic tools for diagnostics and "
 "visualizations of Bayesian inference in Python, by first converting "
@@ -414,7 +416,7 @@ msgstr ""
 "estructura y especificación de InferenceData."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:590011
-#: 5426cba8f6d344aa8a4bc9e4349751fd
+#: 4bc2adcbc90d47898adf5fcfcf57bc57
 msgid ""
 "xarray (formerly xray) is an open source project and Python package that "
 "makes working with labelled multi-dimensional arrays simple, efficient, and "
@@ -425,7 +427,7 @@ msgstr ""
 "con arreglos multi-dimensionales etiquetados."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:590013
-#: 2e6b122767b34d50b0c0bc04c19df99e
+#: 425c248c706a441499aaea84bc4d5138
 msgid ""
 "Xarray is inspired by and borrows heavily from pandas, the popular data "
 "analysis package focused on labelled tabular data. It is particularly "
@@ -439,19 +441,19 @@ msgstr ""
 "computaciones paralelas."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:640002
-#: cef1d403f8ee4fd6b5337be96ee4566c
+#: f85b55704b1643d2b1cf01ee24c65768
 msgid "Ridge regression"
 msgstr "Regresión ridge"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:640004
-#: 8b313262148b447baa984457c13ab5a9
+#: d7642ac4f121493aa1f52414901a05f6
 msgid "Ridge regression is equivalent to normal priors on $m$ and $b$."
 msgstr ""
 "La regresión ridge es equivalente a asumir probabilidades a priori normales "
 "respecto a $m$ y $b$."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:640006
-#: 388ce6de79704a9597fed74d579c9b1d
+#: e00c2e76e8a24e1ba60b67f52dcb548d
 msgid ""
 "\n"
 "\\begin{align*}\n"
@@ -474,7 +476,7 @@ msgstr ""
 "\\end{align*}\n"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:690004
-#: c71bc304ef6841cd85007591f9c1b689
+#: ca136487bb83404989edc4ce58c33237
 msgid ""
 "[Student's t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-"
 "distribution) has fatter tails than the normal distribution."
@@ -483,12 +485,12 @@ msgstr ""
 "distribution) tiene colas más gruesas que la distribución normal."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:730002
-#: b2b8e38cf7e2442c9853c5a7cd4dc581
+#: c425500edf854f05a39393472cba60ec
 msgid "A Student t-likelihood is less sensitive to outliers"
 msgstr "Una verosimilitud t de Student es menos sensible a datos atípicos"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:730004
-#: 8497ae7af2b545c08cc5c6071e7bdcf0
+#: 3aef7bb6cf864f7f84af3d1f1fbc0d9b
 msgid ""
 "\n"
 "\\begin{align*}\n"
@@ -507,42 +509,42 @@ msgstr ""
 "\\end{align*}\n"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:790004
-#: 16d9de51de12408cb4f93b71fd1f1529
+#: 896fa7c95103467f8bf6f603f12d94a0
 msgid "Bayesian inference ⇔ Differential geometry"
 msgstr "Inferencia Bayesiana ⇔ Geometría diferencial"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:800002
-#: a21a939d9f9d42618e5e1e01433f6037
+#: 44be9762207241269df459e41356b348
 msgid "The Curse of Dimensionality"
 msgstr "La maldición de la dimensionalidad"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:840002
-#: 37cc0d1e5220459992960652c5965b42
+#: af6def3bb7b741349f27fc59185e2c8b
 msgid "Automating calculus with `aesara`"
 msgstr "Automatizando el cálculo con `aesara`"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:840004
-#: d5cd8fe834834a4389932226b61c0d87
+#: 47883188fb654945be519e92c02fd846
 msgid "\\frac{d}{dx} \\left(x^3\\right) = 3 x^2"
 msgstr "\\frac{d}{dx} \\left(x^3\\right) = 3 x^2"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:870002
-#: cc5b6100e6d34e8396ccd6ea32434504
+#: 3ad586a1db1a4dbebd4ae6b7f0d4f2dd
 msgid "A Bayesian Analysis of Lego Prices"
 msgstr "Un análisis Bayesiano de los precios de Lego"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:880002
-#: e7f2c2318db0424aa03bce240fd00ff0
+#: 0abfc484484141719f55ea4d25a71ee7
 msgid "Scraped from [Brickset](https://brickset.com/)"
 msgstr "Obtenido de [Brickset](https://brickset.com/)"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1030002
-#: 30fa0189585643188fbecb08f56b6c30
+#: 72045d7d658d4962ac1d394930e59fa4
 msgid "Price model"
 msgstr "Modelo de precios"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1030004
-#: 3dc34c0cb19941dfb808855f38159c05
+#: 4319fef2a2a74fe39dc0c190b17a1295
 msgid ""
 "\\log \\text{Price} \\approx (\\text{Year intercept}) + (\\text{Theme "
 "intercept}) + \\left((\\text{Year slope}) + (\\text{Theme slope})\\right) "
@@ -553,22 +555,22 @@ msgstr ""
 "(\\text{pendiente de la temática})\\right) \\cdot \\log \\text{Piezas}"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1110002
-#: 4310c103a9084cceb7ff8b3cc314e50a
+#: 88932641a4f34019a038ab9b1049cff9
 msgid "Why _Hamiltonian_ Monte Carlo?"
 msgstr "¿Por qué usar un Monte Carlo _Hamiltoniano_?"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1180002
-#: 221b072c97ca46afa0a9f7de4ebc6424
+#: 206e295fc74940ee8b29f730c8177456
 msgid "This model has"
 msgstr "Este modelo tiene"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1210002
-#: 6418d3945f204f6bbe1ffcf279b6a52a
+#: 17f87929b4f14fefbfa2fc0653114053
 msgid "parameters"
 msgstr "parámetros"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1330002
-#: 409b0fa73dfa4e3b81cae7e36958fc21
+#: 238a1466000c4690845af7335a1fd902
 msgid ""
 "To get the same effective sample size as adaptive HMC (NUTS) with "
 "Metropolis-Hastings would required approximately"
@@ -577,21 +579,21 @@ msgstr ""
 "algoritmo de Metropolis-hasting requeriría apróximadamente"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1350002
-#: 409255dafe534c59977f89398052c042
+#: 071988138ea3473280058e5173cafac4
 msgid "hours."
 msgstr "horas."
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1370002
-#: 4c64d4230e504730823e7e38f1712fd5
+#: b0cc46381c0a4103b2bb8202511b2ade
 msgid "Is Darth Vader's Meditation Chamber priced fairly?"
 msgstr "¿Tiene un precio justo la cámara de meditación de Darth Vader?"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1470002
-#: ae27f571a1c242f3b85bbda7c6cf4253
+#: 5e94738947de452b83f7ab8ce15f7444
 msgid "Next steps"
 msgstr "Próximos pasos"
 
 #: ../about/probabilistic_programming_with_pymc/notebook.ipynb:1480002
-#: 5a318961d2184d9e84a2fa690412c750
+#: 284f2b90baef4093babe483fed2dbe64
 msgid "Thank you!"
 msgstr "¡Gracias!"

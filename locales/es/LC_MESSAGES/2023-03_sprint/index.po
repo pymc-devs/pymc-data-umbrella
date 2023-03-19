@@ -3,13 +3,20 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Anavelyz Perez, 2023
+# Cristián Maureira-Fredes, 2023
+# César Herrera, 2023
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:14+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2023-02-27 19:13+0000\n"
+"Last-Translator: Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,154 +24,216 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../2023-03_sprint/index.md:3 71da63fa7d1c491b803b01a79f538e0b
+#: ../2023-03_sprint/index.md:3 b4fac26b4ff44e2bb036154bb908ba26
 msgid "March 2023 Open Source Working Session: Latin America"
-msgstr ""
+msgstr "Sesión de trabajo Open Source Marzo 2023: América Latina"
 
-#: ../2023-03_sprint/index.md:5 7a1baf60b99248cdabf362cbf42b70a9
+#: ../2023-03_sprint/index.md:5 8eb9ae33cbe843709e320fcec9e4190a
 msgid ""
-"This event is focused on the Latin America region. If you are available on "
-"the event day to be a translator for Spanish or Portuguese, please contact "
-"us ({{ du_email }}). To contribute to the website translations, please see "
-"{ref}`translations`."
+"This event is an online hands-on working session to contribute to PyMC, a "
+"Python probabilistic programming language. Knowledge of PyMC is not "
+"required, and it is beginner-friendly. There is a range of possible "
+"contributions, from adding timestamps to videos, to documentation, to "
+"running Jupyter notebooks in the latest version of PyMC, to more advanced "
+"code contributions."
 msgstr ""
+"Este evento es una sesión de trabajo práctica y online para contribuir a "
+"PyMC, un lenguaje de programación probabilístico. No se requiere "
+"conocimiento previo sobre PyMC y es apto para principiantes. El rango de "
+"contribuciones posibles es muy amplio, des de añadir marcas de tiempo a "
+"vídeos, contribuir a la documentación, ejecutar notebooks de Jupyter con la "
+"versión más reciente de PyMC, hasta contribuciones de código. "
 
-#: ../2023-03_sprint/index.md:12 58c0db1a33ad4359bc12344e9fff5c8c
+#: ../2023-03_sprint/index.md:7 a0a1e293bbbf47abafc0d38c4d2e3abe
+msgid ""
+"This event is focused on the LATAM region.  However, we welcome folks from "
+"all regions. Please indicate on the registration form if you will need a "
+"translator."
+msgstr ""
+"Este evento se focaliza en América Latina. Sin embargo, gente de cualquier "
+"región es bienvenida. Por favor, marcad en el formulario de inscripción se "
+"necesitáis a alguien que os traduzca. "
+
+#: ../2023-03_sprint/index.md:9 35f765fde3a44aa689f3e25680358445
+msgid ""
+"Volunteers:  If you are available on the event day to be a translator for "
+"Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to "
+"the website translations, please see {ref}`translations`."
+msgstr ""
+"Voluntarios:  Si está disponible el día del evento para traducir del Español"
+" o Portugués, contacta con nosotros ({{ du_email }}). Para ayudar con la "
+"traducción de la web, por favor vea {ref}`translations`."
+
+#: ../2023-03_sprint/index.md:19 9edeadd7c7ce48519abcdb73bd17fb8b
+msgid "![du-pymc-os-ws](../../_static/banner_2023_03/cps_2023_03.png)"
+msgstr "![du-pymc-os-ws](../../_static/banner_2023_03/cps_2023_03.png)"
+
+#: ../2023-03_sprint/index.md:19 97549b65551945dfb20cc8791088d405
+msgid "du-pymc-os-ws"
+msgstr "du-pymc-os-ws"
+
+#: ../2023-03_sprint/index.md:19 97549b65551945dfb20cc8791088d405
+msgid ".. image:: ../_static/banner_2023_03/cps_2023_03.png"
+msgstr ".. image:: ../_static/banner_2023_03/cps_2023_03.png"
+
+#: ../2023-03_sprint/index.md:28 a6ab454b56894f5fa479ea8f8711af3c
 msgid "Inspirational Tips on Contributing to Open Source"
-msgstr ""
+msgstr "Consejos inspiradores para contribuir al código abierto"
 
-#: ../2023-03_sprint/index.md:13 615612a32899488b80bab2469e840ccb
+#: ../2023-03_sprint/index.md:29 f2e8d754374549e6969c1846844a2df9
 msgid ""
 "Check out this 3-minute video by [Mariatta "
 "Wijaya](https://www.linkedin.com/in/mariatta/). She has been a Python core "
 "developer since 2017, and she shares a few inspirational remarks for those "
 "beginning or continuing their journey in contributing to open source."
 msgstr ""
+"Mire este video de 3 minutos de [Mariatta Wijaya] "
+"(https://www.linkedin.com/in/mariatta/). Ha sido desarrolladora principal de"
+" Python desde 2017 y comparte algunos comentarios inspiradores para aquellos"
+" que comienzan o continúan su viaje para contribuir con el código abierto."
 
-#: ../2023-03_sprint/index.md:15 935093b8f0364d8d9bb2bd23cb21410e
+#: ../2023-03_sprint/index.md:31 d6e1f446480948f681448ed6770076f2
 msgid ""
 "\"I wish someone had told me earlier how amazing open source is and I had "
 "become involved earlier.\""
 msgstr ""
+"\"Ojalá alguien me hubiera dicho antes lo increíble que es el código abierto"
+" y me hubiera involucrado antes\"."
 
-#: ../2023-03_sprint/index.md:16 783120d008fa4b7ba9fbbc69a39cb3d9
+#: ../2023-03_sprint/index.md:32 914589148e054bec877f6823248c7791
 msgid ""
 "Participating in and influencing decisions in the open source community is "
 "important."
 msgstr ""
+"Es importante participar e influir en las decisiones de la comunidad de "
+"código abierto."
 
-#: ../2023-03_sprint/index.md:17 4c5323fc1e7f4c20927d08d456e66acf
+#: ../2023-03_sprint/index.md:33 da101eba4ac847d490fc66f98cf41360
 msgid ""
 "Open source lets us learn about: continuous integration, unit tests, "
 "documentation, packaging"
 msgstr ""
+"El código abierto nos permite aprender sobre: integración continua, pruebas "
+"unitarias, documentación, empaquetado"
 
-#: ../2023-03_sprint/index.md:19 2e5a3f1db2cf4d7591688d88bd456bf4
+#: ../2023-03_sprint/index.md:35 64bfe3ab3d66445e946da8b42093bd47
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
-#: ../2023-03_sprint/index.md:24 aab4b4b7c76143488962d276a67ffa0e
+#: ../2023-03_sprint/index.md:40 b147ab7372e94592857f6753e2be669e
 msgid "Schedule"
-msgstr ""
+msgstr "Programa"
 
-#: ../2023-03_sprint/index.md:27 78642bef22b54584a64c72c6aafed117
+#: ../2023-03_sprint/index.md:43 0884b066adfa43428fd517e4d50847f7
 msgid "To take part in the upcoming Open Source Working Sessions you should:"
 msgstr ""
+"Para participar en las próximas sesiones de trabajo de código abierto, "
+"debes:"
 
-#: ../2023-03_sprint/index.md:29 06a522dd149b43e487ba093dd7634472
+#: ../2023-03_sprint/index.md:45 325536b45afa457e886f45c75f2f9c1e
 msgid "Complete the registration form:"
-msgstr ""
+msgstr "Completa el formulario de registro:"
 
-#: ../2023-03_sprint/index.md:30 a83a58d7dded4b678d2eaac927a966cc
+#: ../2023-03_sprint/index.md:46 858d237c9ac142659f9b90802423eb6c
 msgid "English: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`"
-msgstr ""
+msgstr "Inglés: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`"
 
-#: ../2023-03_sprint/index.md:31 dbd3945cc9b443d9be6c4a87e967205e
+#: ../2023-03_sprint/index.md:47 81c7e126d70d4ccdabed293df132e983
 msgid "Spanish: needs to be translated"
-msgstr ""
+msgstr "Español: necesita ser traducida"
 
-#: ../2023-03_sprint/index.md:32 2d1c69dcb25c41c2b5521dfb925072b5
+#: ../2023-03_sprint/index.md:48 2a053649ac5740a88a78c05c2feb9a1f
 msgid "Portuguese: needs to be translated"
-msgstr ""
+msgstr "Portugués: necesita ser traducida"
 
-#: ../2023-03_sprint/index.md:33 4e0762efae974aba8d05443940b58158
+#: ../2023-03_sprint/index.md:49 5164198ea5574d60a1ee39ba573bb8a8
 msgid ""
 "RSVP on MeetUp for the event: {bdg-link-primary-"
 "line}`https://www.meetup.com/data-umbrella/events/291768545/`"
 msgstr ""
+"Confirma tu asistencia en MeetUp para el evento: {bdg-link-primary-"
+"line}`https://www.meetup.com/data-umbrella/events/291768545/`"
 
-#: ../2023-03_sprint/index.md:26 8893c50fca8943ceb7590394f8a9cd86
+#: ../2023-03_sprint/index.md:42 ce72b3c440b541da8000ca83f93c6f62
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
-#: ../2023-03_sprint/index.md:26 f3b1891fd27c46fab624563a1ba171e3
+#: ../2023-03_sprint/index.md:42 291a441a3194461f8b6563884838dda8
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
-#: ../2023-03_sprint/index.md:26 527158c56b9f473e89bfc073e1264b8f
+#: ../2023-03_sprint/index.md:42 2381aa957c824b98b504d42b5ebc7c05
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
-#: ../2023-03_sprint/index.md:26 a4b119b14f414b4982a4403c1bf501f7
+#: ../2023-03_sprint/index.md:42 0ea92026949241738f02519d0064f7c1
 msgid "Duration"
-msgstr ""
+msgstr "Duración"
 
-#: ../2023-03_sprint/index.md:26 3afc600579974d038eeac57f46c597f5
+#: ../2023-03_sprint/index.md:42 c7b8ee6bfa364179b5926ceb2debf126
 msgid "RSVP"
-msgstr ""
+msgstr "Confirmación de asistencia"
 
-#: ../2023-03_sprint/index.md:26 b92e0e094c494bb89a82e65c0af91bf0
+#: ../2023-03_sprint/index.md:42 6126e5b8a92c4b7d8ca03f21d31c2677
 msgid "Open Source Working Session"
-msgstr ""
+msgstr "Sesión de trabajo de código abierto"
 
-#: ../2023-03_sprint/index.md:26 ad548738593647d3ab38ef9fdc12de1a
+#: ../2023-03_sprint/index.md:42 6bd3a3bdea8a407ea4ebf2beb3bc09fe
 msgid "Mar 30, 2023 (Th)"
-msgstr ""
+msgstr "Marzo 30, 2023 (Jueves)"
 
-#: ../2023-03_sprint/index.md:26 65dc7f8f25dd4eabbd515e69bc55ab26
+#: ../2023-03_sprint/index.md:42 725928344aae409d88030d3da78e1703
 msgid "10am ET / 15:00 UTC"
-msgstr ""
+msgstr "10am ET / 15:00 UTC"
 
-#: ../2023-03_sprint/index.md:26 8daaa40f37e748f5bbf4044fe6f52d15
+#: ../2023-03_sprint/index.md:42 9af40c1a1bbd4739baa914f2c98a5a5f
 msgid "3 hours"
-msgstr ""
+msgstr "3 horas"
 
-#: ../2023-03_sprint/index.md:26 95fc0254358a409a9c56a4db6a332763
+#: ../2023-03_sprint/index.md:42 3970e8ac112b4698b40886c60b18f07c
 msgid "[MeetUp](https://www.meetup.com/data-umbrella/events/291768545/)"
-msgstr ""
+msgstr "[MeetUp](https://www.meetup.com/data-umbrella/events/291768545/)"
 
-#: ../2023-03_sprint/index.md:41 e941563678ad47d189a8a06abad57888
+#: ../2023-03_sprint/index.md:57 df037e5d15064b6391b6def5db2eb068
 msgid "Monthly Open Source Contributing Sessions"
-msgstr ""
+msgstr "Sesiones mensuales de contribución de código abierto"
 
-#: ../2023-03_sprint/index.md:42 05fa25d936ff49e39e71f3caac2d9a6c
+#: ../2023-03_sprint/index.md:58 3bee137500fd4898aa1f7766b0ab05c3
 msgid ""
 "We have monthly open source contributing sessions, referred to as \"PyMC "
 "Study Sessions\". We plan to invite people who attend this event and begin "
 "work on a pull request.  Please indicate on the registration form if you "
 "would like to join these sessions."
 msgstr ""
+"Tenemos sesiones mensuales de contribución de código abierto, denominadas "
+"\"Sesiones de estudio de PyMC\". Planeamos invitar a las personas que "
+"asisten a este evento y comenzar a trabajar en un Pull-Reuest. Indica en el "
+"formulario de inscripción si deseas participar en estas sesiones."
 
-#: ../2023-03_sprint/index.md:45 0410a8094f724961ac4df6a0aac828fa
+#: ../2023-03_sprint/index.md:61 67425fac647d47bdbe75b52a70aa176a
 msgid "Schedule with Timezones"
-msgstr ""
+msgstr "Programa con zonas de horario"
 
-#: ../2023-03_sprint/index.md:47 28d76ede12814f178736274c70b3266a
+#: ../2023-03_sprint/index.md:63 e0b8fda46675456fa9bacc1bd79e46ef
 msgid ""
 "Note: You can click on the table image below to view the full spreadsheet "
 "with a larger view."
 msgstr ""
+"Nota: Puedes hacer clic en la imagen de la tabla para ver la hoja de cálculo"
+" completa con una vista ampliada."
 
-#: ../2023-03_sprint/index.md:49 0efbf6fa76fb44c28652f192d1250a11
+#: ../2023-03_sprint/index.md:65 82520cf9cf44465b9723b354a878db24
 msgid "[NEED TO UPDATE]"
-msgstr ""
+msgstr "[NECESITA ACTUALIZACIÓN]"
 
-#: ../2023-03_sprint/index.md:53 924e975d9d364c0fb61c7b889f4b5a6a
+#: ../2023-03_sprint/index.md:69 97ab809cd257482796b9172c9d253686
 msgid "Calendar"
-msgstr ""
+msgstr "Calendario"
 
-#: ../2023-03_sprint/index.md:55 69e4738111be4ab981b7cba7bce9f9e9
+#: ../2023-03_sprint/index.md:71 b2ffe68d80cc47f5a767ed3a0e047dee
 msgid ""
 "Note: Once you RSVP to the Meetup event, it can be added to your calendar "
 "that way as well."
 msgstr ""
+"Nota: Una vez que confirmes tu asistencia al evento Meetup, también puedes "
+"agregarlo a tu calendario de esa manera."

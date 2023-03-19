@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Alberto Mario Ceballos-Arroyo, 2023
+# Cristián Maureira-Fredes, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
+"Last-Translator: Cristián Maureira-Fredes, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,18 +26,22 @@ msgstr ""
 msgid "Webinar notebook"
 msgstr "Cuaderno del webinar"
 
+#: ../about/probabilistic_programming_with_pymc/index.md:33
+msgid "Video transcript"
+msgstr "Transcripción del video"
+
 #: ../about/probabilistic_programming_with_pymc/index.md:2
-#: 39f3b5af8ce74835bd3134732c29b402
+#: 86e32054bb4e4dc8b35a14ae10670041
 msgid "Introduction to Probabilistic Programming with PyMC"
 msgstr "Introducción a la programación probabilística con PyMC"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:4
-#: 5665b7587f9348a68ad4a5f3e859e3eb
+#: ede2a8c7056c4486a60f9f1a25b11fc3
 msgid "Event"
 msgstr "Evento"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:5
-#: a058af15e26041d6ad406aaa921607af
+#: 090277bb91a640f3b6f1a273b5f3ba56
 msgid ""
 "In the last ten years, there have been a number of advancements in the study"
 " of Hamiltonian Monte Carlo and variational inference algorithms that have "
@@ -64,12 +69,12 @@ msgstr ""
 "de la investigación académica sean accesibles para una audiencia más amplia."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:7
-#: c82a1c937141494ea8490c5929d0a43b
+#: 57e94108b0c64154a9d13fe43afa81a3
 msgid "Details"
 msgstr "Detalles"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:9
-#: 7336c65f07594869885306526e1b4205
+#: 680908508fca45b7b24539d2f9bbc30c
 msgid ""
 "Audience: People who are interested in PyMC, Probabilistic Programming or "
 "Bayesian Statistics"
@@ -78,13 +83,13 @@ msgstr ""
 " en la estadística Bayesiana"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:10
-#: e1cdaceab007475c86cf5d1cb66a926f
+#: dfc776b60ae6443fab2c35ee34348351
 msgid "[Github Repo](https://github.com/pymc-devs/pymc-data-umbrella)"
 msgstr ""
 "[Repositorio de GitHub](https://github.com/pymc-devs/pymc-data-umbrella)"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:11
-#: 3911d871715a4fe3ba84164a750d3912
+#: 733aa3e94b5a479fbe5fb32d4d349e17
 msgid ""
 "All the content is available on this website, and you can run the code from "
 "the website to follow along with the webinar."
@@ -93,17 +98,17 @@ msgstr ""
 "código desde el sitio web mientras sigues el webinar."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:15
-#: b3588bf1f31345e7958ae1c864db639b
+#: c33ce7e129a04a8eb0585829fea81d33
 msgid "Go to the webinar notebook!"
 msgstr "¡Ve al notebook del webinar!"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:23
-#: 99a9813cd48e4b619b2bd953ac98f490
+#: 9802ad5e8074496a86c3b9c61a6e93ec
 msgid "Speaker"
 msgstr "Ponente"
 
 #: ../about/probabilistic_programming_with_pymc/index.md:25
-#: 69dd09dbde974af89e3905dbd23c3ca3
+#: 7c43e859fa4f46e6bccff03c30e64bf7
 msgid ""
 "Austin Rochford is the Chief Data Scientist at Kibo Commerce. He is a "
 "recovering mathematician and is passionate about math education, Bayesian "
@@ -114,6 +119,6 @@ msgstr ""
 "estadística Bayesiana y el aprendizaje automático."
 
 #: ../about/probabilistic_programming_with_pymc/index.md:28
-#: 07226ebf3eab4482add41c83824b104f
+#: d0a9ae06f216426d96ccc622bee25a3b
 msgid "Video"
 msgstr "Vídeo"

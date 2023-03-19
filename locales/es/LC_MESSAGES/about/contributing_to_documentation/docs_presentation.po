@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -7,15 +7,17 @@
 # Cristián Maureira-Fredes, 2023
 # Cristina Zenteno, 2023
 # Alberto Mario Ceballos-Arroyo, 2023
+# Sandra Yojana Meneses <sandrayojana@gmail.com>, 2023
+# Anavelyz Perez, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Alberto Mario Ceballos-Arroyo, 2023\n"
+"Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,17 +26,17 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:2
-#: f4d14d00f0bf4448be93697a2905a8ac
+#: c79862090a704c888533fbc230fe1f85
 msgid "Contributing to PyMC documentation"
 msgstr "Documentación de contribución a PyMC"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:4
-#: 163a144115cf48ae9445ab2812b8e410
+#: 568c1bdb56324693aaef25ff17f755fa
 msgid "An overview of PyMC documentation"
 msgstr "Una descripción general de la documentación de PyMC"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:5
-#: 5427f2536a584327aa5964906da6357f
+#: 2925e9ae53e042e2b7eb28e62e288947
 msgid ""
 "The PyMC documentation is generated from two different GitHub repositories, "
 "each containing different type of documentation:"
@@ -44,7 +46,7 @@ msgstr ""
 "documentación:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:8
-#: b3bc187eb7ab45a886ba7b133cec1019
+#: 630a1113fa374f8bb04a870a19dd6265
 msgid ""
 "[pymc](https://github.com/pymc-devs/pymc): The pymc repository contains most"
 " reference content in the form of docstrings (strings attached to the Python"
@@ -57,7 +59,7 @@ msgstr ""
 "funcionalidad principal y los documentos de contribución."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:13
-#: d8fb523df51c43359d7fc528bb35fcda
+#: 2ef3f0f4fe5642acb61d1a4461be2a2b
 msgid ""
 "[pymc-examples](https://github.com/pymc-devs/pymc-examples): The pymc-"
 "examples repository contains a collection of over 90 notebooks with usage "
@@ -68,7 +70,7 @@ msgstr ""
 "uso, explicaciones detalladas y tutoriales sobre PyMC."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:18
-#: 0639a672ae7349ae878cf0ba51e5fedf
+#: 5817b65e832b43cc9e21c5c145001c90
 msgid ""
 "In this talk, we'll focus on contributing to pymc-examples, which contains "
 "more and more diverse documentation. We'll start with a description of the "
@@ -83,12 +85,12 @@ msgstr ""
 "escribir documentación técnica clara, bonita y bien referenciada."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:26
-#: e289b801c0c64171a224a885e300bfbb
+#: bcb797fb1588460eb291ed57de915a1a
 msgid "The idea: an executable book made from blogposts"
 msgstr "La idea: un libro ejecutable hecho a partir de blogs"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:28
-#: d5e83bd2ffb64df0bc0033ca95385a93
+#: 370fe1000f8949ec80defa7f0d3c0926
 msgid ""
 "We won't explain how to set up a similar website, this would take another "
 "whole talk."
@@ -97,7 +99,7 @@ msgstr ""
 "charla completa."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:30
-#: c41558c196a641c9b130730dca3ffded
+#: 874c97f63efb4ea0865f833d4151841b
 msgid ""
 "We will give an overview of the features available and about why we chose "
 "those to then dive into our main goal for the talk: _How do you as a "
@@ -109,19 +111,19 @@ msgstr ""
 " aprovecharlas?_"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:35
-#: ae4f1703b44548488cd6eb0ba46b8db7
+#: cda14b6013514ccaaf1fff3a07931868
 msgid "Our wishlist:"
 msgstr "Nuestra lista de deseos:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:36
 #: ../about/contributing_to_documentation/docs_presentation.md:50
-#: 3dc48b36f5604f09995f4ccfde44c6c5 28f68259ba7249e6a9e6fbc436281f8e
+#: 94252e633f734c41ba30c9a1faf63562 adbb61c6bd4d4b11a3436cf508e9c8bb
 msgid "Easy to write"
 msgstr "Fácil de escribir"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:37
 #: ../about/contributing_to_documentation/docs_presentation.md:53
-#: 016998ebbbe243a0a0cef3b2bb6160d7 c2c4ba79bd6e4b73845520a93e423609
+#: 1b205fc6bc47444ba30d0ecffa90153f ef2f6e4c864648b5b2192aea499fd8b5
 msgid ""
 "Easy to execute, both when writing pages and when reading them. We should be"
 " able to run the code years from now."
@@ -131,13 +133,13 @@ msgstr ""
 
 #: ../about/contributing_to_documentation/docs_presentation.md:39
 #: ../about/contributing_to_documentation/docs_presentation.md:58
-#: d1f50258bc5d4f8b9ada98cae6084296 a3fababe24e64a099ec913d0124911e2
+#: cb18f3852a364bbe90214b834b6a7093 94f7310eb20c46258ae315d301ffd231
 msgid "Browsable via tags and categories"
 msgstr "Navegable a través de etiquetas y categorías"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:40
 #: ../about/contributing_to_documentation/docs_presentation.md:60
-#: 8bbf48085ad045edab53b043f0aee265 b83d71e67c1345628eff2bccfba8ee0b
+#: 9187674eb11147ffb8edef0926e04022 1bca7829cf394c29aa0729cda2d6898c
 msgid ""
 "Searchable by itself and searchable from the pymc library documentation"
 msgstr ""
@@ -146,31 +148,31 @@ msgstr ""
 
 #: ../about/contributing_to_documentation/docs_presentation.md:41
 #: ../about/contributing_to_documentation/docs_presentation.md:62
-#: 62b6cc22850e45c6ae3f27ed89636cdc 221d6aedd08a4993adb21653c6431026
+#: fc3b443e87a24bd4b0f0797e2807b726 3f62a55eeb1c4ad784ea35a0b131ae73
 msgid "Citable resource"
 msgstr "Recurso citable"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:42
 #: ../about/contributing_to_documentation/docs_presentation.md:64
-#: 1cbfe50f37b642dcba632c09ea330891 3606cbd3b07e475490827bf2745a4f78
+#: 455bbc0e66a74a5b97b67826e1a31d45 ac16892e10404399abf184302789f968
 msgid "Acknowledge the authors (without making it the focus)"
 msgstr "Reconocer a las personas autoras (sin convertirlo en el foco)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:43
 #: ../about/contributing_to_documentation/docs_presentation.md:66
-#: c365aa30a3394eb3a3a4ab21bd1ee40d e768acbb89b0416cb2303a5127bf3b81
+#: 1c253c2375f74a719ed52e12e5c81aea 88b36bac3c424b28886a00e1a8bf2cb1
 msgid "Automatic table of contents"
 msgstr "Índice automático"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:44
 #: ../about/contributing_to_documentation/docs_presentation.md:68
-#: a1b771b0a31d4de6af982e6254f2b393 f20c57094b974c8aa7caa2e38b814967
+#: 876f1ea09d1c4a90ab41b6de6793b421 64e5fb6ebec549b7b1b5a920dcad366a
 msgid "Accessible"
 msgstr "Accesible"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:45
 #: ../about/contributing_to_documentation/docs_presentation.md:70
-#: c2b361e790b64502864f62a0d01fc96c b4893dd73a894fc289d742d801e7b1e4
+#: 31742a7e5fb34c5e89119ff2bd597008 6a17c069eac24817b9f4530836fb116c
 msgid ""
 "DRY: do not repeat yourself. Things shared between several notebooks should "
 "be done once when possible."
@@ -179,22 +181,22 @@ msgstr ""
 "varios notebooks deben hacerse una vez cuando sea posible."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:48
-#: 1186f28ef5ca4998b901e522b160fce9
+#: 1b6fc126138e4c31bc969949cd17da94
 msgid "The implementation: jupyter notebook + sphinx (+ extensions)"
 msgstr "La implementación: jupyter notebook + sphinx (+ extensiones)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:51
-#: 9c0818d6f79b4ad880feae814f7dcbfc
+#: f2e688ae321845a687bfcd6b34761c05
 msgid "Markdown"
 msgstr "Markdown"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:52
-#: 9e8c3cfc7ca54721a7ea6f1191faea6b
+#: 258b835026fe4cd799a876eff6b89871
 msgid "supported via sphinx+myst-parser"
 msgstr "suportado a través de sphinx+myst-parser"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:55
-#: 43c83cbd518b4465a6a45f0553a1f33c
+#: 0e79425a497d452c96118985eaea16ad
 msgid ""
 "Jupyter notebook combined with binder and google colab badges on top of "
 "every page"
@@ -203,14 +205,14 @@ msgstr ""
 "parte superior de cada página"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:56
-#: 76294b97cd494caf9be9560224cf8b07
+#: e4ae46b99d474e108343ae24a75ca007
 msgid "supported via sphinx+myst-nb and a custom html template for the badges"
 msgstr ""
 "soportado a través de sphinx+myst-nb y una plantilla html personalizada para"
 " las insignias"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:57
-#: 690679f3b1064253a7e15e06b13dcc1a
+#: a57f469a16a845afaa1394b683f756ae
 msgid ""
 "the environment used to run them is stored automatically thanks to the "
 "watermark library"
@@ -219,61 +221,65 @@ msgstr ""
 "libreria watermark"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:59
-#: 695ac7c0190c478a8c12698a12612e3e
+#: 03ce75ae60f54cc388afe90f869a8ce0
 msgid "supported via sphinx+ablog"
 msgstr "soportado a traves de sphinx+ablog"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:61
-#: c2c59cb0c4744b59af0b03a034d862c9
+#: c28b2b70f6d443f0b917a7550297f119
 msgid "supported via sphinx+pydata-sphinx-theme+readthedocs"
-msgstr ""
+msgstr "soportado a través de sphinx+pydata-sphinx-theme+readthedocs"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:63
-#: 3f18d0b641d84ceab20ad4e54d187e61
+#: 8dd6b303e12949b2a4d7d338280abc2d
 msgid "supported via zenodo+custom template"
-msgstr ""
+msgstr "soportado a través de zenodo+una plantilla personalizada"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:65
-#: 07f77cd3c8a94036b8d02798374121b9
+#: 4ea98038964f444f92e7e82e6ed97936
 msgid "supported via ablog+custom template"
-msgstr ""
+msgstr "soportado a través de ablog+una plantilla personalizada"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:67
-#: b9a79db06b4046c7b42a01bcb9a38795
+#: 9f46e790791d4e0988f1675d3542684c
 msgid "supported via sphinx+pydata-sphinx-theme"
-msgstr ""
+msgstr "soportado a través de sphinx+pydata-sphinx-theme"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:69
-#: be5d487acba446639d2dd0f46d66d2c8
+#: 3bb569c5d4a4470c8a9728a016257de5
 msgid ""
 "pydata-sphinx-theme is working on the accessibility of the theme and will "
 "continue to do so"
 msgstr ""
+"El equipo de pydata-sphinx-theme está trabajando en la accesibilidad del "
+"tema y seguirá trabajando en ello"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:72
-#: 336c12ba4c134ded8148690a46f14434
+#: 8f610576eeb840a2b5b4a124a6f28e89
 msgid ""
 "Centralized citations thanks to sphinx-bibtex, they are referenced in the "
 "docs with 2 keywords"
 msgstr ""
+"Citaciones centralizadas gracias a sphinx-bibtex, se referencian en la "
+"documentación usando dos palabras clave."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:73
-#: c908a6854ed14cffafe0c2a16a616fdf
+#: 95900ca4e4ea42dabe6e97e0d2c2e18e
 msgid "Badges are automatic"
-msgstr ""
+msgstr "Las medallas son automáticas."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:74
-#: da3a84a2367c49a191aad4eec941c4ed
+#: 1c247b342a864cccb610e38deb6b7d3f
 msgid "Tags and categories are automatic"
-msgstr ""
+msgstr "Las etiquetas y categorías son automáticas."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:75
-#: a6edb7a4e9804a589a2baf3bbc5d7cd0
+#: 4949e3556ec845b287d7ad7bb9e50791
 msgid "Table of contents is automatic"
 msgstr "La tabla de contenidos se genera de forma automática"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:76
-#: 2ceb1cdd9af84b7d9767cea9da60cad0
+#: 4ffdd3407fdd433ca33f87adc541fbb1
 msgid ""
 "The 2 last sections with license info and citation are generated from a "
 "centralized source, with only 2 lines needed per notebook"
@@ -283,7 +289,7 @@ msgstr ""
 "por cuaderno"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:79
-#: c35986004a2d4005a3f8ca06c67241b2
+#: c8d77e1293604cc6a7a0a55817276ca4
 msgid ""
 "To sum up, thanks to the work of several amazing people (both seasoned PyMC "
 "contributors and new members working with us via Outreachy and {abbr}`GSoD "
@@ -291,60 +297,88 @@ msgid ""
 "[PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) and GSoD we have "
 "changed most of our documentation infrastructure in the last 9 months."
 msgstr ""
+"En resumen, gracias al trabajo de varias personas asombrosas (tanto "
+"contribuidores de PyMC con experiencia como nuevos integrantes que trabajan "
+"con nosotros mediante Outreachy y {abbr}`GSoD (Google Season of Docs)`) y a "
+"los fondos que conseguimos durante "
+"[PyMCon](https://discourse.pymc.io/c/pymcon/2020talks/15) y GSoD, cambiamos "
+"la mayoría de nuestra infraestructura de documentación en los últimos 9 "
+"meses."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:84
-#: 853968ac5d0d4250a176c5dc49e90b61
+#: 2c0fd19b2afe497c87f27f4d94db2b16
 msgid "You can see a huge change already:"
-msgstr ""
+msgstr "Desde ya puedes ver un cambio enorme:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:88
 #: ../about/contributing_to_documentation/docs_presentation.md:93
-#: 0871a88f18204e049a1d38e6fa2ff4dc 7f288b8fbb06448699cdf099151d3847
+#: 2abf467e6d374da6ad2631b68ab6a719 6123302407874c0484ece61aa9b021fe
 msgid "background image"
 msgstr "imagen de fondo"
 
+#: ../about/contributing_to_documentation/docs_presentation.md:88
+#: 2abf467e6d374da6ad2631b68ab6a719
+msgid ".. image:: about/contributing_to_documentation/new.png"
+msgstr ".. image:: about/contributing_to_documentation/new.png"
+
+#: ../about/contributing_to_documentation/docs_presentation.md:93
+#: 6123302407874c0484ece61aa9b021fe
+msgid ".. image:: about/contributing_to_documentation/old.png"
+msgstr ".. image:: about/contributing_to_documentation/old.png"
+
 #: ../about/contributing_to_documentation/docs_presentation.md:99
-#: 69942bece7db49e6bbf8dbcd96861812
+#: 04a137de336142babf701d30b082e0c5
 msgid "The problem: too much docs?"
-msgstr ""
+msgstr "El problema: ¿demasiada documentación?"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:100
-#: 92c36e3e1fb74f03bbadfe58a00f5f6a
+#: cee3a0837d314418b74c28620616147b
 msgid ""
 "Our **infrastructure** supports all of the points above, but only a handful "
 "of notebooks have been updated to take advantage of them. So while we "
 "_could_ have all that, we are still far from there!"
 msgstr ""
+"Nuestra **infraestructura** soporta todos los aspectos descritos arriba, "
+"pero solo unos cuantos cuadernos han sido actualizados para aprovecharlos. "
+"Así que, aunque _podríamos_ tener todo eso, aún estamos lejos de lograrlo."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:104
-#: 10b432114027430eaefead37b5ad020c
+#: 424c40a530e040e3a34aab495f0820cc
 msgid "MyST: Markedly Structured Text"
 msgstr ""
+"MyST: Texto Marcadamente Estructurado (del inglés, Markedly Structured Text)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:105
-#: 00f39ab3ed85481f934b41b96b8a5ab6
+#: 45a9c811cb6143a882e161ce2ff5dd72
 msgid ""
 "As we have just said, we have already configured the infrastructure for all "
 "the points above, so you don't need to worry about that. The rest of the "
 "webinar will be a myst quickstart targetted to contributing to pymc-"
 "examples."
 msgstr ""
+"Como lo acabamos de decir, ya configuramos la infraestructura para todos los"
+" aspectos descritos arriba, así que no tienes que preocuparte por eso. El "
+"resto del webinar será una guía para empezar a trabajar con MyST diseñada "
+"para contribuir a los ejemplos de PyMC."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:109
-#: 65d3d238700f45d797b188967398446f
+#: cbc5c0649e8943ddae799af6454cd72c
 msgid "Core markup"
-msgstr ""
+msgstr "Marcado principal"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:110
-#: ce02356f8c9443efbbc2d0fed8c904a1
+#: e33ea24d7b8b4fdfaa32bbf622e26ded
 msgid ""
 "MyST is a superset of ✨✨ **Markdown** ✨✨. Everything you know and love about"
 " markdown is valid MyST markup: italics, code blocks, links, headers, "
 "lists..."
 msgstr ""
+"MyST es un súperconjunto de ✨✨ **Markdown** ✨✨. Todo lo que conoces y te "
+"encanta de Markdown funciona en MyST: cursivas, blosques de código, enlaces,"
+" encabezados, listas..."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:113
-#: 59303bf1201f4d1f996b74b439d4f922
+#: a284f5edb2d1468294adb906ef52b560
 msgid ""
 "However, markdown is too limited for technical writing and for resources "
 "containing many files. MyST fills this gap by bringing to markdown all the "
@@ -353,22 +387,33 @@ msgid ""
 "idioms and by supporting roles and directives (covered in the following "
 "subsections)."
 msgstr ""
+"Sin embargo, Markdown tiene muchas limitaciones para la escritura técnica y "
+"para recursos que contienen muchos archivos. MyST cierra esta brecha "
+"trayendo a Markdown todas las características del texto re-estructurado, un "
+"lenguaje de marcado diseñado para escribir documentación técnica. Esto se "
+"logra extendiendo Markdown con unas cuantas expresiones personalizadas y "
+"soportando roles y directivas (las cuales cubriremos en las siguientes "
+"subsecciones)."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:120
-#: c5a00a7956cd487b835ecf394d3f58c3
+#: 32d4e976648046068ff43ea8ecc85042
 msgid "**Targets**"
-msgstr ""
+msgstr "**Blancos**"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:122
-#: 6cb9cd354bb04bfcbee11e3169ce8306
+#: 9384f7ff4de147789f605d0dc703fb1f
 msgid ""
 "Targets are used to define custom anchors that you can refer to elsewhere in"
 " your documentation using roles. They generally go before section titles, "
 "but they can also point to lists or specific bullet points within a list."
 msgstr ""
+"Los blancos se utilizan para definir anclas personalizadas que pueden "
+"referir a otras partes de la documentación a partir de roles. Generalmente "
+"van antes de los títulos de las secciones, pero también pueden apuntar a "
+"listas o a elementos específicos dentro de una lista."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:127
-#: 1183f4f3ffe74d539bebe7fa704fd18d
+#: 19af4088775848e98c41ddf6050dcc00
 msgid ""
 "Targets are creating with `(target_id)=` right before the section or item we"
 " want them to point to. You can see the equal at the end as an indicator "
@@ -376,146 +421,182 @@ msgid ""
 "referencing the target id becomes the same as referencing a section header "
 "or bullet point."
 msgstr ""
+"Los blancos se crean colocando `(target_id=)` justo antes de la sección o "
+"elemento al que deseamos que apunte. Puedes ver el signo igual al final como"
+" un indicador de que haremos que el identificador de blanco sea equivalente "
+"a lo que viene después. Así pues, referenciar el id del blanco se vuelve lo "
+"mismo que referenciar un encabezado de sección o un elemento de una lista."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:133
-#: 4318a78c0579458ba7c9fb6e5b05a2cc
+#: be4695f975b64da1ad4ce295c7507a3d
 msgid "**Math**"
-msgstr ""
+msgstr "**Matemáticas**"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:135
-#: 707a30d25abb42cbb9c331a2ac6567d6
+#: f42847bd0a844a1580e48b54440d615a
 msgid ""
 "Like Jupyter notebooks, MyST supports using `$` for inline latex math "
 "expressions, and `$$` for block expressions. Moreover, block mathematical "
 "expressions can be given ids in order to reference them elsewhere using "
 "roles. Thus:"
 msgstr ""
+"Al igual que los cuadernos de Jupyter, MyST soporta usar el símbolo `$` para"
+" escribir expresiones matemáticas de LaTeX dentro de un párrafo, y `$$` para"
+" expresiones en bloque independientes. Además, a la expresiones matemáticas "
+"en bloque se les pueden asignar identificadores para referenciarlos en otras"
+" partes usando roles. Así pues:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:145
-#: 61b7726b9721490c8ab3793efb37746c
+#: 8f9028846f7346639ff6dd1fbca15487
 msgid "renders as:"
-msgstr ""
+msgstr "se renderiza así:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:147
-#: 1406b0f3ec2d4cd386dc651659e5dc76
+#: 76697d1c801d4a48a548288003b43393
 msgid ""
 "\n"
 "P(\\theta|y) \\propto P(y|\\theta) P(\\theta)\n"
 msgstr ""
+"\n"
+"P(\\theta|y) \\propto P(y|\\theta) P(\\theta)\n"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:151
-#: fd6e90f41b0a418cb7d2aa962589fb82
+#: a044b7d37f3741dbab35aecee4222dfc
 msgid "and can be referenced."
-msgstr ""
+msgstr "y puede referenciarse."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:153
-#: 38aa33035fd3430fb9ebcd6a272fe3f1
+#: 3abe01aad04c4403b1d8a962e4821718
 msgid "Roles"
-msgstr ""
+msgstr "Roles"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:154
-#: 4ad00bb9117b47ca9deb971a179fd5bf
+#: 7b1695536ebe4cc79457e2869eb2ab1e
 msgid ""
 "Roles provide a way to specify arbitrary **inline** features. Their base "
 "syntax is `` {role-name}`role-content` `` and can be divided in two "
 "subgroups: cross-referencing and formatting roles, with the cross-"
 "referencing use being far more important."
 msgstr ""
+"Los roles son una forma de especificar características **inline** "
+"arbitrarias. Su sintaxis básica es `` {role-name}`role-content` `` y se "
+"puede dividir en dos grupos: roles con referencias cruzadas y roles de "
+"formateo. El uso con referencias cruzadas es por mucho el más importante."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:159
-#: 055027a21c9e4ea7ad41f82a422af869
+#: 8a6d2448a5b747ec9181f04e74a2af4f
 msgid "Cross-referencing roles"
-msgstr ""
+msgstr "Roles para referencias cruzadas"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:160
-#: 295ca2ec9edf4709935a1a8864605859
+#: 5b0adaa82c1944b5ae67ef75dd7514a1
 msgid "Cross-referencing roles can be used in two ways:"
-msgstr ""
+msgstr "Los roles para referencias cruzadas se pueden usar de dos maneras:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:163
-#: 39f45e8c12e74c878b70da3debf5dfdd
+#: a18f2ae0272e4518918d3453b072ee2e
 msgid "`` {role-name}`target` ``"
-msgstr ""
+msgstr "`` {role-name}`target` ``"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:164
-#: c902a1d73e284f1d947456338a93d38e
+#: f1925d3f693a4d23a3bdf38f0fe6294b
 msgid "`` {role-name}`custom text for link <target>` ``"
-msgstr ""
+msgstr "`` {role-name}`texto personalizado para el enlace <target>` ``"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:167
-#: a96fbd8523a34b83aa28b3005966c334
+#: 73b5cd20120b4e5cbd1aca194bee6e42
 msgid ""
 "`ref` and `numref` role is used to link to manually created targets, with "
 "`(id)=`, in figures... `ref` is replaced by the title of what we are linking"
 " to, `numref` (not valid for all objects) is replaced by its count."
 msgstr ""
+"Los roles `ref` y `numref` se usan para enlazar con blancos creados "
+"manualmente, con `(id)=`. En las figuras `ref` es remplazado por el título "
+"de lo que sea que estemos enlazando. Por otra parte, `numref` (que no es "
+"válido para todos los tipos de objeto) se remplaza por su conteo."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:170
-#: 191f13eef6d94aafba568a9fc015630e
+#: 23b513c695254927b202bc377e9e8484
 msgid "`doc` role is used to link using the path to a file"
-msgstr ""
+msgstr "el rol `doc` se usa para enlazar usando la ruta de un archivo"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:171
-#: fb8bc00276a344b4970b2ff01c553e37
+#: c0913245396d4f24aa850a8e288c6098
 msgid ""
 "`term` role is used to link to terms defined in {ref}`our glossary "
 "<pymc:glossary>`."
 msgstr ""
+"el rol `term` se usa para enlazar a términos definidos en {ref}`nuestro "
+"glosario <pymc:glossary>`."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:172
-#: 8e28e2f888df472785d15360bf4d1994
+#: 632f39903a5446c7bc1c7b292bc422ce
 msgid ""
 "python domain references: `mod` (module), `func` (function), `class` or "
 "`meth` (method) are used to link to python objects documented in the "
 "{ref}`pymc:api`."
 msgstr ""
+"Referencias de dominio de Python: `mod` (módulo), `func` (función), `class` "
+"o `meth` (método) se usan para enlazar con los objetos de Python "
+"documentados en la {ref}`pymc:api`."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:174
-#: 4d540028089141bfa421fb660fb707cb
+#: 5bdc424a39674ec28da43db1676bcb83
 msgid ""
 "These can also take a `~` character before the import path to show only the "
 "object, not its import path."
 msgstr ""
+"Estos también pueden recibir un carácter `~` antes de la ruta de importación"
+" para mostrar solo el objeto y no la ruta."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:176
-#: 1713f2928e554e2bbdcb1610e0fb9ef7
+#: 120cd10fa7dc481c94ec0696e73761f0
 msgid ""
 "bibtex citation: `cite:p` and `cite:t` are used to cite the scientific "
 "literature and tell sphinx to keep a log of citations so we can generate the"
 " biblography automatically."
 msgstr ""
+"Citación de bibtex: `cite:p` y `cite:t` se usan para citar publicaciones "
+"científicas y decirle a sphinx que mantenga un registro de citaciones para "
+"poder generar la bibliografía de manera automática."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:178
-#: bdf721403cf84396b67cd697ebe26783
+#: c9a4f1aacb16473aa4b448925fe3a855
 msgid "`eq` for equation targets"
-msgstr ""
+msgstr "`eq` para blancos de ecuaciones"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:180
-#: ec5547b4ca044ac4bbde1ed7967e96f6
+#: 368a6dec5a7b47e5a5e153e50b8e45c9
 msgid "**Examples**"
-msgstr ""
+msgstr "**Ejemplos**"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:182
-#: 3e0e08b7f584416a928f67468d7003aa
+#: 700ec71f927c4911a3940fbff11876bb
 msgid ""
 "`` {ref}`docs/idea` `` is rendered as {ref}`docs/idea` and points to a title"
 msgstr ""
+"`` {ref}`docs/idea` `` se renderiza como {ref}`docs/idea` y apunta a un "
+"título"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:183
-#: ff833be82eb54f78bf7bec8bfb999bd5
+#: 660fec2e0ce942cd8d71ecde1641765d
 msgid ""
 "`` {ref}`the idea <docs/idea>` `` is rendered as {ref}`the idea <docs/idea>`"
 " and points to a title"
 msgstr ""
+"`` {ref}`la idea <docs/idea>` `` se renderiza como {ref}`la idea "
+"<docs/idea>` y apunta a un título"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:184
-#: 7b730e655751449bafb25ca824d4fc29
+#: ec3a22f2c10b4c65b4420c890226f103
 msgid ""
 "`` {eq}`eq:bayes` `` is rendered as {eq}`eq:bayes` and points to an equation"
 msgstr ""
+"`` {eq}`eq:bayes` `` se renderiza como {eq}`eq:bayes` y apunta a una "
+"ecuación"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:185
-#: 34db776d37524950b02354a38a35047b
+#: 7fcd98c5264d439d85c83c7602a3190a
 msgid ""
 "`` {ref}`pymc-examples bullet point <docs/pymc-examples-point>` `` is "
 "rendered as {ref}`pymc-examples bullet point <docs/pymc-examples-point>`, "
@@ -523,120 +604,163 @@ msgid ""
 "link to a bullet point we need to use custom text, sphinx can't use the "
 "title itself as link text."
 msgstr ""
+"`` {ref}`Elemento de lista de ejemplos de PyMC <docs/pymc-examples-point>` "
+"`` se renderiza como {ref}`Elemento de lista de ejemplos de PyMC <docs/pymc-"
+"examples-point>` y apunta a un elemento de una lista por medio de un texto "
+"personalizado para el enlace. Aquí, cuando queremos enlazar a un elemento de"
+" una lista, tenemos que usar un texto personalizado, ya que sphinx no puede "
+"usar el título como tal como un texto con enlace."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:190
-#: e6ba47287668491c94c24d6411c5ae60
+#: 2282f804e4a1478788575392388879db
 msgid ""
 "`` {class}`pymc.Normal` `` is rendered as {class}`pymc.Normal` and points to"
 " the documentation of the Normal class in PyMC"
 msgstr ""
+"`` {class}`pymc.Normal` `` se renderiza como {class}`pymc.Normal` y apunta a"
+" la documentación de la clase Normal en PyMC"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:192
-#: 270a4d2ab1084620ac4e315dd7401fc0
+#: db405035bf764dc892fa72defc957a3e
 msgid ""
 "`` {class}`~pymc.Normal` `` is rendered as {class}`~pymc.Normal` and also "
 "points to the documentation of the Normal class in PyMC, but showing on "
 "`Normal`."
 msgstr ""
+"`` {class}`~pymc.Normal` `` se renderiza como {class}`~pymc.Normal` y "
+"también apunta a la documentación de la clase Normal en PyMC, pero se "
+"muestra en `Normal`."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:194
-#: 669085533cf24ceaae57178920506ebb
+#: 5c18ce106f924cd1a3d0a7deed047cb5
 msgid ""
 "`` {class}`normal distribution <pymc.Normal>` `` is rendered as "
 "{class}`normal distribution <pymc.Normal>` and again, also points to the "
 "documentation of the Normal class in PyMC but showing custom text."
 msgstr ""
+"`` {class}`distribución normal <pymc.Normal>` `` se renderiza como "
+"{class}`distribución normal <pymc.Normal>` y, de nuevo, también apunta a la "
+"documentación de la clase Normal en PyMC, pero mostrando texto "
+"personalizado."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:197
-#: 227e460d2c14490693f4c75a69020d0c
+#: 037c67e16fae4bb08ff6d7c01cb23a97
 msgid ""
 "`` {term}`pymc:posterior` `` is rendered as {term}`pymc:posterior` and "
 "points to the posterior definition in the glossary."
 msgstr ""
+"`` {term}`pymc:posterior` `` se renderiza como {term}`pymc:posterior` y "
+"apunta a la definición de posterior en el glosario."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:201
-#: ccfe25fe9baa4d56844d4fcd986588cd
+#: c64565c08ddd4189a3d306838c6e93ce
 msgid ""
 "We can also use cross references for external links. In such cases, the "
 "target needs to be prepended by the external website id, we do this with our"
 " term cross reference, indicating it should point to the PyMC docs."
 msgstr ""
+"También podemos usar referencias cruzadas con los enlaces externos. En esos "
+"casos, el blanco debe llevar antes el identificador del sitio web externo. "
+"Esto lo hacemos con nuestra referencia cruzada para el término, con la que "
+"indicamos que debería apuntar a la documentación de PyMC."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:205
-#: c38e10d3954141ae8c490df0a0ab93d5
+#: 35d1d5b36ddb4e1a863864e9f3d9743f
 msgid ""
 "If the target doesn't exist in the current website nor it is repeated among "
 "the external websites we have configured we can skip this prefix. We can "
 "therefore skip the prefix safely for links to python objects, and we have, "
 "the import path is already unique."
 msgstr ""
+"Si el blanco no existe en el sitio web actual ni se repite entre los sitios "
+"web externos que hemos configurado, nos podemos saltar este prefijo. Así "
+"pues, nos podemos saltar sin problemas los prefijos para los enlaces a "
+"objetos de python, y veremos que la ruta de importación ya es única."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:210
-#: 6b9b33532e904f178f321502da251f80
+#: e15c5260e7fc4e58b13b8e592765cc14
 msgid "Formatting roles"
-msgstr ""
+msgstr "Roles de formateo"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:212
-#: 35a70aab39ea4127b52b3c05f371d0e0
+#: 553f50d39ba94cc1ab56f5948c7b9412
 msgid ""
 "`abbr` for abbreviations: {abbr}`PPL (Probabilistic Programming Language)`"
 msgstr ""
+"`abbr` para abreviaciones: {abbr}`PPL (lenguaje de programación "
+"probabilístico, del inglés Probabilistic Programming Language)`"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:213
-#: 3a320a8821ab4d79a4f295ca4cfddcca
+#: 430d51d62bf64c33b41979ea6850e67f
 msgid ""
 "`bdg-<style>` for badges: {bdg-warning}`caution`. "
 "[Reference](https://sphinx-design.readthedocs.io/en/furo-"
 "theme/badges_buttons.html#badges) for valid styles."
 msgstr ""
+"`bdg-<style>` para medallas: {bdg-warning}`caution`. "
+"[Referencia](https://sphinx-design.readthedocs.io/en/furo-"
+"theme/badges_buttons.html#badges) para estilos válidos."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:214
-#: 0751d3ffa27647319b97385aebfd6cae
+#: ed00b4777429414faaea45037e5fd3e3
 msgid ""
 "`octicon` for [octicon](https://sphinx-design.readthedocs.io/en/furo-"
 "theme/badges_buttons.html#inline-icons) icons: {octicon}`bookmark`"
 msgstr ""
+"`octicon` para íconos [octicon](https://sphinx-"
+"design.readthedocs.io/en/furo-theme/badges_buttons.html#inline-icons): "
+"{octicon}`bookmark`"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:215
-#: 69426f30388646b0ac45a1002f2ef59b
+#: be9dc9243584438b982f94bb9a46248c
 msgid "`fas`, `fab` and `far` for Font Awesome icons: {fas}`dragon`"
-msgstr ""
+msgstr "`fas`, `fab` y `far` para íconos de Font Awesome: {fas}`dragon`"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:217
-#: c25b8e8a39b64a8abb78e9887dc7e2a9
+#: 7813cf2e8c3c454cac36096654f7f047
 msgid "Directives"
-msgstr ""
+msgstr "Directivas"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:218
-#: ea48ee9f2fb24a9789d7a988e64a6276
+#: e26fede3fc054453a5547e0e7bb21e93
 msgid ""
 "Directives provide a way to specify arbitrary **block/paragraph** features. "
 "They are much more diverse and flexible than roles. Their base syntax is:"
 msgstr ""
+"Las directivas son una manera de especificar características arbitrarias de "
+"**bloque/párrafo**. Son mucho más diversas y flexibles que los roles. Su "
+"sintaxis básica es:"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:230
-#: d7df4e2997fc4bff923290d7469ada93
+#: 44bca2ad648e49cfb47f9b2d8b2911a6
 msgid ""
 "Out of the 4 blocks (name, argument, keyword arguments and content), only "
 "the name is always required. Each directive has its own rules and required "
 "(or even forbidden sometimes) blocks."
 msgstr ""
+"De los 4 bloques (nombre, argumento, argumentos de palabra clave y "
+"contenido), solo se requiere el nombre siempre. Cada directiva tiene sus "
+"propias reglas y bloques requeridos (o incluso prohibidos en algunas "
+"ocasiones)."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:234
-#: c78a0185945540cea8cfe9e9a5eccf94
+#: aad1881d8c524c4ca07327a78a9c3b0f
 msgid "Figure"
-msgstr ""
+msgstr "Figuras"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:235
-#: 05b2133387694401891c0a1aa822e458
+#: c826585c18ac4b078688417fa59135dc
 msgid ""
 "MyST provides a `figure-md` directive where we can add images with an id and"
 " a caption that gets rendered both in pure markdown (unrendered notebook) "
 "and in the website (where it looks nicer)."
 msgstr ""
+"MyST proporciona una directiva `figure-md` donde podemos añadir imágenes con"
+" un identificador y una leyenda que se renderiza tanto en markdown puro "
+"(cuaderno no renderizado) y en el sitio web (donde luce mejor)."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:250
-#: 09cc721016684d218f1fb6e0f46213c1
+#: 3281877f39804a23ae849bfcdb87fe37
 msgid ""
 "The image shows two venn diagrams. The left side describes the imposter "
 "syndrome.There is a big yellow circle labeled\"what I think others know\", "
@@ -647,16 +771,32 @@ msgid ""
 "circle represents what someone else knows, with no circle being smaller "
 "thanthe other."
 msgstr ""
+"La imagen muestra dos diagramas de venn. El lado izquierdo describe el "
+"síndrome de impostor. Hay un círculo amarillo grande etiquetado como \"lo "
+"que pienso que otros saben\", dentro tiene un círculo pequeño azul "
+"etiquetado como \"lo que sé\". El lado derecho describe la realidad. El "
+"círculo azul se mantiene igualm pero aora está rodeado por muchos círculos "
+"amarillso del mismo tamaño que, cuando se combinan, cubren la misma área que"
+" el círculo amarillo grande en el diagrama anterior. Ahora, cada círculo "
+"amarillo representa lo que alguien más sabe, sin que ningún círculo sea más "
+"pequeño que los demás."
+
+#: ../about/contributing_to_documentation/docs_presentation.md:250
+#: 3281877f39804a23ae849bfcdb87fe37
+msgid ".. image:: about/contributing_to_documentation/imposter.jpg"
+msgstr ".. image:: about/contributing_to_documentation/imposter.jpg"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:259
-#: 09bae5803df04d769337482ae42d4057
+#: 4344bb3f80db4db786013c1540ae0fa6
 msgid ""
 "[Image by David "
 "Whittaker](https://twitter.com/rundavidrun/status/587671657193455616)"
 msgstr ""
+"[Image de David "
+"Whittaker](https://twitter.com/rundavidrun/status/587671657193455616)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:262
-#: d3685740075342098f40803fa3e17911
+#: b7b73fcfd9cb49bf9086171137187cc6
 msgid ""
 "We really like the image in {numref}`imposter` and decided to use it here "
 "because we think that pymc-examples is a crystallization of this image. "
@@ -665,56 +805,76 @@ msgid ""
 "contributors and progressively ended up covering more and more, just like "
 "the yellow circles in the right diagram."
 msgstr ""
+"Nos gusta mucho la imagen en {numref}`imposter` y decidimos usarla aquí "
+"porque creemos que los ejemplos de PyMC están representados por esta imagen."
+" Nadie en el equipo de PyMC sabe todo lo que se cubre en los ejemplos; la "
+"colección de ejemplos fue construida por los desarrolladores, usuarios "
+"expertos y los primeros contribuidores, y progresivamente empezó a cubrir "
+"más y más, justo como los círculos amarillos en el diagrama derecho."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:268
-#: 37f8c91a158a4af9a3c814030ac74f42
+#: d02d166405164831979f913cd7300d29
 msgid ""
 "It is also a wink to [Melissa's talk about "
 "sphinx](https://www.youtube.com/watch?v=tXWscUSYdBs) which you should look "
 "if you are interested in setting sphinx up for your project."
 msgstr ""
+"También es un guiño a la [charla de Melissa sobre "
+"sphinx](https://www.youtube.com/watch?v=tXWscUSYdBs), al que deberías "
+"echarle un vistazo si te interesa configurar sphinx para tu proyecto."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:271
-#: 7d638ba1fdf54709b8e23dde90c56ece
+#: 7df73ca3ae8b4fecb01207bd8c62468e
 msgid "Admonitions"
-msgstr ""
+msgstr "Advertencias"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:272
-#: 517e42beda8143cb947525cdc2916dc6
+#: 02c9650880d24520bfac77e6f30dd3ef
 msgid ""
 "Admonitions provide a way to highlight a block of content with special "
 "relevance. You can use it for warnings, tips or notes. The complete list of "
 "admonition styles are available at the [jupyterbook "
 "website](https://jupyterbook.org/reference/cheatsheet.html#admonitions)"
 msgstr ""
+"Las advertencias son una forma de resaltar un bloque de contenido de "
+"especial relevancia. Puedes usarlas para advertencias, consejos o notas. La "
+"lista completa de estilos de avertencia está disponible en el [sitio web de "
+"jupyterbook](https://jupyterbook.org/reference/cheatsheet.html#admonitions)"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:283
-#: 1d7b36aa9e304ab6984739642595fcc3
+#: 8899311b960349da9e41a1c4196cb7fe
 msgid ""
 "Use admonitions for content you don't want readers to miss, even if skimming"
 " only, chances are they will stop at the admonition blocks."
 msgstr ""
+"Usa advertencias para el contenido que no quieres que tus lectores se "
+"pierdan; incluso si solo están ojeando, es probable que se detengan en los "
+"bloques de advertencia."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:287
-#: bedb87f8e61e4d1ba98f4289dfbeb211
+#: a08740c857e54448a15b3f0221bf8611
 msgid "And more!"
-msgstr ""
+msgstr "¡Y mucho más!"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:288
-#: 40522be87eab46ceaf5dc729f78bc1aa
+#: 9b1f806b5e2a460180e108e321a16635
 msgid ""
 "There are still more directives, most of which you don't need to contribute "
 "to pymc examples. In the next section we'll go over our \"jupyter style "
 "guide\" and cover 3 more directives that are important for pymc-examples."
 msgstr ""
+"Hay incluso más directivas, la mayoría de las cuales no necesitas para "
+"contribuir a los ejemplos de PyMC. En la siguiente sección vamos a ver "
+"nuestra \"guía de estilo de Jupyter\" y cubriremos 3 directivas más que "
+"serán importantes para contribuir a los ejemplos de PyMC."
 
 #: ../about/contributing_to_documentation/docs_presentation.md:292
-#: 697408a81d2d4faca78d8d16c2f4b905
+#: 503a3be352374084830f37474601c2d6
 msgid "Our conventions"
 msgstr "Nuestras convenciones"
 
 #: ../about/contributing_to_documentation/docs_presentation.md:293
-#: 7efdab67b71d424bbaf256d854cbe0cd
+#: 8bc0feda2f0d4639822ebcffb0702ba4
 msgid ""
 "To try and ensure some common style and formatting among all the examples "
 "even though it is a collaborative effort with many people contributing, we "

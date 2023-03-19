@@ -1,19 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021, Sprint contributors
+# Copyright (C) 2021-2023, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Cristián Maureira-Fredes, 2023
+# Anavelyz Perez, 2023
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 14:37+0000\n"
+"POT-Creation-Date: 2023-03-14 15:55+0000\n"
 "PO-Revision-Date: 2022-12-08 19:34+0000\n"
-"Last-Translator: Cristián Maureira-Fredes, 2023\n"
+"Last-Translator: Anavelyz Perez, 2023\n"
 "Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,22 +23,27 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:1
-#: 9f51e80191cc4843b0d0e2bc787a0185
+#: de7c011faab444298711871aaa80b3cb
 msgid "Data Umbrella Sponsors"
 msgstr "Patrocinantes de Data Umbrella"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: 6d774e6fe4a843748ad1dcb97e7ee363
+#: 58be719dd1d14365ac8bfc9ac54e5c61
 msgid "![Google](../../_static/sponsors/google_color.png)"
 msgstr "![Google](../../_static/sponsors/google_color.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:9
-#: ba18ee0ce8bc4d71a9fb8a4eaa800e4f
+#: a96751baa8654397b51bfb8c3693ec9d
 msgid "Google"
 msgstr "Google"
 
+#: ../2022-07_sprint/sprint_parties/sponsors.md:9
+#: a96751baa8654397b51bfb8c3693ec9d
+msgid ".. image:: _static/sponsors/google_color.png"
+msgstr ".. image:: _static/sponsors/google_color.png"
+
 #: ../2022-07_sprint/sprint_parties/sponsors.md:11
-#: 6e5772475300452a992e70acee62a7cf
+#: 969125eaef5e45fdad780670cf737835
 msgid ""
 "We bring all the value of open source to Google and all the resources of "
 "Google to open source."
@@ -46,17 +52,22 @@ msgstr ""
 "Google al código abierto."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: c75b9ef63a9c4481b79dd7cac354fe57
+#: 3dda6002d171415385e7903ab37f31fc
 msgid "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
 msgstr "![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:18
-#: 6a4acf05996c4da5893a7912d67ad788
+#: 7f99f9073f3a4b9c83b2fc0634715f01
 msgid "PyMC Labs"
 msgstr "PyMC Labs"
 
+#: ../2022-07_sprint/sprint_parties/sponsors.md:18
+#: 7f99f9073f3a4b9c83b2fc0634715f01
+msgid ".. image:: _static/sponsors/4-pymc-labs-transp-black.png"
+msgstr ".. image:: _static/sponsors/4-pymc-labs-transp-black.png"
+
 #: ../2022-07_sprint/sprint_parties/sponsors.md:20
-#: 06e6c8f17d7c4a519d20465cea63e418
+#: 64a38aa61580467f87a9efc489d0752e
 msgid ""
 "The Bayesian Consultancy. We bring Bayesian methods into wide practice."
 msgstr ""
@@ -64,17 +75,22 @@ msgstr ""
 "práctica."
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: f6381dcb12df4abfadd54118b1196f7c
+#: e963212468144980af776dd6dc22d96f
 msgid "![CZI](../../_static/sponsors/czi-logo.jpg)"
 msgstr "![CZI](../../_static/sponsors/czi-logo.jpg)"
 
 #: ../2022-07_sprint/sprint_parties/sponsors.md:27
-#: 3bd7c6b2b4c34140a0eeb1c7f2aede4a
+#: dc33a19212f540e38a36991fd778f3aa
 msgid "CZI"
 msgstr "CZI"
 
+#: ../2022-07_sprint/sprint_parties/sponsors.md:27
+#: dc33a19212f540e38a36991fd778f3aa
+msgid ".. image:: _static/sponsors/czi-logo.jpg"
+msgstr ".. image:: _static/sponsors/czi-logo.jpg"
+
 #: ../2022-07_sprint/sprint_parties/sponsors.md:29
-#: 7584070b22ad4599b51551f9533ac2fe
+#: fbc36b4d950543aeb83a074955e5a93e
 msgid ""
 "We help solve some of society’s toughest challenges — from eradicating "
 "disease and improving education, to addressing the needs of our local "
