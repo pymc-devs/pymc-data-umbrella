@@ -56,7 +56,6 @@ Social Media Kit {material-regular}`share;3em`
 
 **Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking regions.
 :::
-:::
 :::{grid-item-card}
 :link: https://www.meetup.com/pydatanyc/
 :shadow: none
