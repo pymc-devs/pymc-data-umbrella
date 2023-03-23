@@ -10,7 +10,8 @@ The PyMC project has a lot of different repositories for different uses:
 - PyMC code: https://github.com/pymc-devs/pymc/
 - PyMC examples: https://github.com/pymc-devs/pymc-examples
 - PyMC documentation: https://github.com/pymc-devs/pymc/tree/main/docs/source
-- PyMC Blog: https://github.com/pymc-devs/pymc.io/issues
+- PyMC blog: https://github.com/pymc-devs/pymc.io/issues
+- More... see the full list here: https://github.com/pymc-devs
 
 ## List of Issues
 
@@ -20,7 +21,7 @@ Note: Many issues have multiple parts, so the list is longer than it initially a
 
 Please comment on the issue if you wish to work on an specific issue.
 
-Reminder, please include these in your PRs:
+Reminder, please include this information in your PRs:
 - `#DataUmbrellaPyMCsprint`
 - @ mention your pair programming partner
 
