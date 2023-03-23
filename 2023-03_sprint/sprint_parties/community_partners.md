@@ -56,4 +56,13 @@ Social Media Kit {material-regular}`share;3em`
 
 **Metadocencia:** Co-Creating and Teaching Open Science in Spanish-speaking regions.
 :::
+:::{grid-item-card}
+:link: https://www.meetup.com/pydatanyc/
+:shadow: none
+:class-card: border-0
+
+![PyData NYC](../../_static/community_partners/nyc-pydata-logo.png)
+
+**PyData NYC:** Provides a forum for the community of users and developers of data analysis tools to share ideas and learn from each other.
+:::
 ::::
