@@ -3,6 +3,7 @@
 :::{toctree}
 :maxdepth: 2
 
+du_pymc
 organizers
 community_partners
 sponsors
