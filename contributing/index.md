@@ -5,6 +5,7 @@
 :maxdepth: 1
 :hidden:
 
+issues_list
 self
 videos
 ../about/contributing_to_pymc/index
