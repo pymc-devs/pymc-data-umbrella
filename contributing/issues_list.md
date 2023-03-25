@@ -28,5 +28,6 @@ Reminder, please include this information in your PRs:
 ## Environment Set-up
 
 1. You can set up your {ref}`working environment locally <environment_setup>` (on your computer)
-1. You can use {ref}`Gitpod <using_gitpod>` (a browser based option)
-    >NOTE: Gitpod is currently only available for the [pymc-devs/pymc/](https://github.com/pymc-devs/pymc/) repository
+1. You can use {ref}`Gitpod <pymc:using_gitpod>` (a browser based option)
+    :::{note} Gitpod is currently only available for the [pymc-devs/pymc/](https://github.com/pymc-devs/pymc/) repository
+    :::
