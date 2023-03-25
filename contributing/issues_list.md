@@ -27,6 +27,6 @@ Reminder, please include this information in your PRs:
 
 ## Environment Set-up
 
-1. You can set up your [working environment locally](https://pymc-data-umbrella.xyz/en/latest/sprint/tutorials/environment_setup.html) (on your computer).
-1. You can use [Gitpod](https://www.pymc.io/projects/docs/en/latest/contributing/using_gitpod.html) (a browser based option).
+1. You can set up your {ref}`working environment locally <environment_setup>` (on your computer)
+1. You can use {ref}`Gitpod <using_gitpod>` (a browser based option)
     >NOTE: Gitpod is currently only available for the [pymc-devs/pymc/](https://github.com/pymc-devs/pymc/) repository
