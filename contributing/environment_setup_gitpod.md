@@ -20,7 +20,3 @@ Reshama Shaikh is a contributor to the PyMC project.
 :::{youtube} jsjOmhUaKuU
 :::
 
-:::{toctree}
-:hidden:
-
-:::
