@@ -1,5 +1,5 @@
-(environment_setup_local)=
-# Contributing to PyMC using local environment setup
+(environment_setup)=
+# Environment setup
 
 ## Pre-requisites
 
@@ -197,7 +197,7 @@ pre-commit installed at .git/hooks/pre-commit
 
 Your system is now ready! You are ready to do your first PR.
 
-Go and choose an issue to work on at {ref}`issues_list`!
+Go and choose an issue to work on at `TODO: add link`!
 
 :::{div} sd-text-center sd-fs-1
 {fas}`star;sd-fs-1 sd-text-warning`

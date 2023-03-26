@@ -9,6 +9,7 @@ issues_list
 self
 videos
 environment_setup_local
+prep-work_copy
 environment_setup_gitpod
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
