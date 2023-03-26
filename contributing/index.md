@@ -8,7 +8,7 @@
 issues_list
 self
 videos
-prep-work_copy
+prep-work
 environment_setup_gitpod
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
