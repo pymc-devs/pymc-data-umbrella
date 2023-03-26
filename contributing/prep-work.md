@@ -1,4 +1,4 @@
-# Contributing to PyMC using local environment setup
+# Contributing to PyMC using local environment
 
 :::{toctree}
 :maxdepth: 1
