@@ -1,4 +1,4 @@
-# Event preparation
+# Contributing to PyMC using local environment setup
 
 :::{toctree}
 :maxdepth: 1
