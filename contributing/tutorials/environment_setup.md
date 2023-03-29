@@ -1,5 +1,5 @@
 (environment_setup)=
-# Environment setup
+# Local environment setup 
 
 ## Pre-requisites
 

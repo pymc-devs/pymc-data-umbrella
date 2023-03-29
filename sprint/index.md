@@ -7,7 +7,7 @@
 self
 sprint-guide
 sprint-cheatsheet
-prep-work
+prep-work-archive
 faq
 resources
 :::

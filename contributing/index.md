@@ -8,10 +8,12 @@
 issues_list
 self
 videos
+prep-work
+environment_setup_gitpod
 ../about/contributing_to_pymc/index
 ../about/contributing_to_documentation/index
-donate
 language-translations
+donate
 :::
 
 ## Help us improve this website
