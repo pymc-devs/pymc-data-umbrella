@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:2
+#: 308a83fa1dd146b79feb751c3ec9f31e
+msgid "Data Umbrella & PyMC"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:4
+#: 6a4268f535ae44cf8799b85f1172509b
+msgid "Data Umbrella"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:5
+#: fc8cbadd138a429da051040f706d01fb
+msgid ""
+"[Data Umbrella](https://www.dataumbrella.org/) is a global community for "
+"underrepresented persons in data science. It is a fiscally hosted project of"
+" Open Collective, a registered 501(c)(3) non-profit based in California, "
+"USA. Data Umbrella: organizes online speaker series on data science and open"
+" source, organizes sprints / hackathons, curates resources on inclusive "
+"practices. All levels are welcome, beginners and experts."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:7
+#: a055f5d2c4e74e4f8785328eace58dac
+msgid ""
+"[Data Umbrella on Open Collective](https://opencollective.com/data-umbrella)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:9
+#: daee7dd299ba450886728ba5eaee0330
+msgid "PyMC"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:10
+#: 4114c72e0fef4fdeb17d24d62ac8e52d
+msgid ""
+"[PyMC](https://www.pymc.io) is a probabilistic programming package for "
+"Python that allows users to fit Bayesian models using a variety of numerical"
+" methods, most notably Markov chain Monte Carlo (MCMC) and variational "
+"inference (VI). Its flexibility and extensibility make it applicable to a "
+"large suite of problems. PyMC is a non-profit project under NumFOCUS."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/du_pymc.md:12
+#: 9cd7d79f46f84bc98dce463112f3eb8b
+msgid "[PyMC on Open Collective](https://opencollective.com/pymc)"
+msgstr ""

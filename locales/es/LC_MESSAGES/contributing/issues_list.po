@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/issues_list.md:2 084c179790a24a67aa7477e5d1722152
+msgid "Issues to Work On"
+msgstr ""
+
+#: ../contributing/issues_list.md:4 54ffb3756396403caeb17c9e3be3ef52
+msgid "Repositories"
+msgstr ""
+
+#: ../contributing/issues_list.md:6 35ca96c82b1946738a5d860a69d9bae7
+msgid ""
+"The PyMC project has a lot of different repositories for different uses:"
+msgstr ""
+
+#: ../contributing/issues_list.md:7 bd3203f954de4c17989ac8d81fbcd6e0
+msgid ""
+"PyMC videos (add descriptions & timestamps): https://github.com/pymc-"
+"devs/video-timestamps"
+msgstr ""
+
+#: ../contributing/issues_list.md:8 2de7b0933c5c4c298422344fded83188
+msgid ""
+"Data Umbrella/PyMC working sessions website: https://github.com/pymc-"
+"devs/pymc-data-umbrella"
+msgstr ""
+
+#: ../contributing/issues_list.md:9 31ecafd70507428f95f1a876b4eb36d8
+msgid "PyMC branding: https://github.com/pymc-devs/brand/"
+msgstr ""
+
+#: ../contributing/issues_list.md:10 ff56223505354e2baa3e72a6bdcad005
+msgid "PyMC code: https://github.com/pymc-devs/pymc/"
+msgstr ""
+
+#: ../contributing/issues_list.md:11 2bb729ad420e4afca7d215a6063f4b1e
+msgid "PyMC examples: https://github.com/pymc-devs/pymc-examples"
+msgstr ""
+
+#: ../contributing/issues_list.md:12 389caaa131e74f15a8370d1058c6541e
+msgid ""
+"PyMC documentation: https://github.com/pymc-devs/pymc/tree/main/docs/source"
+msgstr ""
+
+#: ../contributing/issues_list.md:13 7f8bd0be389e4295b54a3930d5a369ac
+msgid "PyMC blog: https://github.com/pymc-devs/pymc.io/issues"
+msgstr ""
+
+#: ../contributing/issues_list.md:14 56335ed1c9ee4f1384ebb4fef98ac9ec
+msgid "More... see the full list here: https://github.com/pymc-devs"
+msgstr ""
+
+#: ../contributing/issues_list.md:16 7b9328e79d86479db913e5872eedd934
+msgid "List of Issues"
+msgstr ""
+
+#: ../contributing/issues_list.md:18 85e6c7a070e9471e92fcff6ea387d96c
+msgid ""
+"We have a [**List of "
+"Issues**](https://hackmd.io/bptOCow6Ql6o2K9Brq5lkw?both) that new and "
+"returning contributors can work on."
+msgstr ""
+
+#: ../contributing/issues_list.md:20 14cb6334ad0d4cc7b7fe42ad269227ed
+msgid ""
+"Note: Many issues have multiple parts, so the list is longer than it "
+"initially appears."
+msgstr ""
+
+#: ../contributing/issues_list.md:22 9a83afc8c86e4e189870cf016a462e60
+msgid "Please comment on the issue if you wish to work on an specific issue."
+msgstr ""
+
+#: ../contributing/issues_list.md:24 4ae61b4765924db78b96691a8aaf59a2
+msgid "Reminder, please include this information in your PRs:"
+msgstr ""
+
+#: ../contributing/issues_list.md:25 4ee844854b164e559eb16aea4b0dcae8
+msgid "`#DataUmbrellaPyMCsprint`"
+msgstr ""
+
+#: ../contributing/issues_list.md:26 62c350cbbb1c4fcea94d518528ca6d80
+msgid "@ mention your pair programming partner"
+msgstr ""
+
+#: ../contributing/issues_list.md:28 7622f0210ca84e92b14cc1833d781f52
+msgid "Environment Set-up"
+msgstr ""
+
+#: ../contributing/issues_list.md:30 674aa9e6a9d34233a85f92d2b4b48416
+msgid ""
+"You can set up your {ref}`working environment locally <environment_setup>` "
+"(on your computer)"
+msgstr ""
+
+#: ../contributing/issues_list.md:31 d8f301c7361a4301920ec00b9fa56540
+msgid "You can use {ref}`Gitpod <pymc:using_gitpod>` (a browser based option)"
+msgstr ""
+
+#: ../contributing/issues_list.md:33 7bba095df79b43d4820fc3128b794b04
+msgid ""
+"Gitpod is currently only available for the [pymc-"
+"devs/pymc/](https://github.com/pymc-devs/pymc/) repository"
+msgstr ""

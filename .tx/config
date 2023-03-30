@@ -78,47 +78,12 @@ type          = PO
 minimum_perc  = 0
 resource_name = sprint/resources
 
-[o:pymc:p:data-umbrella-sprints-website:r:sprint_prep-work]
-file_filter   = locales/<lang>/LC_MESSAGES/sprint/prep-work.po
-source_file   = gettext/sprint/prep-work.pot
-type          = PO
-minimum_perc  = 0
-resource_name = sprint/prep-work
-
 [o:pymc:p:data-umbrella-sprints-website:r:sprint_sprint-cheatsheet]
 file_filter   = locales/<lang>/LC_MESSAGES/sprint/sprint-cheatsheet.po
 source_file   = gettext/sprint/sprint-cheatsheet.pot
 type          = PO
 minimum_perc  = 0
 resource_name = sprint/sprint-cheatsheet
-
-[o:pymc:p:data-umbrella-sprints-website:r:sprint_tutorials_sample_docstring]
-file_filter   = locales/<lang>/LC_MESSAGES/sprint/tutorials/sample_docstring.po
-source_file   = gettext/sprint/tutorials/sample_docstring.pot
-type          = PO
-minimum_perc  = 0
-resource_name = sprint/tutorials/sample_docstring
-
-[o:pymc:p:data-umbrella-sprints-website:r:sprint_tutorials_environment_setup]
-file_filter   = locales/<lang>/LC_MESSAGES/sprint/tutorials/environment_setup.po
-source_file   = gettext/sprint/tutorials/environment_setup.pot
-type          = PO
-minimum_perc  = 0
-resource_name = sprint/tutorials/environment_setup
-
-[o:pymc:p:data-umbrella-sprints-website:r:sprint_tutorials_pr_tutorial]
-file_filter   = locales/<lang>/LC_MESSAGES/sprint/tutorials/pr_tutorial.po
-source_file   = gettext/sprint/tutorials/pr_tutorial.pot
-type          = PO
-minimum_perc  = 0
-resource_name = sprint/tutorials/pr_tutorial
-
-[o:pymc:p:data-umbrella-sprints-website:r:sprint_tutorials_docstring_tutorial]
-file_filter   = locales/<lang>/LC_MESSAGES/sprint/tutorials/docstring_tutorial.po
-source_file   = gettext/sprint/tutorials/docstring_tutorial.pot
-type          = PO
-minimum_perc  = 0
-resource_name = sprint/tutorials/docstring_tutorial
 
 [o:pymc:p:data-umbrella-sprints-website:r:2022-07_sprint_schedule]
 file_filter   = locales/<lang>/LC_MESSAGES/2022-07_sprint/schedule.po
@@ -322,3 +287,80 @@ source_file   = gettext/2023-03_sprint/sprint_parties/sponsors.pot
 type          = PO
 minimum_perc  = 0
 resource_name = 2023-03_sprint/sprint_parties/sponsors
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_du_pymc]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/du_pymc.po
+source_file   = gettext/2023-03_sprint/sprint_parties/du_pymc.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/du_pymc
+
+[o:pymc:p:data-umbrella-sprints-website:r:2023-03_sprint_sprint_parties_translators]
+file_filter   = locales/<lang>/LC_MESSAGES/2023-03_sprint/sprint_parties/translators.po
+source_file   = gettext/2023-03_sprint/sprint_parties/translators.pot
+type          = PO
+minimum_perc  = 0
+resource_name = 2023-03_sprint/sprint_parties/translators
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_environment_setup_gitpod]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/environment_setup_gitpod.po
+source_file   = gettext/contributing/environment_setup_gitpod.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/environment_setup_gitpod
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_issues_list]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/issues_list.po
+source_file   = gettext/contributing/issues_list.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/issues_list
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_prep-work]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/prep-work.po
+source_file   = gettext/contributing/prep-work.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/prep-work
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_tutorials_sample_docstring]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/tutorials/sample_docstring.po
+source_file   = gettext/contributing/tutorials/sample_docstring.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/tutorials/sample_docstring
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_tutorials_environment_setup]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/tutorials/environment_setup.po
+source_file   = gettext/contributing/tutorials/environment_setup.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/tutorials/environment_setup
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_tutorials_pr_tutorial]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/tutorials/pr_tutorial.po
+source_file   = gettext/contributing/tutorials/pr_tutorial.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/tutorials/pr_tutorial
+
+[o:pymc:p:data-umbrella-sprints-website:r:contributing_tutorials_docstring_tutorial]
+file_filter   = locales/<lang>/LC_MESSAGES/contributing/tutorials/docstring_tutorial.po
+source_file   = gettext/contributing/tutorials/docstring_tutorial.pot
+type          = PO
+minimum_perc  = 0
+resource_name = contributing/tutorials/docstring_tutorial
+
+[o:pymc:p:data-umbrella-sprints-website:r:sprint_prep-work-archive]
+file_filter   = locales/<lang>/LC_MESSAGES/sprint/prep-work-archive.po
+source_file   = gettext/sprint/prep-work-archive.pot
+type          = PO
+minimum_perc  = 0
+resource_name = sprint/prep-work-archive
+
+[o:pymc:p:data-umbrella-sprints-website:r:about_probabilistic_programming_with_pymc_transcript]
+file_filter   = locales/<lang>/LC_MESSAGES/about/probabilistic_programming_with_pymc/transcript.po
+source_file   = gettext/about/probabilistic_programming_with_pymc/transcript.pot
+type          = PO
+minimum_perc  = 0
+resource_name = about/probabilistic_programming_with_pymc/transcript

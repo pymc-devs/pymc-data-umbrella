@@ -1,0 +1,303 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Portuguese (https://www.transifex.com/pymc/teams/158248/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/tutorials/pr_tutorial.md:2 9832964e072d4fea823d5de148760434
+msgid "Creating a Pull Request"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:4 1f497dbc76f14faa984bdec56637ae53
+msgid "In this guide we will be creating a pull request for the PyMC project."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:7 944ef5ed7e734a52b1f2d238d2334a69
+msgid ""
+"To follow this tutorial you will need to have your environment set up "
+"**and** have an idea of the changes you are planning to do."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:10
+#: cae86f00e55149a08d28c705c4eb1ccc
+msgid ""
+"To set up your environment you can follow the {ref}`environment_setup` "
+"tutorial."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:11
+#: e79244612fc7403db25d189b8c730151
+msgid ""
+"If you haven't yet chosen an issue to work on, we recommend following the "
+"{ref}`docstring_tutorial` tutorial."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:14
+#: 0a45dd3f53834393bd221547c834fe0d
+msgid "Create a feature branch"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:19
+#: dfe8df5fe32c41c7acbfc3be23776357
+msgid "and check git indicates you the branch change was successful:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:25
+#: 765caf5445cf49feadfeb31e3acf654f
+msgid ""
+"Keep your branch names informative, use one branch per PR and **never** work"
+" on `main`."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:29
+#: ../contributing/tutorials/pr_tutorial.md:180
+#: a26b96ef43fe4bbcbf35264db30a75d0 e91de1baeeab4f3381a8b952f077423d
+msgid "Getting ready for the 2nd PR?"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:32
+#: ../contributing/tutorials/pr_tutorial.md:183
+#: 46d0e9f474ad476ca132f1116d8fc3c2 b0f7141dcb4b498fbd9cd24da12507d6
+msgid ""
+"If you haven't changed to a different branch, you'll still be in the "
+"`docstring_update` one, but you don't want to work there! Remember, one "
+"branch per PR."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:35
+#: ../contributing/tutorials/pr_tutorial.md:186
+#: 6976edfb969f4ac98bbed48e6820c2b4 805c560f199e41648d7322c378030557
+msgid ""
+"_Before_ starting to work on the new changes, move back to main, update your"
+" local copy and then create the new branch."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:46
+#: 9462452e05b7452eaf4f035ad732beef
+msgid "Commit the changes to git"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:48
+#: f1e05beab7eb4ae18235fe40f8c29409
+msgid ""
+"Add the changes to your local copy and give a name to the changes. Keep the "
+"name short yet informative, for example:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:54
+#: f47329c7aff642d5a582b6c9367e4e2b
+msgid ""
+"pre-commit will check and fix common formatting issues, and before doing "
+"this it needs to set up. So this can take a bit."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:57
+#: c222aa501ebd4afb8d3ae3d80d3d4519
+msgid "If all the checks pass, the end of the printed output will look like:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:66
+#: b86cce5524b6458ba0b683b328031af3
+msgid "If some checks fail, there are two options:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:68
+#: 7da04fef4bce4d7790e8d6117b947730
+msgid "pre-commit is able to fix the file"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:77
+#: bedf57b2022e44b28b30297cc6ed29d9
+msgid ""
+"If this is the case for all fails, you only need to run the same command "
+"again, and now checks will pass:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:83
+#: 5ad10e1472cf47eebb17a7230f665fa7
+msgid "pre-commit is not able to fix the file"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:92
+#: 07c75763671c4d829ecb7699ff8929ba
+msgid ""
+"If some fail has this message then it needs manual input. Ask on Discourse "
+"sharing this piece copied from your terminal. It needs to include the check "
+"name and all fail messages."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:96
+#: 5de8be85f5cd4cfe982e69d464573b40
+msgid "Upload (push) the changes to GitHub"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:98
+#: 0b6f452385ba4e318f72b2ca35056b09
+msgid "Then push the changes to your GitHub account with:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:103
+#: b8bc133b6d2841768e527df3ade19826
+msgid "The output will look like:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:121
+#: 64940446f6804021a75923b8fd47c6fb
+msgid "Create a Pull Request"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:122
+#: 3ac932db11814c649b9f3bcb7c3db31a
+msgid ""
+"You will have noticed that the message already indicates how to open a PR "
+"and even provides a link. Click on the link (you might need to use right "
+"click plus \"Open link\") and take a look at the page shown in your browser"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:126
+#: a5a7e5863d1c49bba06a51ff9a1a941a
+msgid "Your screen at this point will be similar to:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:128
+#: 1561197260fd410a9b8afc9ca74b497a
+msgid "![pr_screen](../images/pr_screen.png)"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:128
+#: 126b74a663fb4016ab26d99115c79fc5
+msgid "pr_screen"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:128
+#: 126b74a663fb4016ab26d99115c79fc5
+msgid ".. image:: contributing/images/pr_screen.png"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:130
+#: 05977c7c1b014770bd6d7d7eb9705204
+msgid ""
+"Before clicking on the \"Create pull request\" button, check a couple "
+"things."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:132
+#: 4d640718d8054c07bcdfeabaf1f3451c
+msgid ""
+"Make sure the title is informative. If you followed the advise here, it "
+"should already be as it defaults to the commit message."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:134
+#: 1396041bba10496787ac4be77082d0f9
+msgid ""
+"Edit the description. You can remove all the points in the checklist except "
+"the one about the release notes. Then add a link to the issue you commented "
+"on."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:136
+#: afea357f309c4eeeb23688191ce5a56d
+msgid ""
+"If you have taken any notes while updating the docstring add them to the PR "
+"description."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:137
+#: 188e1165294f4546ace5f319c49dad31
+msgid ""
+"Make sure the \"Allow edits and access to secrets by maintainers\" button is"
+" checked (it generally is checked by default)"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:140
+#: 3fdb923ecb3144ba9c1978412d78378e
+msgid ""
+"You might also see a link to the `CONTRIBUTING.md` file. You don't need to "
+"read it yet, this guide includes everything in the contributing guide that "
+"is relevant to this type of contribution. If your second PR is also on the "
+"pymc repo, then you should read the `CONTRIBUTING.md` guide there. However, "
+"if your second PR is to the pymc-examples repo instead, you have to read its"
+" (slightly different) `CONTRIBUTING.md`."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:147
+#: 60dbe61b990e45f596c9e59da94c7750
+msgid ""
+"Click on \"Create pull request\" and celebrate for a bit 🎉, but the work is "
+"not finished."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:149
+#: 65ab4ff43aa7404f8238cd81aa6fac40
+msgid "Get ready for reviews"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:151
+#: df798e6126394560a2be4f6704e36482
+msgid ""
+"Now you have to wait for someone on the PyMC team to review. If you have "
+"sent the PR during session hours, we'll get to it fast (but not immediately,"
+" we might be reviewing someone else's PR!), if you are doing this ahead of "
+"the session day, it will probably take several hours before someone sees it "
+"and reviews it."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:156
+#: 6e008cac5fb441e58f39f0701034f39e
+msgid ""
+"We'll probably make some extra comments about things to change, this is not "
+"a bad sign. We don't expect you to know everything on the first try, and "
+"also, there might be further improvements like adding some `See Also` "
+"references that require a lot of familiarity with the code base."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:161
+#: c800becb218645619d766f153c2e1e26
+msgid ""
+"If you need to address some comments, you will have to modify your local "
+"copy of the files (still on the same branch). Once you are finished, commit "
+"again (same command but different message):"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:169
+#: 5cdf9092865140e7a10f66cd7af3eb2f
+msgid "Now you can push with:"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:175
+#: b5b490c2ad7045d69ffc7654e0d38cfb
+msgid ""
+"The remote and branch name are only needed the first time. After pushing you"
+" should see that the PR on GitHub has been updated."
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:178
+#: 75ea1a26397b44fc89cfba622839e6e7
+msgid ":"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:197
+#: faa43043eeab4b998653d2cd048e27a4
+msgid ""
+"Your PR will be merged as soon as possible after that and you can properly "
+"celebrate your merged PR to PyMC! Thanks for contributing!"
+msgstr ""
+
+#: ../contributing/tutorials/pr_tutorial.md:201
+#: 2db5f180422b428891cc0d4e7f8ef45c
+msgid "{fas}`heart;sd-fs-1 sd-text-danger`"
+msgstr ""

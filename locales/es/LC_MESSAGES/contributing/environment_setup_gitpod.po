@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/environment_setup_gitpod.md:2
+#: 7487e142a81445a599e05e22941a4717
+msgid "Contributing to PyMC using Gitpod"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:4
+#: b0146e7e79d64eb28e614a6d6dfa9afc
+msgid "Pre-requisites"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:5
+#: caf150af39194de5b0032a733096a36e
+msgid "One of these accounts: GitHub / GitLab / Bitbucket"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:7
+#: c27a6e2878ad47089089fc45053a1a01
+msgid "Using Gitpod"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:8
+#: 26ecdf4eae8449f4bcefc56dd93c27b7
+msgid ""
+"[Gitpod](https://www.gitpod.io/) is a browser-based development environment."
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:10
+#: b64253c16b67439b820b0db6e5e37a55
+msgid ""
+"Step-by-step {ref}`Instructions for using Gitpod <pymc:using_gitpod>` are "
+"available."
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:12
+#: 9888a24623e04bd38007bd34534facd0
+msgid "Speaker"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:13
+#: b725ddb4fa1b4a2b91b2d9956d0b489c
+msgid "Reshama Shaikh is a contributor to the PyMC project."
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:15
+#: 447c7776d1bd45ad838913bb756424a0
+msgid "Personal website: https://reshamas.github.io"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:16
+#: cfbfe9f29c414c01bca9c4108c9105f3
+msgid "LinkedIn: https://www.linkedin.com/in/reshamas"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:17
+#: ffc8a41715aa42679a6c10888296114c
+msgid "GitHub: https://github.com/reshamas"
+msgstr ""
+
+#: ../contributing/environment_setup_gitpod.md:19
+#: 15c7786cfe064555a2c8052c71bf2437
+msgid "Video"
+msgstr ""
