@@ -111,3 +111,16 @@ Brooklyn, New York
 [{fab}`github`](https://github.com/vsaitejaswie)
 :::
 ::::
+
+:::{grid-item}
+
+<img alt="Image for contributor template" src="https://raw.githubusercontent.com/data-umbrella/data-umbrella.github.io/main/images/logo/umb-trans.png" class="rounded-circle">
+
+Prince Takyi
+
+Accra, Ghana
+
+[{fas}`globe`](https://www.dataumbrella.org/)
+[{fab}`github`](https://github.com/iykat)
+[{fab}`linkedin-in`](https://www.linkedin.com/in/takyi/)
+:::
