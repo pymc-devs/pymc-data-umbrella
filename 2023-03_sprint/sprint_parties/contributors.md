@@ -101,7 +101,7 @@ Los Angeles, CA
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="_static/contributors_2023_03/1C8D830D-950E-4311-B811-09E88D5C66BE.jpeg" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2023_03/1C8D830D-950E-4311-B811-09E88D5C66BE.jpeg" class="rounded-circle">
 
 Sai Tejaswi Veeramreddy
 
