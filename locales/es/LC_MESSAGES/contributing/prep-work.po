@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/prep-work.md:1 eb67189af1584573a4bffb7b18e4a229
+msgid "Contributing to PyMC using local environment"
+msgstr ""
+
+#: ../contributing/prep-work.md:12 82e2ff35d1424743aaa9a96d23819b9d
+msgid "Checklist"
+msgstr ""
+
+#: ../contributing/prep-work.md:19 1e9fda642e7143d79049af91d4596964
+msgid "*#*"
+msgstr ""
+
+#: ../contributing/prep-work.md:20 6b80ce94b9524f3da3d50ecf329e8b00
+msgid "Task"
+msgstr ""
+
+#: ../contributing/prep-work.md:21 788bc550b6ca421bb401c0233f425953
+msgid "Status"
+msgstr ""
+
+#: ../contributing/prep-work.md:22 1838737f30554e7fa3c7225457bca3a6
+msgid "Notes"
+msgstr ""
+
+#: ../contributing/prep-work.md:23 a55d0d213a0d41099d49f2c5bfdd1bfa
+msgid "1"
+msgstr ""
+
+#: ../contributing/prep-work.md:24 84bf877fbce647b8bcbe006c5857baba
+msgid "Do I have a GitHub account?"
+msgstr ""
+
+#: ../contributing/prep-work.md:25 ../contributing/prep-work.md:29
+#: ../contributing/prep-work.md:33 ../contributing/prep-work.md:37
+#: ../contributing/prep-work.md:41 06d03f0f074449fd8fb2b54a66a767c4
+#: 85887df1bef6481e9299a8418d6140a0 f56b2a8277344792b7372889f4bfa853
+#: c0f17c29e7e04f4c96c465f956961617 624342c7ed324a348fc11a5242530945
+msgid "{fas}`check;sd-text-success`"
+msgstr ""
+
+#: ../contributing/prep-work.md:27 5d0fa5311ff84221bd66e0675d044c1b
+msgid "2"
+msgstr ""
+
+#: ../contributing/prep-work.md:28 f977f4a2457348a4ac00dcfe32876900
+msgid "Did I Install Git?"
+msgstr ""
+
+#: ../contributing/prep-work.md:31 0862363e28e84e76865344024e949a44
+msgid "3"
+msgstr ""
+
+#: ../contributing/prep-work.md:32 4f9e74bf95824d1687ab2649242fc500
+msgid "Did I Install Conda?"
+msgstr ""
+
+#: ../contributing/prep-work.md:35 7e087f931da745478f2b52462a2354f9
+msgid "4"
+msgstr ""
+
+#: ../contributing/prep-work.md:36 84973ac9f944445a8cc1cee78ee8a162
+msgid "Do I have a Text Editor?"
+msgstr ""
+
+#: ../contributing/prep-work.md:39 e59e1a604c69454499c43932cd1414e6
+msgid "5"
+msgstr ""
+
+#: ../contributing/prep-work.md:40 eabe499014eb496fbf289a9429198b25
+msgid "Did I fork the PyMC repo?"
+msgstr ""
+
+#: ../contributing/prep-work.md:45 29b45c0905fa425fb634091b2d59a359
+msgid ""
+"If you need help with any of the previous steps, you will find clear "
+"instructions in the {ref}`Environment Setup <environment_setup>` section."
+msgstr ""
+
+#: ../contributing/prep-work.md:47 78fb37ba4d954b22a49f471018046cba
+msgid "Session day"
+msgstr ""
+
+#: ../contributing/prep-work.md:52 22da822ff1d5478b9c306cf2727c9b44
+msgid ""
+"To communicate during the session, we will be using Discord. The [Using the "
+"Discord Server](https://youtu.be/w2A8SknM-68) introduction video contains a "
+"brief introduction to the Discord Data Umbrella server with some tips on how"
+" to navigate the application."
+msgstr ""
+
+#: ../contributing/prep-work.md:55 9ede6995caa34fc58cd14fb77cd9f7dc
+msgid "Pair programming"
+msgstr ""
+
+#: ../contributing/prep-work.md:57 7f0932a6440440a49f9780d79f1d5e49
+msgid "Live Share"
+msgstr ""
+
+#: ../contributing/prep-work.md:59 a2db052b6b7a4c8bb69d68788eeb74ad
+msgid ""
+"Live Share is an extension from Visual Studio Code that allows you to "
+"collaboratively edit and debug with others in real-time. It allows you to "
+"instantly share your current project, edit snippets of code at the same time"
+" or follow someone’s cursor while they program. The following video (18 "
+"minutes) shows how to use this extension:"
+msgstr ""
