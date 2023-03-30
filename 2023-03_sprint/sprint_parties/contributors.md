@@ -88,7 +88,7 @@ Bangalore, India
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="../../_static/contributors_2023_03/adrien_square.png" class="rounded-circle">
+<img alt="Image for contributor template" src="../../_static/contributors_2023_03/adrien_square_small.jpeg" class="rounded-circle">
 
 Adrien
 
