@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../contributing/tutorials/sample_docstring.md:6
+#: 73e089e935c24815a0b33248ad4eb534
+msgid "Sample docstring"
+msgstr ""
+
+#: ../contributing/tutorials/sample_docstring.md:7
+#: 790c00f99df84c59a1b610df6feb2c31
+msgid ""
+"Sample docstring used to illustrate the steps in {ref}`docstring_tutorial`"
+msgstr ""

@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021-2023, Sprint contributors
+# This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"PO-Revision-Date: 2023-03-30 14:40+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../2023-03_sprint/sprint_parties/translators.md:1
+#: 81d8e05082f5496cada37be740688a0d
+msgid "Translators"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:3
+#: bdf493f4726c475cabfc22270d7a6528
+msgid ""
+"We would like to thank everyone who translated this event website from "
+"English to Spanish and Portuguese. If you would like to volunteer for "
+"translations, see {ref}`translations`."
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:8
+#: ../2023-03_sprint/sprint_parties/translators.md:12
+#: 9fb5c0f84e8d4c78a504254929ce18f8 3380133201384bbba21ad5b3867ed9fe
+msgid "Sandra Meneses"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:8
+#: 9fb5c0f84e8d4c78a504254929ce18f8
+msgid ".. image:: _static/people/sandra_meneses.jpeg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:14
+#: ../2023-03_sprint/sprint_parties/translators.md:25
+#: 1f04259316454d75ba2fb100bfe5db8a c47c9b86987446f0b23a864dc3b693c5
+msgid "Berlin, Germany"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:16
+#: d5329201b2264b0f949518f217aedc34
+msgid "[{fab}`linkedin`](https://www.linkedin.com/in/symeneses/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:19
+#: ../2023-03_sprint/sprint_parties/translators.md:30
+#: ../2023-03_sprint/sprint_parties/translators.md:41
+#: 38b24467892b4e5493b62bdd0730b670 017a659e84f44940876585382141147c
+#: 9d5b340d6d2a4ddab4471ac1c6d3e125
+msgid "Image for contributor template"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:19
+#: 38b24467892b4e5493b62bdd0730b670
+msgid ".. image:: _static/contributors_2023_03/cf2.jpg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:23
+#: cf3330c1f4b44fe286b07f7786288f03
+msgid "Cristián Maureira-Fredes"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:27
+#: 64783f14084d4cd697ccaf9623ac64c1
+msgid "[{fab}`linkedin`](https://www.linkedin.com/in/cmaureir)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:30
+#: 017a659e84f44940876585382141147c
+msgid ".. image:: _static/contributors/blank_person.jpg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:34
+#: a6897d56d37b4529800479291d793fce
+msgid "Ariel Silvio Norberto Ramos"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:36
+#: 6e4f6c99402b411984f7ff77ed90e361
+msgid "Argentina"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:38
+#: d1bdb939a33340abb598a47acd76abcd
+msgid ""
+"[{fab}`linkedin`](https://www.linkedin.com/in/ariel-silvionorberto-"
+"ramos-03632321/)"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:41
+#: 9d5b340d6d2a4ddab4471ac1c6d3e125
+msgid ".. image:: _static/contributors_2023_03/alberto.jpeg"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:45
+#: 33a8661c6d3049cab25fc424a4b4d40a
+msgid "Alberto Mario Ceballos Arroyo"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:47
+#: 2f9c30708fc1406093371d8a172ce22d
+msgid "USA"
+msgstr ""
+
+#: ../2023-03_sprint/sprint_parties/translators.md:49
+#: 77f4ea2d39364e8fae787b341f38da90
+msgid ""
+"[{fab}`linkedin`](https://www.linkedin.com/in/alberto-mario-ceballos-"
+"arroyo/)"
+msgstr ""
