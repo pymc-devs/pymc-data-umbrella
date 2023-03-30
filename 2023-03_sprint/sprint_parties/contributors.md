@@ -98,4 +98,16 @@ Los Angeles, CA
 [{fab}`twitter`](https://twitter.com/alporter08)
 [{fab}`linkedin-in`](https://www.linkedin.com/in/adrien-porter/)
 :::
+
+:::{grid-item}
+
+<img alt="Image for contributor template" src="../../_static/contributors_2023_03/1C8D830D-950E-4311-B811-09E88D5C66BE.jpeg" class="rounded-circle">
+
+Sai Tejaswi Veeramreddy
+
+Brooklyn, New York
+
+[{fab}`linkedin`](https://www.linkedin.com/in/saitejaswie/)
+[{fab}`github`](https://github.com/vsaitejaswie)
+:::
 ::::
