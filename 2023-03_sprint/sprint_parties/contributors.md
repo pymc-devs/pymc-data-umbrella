@@ -113,7 +113,7 @@ Brooklyn, New York
 
 :::{grid-item}
 
-<img alt="Image for contributor template" src="https://media.licdn.com/dms/image/C4D03AQECXsfatPDn7Q/profile-displayphoto-shrink_800_800/0/1638788712245?e=1685577600&v=beta&t=LXFC6Qlo6ZxSOWjO5ryo7hTfnd3M2dJM5KXVeyE2KeA" class="rounded-circle">
+<img alt="" src="https://media.licdn.com/dms/image/C4D03AQECXsfatPDn7Q/profile-displayphoto-shrink_800_800/0/1638788712245?e=1685577600&v=beta&t=LXFC6Qlo6ZxSOWjO5ryo7hTfnd3M2dJM5KXVeyE2KeA" class="rounded-circle">
 
 Prince Takyi
 
