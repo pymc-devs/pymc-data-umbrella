@@ -3,14 +3,19 @@
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Oriol Abril-Pla <oriol.abril.pla@gmail.com>, 2023
+# Anavelyz, 2023
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PyMC-Data Umbrella Sprint 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-30 16:36+0200\n"
+"POT-Creation-Date: 2023-03-30 16:07+0000\n"
 "PO-Revision-Date: 2023-03-30 14:40+0000\n"
-"Language-Team: Spanish (https://www.transifex.com/pymc/teams/158248/es/)\n"
+"Last-Translator: Anavelyz, 2023\n"
+"Language-Team: Spanish (https://app.transifex.com/pymc/teams/158248/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,34 +23,36 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../contributing/tutorials/environment_setup.md:2
-#: 60b4f1a545ef4c3bbe10b19f75d80fa5
+#: a5e97067a79e46c39e80576efb3fa7fa
 msgid "Local environment setup"
-msgstr ""
+msgstr "Configuración del entorno local"
 
 #: ../contributing/tutorials/environment_setup.md:4
-#: a13a5f7024d641bc981eaeaba0df0db3
+#: 71ebb208297648898150baffd8b08df1
 msgid "Pre-requisites"
-msgstr ""
+msgstr "Pre-requisitos"
 
 #: ../contributing/tutorials/environment_setup.md:6
-#: 5935f4a92bc846308682ef605774e63c
+#: 44a1b0dbd93549338ae70e25ee1a6667
 msgid "GitHub account"
-msgstr ""
+msgstr "Cuenta de GitHub"
 
 #: ../contributing/tutorials/environment_setup.md:7
-#: 600f4ed7b0534283b8cb41710be2dc5e
+#: bb327a0d1d02453bb578e263eeefbd73
 msgid ""
 "To contribute you'll need a GitHub account. You can create one from [this "
 "link](https://github.com/join)"
 msgstr ""
+"Para contribuir necesitarás una cuenta de GitHub. Puedes crear una desde "
+"[este enlace](https://github.com/join)"
 
 #: ../contributing/tutorials/environment_setup.md:9
-#: 7b3e32d668d748519a16f279cbf4d191
+#: c23bebd1bec94880a62db0e6ba5e8a3b
 msgid "New to Git and GitHub?"
-msgstr ""
+msgstr "¿Es tu primera vez usando Git y GitHub?"
 
 #: ../contributing/tutorials/environment_setup.md:10
-#: a705cb06d33c4fa0845b342d0b0284e1
+#: 064fa6d045864699899275f50f8e7bd8
 msgid ""
 "We have tried to cover all the steps and include both input and output, to "
 "make sure you can follow this tutorial without knowing Git. However, if you "
@@ -54,31 +61,31 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:16
-#: eddb78d7b0cf4764b44f3d353df98205
+#: dbc600ac47cc455e8f9d33f2375f580a
 msgid "Install Git"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:0
-#: 6b0a8d8fa6ff4383907347c1dca685d6 dc13a63fa9244b3dbae20f1664d694b9
-#: ce7b23c59a34414d866471bf01602d25
+#: 59fbfb2a225e433cb63faf0c68e68769 9e4eded9151d4e48b2d7a4c3a2b3ab6a
+#: 3bed7941bb024f8a966a061e5aed5576
 msgid "Linux"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:22
-#: 5e4468a010e34c9c96acccebd4688e7f
+#: 020610a87add4ed9a69b58d05978e3e1
 msgid ""
 "Instructions with installation commands for most Linux distributions can be "
 "found on the [Git project website](https://git-scm.com/download/linux)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:0
-#: 9b837fcd2bb243cebba0e6027a40c3c9 6e979aaa83f542c997db1086fa90ad19
-#: 272485cee30a42e1839ec4db313ec664
+#: 85ad85772d274b3d9294734d9b245a5d 73538a5e59c44e1b8eb7356404cc9def
+#: d68b13b8483c431390e4fbda0e746970
 msgid "macosx"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:27
-#: a7eb0d66b18f44639dc223d44c46d42f
+#: 3f29c8d9b50844d8b8cb7d4403ea2e1e
 msgid ""
 "Instructions with installation commands for macosx can be found on the [Git "
 "project website](https://git-scm.com/book/en/v2/Getting-Started-Installing-"
@@ -86,32 +93,32 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:0
-#: 0ce5eca66ac44ee0a5b2c4b3fc86df9c 1b25e1424841483395d70c987d2844a3
-#: d3b3a230ccbb4ce18e94ea310473e9eb
+#: 8c561c3293f7450c8562ca740c751c9b c0116640a94b4ad3af45a0b7a910f046
+#: bf8dc1ac9fd444a7a083891b2312450c
 msgid "Windows"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:33
-#: a8298823580b4ffa90cc6cca0823b709
+#: 097c33237dea4936b7c6ff00c7c2c34f
 msgid ""
 "The recommended way to install Git is using [Git for Windows](https://git-"
 "scm.com/download/win)."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:36
-#: acdf18ed943f44bd9f3584878e99e7f8
+#: 71b7edbffdba4381a19a35470bf92d05
 msgid "Install conda"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:37
-#: 8e42d60e92b645428e36ce6d286c8a91
+#: badcc792b5af4b6f82930140a242c6d5
 msgid ""
 "We recommend you install miniconda and follow the steps below to install "
 "only the libraries you'll need."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:44
-#: 84baa0bf56184918aefc166a6139f9c7
+#: f90e077fab2547afb1d49bcdf80f7e61
 msgid ""
 "Miniconda installation instructions for linux are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -119,7 +126,7 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:48
-#: d45267c9b61e4172b3ce211f66bd24e5
+#: f392420109a4481eb1c8c136f6791f9d
 msgid ""
 "Miniconda installation instructions for macosx are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -127,7 +134,7 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:52
-#: 75e19a2ba171471094875728b1a3a07c
+#: 5272341f7c4e49d6948becd8530bf1ff
 msgid ""
 "Miniconda installation instructions for windows are available on the [conda "
 "website](https://conda.io/projects/conda/en/latest/user-"
@@ -135,44 +142,44 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:55
-#: d7c5cb75e5bc42dfb5ffd662e072f974
+#: ed315408f5cc49e590c5ca4c7ed1eeda
 msgid "Text editor"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:56
-#: 9e5053838f3946ae890e8ff176ce3ce2
+#: decad3142ca54b869e1f0d8b409dfe24
 msgid ""
 "You might already have a text editor installed. Check if you have any editor"
 " from the list below, otherwise install _one_, any will do:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:59
-#: cd9b8f0637ef4d978d85ee712c514107
+#: 8f72e0b1bab84aff8e00a08b70ddf5b5
 msgid "[Atom](https://atom.io/)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:60
-#: 7a41c37bbbe64db4870f94575874a0c2
+#: fbcde4f541074044989d5ebc452fc44c
 msgid "[Visual Studio Code](https://code.visualstudio.com/)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:61
-#: e8e754445b194dd8a399631fe514734c
+#: 94be745b8f3a4fd68b12f34bf3444b1a
 msgid "[Sublime text](https://www.sublimetext.com/)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:62
-#: 33064276be974540b739e991adfc3eaf
+#: 13cc666eb01c45608405be4a256997c2
 msgid "[PyCharm (community)](https://www.jetbrains.com/pycharm/download)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:64
-#: 0fcdd43ac8f641578546a67e72c7082b
+#: ae5939cde5d6482aac0e682457f07859
 msgid "Fork the pymc repo"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:65
-#: 4cc7dba9f58b40d1a91da89f78fcc22e
+#: 38b3c621e93f49ec8024762c9eeb2a14
 msgid ""
 "Fork the [project repository](https://github.com/pymc-devs/pymc/) by "
 "clicking on the 'Fork' button near the top right of the main repository "
@@ -180,53 +187,53 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:68
-#: 6760e8d238604d569467b81876a6eccb
+#: cf2245a11ad84e76a847e40653171379
 msgid "![fork_button](../images/fork_button.png)"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:68
-#: 2f9b3ce74b734e10944c44c7abfa933a
+#: 7607c64830d5494bb95538a1212013ec
 msgid "fork_button"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:68
-#: 2f9b3ce74b734e10944c44c7abfa933a
+#: 7607c64830d5494bb95538a1212013ec
 msgid ".. image:: contributing/images/fork_button.png"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:70
-#: 4128df7e442343eabf900431205c6c7c
+#: 37b814660cb5401ab01d01514ef5301c
 msgid ""
 "This creates a copy of the code under your GitHub user account. You should "
 "now see that `https://github.com/<your GitHub handle>/pymc/` exists"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:73
-#: 6d18795994ef4497970770565aa6fd77
+#: e3421046488b400f9b1ce6a86cbb1f8c
 msgid "Open a command line interface"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:74
-#: c7e5e8a6a8554be68aecb6210f91f745
+#: efeda541dc29490bb6da5cc06c00afec
 msgid ""
 "This should come with your operative system or have been installed when "
 "setting up Git and miniconda."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:77
-#: 248d43caed3742c7adb12a7c8b74a528
+#: 2a25c0a38eb24aefa5fd0f0b850ebc78
 msgid "Clone the pymc repo"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:78
-#: f56287c0b7054010bcf8eb75ebb1622b
+#: 3cf42b7135ec4feb937f985e9c2e0f6c
 msgid ""
 "Clone your fork. This will create a `pymc` folder wherever you are, make "
 "sure to be at the location where you want the folder to be created."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:85
-#: 3caf82998f33443189778db9e25c9594
+#: 8166387b56dd4dc48b426015688ac784
 msgid ""
 "This command should start immediately but it can take a while to finish. Its"
 " output should look similar to the prompt below (the exact numbers can "
@@ -235,42 +242,42 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:100
-#: 0d5a74d72de441459a119aa60dbe3cfd
+#: 374023db20df4f36bbfc915417b8f0a5
 msgid ""
 "Enter inside the directory containing your local clone of the pymc repo, "
 "then tell git this is a fork of the one in the pymc-devs organization:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:108
-#: 8de5bfad97004492b2565407035f7633
+#: 61c5d5337fa64e85a19392314aa0477e
 msgid ""
 "None of these commands generate any output. To check they have worked type"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:113
-#: ed760bf79ab54d7c8d22461281afc18b
+#: 15190627528a4d648e1f776025ac9eb6
 msgid "and check that the output is:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:119
-#: 74b6e1b0a13b4f948fd8fc02bee2bc2b
+#: df0233be05ba44908e5b6ac9c5716939
 msgid "Install PyMC"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:142
-#: 1ea9fea5b02a4556917f90514062264f
+#: c73c0dc98a4048d6a20259a4ca4ae722
 msgid ""
 "This command can also take a while, but should start writing output "
 "immediately. If it finishes successfully, the last lines printed will be:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:158
-#: 2198a9192b674ad9a62b398d01846525
+#: 8d1d0fc11b764e07a7013ba65c24c231
 msgid "Activate the environment and install pymc:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:162
-#: 97bc6ec0f27246b7b7cdaffbcdbedc3f
+#: c07b7c06c39b426ba0d850e212ed8cfb
 msgid ""
 "This command has no output, but generally adds the environment name to the "
 "start of the command line. If you want, you can check it has worked with the"
@@ -279,39 +286,39 @@ msgid ""
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:177
-#: e186dc85c6a84c66b927a69d0dae77ab
+#: 05330ee0af024f3fb67e9e4485c4bc55
 msgid "Install PyMC:"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:181
-#: 15bfafa7d3cb4921a987a506e73f630a
+#: 5f95ffab2b6e478ab834d33b2fb206cf
 msgid ""
 "We already installed all the dependencies so this should not take long. If "
 "successful, the last printed line will be"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:188
-#: cb1cf0d91cdb49159ecb78f32937728e
+#: 8175127637444787a260326019282ea7
 msgid ""
 "Then activate `pre-commit`. It will help auto formatting the code for you."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:193
-#: 691d94c7de8c477b84ad8bab5b670572
+#: 1cd27892914b4c9189947920c35883a0
 msgid "on success will show"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:198
-#: 8bf2d8cb4bbb400a8a3366a93c34d5ab
+#: 351ec9a23c3a44fdacf17845ddd76cf4
 msgid "Your system is now ready! You are ready to do your first PR."
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:200
-#: cdb2b6fbc3e44038a3d6d3a6fe0c4dd5
+#: 0ef3854847f94a4c828199153cefdad9
 msgid "Go and choose an issue to work on at `TODO: add link`!"
 msgstr ""
 
 #: ../contributing/tutorials/environment_setup.md:203
-#: 324fc2d500f2492cb1331b7b05475085
+#: 97a22db751694d56a87a4e1ad3897362
 msgid "{fas}`star;sd-fs-1 sd-text-warning`"
 msgstr ""
