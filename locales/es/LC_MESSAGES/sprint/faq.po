@@ -2,10 +2,10 @@
 # Copyright (C) 2021, Sprint contributors
 # This file is distributed under the same license as the PyMC-Data Umbrella Sprint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Sandra Yojana Meneses <sandrayojana@gmail.com>, 2022
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
