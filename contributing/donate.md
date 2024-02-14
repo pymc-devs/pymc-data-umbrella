@@ -8,7 +8,7 @@ Thanks for your interest in supporting us! {material-sharp}`favorite;2em;sd-text
 
 ## PyMC
 
-PyMC is a non-profit project under NumFOCUS umbrella. 
+PyMC is a non-profit project under NumFOCUS umbrella.
 
 ::::{div} sd-d-flex-row sd-align-major-center
 :::{button-link} https://numfocus.org/donate-to-pymc

@@ -39,7 +39,7 @@ Sandra Meneses
 :::{grid-item}
 :class: sd-text-center
 
-<img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle"> 
+<img alt="Cristina Mulas" src="../../_static/people/cristina.jpg" class="rounded-circle">
 
 Cristina Mulas Lopez
 
@@ -142,7 +142,7 @@ Danh Phan
 
 <img alt="Christopher Fonnesbeck" src="../../_static/people/chris_f.jpeg" class="rounded-circle">
 
-Christopher Fonnesbeck 
+Christopher Fonnesbeck
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/)
 :::
@@ -179,7 +179,7 @@ Additionally, we thank all the PyMC team members who contributed by reviewing pu
 
 ## Community Contributors
 
-Community contributors help with various activities such as updating the event website, outreach and more. 
+Community contributors help with various activities such as updating the event website, outreach and more.
 
 ::::{grid} 2 2 3 4
 :gutter: 5
