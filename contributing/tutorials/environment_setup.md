@@ -197,7 +197,9 @@ pre-commit installed at .git/hooks/pre-commit
 
 Your system is now ready! You are ready to do your first PR.
 
-Go and choose an issue to work on at `TODO: add link`!
+For a list of beginner-friendly issues to work on, visit [this link](https://github.com/pymc-devs/pymc/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22). Or for all open issues see [this link](https://github.com/pymc-devs/pymc/issues) instead.
+
+
 
 :::{div} sd-text-center sd-fs-1
 {fas}`star;sd-fs-1 sd-text-warning`
