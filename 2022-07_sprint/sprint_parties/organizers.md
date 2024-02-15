@@ -162,7 +162,7 @@ Danh Phan
 
 <img alt="Christopher Fonnesbeck" src="../../_static/people/chris_f.jpeg" class="rounded-circle">
 
-Christopher Fonnesbeck 
+Christopher Fonnesbeck
 
 [{fab}`linkedin-in`](https://www.linkedin.com/in/christopher-fonnesbeck-374a492a/)
 :::

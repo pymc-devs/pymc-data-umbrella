@@ -44,8 +44,8 @@ fig, ax = plt.subplots(
     figsize=np.array([1468, 720]) / plt.rcParams["figure.dpi"], constrained_layout=True
 )
 
-idxs = [4, 3, 2, 1, 0]    
-    
+idxs = [4, 3, 2, 1, 0]
+
 colors = ["#8dbcc7", "#4c8f9e", "#365359", "#84aab3", "#0d5e70"] #blues
 for idx in idxs:
     positions = (all_positions[idx])*(-2.05)
@@ -53,7 +53,7 @@ for idx in idxs:
     ax.plot(*positions[3, -1], "o", ms=10, color=colors[idx], mfc="#ffffff", mew=4,alpha=0.5)
 
 
-idxs = [0, 1, 2, 3, 4]    
+idxs = [0, 1, 2, 3, 4]
 colors = ["#857f82", "#5e5c5c", "#a3a2a2", "#333132", "#1f1c1d"] #blacks
 for idx in idxs:
     positions = (all_positions[idx])*(-1.09)-1.00

@@ -4,7 +4,7 @@
 
 This event is an online hands-on working session to contribute to PyMC, a Python probabilistic programming language. Knowledge of PyMC is not required, and it is beginner-friendly. There is a range of possible contributions, from adding timestamps to videos, to documentation, to running Jupyter notebooks in the latest version of PyMC, to more advanced code contributions.
 
-This event is focused on the LATAM region.  However, we welcome folks from all regions. Please indicate on the registration form if you will need a translator.  
+This event is focused on the LATAM region.  However, we welcome folks from all regions. Please indicate on the registration form if you will need a translator.
 
 Volunteers:  If you are available on the event day to be a translator for Spanish or Portuguese, please contact us ({{ du_email }}). To contribute to the website translations, please see {ref}`translations`.
 
@@ -42,7 +42,7 @@ Check out this 3-minute video by [Mariatta Wijaya](https://www.linkedin.com/in/m
 :::{important}
 To take part in the upcoming Open Source Working Sessions you should:
 
-1. Complete the registration form: 
+1. Complete the registration form:
    - English: {bdg-link-primary-line}`https://forms.gle/YfbGnaTEQUrFVGK89`
    - Spanish: needs to be translated
    - Portuguese: needs to be translated
