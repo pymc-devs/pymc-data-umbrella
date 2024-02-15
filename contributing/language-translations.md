@@ -2,7 +2,7 @@
 # Language Translations
 
 ## Requirements
-- Transifex account (or GitHub one to log in with it) 
+- Transifex account (or GitHub one to log in with it)
 - Knowledge of English
 - Knowledge of Spanish or Portuguese
 
@@ -31,7 +31,7 @@ The languages text is borrowed from: Python Documentation [Guía para contribuir
 
 5. Pages to translate is a sub-menu under "Editor."  Currently, these pages are being prioritized for translation:  [priority pages](https://github.com/pymc-devs/pymc-data-umbrella/issues/99)
 
-6. You can translate sub-sections and select "Save translation."  
+6. You can translate sub-sections and select "Save translation."
 
 :::{note}
 There is GitHub Actions that is configured on this repository, which turns a translation into a pull request which is submitted to the repository. [PR #166](https://github.com/pymc-devs/pymc-data-umbrella/pull/166/files) is an example pull request.
@@ -39,7 +39,7 @@ There is GitHub Actions that is configured on this repository, which turns a tra
 
 ## Translating content: volunteers needed
 
-If you would like to volunteer for translations, please select a page.  We have included a list of priority pages to translate on [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99). 
+If you would like to volunteer for translations, please select a page.  We have included a list of priority pages to translate on [Issue #99](https://github.com/pymc-devs/pymc-data-umbrella/issues/99).
 
 ## Thank you 🙌
 
