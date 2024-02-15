@@ -16,7 +16,7 @@ We bring all the value of open source to Google and all the resources of Google 
 
 ![PyMC Labs](../../_static/sponsors/4-pymc-labs-transp-black.png)
 
-The Bayesian Consultancy. We bring Bayesian methods into wide practice. 
+The Bayesian Consultancy. We bring Bayesian methods into wide practice.
 :::
 :::{grid-item-card}
 :link: https://chanzuckerberg.com/science/programs-resources/open-science/communitiesofpractice/data-umbrella/
